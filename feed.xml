@@ -2,157 +2,185 @@
 <rss version="2.0"
  xmlns:content="http://purl.org/rss/1.0/modules/content/"
  xmlns:dc="http://purl.org/dc/elements/1.1/"
- xmlns:atom="http://www.w3.org/2005/Atom">
+ xmlns:atom="http://www.w3.org/2005/Atom"
+ xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
 <title>Evo Web News - RS (O Sul)</title>
 <atom:link href="https://evwbr.github.io/rs/feed.xml" rel="self" type="application/rss+xml"/>
 <link>https://evwbr.github.io/rs/</link>
 <description>Notícias do Rio Grande do Sul (últimas 24h) reescritas com IA - Evo Web News</description>
-<lastBuildDate>Thu, 15 Jan 2026 15:29:08 GMT</lastBuildDate>
+<lastBuildDate>Thu, 15 Jan 2026 15:55:17 GMT</lastBuildDate>
 <language>pt-BR</language>
 <item>
-<title><![CDATA[Comitiva da 42ª Feovelha reforça parcerias e apoios em Porto Alegre]]></title>
-<link>https://www.osul.com.br/porto-alegre-recebe-a-comitiva-da-42a-feovelha-de-pinheiro-machado/</link>
+<title><![CDATA[Polícia investiga assalto a escritório de advocacia no bairro Moinhos de Vento, Porto Alegre]]></title>
+<link>https://www.osul.com.br/policia-investiga-assalto-a-escritorio-de-advocacia-em-bairro-nobre-de-porto-alegre/</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Thu, 15 Jan 2026 12:43:18 GMT</pubDate>
+<pubDate>Thu, 15 Jan 2026 13:45:54 GMT</pubDate>
 <category><![CDATA[Rio Grande do Sul]]></category>
-<guid isPermaLink="false"><![CDATA[rsosul:c82b07090302acc23b8c363f8c2b3f654f93f095]]></guid>
-<description><![CDATA[A comissão organizadora da 42ª Feovelha realizou uma série de encontros em Porto Alegre para fortalecer laços institucionais e garantir apoio para o evento que ocorrerá entre 28 de janeiro e 1º de fevereiro de 2026.]]></description>
+<guid isPermaLink="false"><![CDATA[rsosul:e59a1f3f34aa19ca2ab2ff2cc5a76063c6b3ef49]]></guid>
+<media:thumbnail url="https://www.osul.com.br/wp-content/uploads/2026/01/padre-chagas.jpg" />
+<enclosure url="https://www.osul.com.br/wp-content/uploads/2026/01/padre-chagas.jpg" type="image/jpeg" />
+<description><![CDATA[Dois homens armados realizaram um assalto a um escritório de advocacia na rua Padre Chagas, no bairro Moinhos de Vento, em Porto Alegre, na noite de quarta-feira.]]></description>
 <content:encoded><![CDATA[
-<p>A comissão organizadora da 42ª Feovelha realizou uma série de encontros em Porto Alegre para fortalecer laços institucionais e garantir apoio para o evento que ocorrerá entre 28 de janeiro e 1º de fevereiro de 2026.</p>
-<p>A comitiva de Pinheiro Machado foi recebida pelo secretário do Turismo do Rio Grande do Sul, deputado Ronaldo Santini, para agradecer o apoio do governo estadual à feira. O grupo, liderado por representantes do Sindicato Rural, incluindo o presidente Paulinho Alves e a coordenadora Vivi Alves, percorreu órgãos públicos e entidades de classe na capital gaúcha, promovendo a tradição da &quot;Terra da Ovelha&quot;.</p>
-<p>Durante a agenda, a comitiva entregou convite oficial ao secretário adjunto da Casa Civil, Gustavo Paim, e foi recebida pelo secretário-executivo do vice-governador, Clair Kuhn. Reuniões foram realizadas com secretários e subsecretários das pastas de Agricultura e Pecuária, Desenvolvimento Rural, Logística e Transportes, Trabalho e Desenvolvimento Profissional, além da Secretaria de Desenvolvimento Econômico, para reforçar o convite e tratar de temas relacionados ao setor produtivo e desenvolvimento rural.</p>
-<p>A viabilidade econômica da feira também foi discutida em encontros com o presidente do Banrisul, Fernando Lemos, e a equipe do Banrisul Consórcios, reafirmando a parceria para a edição. Na Farsul, a Feovelha teve destaque em coletiva de imprensa, com a presença do assessor especial da presidência, Rodrigo Rizzo. O apoio técnico foi confirmado em visita à Emater/RS-Ascar, com o presidente Luciano Schwerz e o diretor Alexandre Durans.</p>
+<p>Dois homens armados realizaram um assalto a um escritório de advocacia na rua Padre Chagas, no bairro Moinhos de Vento, em Porto Alegre, na noite de quarta-feira. O crime aconteceu por volta das 20h, quando os assaltantes renderam funcionários de estabelecimentos comerciais do prédio e o porteiro para invadir o escritório. As vítimas foram amarradas durante a ação dos criminosos.</p>
+<p>Os suspeitos roubaram cerca de R$ 600 mil em joias e relógios, além de telefones celulares. Um dos homens estava armado e ambos usavam capacetes no momento do assalto. Após o roubo, os criminosos fugiram sem deixar feridos. A Brigada Militar foi acionada para atender a ocorrência.</p>
+<p>A Polícia Civil já iniciou as investigações, ouvindo vítimas e testemunhas, além de analisar imagens das câmeras de segurança para tentar identificar os assaltantes. As autoridades seguem trabalhando para esclarecer o caso e localizar os responsáveis pelo crime.</p>
 ]]></content:encoded>
 </item>
 <item>
-<title><![CDATA[Projeto de lei propõe acessibilidade integral em renovação da frota de ônibus em Porto Alegre]]></title>
-<link>https://www.osul.com.br/veeradores-discutem-projeto-obriga-que-onibus-novos-tenham-acessibilidade/</link>
+<title><![CDATA[Rússia repudia envio de tropas da Otan à Groenlândia e reclama de militarização acelerada no Ártico]]></title>
+<link>https://www.osul.com.br/russia-repudia-o-envio-de-tropas-da-otan-a-groenlandia-e-reclama-de-militarizacao-acelerada-no-artico/</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Thu, 15 Jan 2026 10:55:25 GMT</pubDate>
+<pubDate>Thu, 15 Jan 2026 13:18:05 GMT</pubDate>
 <category><![CDATA[Rio Grande do Sul]]></category>
-<guid isPermaLink="false"><![CDATA[rsosul:9684ba5cfac9beaca5fd5826863980583c363cfc]]></guid>
-<description><![CDATA[Projeto de lei em tramitação na Câmara Municipal de Porto Alegre determina que renovação da frota de ônibus garanta acessibilidade para pessoas com deficiência.]]></description>
+<guid isPermaLink="false"><![CDATA[rsosul:c28115c26063dbcfc1a100e8c6ab28e4c1634190]]></guid>
+<media:thumbnail url="https://www.osul.com.br/wp-content/uploads/2026/01/otan.jpg" />
+<enclosure url="https://www.osul.com.br/wp-content/uploads/2026/01/otan.jpg" type="image/jpeg" />
+<description><![CDATA[A Rússia manifestou preocupação com a presença militar da Otan na região do Ártico, criticando a ampliação da aliança sob o pretexto de conter Moscou e Pequim.]]></description>
 <content:encoded><![CDATA[
-<p>Projeto de lei em tramitação na Câmara Municipal de Porto Alegre determina que renovação da frota de ônibus garanta acessibilidade para pessoas com deficiência. O projeto de lei estabelece que toda renovação da frota de veículos destinados ao transporte coletivo por ônibus na Capital deve assegurar acessibilidade integral para pessoas com deficiência.</p>
-<p>A proposta prevê que futuros editais de licitação e contratos de concessão ou permissão incluam cláusulas que garantam o cumprimento da obrigação de acessibilidade, sem afetar editais e contratos já vigentes.</p>
-<p>Os vereadores autores do projeto afirmam que manter veículos inacessíveis exclui parte da população e viola o princípio da isonomia, defendendo que a mobilidade urbana deve ser garantida de forma universal e que o Poder Público deve adotar medidas para garantir inclusão plena e eliminar barreiras físicas e sociais.</p>
+<p>A Rússia manifestou preocupação com a presença militar da Otan na região do Ártico, criticando a ampliação da aliança sob o pretexto de conter Moscou e Pequim. O governo russo declarou estar seriamente preocupado com a decisão de alguns países-membros da Otan de enviar tropas à Groenlândia para defender a ilha de supostas ameaças de anexação. A embaixada russa na Bélgica afirmou que a aliança está promovendo uma mobilização militar acelerada com o objetivo de conter a Rússia e promover uma agenda antirrussa e antichinesa.</p>
+<p>Apesar dos protestos russos, a presença da Otan no Ártico é constante, com exercícios militares frequentes na região. A Groenlândia, pertencente à Dinamarca, tem sido alvo de ofensiva verbal do presidente dos Estados Unidos, que busca incorporá-la ao território americano para construir um escudo antimísseis chamado Domo de Ouro.</p>
+<p>Os europeus, por sua vez, afirmam não ter detectado presença militar russa ou chinesa na região, contrariando as alegações dos Estados Unidos sobre a crescente influência desses países no Ártico. A Dinamarca reafirmou que não está disposta a negociar a soberania da Groenlândia.</p>
+<p>A situação no Ártico segue sendo motivo de tensão entre as potências militares, com a Rússia criticando a ampliação da presença da Otan e os Estados Unidos buscando ampliar sua influência estratégica e econômica na região.</p>
 ]]></content:encoded>
 </item>
 <item>
-<title><![CDATA[Tribunal do Júri de Porto Alegre condena réus por duplo homicídio na Orla do Guaíba]]></title>
-<link>https://www.osul.com.br/homens-sao-condenados-a-mais-de-35-anos-de-prisao-por-mortes-de-jovens-na-orla-do-guaiba-em-porto-alegre/</link>
+<title><![CDATA[Guaíba fortalece políticas de infância com o projeto “Férias na Escola 2026”]]></title>
+<link>https://www.osul.com.br/guaiba-fortalece-politicas-de-infancia-com-o-projeto-ferias-na-escola-2026/</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Thu, 15 Jan 2026 10:16:58 GMT</pubDate>
+<pubDate>Thu, 15 Jan 2026 12:28:28 GMT</pubDate>
 <category><![CDATA[Rio Grande do Sul]]></category>
-<guid isPermaLink="false"><![CDATA[rsosul:20df98c5b5c34bf2c4527e3408f71cf855d15565]]></guid>
-<description><![CDATA[Réus foram sentenciados a mais de 35 anos de prisão pelo assassinato de dois jovens na Orla do Guaíba, em 2023, além de outras acusações relacionadas ao caso.]]></description>
+<guid isPermaLink="false"><![CDATA[rsosul:6c1b9e6f99ad077918d497d520d9635a06905b3a]]></guid>
+<media:thumbnail url="https://www.osul.com.br/wp-content/uploads/2020/01/merenda.jpg" />
+<enclosure url="https://www.osul.com.br/wp-content/uploads/2020/01/merenda.jpg" type="image/jpeg" />
+<description><![CDATA[O projeto “Férias na Escola 2026”, realizado pela Secretaria Municipal de Educação de Guaíba, oferece alimentação e atividades educativas durante o recesso escolar para centenas de estudantes.]]></description>
 <content:encoded><![CDATA[
-<p>Réus foram sentenciados a mais de 35 anos de prisão pelo assassinato de dois jovens na Orla do Guaíba, em 2023, além de outras acusações relacionadas ao caso. O Tribunal do Júri de Porto Alegre condenou os réus acusados de matar a tiros William Silva de Paula, de 21 anos, e Vinicius Luís Silva da Silva, de 20 anos, na Orla do Guaíba, em 2023. A sentença foi proferida após dois dias de julgamento pela juíza Lourdes Helena Pacheco da Silva, da 2ª Vara do Júri da Capital.</p>
-<p>Os réus receberam pena de 35 anos, 11 meses e 6 dias de prisão em regime fechado, além de 270 dias-multa, pelo duplo homicídio triplamente qualificado, que envolveu motivo fútil, recurso que impossibilitou a defesa e emprego de meio que resultou em perigo comum. Também foram condenados por lesão corporal contra seis vítimas, tráfico de drogas e porte ilegal de arma de fogo, sendo absolvidos da acusação de corrupção de menores.</p>
-<p>Os assassinatos ocorreram na madrugada de 10 de junho de 2023, na pista de skate da Orla do Guaíba, onde havia diversas pessoas no local, algumas delas feridas. Os réus e um adolescente, que faleceu em julho de 2023, cruzaram com as vítimas e amigos, e após troca de olhares e palavras ofensivas, os acusados teriam iniciado os disparos. Os réus estão presos desde junho de 2023 e permanecem detidos após a sentença, que pode ser objeto de recurso.</p>
+<p>O projeto “Férias na Escola 2026”, realizado pela Secretaria Municipal de Educação de Guaíba, oferece alimentação e atividades educativas durante o recesso escolar para centenas de estudantes.</p>
+<p>Entre os dias 13 e 30 de janeiro, cerca de 550 a 600 estudantes da educação infantil e do ensino fundamental participam de atividades em dez escolas municipais, incluindo a EMEF Amadeu Bolognesi, Santa Catarina, Teotônio e Nossa Senhora do Livramento. A abertura simbólica ocorreu em 14 de janeiro na EMEF Livramento.</p>
+<p>As atividades têm caráter lúdico, recreativo e formativo, com jogos esportivos, oficinas artísticas, gincanas e experiências relacionadas à ciência e à natureza. O projeto visa estimular a criatividade, fortalecer vínculos e ampliar horizontes, especialmente para crianças em situação de vulnerabilidade.</p>
+<p>Um dos pilares do projeto é a alimentação escolar, que garante almoço e lanche diários preparados sob supervisão de nutricionistas, reforçando o papel da escola como espaço de cuidado e saúde durante as férias.</p>
+<p>O “Férias na Escola” integra educação, lazer e proteção social, promovendo a infância como prioridade e a escola como território de cidadania em Guaíba. Em Guaíba, o projeto representa inclusão, aprendizado e dignidade para as crianças durante o período de férias escolares.</p>
 ]]></content:encoded>
 </item>
 <item>
-<title><![CDATA[Defesa Civil do RS adota sistema ColorADD para alertas de risco e se torna pioneira no Brasil]]></title>
-<link>https://www.osul.com.br/defesa-civil-do-rs-inova-com-acessibilidade-para-daltonicos/</link>
+<title><![CDATA[Irã reabre espaço aéreo após fechamento temporário que desviou voos]]></title>
+<link>https://www.osul.com.br/ira-reabre-o-espaco-aereo-apos-fechamento-temporario-forcar-o-desvio-de-voos/</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Thu, 15 Jan 2026 06:50:39 GMT</pubDate>
+<pubDate>Thu, 15 Jan 2026 12:19:04 GMT</pubDate>
 <category><![CDATA[Rio Grande do Sul]]></category>
-<guid isPermaLink="false"><![CDATA[rsosul:8a8949e8a46edf55e2eaa0bca33e2152ff673db5]]></guid>
-<description><![CDATA[A Defesa Civil do Rio Grande do Sul implementou o sistema ColorADD em seus avisos e alertas de risco, facilitando a compreensão para pessoas com daltonismo e ampliando a acessibilidade nas comunicações de emergência.]]></description>
+<guid isPermaLink="false"><![CDATA[rsosul:62b073ad517fb852354b53309ed0dd8f9d3e072b]]></guid>
+<media:thumbnail url="https://www.osul.com.br/wp-content/uploads/2026/01/ira-espaco-aereo.jpg" />
+<enclosure url="https://www.osul.com.br/wp-content/uploads/2026/01/ira-espaco-aereo.jpg" type="image/jpeg" />
+<description><![CDATA[O Irã reabriu seu espaço aéreo após quase cinco horas de fechamento devido a tensões com os Estados Unidos, o que causou cancelamentos e redirecionamentos de voos.]]></description>
 <content:encoded><![CDATA[
-<p>A Defesa Civil do Rio Grande do Sul implementou o sistema ColorADD em seus avisos e alertas de risco, facilitando a compreensão para pessoas com daltonismo e ampliando a acessibilidade nas comunicações de emergência.</p>
-<p>O sistema ColorADD traduz cores em símbolos gráficos, permitindo que pessoas com algum grau de daltonismo compreendam os níveis de severidade dos eventos hidrometeorológicos. No Rio Grande do Sul, cerca de 422 mil pessoas convivem com daltonismo, o que representa 3% da população estadual. A escala tradicional de cores dos alertas — verde, amarelo, laranja, vermelho e roxo — agora é acompanhada pelos símbolos do ColorADD, ampliando a clareza das informações.</p>
-<p>A iniciativa da Defesa Civil do RS integra comunicados oficiais no site e nas redes sociais, e representa um avanço na comunicação com a população, ampliando a capacidade de prevenção em situações de emergência. A adoção do ColorADD soma-se a outras medidas recentes do governo estadual, como o novo sistema de monitoramento de rios e a ampliação da rede de comunicação em emergências, fortalecendo a gestão de riscos no estado.</p>
-<p>O Rio Grande do Sul é o único estado brasileiro a incorporar o ColorADD em sua comunicação de risco, posicionando-se como referência nacional e alinhado às diretrizes internacionais para acessibilidade e clareza em cenários de emergência. A medida reforça a importância da inclusão como questão de segurança pública e cidadania, ampliando a proteção da população gaúcha.</p>
+<p>O Irã reabriu seu espaço aéreo após quase cinco horas de fechamento devido a tensões com os Estados Unidos, o que causou cancelamentos e redirecionamentos de voos. O fechamento temporário do espaço aéreo iraniano ocorreu em meio a preocupações sobre uma possível ação militar dos Estados Unidos durante uma onda de protestos no país. A medida afetou companhias aéreas que tiveram que cancelar, atrasar ou desviar seus voos.</p>
+<p>O aviso de fechamento foi removido próximo à meia-noite, no horário de Brasília. As companhias aéreas iranianas Mahan Air, Yazd Airways e AVA Airlines foram as primeiras a retomar suas operações no espaço aéreo do Irã.</p>
+<p>Autoridades da Alemanha haviam emitido um alerta para que as companhias aéreas evitassem o espaço aéreo iraniano. Os protestos no país, motivados por uma crise econômica e insatisfação com o governo, já resultaram em mais de 3.400 mortos,.</p>
+<p>O espaço aéreo iraniano permanece aberto após a reabertura, encerrando o período de restrições que impactou o tráfego aéreo na região.</p>
 ]]></content:encoded>
 </item>
 <item>
-<title><![CDATA[18ª Agrovino em Bagé reúne exposições nacionais das raças Texel e Ideal]]></title>
-<link>https://www.osul.com.br/18a-agrovino-bage-se-firma-como-vitrine-da-genetica-ovina/</link>
+<title><![CDATA[Brasil esgota em tempo recorde a cota de exportação de carne bovina para os Estados Unidos em 2026]]></title>
+<link>https://www.osul.com.br/brasil-esgota-em-tempo-recorde-a-cota-de-exportacao-de-carne-bovina-para-os-estados-unidos-em-2026/</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Thu, 15 Jan 2026 06:10:53 GMT</pubDate>
+<pubDate>Thu, 15 Jan 2026 11:49:21 GMT</pubDate>
 <category><![CDATA[Rio Grande do Sul]]></category>
-<guid isPermaLink="false"><![CDATA[rsosul:2f848815dee79a3cd1433cf4481597a726314bbe]]></guid>
-<description><![CDATA[A 18ª edição da Agrovino, realizada no Parque Visconde Ribeiro de Magalhães em Bagé, destaca-se como o principal encontro da ovinocultura de verão no Brasil, sediando pela primeira vez as exposições nacionais das raças Texel e Ideal.]]></description>
+<guid isPermaLink="false"><![CDATA[rsosul:f981b4e7d9e1976a926560ecd6faeccaa2507f24]]></guid>
+<media:thumbnail url="https://www.osul.com.br/wp-content/uploads/2025/10/carne.jpg" />
+<enclosure url="https://www.osul.com.br/wp-content/uploads/2025/10/carne.jpg" type="image/jpeg" />
+<description><![CDATA[O volume de 52 mil toneladas de carne bovina in natura com isenção tarifária foi totalmente preenchido nos seis primeiros dias do ano, impulsionado pela forte demanda do mercado norte-americano.]]></description>
 <content:encoded><![CDATA[
-<p>A 18ª edição da Agrovino, realizada no Parque Visconde Ribeiro de Magalhães em Bagé, destaca-se como o principal encontro da ovinocultura de verão no Brasil, sediando pela primeira vez as exposições nacionais das raças Texel e Ideal.</p>
-<p>O evento, que segue até o dia 17 de janeiro, registra um recorde de 666 ovinos inscritos, distribuídos em 12 raças e variedades naturalmente coloridas, superando as expectativas e confirmando a confiança dos criadores na feira como espaço para negócios, julgamentos técnicos e vitrine genética.</p>
-<p>A raça Texel, reconhecida pela produção de carne magra e carcaça de qualidade superior, ampliou sua presença em Santa Catarina e Paraná, e a exposição nacional em Bagé marca o início de um ciclo promissor para a raça, especialmente para o Texel Naturalmente Colorido. Já a raça Ideal, voltada para lã de qualidade, inscreveu 90 exemplares, reforçando sua relevância e ampliando sua visibilidade em evento de porte nacional.</p>
-<p>Organizada pela Associação Bageense de Criadores de Ovinos em parceria com a Associação e Sindicato Rural de Bagé, a feira oferece cinco leilões oficiais, julgamentos técnicos, concursos de carcaça e atividades culturais, além de valorizar o consumo de carne ovina por meio de churrascos e experiências gastronômicas. O evento conta com o patrocínio e apoio de diversas instituições, fortalecendo sua credibilidade e abrangência.</p>
+<p>O volume de 52 mil toneladas de carne bovina in natura com isenção tarifária foi totalmente preenchido nos seis primeiros dias do ano, impulsionado pela forte demanda do mercado norte-americano.</p>
+<p>A cota de exportação de carne bovina para os Estados Unidos, enquadrada no regime de Nação Mais Favorecida, foi esgotada rapidamente em 2026. Com o limite atingido, qualquer volume adicional enviado ao mercado norte-americano passa a ser taxado em 26,4%, o que reduz a competitividade da carne brasileira.</p>
+<p>O governo dos Estados Unidos reduziu em 13 mil toneladas o volume originalmente destinado aos países exportadores para acomodar um acordo bilateral com o Reino Unido, que garante acesso recíproco da carne bovina americana ao mercado britânico. Essa redução tornou a cota menor neste ano.</p>
+<p>O movimento de esgotamento da cota reflete uma antecipação agressiva das compras por parte dos importadores norte-americanos, que buscaram garantir volumes logo no início do ano diante de um cenário de oferta restrita.</p>
+<p>O esgotamento rápido da cota impacta diretamente a conta de importadores e frigoríficos, que terão que arcar com a tarifa adicional para volumes excedentes.</p>
 ]]></content:encoded>
 </item>
 <item>
-<title><![CDATA[Impasse no PP marca disputa pelo governo do Rio Grande do Sul]]></title>
-<link>https://www.osul.com.br/divergencia-sobre-candidatura-ao-governo-gaucho-e-motivo-de-impasse-no-partido-progressistas/</link>
+<title><![CDATA[Receita Federal nega taxação do Pix e alerta para informações falsas]]></title>
+<link>https://www.osul.com.br/receita-federal-volta-a-negar-taxacao-do-pix-e-alerta-para-golpes/</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Thu, 15 Jan 2026 02:59:19 GMT</pubDate>
+<pubDate>Thu, 15 Jan 2026 11:31:07 GMT</pubDate>
 <category><![CDATA[Rio Grande do Sul]]></category>
-<guid isPermaLink="false"><![CDATA[rsosul:840e5df87e184006022e1a42f2dea5bff7033f9c]]></guid>
-<description><![CDATA[O Partido Progressistas (PP) enfrenta divergências internas sobre a candidatura ao governo do Rio Grande do Sul nas eleições deste ano, com grupos defendendo pré-candidaturas distintas e questionando a condução do processo eleitoral intern…]]></description>
+<guid isPermaLink="false"><![CDATA[rsosul:62660da05b1ee44064776df5a73197c73c0e8f86]]></guid>
+<media:thumbnail url="https://www.osul.com.br/wp-content/uploads/2025/09/pix-parcelado.jpg" />
+<enclosure url="https://www.osul.com.br/wp-content/uploads/2025/09/pix-parcelado.jpg" type="image/jpeg" />
+<description><![CDATA[A Receita Federal desmentiu rumores sobre tributação do Pix e reforçou que não há monitoramento das transações para cobrança de impostos.]]></description>
 <content:encoded><![CDATA[
-<p>O Partido Progressistas (PP) enfrenta divergências internas sobre a candidatura ao governo do Rio Grande do Sul nas eleições deste ano, com grupos defendendo pré-candidaturas distintas e questionando a condução do processo eleitoral intern…</p>
-<p>O PP está dividido entre a pré-candidatura do deputado estadual Ernani Polo e a possibilidade de aliança com o PL, que deve lançar o deputado federal Luciano Zucco como candidato. O grupo que apoia Polo, formado por lideranças como o senador Luis Carlos Heinze e o ex-governador Jair Soares, divulgou uma carta pedindo diálogo e unidade, além de anunciar que não participará da reunião do diretório estadual marcada para o dia 20 de janeiro.</p>
-<p>A ala favorável à aliança com o PL é liderada pelos aliados do presidente estadual do PP, deputado federal Covatti Filho, que conduzirá o encontro decisivo para definir o candidato da sigla. A reunião poderá resultar na escolha entre Polo, Covatti ou Zucco, e também avalia uma possível aliança com o MDB do vice-governador Gabriel Souza.</p>
-<p>Na carta, o grupo que apoia Polo critica a convocação unilateral da reunião pelo presidente estadual do partido, ressaltando que não houve deliberação da Comissão Eleitoral. Eles defendem um processo coletivo, com debates e ampla participação de lideranças municipais e estaduais, para garantir a unidade e evitar conflitos internos.</p>
+<p>A Receita Federal desmentiu rumores sobre tributação do Pix e reforçou que não há monitoramento das transações para cobrança de impostos. A Receita Federal esclareceu que não existe tributação sobre o Pix nem fiscalização das movimentações financeiras com esse objetivo, prática proibida pela Constituição Federal. O órgão afirmou que mensagens alarmistas sobre “taxa do Pix” ou “imposto sobre transferências” são completamente falsas, ressaltando que o Pix é apenas um meio de pagamento, como dinheiro ou cartão.</p>
+<p>A Instrução Normativa nº 2.278, de agosto do ano passado, citada em boatos, apenas estende às fintechs as mesmas obrigações de transparência já aplicadas aos bancos tradicionais, dentro das regras de combate à lavagem de dinheiro e à ocultação de patrimônio. Não há acesso a valores individuais, origem ou natureza dos gastos dos cidadãos.</p>
+<p>As informações falsas ganharam força após a publicação de vídeos por um deputado federal, que afirmava que o governo voltaria a monitorar o Pix. A Receita alertou que esse tipo de conteúdo tem como objetivo enganar a população, gerar pânico financeiro e enfraquecer a confiança no meio de pagamento.</p>
+<p>O órgão destacou ainda que a disseminação dessas mensagens atende a interesses do crime organizado e de pessoas que se beneficiam da monetização e do engajamento gerado por notícias falsas.</p>
+<p>A Receita Federal reforçou que a instrução normativa não trata de taxação nem de monitoramento individual das transações, e que as medidas são fundamentais para combater crimes financeiros, preservando a segurança e a transparência no uso do Pix.</p>
 ]]></content:encoded>
 </item>
 <item>
-<title><![CDATA[Fiscalização intensificada garante funcionamento do ar-condicionado em ônibus de Porto Alegre]]></title>
-<link>https://www.osul.com.br/funcionamento-do-ar-condicionado-nos-onibus-tem-fiscalizacao-intensificada-em-porto-alegre/</link>
+<title><![CDATA[Brasil tem 23 partidos políticos em formação]]></title>
+<link>https://www.osul.com.br/brasil-tem-23-partidos-politicos-em-formacao/</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Thu, 15 Jan 2026 01:20:22 GMT</pubDate>
+<pubDate>Thu, 15 Jan 2026 10:34:31 GMT</pubDate>
 <category><![CDATA[Rio Grande do Sul]]></category>
-<guid isPermaLink="false"><![CDATA[rsosul:454d42ab095ae125bcb30b052cbbe46c8aede594]]></guid>
-<description><![CDATA[Secretaria Municipal de Mobilidade Urbana e EPTC intensificam fiscalização para assegurar o uso obrigatório do ar-condicionado nos ônibus durante períodos de calor intenso.]]></description>
+<guid isPermaLink="false"><![CDATA[rsosul:a790492b9f512d95eab96341334a3031f33f58ff]]></guid>
+<media:thumbnail url="https://www.osul.com.br/wp-content/uploads/2025/04/jurnas.jpg" />
+<enclosure url="https://www.osul.com.br/wp-content/uploads/2025/04/jurnas.jpg" type="image/jpeg" />
+<description><![CDATA[Atualmente, o Brasil conta com 30 partidos registrados no Tribunal Superior Eleitoral e outros 23 em processo de formação para as eleições de 2026.]]></description>
 <content:encoded><![CDATA[
-<p>Secretaria Municipal de Mobilidade Urbana e EPTC intensificam fiscalização para assegurar o uso obrigatório do ar-condicionado nos ônibus durante períodos de calor intenso. Ao longo deste mês, a Secretaria Municipal de Mobilidade Urbana (SMMU) de Porto Alegre e a Empresa Pública de Transporte e Circulação (EPTC) têm intensificado a fiscalização sobre o funcionamento dos sistemas de ar-condicionado nos ônibus do transporte público, visando garantir o conforto térmico dos passageiros em um período de calor intenso.</p>
-<p>836/2017, o acionamento do equipamento de climatização é obrigatório sempre que a temperatura ambiente atingir 24°C, e o descumprimento da norma resulta na autuação da empresa responsável pelo veículo. Entre os dias 1º e 13 de janeiro, foram vistoriados 438 ônibus, com 12 autuações por sistema de ar-condicionado inoperante.</p>
-<p>Atualmente, 1.009 veículos da frota operacional de Porto Alegre contam com sistema de refrigeração, representando 95% dos 1.064 ônibus que circulam nos dias úteis. Aos finais de semana, todos os ônibus em operação possuem ar-condicionado. A frota climatizada inclui 538 ônibus novos incorporados desde 2022, todos equipados com tecnologia Euro 6, que reduz em até 80% a emissão de poluentes e oferece maior conforto e segurança aos usuários.</p>
+<p>Atualmente, o Brasil conta com 30 partidos registrados no Tribunal Superior Eleitoral e outros 23 em processo de formação para as eleições de 2026. Para participar das eleições deste ano, as legendas precisam obter registro no Tribunal Superior Eleitoral seis meses antes do pleito. Somente os partidos registrados nesse prazo podem lançar candidatos, receber recursos do Fundo Partidário e ter acesso gratuito ao tempo de rádio e televisão.</p>
+<p>A criação e organização dos partidos são disciplinadas pela Lei nº 9.096/1995 e pela Resolução TSE nº 23.571/2018. A legislação permite a criação de partidos que respeitem a soberania nacional, o regime democrático, o pluripartidarismo e os direitos fundamentais da pessoa humana.</p>
+<p>Após adquirir personalidade jurídica, o partido deve registrar seu estatuto no TSE e comprovar, em até dois anos, o apoio de eleitores que correspondam a pelo menos 0,5% dos votos da última eleição geral para a Câmara dos Deputados, distribuídos em pelo menos um terço dos estados, com um mínimo de 0,1% do eleitorado em cada um deles.</p>
+<p>Nenhum candidato pode participar das eleições sem estar filiado a uma legenda registrada.</p>
 ]]></content:encoded>
 </item>
 <item>
-<title><![CDATA[Brasil Beach Games 2026 transforma Atlântida em capital dos esportes de areia]]></title>
-<link>https://www.osul.com.br/atlantida-vira-palco-mundial-do-beach-tennis-no-brasil-beach-games-2026/</link>
+<title><![CDATA[2026 será o ano da pecuária de cria, aponta análise do agronegócio]]></title>
+<link>https://www.osul.com.br/vai-ser-o-ano-da-cria/</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Thu, 15 Jan 2026 01:15:26 GMT</pubDate>
+<pubDate>Thu, 15 Jan 2026 10:17:29 GMT</pubDate>
 <category><![CDATA[Rio Grande do Sul]]></category>
-<guid isPermaLink="false"><![CDATA[rsosul:362e8b077cf8e04f275e3a2b452d2713a9827d0b]]></guid>
-<description><![CDATA[O Brasil Beach Games chega à sua quinta edição reunindo 1.500 atletas nacionais e internacionais em cinco modalidades na praia de Atlântida, em Xangri-Lá, até o dia 18, consolidando o litoral gaúcho como referência em esportes de praia.]]></description>
+<guid isPermaLink="false"><![CDATA[rsosul:aaad00cd83a2cc9f555682d0b5aa0b383ee28817]]></guid>
+<media:thumbnail url="https://www.osul.com.br/wp-content/uploads/2026/01/gado.jpeg" />
+<enclosure url="https://www.osul.com.br/wp-content/uploads/2026/01/gado.jpeg" type="image/jpeg" />
+<description><![CDATA[Projeções indicam que a pecuária de cria deve liderar a rentabilidade no agronegócio brasileiro em 2026, com valorização dos bezerros e maior demanda por reposição.]]></description>
 <content:encoded><![CDATA[
-<p>O Brasil Beach Games chega à sua quinta edição reunindo 1.500 atletas nacionais e internacionais em cinco modalidades na praia de Atlântida, em Xangri-Lá, até o dia 18, consolidando o litoral gaúcho como referência em esportes de praia.</p>
-<p>O evento, que começou em 2018 focado no futevôlei, cresceu e hoje destaca o Mundial de Beach Tennis ITF BT100, acompanhado de torneios BT10, atraindo atletas entre os 50 melhores do ranking mundial e participantes de diversos estados brasileiros. As competições são organizadas por níveis técnicos, idade e gênero, promovendo a integração entre iniciantes, amadores e profissionais.</p>
-<p>Atlântida contará com uma arena especialmente montada com múltiplas quadras, arquibancadas, áreas para o público, pontos de sombra e hidratação, além de espaços para convivência e ativações de patrocinadores. O acesso é gratuito, reforçando o caráter democrático do festival que une esporte, lazer e turismo.</p>
-<p>O Brasil Beach Games possui certificações da International Tennis Federation (ITF) e da Confederação Brasileira de Tênis (CBT), com apoio da Federação Gaúcha de Tênis e outras entidades esportivas, consolidando o evento como etapa oficial do circuito global e fortalecendo o Rio Grande do Sul como destino esportivo e turístico.</p>
+<p>Projeções indicam que a pecuária de cria deve liderar a rentabilidade no agronegócio brasileiro em 2026, com valorização dos bezerros e maior demanda por reposição. Os leilões de bezerros no final de 2025 registraram preços elevados, com lotes chegando a valores entre quinze e dezenove reais por quilo, e animais jovens sendo comercializados por mais de 3,5 mil reais por cabeça. Esse cenário reflete uma demanda aquecida e projeta a pecuária de cria como protagonista da cadeia produtiva em 2026.</p>
+<p>O Brasil encerrou 2025 como maior produtor mundial de carne bovina, superando os Estados Unidos, e bateu recordes de exportação, o que amplia a procura por reposição e reforça a importância da cria como base de oferta para o sistema. Entretanto, o ciclo da pecuária de cria exige planejamento e gestão consistente para garantir resultados sustentáveis.</p>
+<p>Outros modelos produtivos, como recria e terminação, enfrentam desafios devido ao custo da reposição e à volatilidade cambial. O ciclo completo, que integra cria, recria e engorda, oferece maior estabilidade, mas demanda escala e gestão complexa. Nesse contexto, a cria se destaca como menos vulnerável e mais alinhada às condições atuais do mercado.</p>
+<p>O futuro da pecuária depende de estratégias focadas e produtividade interna, com a pecuária de cria posicionada para transformar valorização em ganhos sustentáveis ao longo de 2026.</p>
 ]]></content:encoded>
 </item>
 <item>
-<title><![CDATA[Segunda fase da operação contra fraudes no Banco Master atinge Fabiano Campos Zettel]]></title>
-<link>https://www.osul.com.br/investidor-pastor-e-maior-doador-da-campanha-de-bolsonaro-e-tarcisio-quem-e-o-cunhado-do-dono-do-banco-master-alvo-da-policia-federal/</link>
+<title><![CDATA[Mega-Sena pode pagar R$ 35 milhões nesta quinta-feira]]></title>
+<link>https://www.osul.com.br/mega-sena-pode-pagar-r-35-milhoes-nesta-quinta-feira-8/</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Thu, 15 Jan 2026 01:04:57 GMT</pubDate>
+<pubDate>Thu, 15 Jan 2026 09:48:26 GMT</pubDate>
 <category><![CDATA[Rio Grande do Sul]]></category>
-<guid isPermaLink="false"><![CDATA[rsosul:0090760f143ea4eb8f9ee92fe3daaf67271e337c]]></guid>
-<description><![CDATA[Fabiano Campos Zettel, cunhado do dono do Banco Master, foi detido em São Paulo durante a segunda fase da operação que investiga fraudes na instituição financeira.]]></description>
+<guid isPermaLink="false"><![CDATA[rsosul:976d3c763c52e37929633ae26737de68c8419971]]></guid>
+<media:thumbnail url="https://www.osul.com.br/wp-content/uploads/2025/11/mega-sena-d-2.jpg" />
+<enclosure url="https://www.osul.com.br/wp-content/uploads/2025/11/mega-sena-d-2.jpg" type="image/jpeg" />
+<description><![CDATA[O concurso 2.960 da Mega-Sena pode pagar R$ 35 milhões nesta quinta-feira. As apostas podem ser feitas até as 20h nas agências lotéricas ou pela internet.]]></description>
 <content:encoded><![CDATA[
-<p>Fabiano Campos Zettel, cunhado do dono do Banco Master, foi detido em São Paulo durante a segunda fase da operação que investiga fraudes na instituição financeira. Fabiano Campos Zettel, cunhado de Daniel Vorcaro, proprietário do Banco Master, foi alvo de buscas e detido no Aeroporto de Guarulhos, em São Paulo, ao tentar embarcar para Dubai. A Polícia Federal monitorava seus movimentos e, com autorização do ministro Antonio Dias Toffoli, do Supremo Tribunal Federal, apreendeu objetos pessoais e o deteve para evitar prejuízo à coleta de provas, devido aos seus vínculos familiares com os investigados.</p>
-<p>Além de Zettel, foram cumpridos mandados de busca e apreensão em 42 endereços em São Paulo, Rio de Janeiro, Bahia, Rio Grande do Sul e Minas Gerais, incluindo locais ligados a Daniel Vorcaro, seus familiares, o empresário Nelson Tanure e o ex-presidente da gestora de fundos Reag Investimentos, João Carlos Mansur. Toffoli também determinou o bloqueio de bens e valores que ultrapassam R$ 5,7 bilhões.</p>
-<p>Fabiano Zettel é fundador da Moriah Asset, fundo de private equity que investe em negócios ligados ao mercado de produtos saudáveis e fitness, e é irmão da influenciadora Bella Falconi. Em 2022, foi o maior doador pessoa física das campanhas de Tarcísio de Freitas e Jair Bolsonaro, tendo transferido R$ 3 milhões para a campanha presidencial e R$ 2 milhões para a campanha ao governo de São Paulo.</p>
+<p>O concurso 2.960 da Mega-Sena pode pagar R$ 35 milhões nesta quinta-feira. As apostas podem ser feitas até as 20h nas agências lotéricas ou pela internet. O sorteio do concurso 2.960 da Mega-Sena ocorre às 21h, em São Paulo. O bilhete mínimo, com seis números, custa R$ 6.</p>
+<p>O último concurso da Mega-Sena, realizado na noite de terça-feira, não teve ganhador. Os números sorteados foram: 18, 26, 35, 41, 44 e 45. Se um apostador faturar o prêmio principal sozinho e aplicar o dinheiro na poupança, receberá cerca de R$ 230 mil em rendimentos no primeiro mês.</p>
+<p>As apostas podem ser feitas até as 20h nas agências lotéricas ou pela internet.</p>
 ]]></content:encoded>
 </item>
 <item>
-<title><![CDATA[Porto Alegre registra 59 assaltos em ônibus no transporte público em 2025]]></title>
-<link>https://www.osul.com.br/em-um-ano-porto-alegre-registra-59-assaltos-nos-onibus-do-transporte-coletivo/</link>
+<title><![CDATA[Biscoitos Zezé recebe novo projeto SAF do Brasil de Pelotas]]></title>
+<link>https://www.osul.com.br/biscoitos-zeze-abraca-novo-projeto-saf-do-brasil-de-pelotas/</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Thu, 15 Jan 2026 00:56:58 GMT</pubDate>
+<pubDate>Thu, 15 Jan 2026 07:32:42 GMT</pubDate>
 <category><![CDATA[Rio Grande do Sul]]></category>
-<guid isPermaLink="false"><![CDATA[rsosul:9b64f14227e7b6385ed9dc4de10254817c16e5f0]]></guid>
-<description><![CDATA[Balanço divulgado pela prefeitura aponta redução superior a 90% nos assaltos em ônibus desde 2016, com 59 ocorrências registradas em 2025.]]></description>
+<guid isPermaLink="false"><![CDATA[rsosul:5da3cb75588fddcb945b31b36ed60c76e47a20f2]]></guid>
+<media:thumbnail url="https://www.osul.com.br/wp-content/uploads/2026/01/zeze-4-e1768461788174.jpeg" />
+<enclosure url="https://www.osul.com.br/wp-content/uploads/2026/01/zeze-4-e1768461788174.jpeg" type="image/jpeg" />
+<description><![CDATA[A Biscoitos Zezé reforça seu apoio ao Brasil de Pelotas com a apresentação oficial do novo projeto de gestão da SAF do clube.]]></description>
 <content:encoded><![CDATA[
-<p>Balanço divulgado pela prefeitura aponta redução superior a 90% nos assaltos em ônibus desde 2016, com 59 ocorrências registradas em 2025. O Fórum Transporte Seguro, que reúne representantes de diversos segmentos ligados ao transporte público, contabilizou 59 assaltos em ônibus de Porto Alegre ao longo de 2025. O número representa uma redução significativa em relação aos 915 registros de 2016, ano em que começaram as reuniões periódicas do grupo para combater o problema.</p>
-<p>As ações conjuntas do fórum incluem o uso de câmeras embarcadas, rastreamento por GPS, monitoramento em tempo real e troca direta de informações entre centros de controle. Apesar dos avanços, desafios persistem, especialmente em ataques cometidos em paradas e terminais.</p>
-<p>A colaboração da população é destacada como fundamental para o sucesso das ações de segurança, com orientações para relatar situações suspeitas pelo telefone 190 da Brigada Militar e registrar boletins de ocorrência pela Delegacia de Polícia Online ou pela Delegacia Especializada de Repressão a Roubos em Transporte Coletivo.</p>
+<p>A Biscoitos Zezé reforça seu apoio ao Brasil de Pelotas com a apresentação oficial do novo projeto de gestão da SAF do clube. A direção da Biscoitos Zezé, representada por José e Fábio Ruivo, recebeu Emerson Rosa, ex-jogador da Seleção Brasileira e líder da SAF do Brasil de Pelotas, junto com Fernando Ferreira e Fábio Bampi. O encontro celebrou os 14 anos de apoio contínuo da empresa ao Grêmio Esportivo Brasil e apresentou o novo projeto de gestão.</p>
+<p>O Consórcio Xavante, liderado por Emerson Rosa, adquiriu 90% da SAF do clube, enquanto o Brasil de Pelotas mantém 10% das ações e direito de veto sobre o patrimônio imaterial. O projeto prevê a construção de um centro de treinamento moderno, o fortalecimento do elenco principal e uma gestão financeira estruturada com orçamento garantido para a próxima década.</p>
+<p>A ligação da Biscoitos Zezé com o clube é histórica, já que a empresa nasceu em Pelotas, reforçando o compromisso com a comunidade local. Emerson Rosa destacou que acessibilidade e apoio contínuo são essenciais para a sobrevivência e segurança institucional do clube.</p>
+<p>O Brasil de Pelotas é o primeiro clube do interior gaúcho a adotar o modelo SAF com protagonismo de um ex-capitão da Seleção Brasileira. A iniciativa está alinhada a práticas internacionais que defendem transparência e sustentabilidade na gestão esportiva, projetando o clube como referência nacional em reestruturação.</p>
+<p>Ao unir tradição, inovação e responsabilidade social, o Brasil de Pelotas e a Biscoitos Zezé mostram o valor do futebol ligado às origens e à valorização da comunidade.</p>
 ]]></content:encoded>
 </item>
 </channel></rss>
