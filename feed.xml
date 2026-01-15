@@ -4,24 +4,26 @@
  xmlns:dc="http://purl.org/dc/elements/1.1/"
  xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
-<title>Evo Web News - RS (Agora RS Multi RSS)</title>
+<title>Evo Web News - RS (Agora RS + O Sul Multi RSS)</title>
 <atom:link href="https://evwbr.github.io/rs/feed.xml" rel="self" type="application/rss+xml"/>
 <link>https://evwbr.github.io/rs/</link>
 <description>Notícias do Rio Grande do Sul (últimas 24h) reescritas com IA - Evo Web News</description>
-<lastBuildDate>Wed, 14 Jan 2026 20:43:47 GMT</lastBuildDate>
+<lastBuildDate>Thu, 15 Jan 2026 10:32:26 GMT</lastBuildDate>
 <language>pt-BR</language>
 <item>
-<title><![CDATA[Ministério Público apresenta denúncias por ataque a tiros em Sentinela do Sul]]></title>
-<link>https://agorars.com/rs/mp-denuncia-tres-por-ataque-a-tiros-em-ginasio-de-sentinela-do-sul-e-acusa-diretor-por-injuria-racial/</link>
+<title><![CDATA[Governo do RS assina contratos para linha de crédito de quase R$ 100 milhões a 21 cidades]]></title>
+<link>https://agorars.com/economia/estado-libera-quase-r-100-milhoes-em-credito-para-21-municipios-do-rs/</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Wed, 14 Jan 2026 18:25:00 GMT</pubDate>
+<pubDate>Thu, 15 Jan 2026 00:34:51 GMT</pubDate>
 <category><![CDATA[Rio Grande do Sul]]></category>
-<guid isPermaLink="false"><![CDATA[rsmulti:f9a93d14891a47340dff40da1268200b1f775200]]></guid>
-<description><![CDATA[O Ministério Público do Rio Grande do Sul apresentou duas denúncias relacionadas ao ataque a tiros ocorrido em novembro de 2025 no ginásio municipal de Sentinela do Sul.]]></description>
+<guid isPermaLink="false"><![CDATA[rsmulti:50d293e421bf5d2a736fdfc61e9dea753905d17f]]></guid>
+<description><![CDATA[O governo do Rio Grande do Sul assinou contratos para a primeira etapa de uma linha de crédito destinada a investimentos municipais, beneficiando 21 cidades com financiamentos que somam quase R$ 100 milhões.]]></description>
 <content:encoded><![CDATA[
-<p>O Ministério Público do Rio Grande do Sul apresentou duas denúncias relacionadas ao ataque a tiros ocorrido em novembro de 2025 no ginásio municipal de Sentinela do Sul. O ataque aconteceu durante um evento esportivo no Ginásio Municipal &quot;Laranjão&quot; e resultou na morte de um jovem e ferimentos graves no diretor da Secretaria Municipal de Educação, Turismo, Desporto e Cultura.</p>
-<p>Três homens foram denunciados por homicídio consumado e tentativa de homicídio. Um deles teria efetuado os disparos seguindo ordens do mandante, com apoio de um terceiro envolvido.</p>
-<p>Além disso, o diretor que foi vítima dos disparos também foi denunciado em outra ação por injúria racial. As denúncias foram apresentadas à Justiça para dar seguimento às investigações e responsabilização dos envolvidos.</p>
+<p>O governo do Rio Grande do Sul assinou contratos para a primeira etapa de uma linha de crédito destinada a investimentos municipais, beneficiando 21 cidades com financiamentos que somam quase R$ 100 milhões.</p>
+<p>Os recursos poderão ser usados para aquisição de equipamentos, veículos, imóveis, além de obras de pavimentação e reformas de estruturas públicas. Cada município tem a possibilidade de contratar até R$ 10 milhões, com carência de até três anos e prazo de pagamento de até 15 anos.</p>
+<p>As cidades contempladas nesta primeira fase são Ametista do Sul, Brochier, Candelária, Cerro Grande, Cristal do Sul, Cruz Alta, Glorinha, Gramado dos Loureiros, Guarani das Missões, Herveiras, Imbé, Jaguari, Nova Boa Vista, Novo Barreiro, Paverama, Pontão, Quaraí, Salto do Jacuí, Santa Bárbara do Sul, Santa Maria e São Borja.</p>
+<p>A linha de crédito permite que cada prefeitura defina suas próprias prioridades, sem restrição a áreas específicas, visando beneficiar as comunidades locais. O financiamento tem juros de Selic mais 3,5% ao ano, utilizando como garantia a cota-parte dos municípios no ICMS e a participação no Fundo de Participação dos Municípios (FPM). A operação foi administrada pelo Badesul.</p>
+<p>Esta iniciativa busca apoiar o desenvolvimento municipal com condições especiais de financiamento, alinhadas às necessidades de cada cidade.</p>
 ]]></content:encoded>
 </item>
 </channel></rss>
