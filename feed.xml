@@ -2,29 +2,26 @@
 <rss version="2.0"
  xmlns:content="http://purl.org/rss/1.0/modules/content/"
  xmlns:dc="http://purl.org/dc/elements/1.1/"
- xmlns:atom="http://www.w3.org/2005/Atom"
- xmlns:media="http://search.yahoo.com/mrss/">
+ xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
-<title>Evo Web News - RS (AgoraRS)</title>
+<title>Evo Web News - RS (ABC+ Multi RSS)</title>
 <atom:link href="https://evwbr.github.io/rs/feed.xml" rel="self" type="application/rss+xml"/>
 <link>https://evwbr.github.io/rs/</link>
 <description>Notícias do Rio Grande do Sul (últimas 24h) reescritas com IA - Evo Web News</description>
-<lastBuildDate>Thu, 15 Jan 2026 18:05:05 GMT</lastBuildDate>
+<lastBuildDate>Fri, 16 Jan 2026 20:57:21 GMT</lastBuildDate>
 <language>pt-BR</language>
 <item>
-<title><![CDATA[INMET emite três avisos de tempestade para o Rio Grande do Sul]]></title>
-<link>https://agorars.com/agora-no-tempo/inmet-publica-alertas-de-tempestade-para-o-rs-entre-quinta-e-sexta-feira/</link>
+<title><![CDATA[Ingressos à venda para Novo Hamburgo x São José pelo Gauchão]]></title>
+<link>https://www.abcmais.com/brasil/rio-grande-do-sul/vale-do-rio-dos-sinos/novo-hamburgo/ingressos-a-venda-para-novo-hamburgo-x-sao-jose-neste-sabado/</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Thu, 15 Jan 2026 16:58:27 GMT</pubDate>
+<pubDate>Fri, 16 Jan 2026 20:24:11 GMT</pubDate>
 <category><![CDATA[Rio Grande do Sul]]></category>
-<guid isPermaLink="false"><![CDATA[rsagorars:8733fb437675b615337b4bf53b862d5cb2d02302]]></guid>
-<media:thumbnail url="https://uploads.agorars.com/2024/11/iCRrMzcK-temporal-scaled.webp" />
-<enclosure url="https://uploads.agorars.com/2024/11/iCRrMzcK-temporal-scaled.webp" type="image/webp" />
-<description><![CDATA[O Instituto Nacional de Meteorologia divulgou alertas de tempestade com validade entre quinta e sexta-feira, indicando possibilidade de chuva forte, ventos intensos e granizo em diferentes regiões do estado.]]></description>
+<guid isPermaLink="false"><![CDATA[rsmulti:639e2d1ce7f67d36ff60b425a60ec0f191753da7]]></guid>
+<description><![CDATA[Novo Hamburgo enfrenta o São José neste sábado, às 16 horas, no Estádio do Vale, pela terceira rodada do Campeonato Gaúcho. Os ingressos já estão disponíveis para compra.]]></description>
 <content:encoded><![CDATA[
-<p>O Instituto Nacional de Meteorologia divulgou alertas de tempestade com validade entre quinta e sexta-feira, indicando possibilidade de chuva forte, ventos intensos e granizo em diferentes regiões do estado.</p>
-<p>Nesta quinta-feira, um alerta amarelo de tempestade está em vigor até as 23h59, abrangendo a Fronteira Oeste, Campanha e Região Sul. O aviso foi emitido devido à aproximação de uma frente fria pelo Uruguai entre a tarde e a noite.</p>
-<p>Para sexta-feira, o As áreas afetadas incluem a Serra gaúcha, Nordeste, Litoral Norte, parte da região metropolitana, além do Vale do Paranhana e Vale dos Sinos. A população deve ficar atenta às condições climáticas e acompanhar as atualizações para garantir segurança durante o período de tempestades.</p>
+<p>Novo Hamburgo enfrenta o São José neste sábado, às 16 horas, no Estádio do Vale, pela terceira rodada do Campeonato Gaúcho. Os ingressos já estão disponíveis para compra. O Novo Hamburgo busca a primeira vitória na competição após empatar em 1 a 1 com o Juventude e perder por 2 a 1 para o Inter na estreia. A equipe ocupa a quinta colocação do Grupo B, com um ponto somado.</p>
+<p>Os ingressos para a partida custam R$ 30 para arquibancada e setor visitante, e R$ 60 para cadeiras, valor que representa uma redução de R$ 20 em relação ao jogo anterior. Sócios em dia e crianças até 12 anos têm entrada gratuita.</p>
+<p>O estacionamento do Estádio do Vale terá vagas limitadas, com custo de R$ 20. No dia do jogo, a bilheteria abre às 14 horas para venda de ingressos. A partida é mais um compromisso importante do Novo Hamburgo diante de sua torcida no Campeonato Gaúcho.</p>
 ]]></content:encoded>
 </item>
 </channel></rss>
