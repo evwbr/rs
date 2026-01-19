@@ -2,62 +2,26 @@
 <rss version="2.0"
  xmlns:content="http://purl.org/rss/1.0/modules/content/"
  xmlns:dc="http://purl.org/dc/elements/1.1/"
- xmlns:atom="http://www.w3.org/2005/Atom"
- xmlns:media="http://search.yahoo.com/mrss/">
+ xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
-<title>Evo Web News - RS (AgoraRS)</title>
+<title>Evo Web News - RS (ABC+ Multi RSS)</title>
 <atom:link href="https://evwbr.github.io/rs/feed.xml" rel="self" type="application/rss+xml"/>
 <link>https://evwbr.github.io/rs/</link>
 <description>Notícias do Rio Grande do Sul (últimas 24h) reescritas com IA - Evo Web News</description>
-<lastBuildDate>Sat, 17 Jan 2026 11:32:28 GMT</lastBuildDate>
+<lastBuildDate>Mon, 19 Jan 2026 19:57:03 GMT</lastBuildDate>
 <language>pt-BR</language>
 <item>
-<title><![CDATA[Frente fria provoca temporais isolados no Rio Grande do Sul neste sábado]]></title>
-<link>https://agorars.com/cotidiano/previsao-tempo-chuva-temporais-rs-sabado-domingo/</link>
+<title><![CDATA[Guarany de Bagé enfrenta Grêmio pela quarta rodada do Gauchão 2026]]></title>
+<link>https://www.abcmais.com/esportes/futebol/gremio/guarany-de-bage-x-gremio-onde-assistir-e-provaveis-escalacoes-do-jogo-pelo-gauchao-2026/</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Fri, 16 Jan 2026 20:45:25 GMT</pubDate>
+<pubDate>Mon, 19 Jan 2026 19:53:00 GMT</pubDate>
 <category><![CDATA[Rio Grande do Sul]]></category>
-<guid isPermaLink="false"><![CDATA[rsagorars:258f2ba5f9c6ddcf1bb996645b407717593a21c3]]></guid>
-<media:thumbnail url="https://uploads.agorars.com/2026/01/BVmty2FP-IMG_9534-scaled.webp" />
-<enclosure url="https://uploads.agorars.com/2026/01/BVmty2FP-IMG_9534-scaled.webp" type="image/webp" />
-<description><![CDATA[O Rio Grande do Sul deve registrar chuva neste sábado, com risco de temporais isolados em diversas regiões do estado.]]></description>
+<guid isPermaLink="false"><![CDATA[rsmulti:7b38cc1c97b144a5f59f989b71bb42a70eac8808]]></guid>
+<description><![CDATA[Guarany de Bagé e Grêmio se enfrentam nesta quarta-feira, às 21h30, no Estádio Antônio Magalhães Rossel, em Bagé, pela quarta rodada do Gauchão 2026.]]></description>
 <content:encoded><![CDATA[
-<p>O Rio Grande do Sul deve registrar chuva neste sábado, com risco de temporais isolados em diversas regiões do estado. A atuação de uma frente fria sobre o oceano favorece condições para temporais isolados no estado. Há possibilidade de chuva pontualmente forte em curto período, rajadas de vento e eventual queda de granizo.</p>
-<p>A chuva deve atingir o Norte, Noroeste, Nordeste, Serra, Região Metropolitana, Costa Doce e Litoral Norte. Nas demais regiões, a previsão é de chuva fraca a moderada, com eventuais trovoadas.</p>
-<p>Acompanhe as atualizações para se manter informado sobre as condições do tempo no Rio Grande do Sul.</p>
-]]></content:encoded>
-</item>
-<item>
-<title><![CDATA[Frente fria traz instabilidade ao Rio Grande do Sul neste final de semana]]></title>
-<link>https://agorars.com/agora-no-tempo/previsao-tempo-rs-frente-fria-fim-de-semana/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Fri, 16 Jan 2026 14:16:47 GMT</pubDate>
-<category><![CDATA[Rio Grande do Sul]]></category>
-<guid isPermaLink="false"><![CDATA[rsagorars:ada2b3ca670b1b3a44889cc5358e13eeb3be5c59]]></guid>
-<media:thumbnail url="https://uploads.agorars.com/2025/12/xQXnWzC2-Tempo_quente_pancadas_chuva-scaled.webp" />
-<enclosure url="https://uploads.agorars.com/2025/12/xQXnWzC2-Tempo_quente_pancadas_chuva-scaled.webp" type="image/webp" />
-<description><![CDATA[Uma frente fria vinda do Uruguai deve provocar instabilidade no tempo no Rio Grande do Sul durante o final de semana, com previsão de chuva em várias regiões do estado.]]></description>
-<content:encoded><![CDATA[
-<p>Uma frente fria vinda do Uruguai deve provocar instabilidade no tempo no Rio Grande do Sul durante o final de semana, com previsão de chuva em várias regiões do estado. A previsão para sexta-feira indica que a atuação de uma frente fria próxima ao Uruguai pode causar instabilidade na metade Sul do Rio Grande do Sul, com possibilidade de chuva fraca a moderada, e localmente forte em pontos isolados dessa região.</p>
-<p>No sábado, o tempo seguirá instável devido à passagem da frente fria, com previsão de chuva em grande parte do estado, exceto na porção Sudeste. Para a próxima semana, a previsão aponta para o retorno de tempo estável em todo o Rio Grande do Sul, devido à atuação de um sistema de alta pressão.</p>
-<p>As informações são parte do Boletim Integrado Agrometeorológico 03/2026, elaborado pela Secretaria da Agricultura, Pecuária, Produção Sustentável e Irrigação, em parceria com a Emater/RS-Ascar e o Instituto Rio Grandense do Arroz.</p>
-]]></content:encoded>
-</item>
-<item>
-<title><![CDATA[Procurador-geral não ratifica arquivamento de inquérito sobre morte em Porto Alegre]]></title>
-<link>https://agorars.com/rs/porto-alegre/mp-rs-rejeita-arquivamento-morte-surto-porto-alegre/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Fri, 16 Jan 2026 11:59:47 GMT</pubDate>
-<category><![CDATA[Rio Grande do Sul]]></category>
-<guid isPermaLink="false"><![CDATA[rsagorars:1d90649deccaba453ee8c98e23607f9fcac6d5f2]]></guid>
-<media:thumbnail url="https://uploads.agorars.com/2026/01/i47JgLYF-herick1501_04.webp" />
-<enclosure url="https://uploads.agorars.com/2026/01/i47JgLYF-herick1501_04.webp" type="image/webp" />
-<description><![CDATA[O procurador-geral de Justiça decidiu não ratificar o pedido de arquivamento do inquérito que investiga a morte de Herick Cristian da Silva Vargas, baleado durante um surto no Bairro Parque Santa Fé, em Porto Alegre.]]></description>
-<content:encoded><![CDATA[
-<p>O procurador-geral de Justiça decidiu não ratificar o pedido de arquivamento do inquérito que investiga a morte de Herick Cristian da Silva Vargas, baleado durante um surto no Bairro Parque Santa Fé, em Porto Alegre.</p>
-<p>Herick Cristian da Silva Vargas, de 29 anos, foi baleado em 15 de setembro de 2025 no Bairro Parque Santa Fé, em Porto Alegre. O caso segue agora para a Vara do Júri da Capital, onde outro promotor de Justiça do Ministério Público do Rio Grande do Sul passará a atuar na apuração dos fatos.</p>
-<p>A decisão foi comunicada pelo procurador-geral de Justiça, Alexandre Saltz, e pela coordenadora da Central de Atendimento às Vítimas de Porto Alegre, promotora de Justiça Carla Frós, aos familiares de Herick antes mesmo de ser protocolada na Justiça. A instituição se colocou à disposição para todo tipo de atendimento possível, incluindo acompanhamento psicológico.</p>
-<p>O Ministério Público do Rio Grande do Sul reforçou o compromisso com a transparência e o suporte às famílias envolvidas no caso.</p>
+<p>Guarany de Bagé e Grêmio se enfrentam nesta quarta-feira, às 21h30, no Estádio Antônio Magalhães Rossel, em Bagé, pela quarta rodada do Gauchão 2026. O Guarany de Bagé busca sua primeira vitória no campeonato após dois empates e uma derrota. A equipe deve manter um esquema com três zagueiros para garantir maior solidez defensiva diante de sua torcida.</p>
+<p>O Grêmio, que recentemente perdeu a invencibilidade para o São José, vem de uma vitória expressiva sobre o São Luiz. Para o confronto em Bagé, o técnico Luís Castro deve preservar alguns titulares visando o clássico Gre-Nal do próximo domingo, dando oportunidade a outras opções do elenco.</p>
+<p>A partida será transmitida pela RBS TV e Premiere, permitindo que os torcedores acompanhem o duelo ao vivo. O jogo acontece no Estádio Antônio Magalhães Rossel, conhecido como Estrela D’Alva, em Bagé, nesta quarta-feira, às 21h30.</p>
 ]]></content:encoded>
 </item>
 </channel></rss>
