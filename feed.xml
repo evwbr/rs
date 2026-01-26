@@ -2,82 +2,26 @@
 <rss version="2.0"
  xmlns:content="http://purl.org/rss/1.0/modules/content/"
  xmlns:dc="http://purl.org/dc/elements/1.1/"
- xmlns:atom="http://www.w3.org/2005/Atom"
- xmlns:media="http://search.yahoo.com/mrss/">
+ xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
-<title>Evo Web News - RS (AgoraRS)</title>
+<title>Evo Web News - RS (ABC+ Multi RSS)</title>
 <atom:link href="https://evwbr.github.io/rs/feed.xml" rel="self" type="application/rss+xml"/>
 <link>https://evwbr.github.io/rs/</link>
 <description>Notícias do Rio Grande do Sul (últimas 24h) reescritas com IA - Evo Web News</description>
-<lastBuildDate>Fri, 23 Jan 2026 20:17:54 GMT</lastBuildDate>
+<lastBuildDate>Mon, 26 Jan 2026 23:57:05 GMT</lastBuildDate>
 <language>pt-BR</language>
 <item>
-<title><![CDATA[Governo do RS anuncia compra de três radares para monitoramento meteorológico e geológico]]></title>
-<link>https://agorars.com/agora-no-tempo/rs-compra-tres-novos-radares-meteorologicos/</link>
+<title><![CDATA[Fluminense e Grêmio se enfrentam no Maracanã pela primeira rodada do Brasileirão 2026]]></title>
+<link>https://www.abcmais.com/esportes/futebol/gremio/fluminense-x-gremio-onde-assistir-ao-jogo-pelo-brasileirao-nesta-quarta-feira-28-2/</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Fri, 23 Jan 2026 12:18:42 GMT</pubDate>
+<pubDate>Mon, 26 Jan 2026 23:19:00 GMT</pubDate>
 <category><![CDATA[Rio Grande do Sul]]></category>
-<guid isPermaLink="false"><![CDATA[rsagorars:6312563f7bb8fafe51bb345debfac4b7554ba72a]]></guid>
-<media:thumbnail url="https://uploads.agorars.com/2026/01/65ywnSqf-Foto-Jurgen-Mayrhofer-Arquivo-Secom.webp" />
-<enclosure url="https://uploads.agorars.com/2026/01/65ywnSqf-Foto-Jurgen-Mayrhofer-Arquivo-Secom.webp" type="image/webp" />
-<description><![CDATA[O governo do Rio Grande do Sul homologou licitação para aquisição de três radares que irão aprimorar o monitoramento meteorológico e geológico no estado.]]></description>
+<guid isPermaLink="false"><![CDATA[rsmulti:432b0ef8421261db25396d6fa6f9c19d8cd28696]]></guid>
+<description><![CDATA[Fluminense e Grêmio jogam nesta quarta-feira (28), às 19h30, no Maracanã, no Rio de Janeiro, pela estreia no Campeonato Brasileiro de 2026.]]></description>
 <content:encoded><![CDATA[
-<p>O governo do Rio Grande do Sul homologou licitação para aquisição de três radares que irão aprimorar o monitoramento meteorológico e geológico no estado. A homologação da licitação ocorreu no dia 2 de janeiro, com valor de R$ 177,7 milhões. Os novos radares irão se somar ao equipamento já instalado na Região Metropolitana, ampliando a cobertura para previsão de eventos climáticos extremos.</p>
-<p>Os equipamentos operam na frequência específica de radares Banda S, que permite penetrar na precipitação e fornecer resolução espacial adequada. O objetivo é qualificar a prestação de serviços de monitoramento meteorológico e geológico, fortalecendo a estratégia de Defesa Civil e a proteção da população gaúcha.</p>
-<p>O investimento visa trazer benefícios significativos em termos de resiliência e segurança para a população do Rio Grande do Sul.</p>
-]]></content:encoded>
-</item>
-<item>
-<title><![CDATA[Dmae conclui fechamento definitivo de comportas no dique da avenida Castelo Branco]]></title>
-<link>https://agorars.com/rs/porto-alegre/dmae-conclui-fechamento-comportas-castelo-branco-porto-alegre/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Thu, 22 Jan 2026 22:37:14 GMT</pubDate>
-<category><![CDATA[Rio Grande do Sul]]></category>
-<guid isPermaLink="false"><![CDATA[rsagorars:ed871f0dc0f0a2f824527c0273036c0227c16681]]></guid>
-<media:thumbnail url="https://uploads.agorars.com/2026/01/2pbrgJPu-15012026-Fechamento-definitivo-dascomportas-13-e-14-Luciano-Lanes-DMAE-001-1.webp" />
-<enclosure url="https://uploads.agorars.com/2026/01/2pbrgJPu-15012026-Fechamento-definitivo-dascomportas-13-e-14-Luciano-Lanes-DMAE-001-1.webp" type="image/webp" />
-<description><![CDATA[O Departamento Municipal de Água e Esgotos de Porto Alegre finalizou as obras de fechamento das comportas 8, 10, 13 e 14 no dique da avenida Castelo Branco, encerrando parte do sistema de proteção contra cheias da cidade.]]></description>
-<content:encoded><![CDATA[
-<p>O Departamento Municipal de Água e Esgotos de Porto Alegre finalizou as obras de fechamento das comportas 8, 10, 13 e 14 no dique da avenida Castelo Branco, encerrando parte do sistema de proteção contra cheias da cidade.</p>
-<p>As intervenções tiveram início há seis meses e resultaram na extinção das passagens que faziam parte do sistema de defesa contra inundações projetado na década de 1960 pelo extinto Departamento Nacional de Obras de Saneamento. Até a enchente histórica de 2024, o sistema contava com 14 comportas, que tinham como objetivo facilitar a mobilidade urbana e o acesso à área portuária.</p>
-<p>Nos últimos anos, muitas comportas deixaram de ser utilizadas, o que permitiu a eliminação de algumas delas com impacto mínimo para a população. Com as obras recentes, sete passagens foram eliminadas: além das quatro fechadas agora, os portões 3, 5 e 7, localizados no Muro da Mauá, foram extintos há menos de um ano.</p>
-<p>A comporta 9 também está em processo de desativação. A obra para seu fechamento está em andamento e envolve o desvio de uma linha subterrânea de energia elétrica, com previsão de conclusão nos próximos meses.</p>
-<p>O fechamento das comportas faz parte das ações do Dmae para atualizar e adequar o sistema de proteção contra cheias de Porto Alegre.</p>
-]]></content:encoded>
-</item>
-<item>
-<title><![CDATA[Força-Tarefa realiza operação de fiscalização em estabelecimentos de Tramandaí]]></title>
-<link>https://agorars.com/rs/litoral-norte/forca-tarefa-apreende-alimentos-improprios-litoral-norte/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Thu, 22 Jan 2026 21:21:52 GMT</pubDate>
-<category><![CDATA[Rio Grande do Sul]]></category>
-<guid isPermaLink="false"><![CDATA[rsagorars:ae18438c29af87442c0f09a9e47e33513ad6d9a8]]></guid>
-<media:thumbnail url="https://uploads.agorars.com/2026/01/ykEz9kHQ-ft220106.webp" />
-<enclosure url="https://uploads.agorars.com/2026/01/ykEz9kHQ-ft220106.webp" type="image/webp" />
-<description><![CDATA[A Força-Tarefa do Programa Segurança dos Alimentos realizou uma operação de fiscalização em dois restaurantes e um supermercado no Litoral Norte, em Tramandaí, resultando na interdição de um depósito e na apreensão de cerca de 700 kg de produtos impróprios para consumo.]]></description>
-<content:encoded><![CDATA[
-<p>A Força-Tarefa do Programa Segurança dos Alimentos realizou uma operação de fiscalização em dois restaurantes e um supermercado no Litoral Norte, em Tramandaí, resultando na interdição de um depósito e na apreensão de cerca de 700 kg de produtos impróprios para consumo.</p>
-<p>Durante a ação, foram identificadas diversas irregularidades nos estabelecimentos fiscalizados, como alimentos armazenados fora da temperatura adequada, produtos com prazos de validade vencidos, embalagens danificadas, itens sem procedência ou registro e armazenamento inadequado.</p>
-<p>Entre os produtos apreendidos estavam carnes, pescados, embutidos, produtos de padaria e bebidas lácteas. O depósito de um dos estabelecimentos foi interditado devido às más condições de higiene constatadas pela equipe da Força-Tarefa.</p>
-<p>A operação reforça o compromisso com a segurança alimentar na região, garantindo que os consumidores tenham acesso a produtos em condições adequadas para o consumo.</p>
-]]></content:encoded>
-</item>
-<item>
-<title><![CDATA[El Niño de 2026 deve ter intensidade moderada a forte, indicam análises climáticas]]></title>
-<link>https://agorars.com/agora-no-tempo/el-nino-2026-moderado-forte-previsao/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Thu, 22 Jan 2026 20:46:55 GMT</pubDate>
-<category><![CDATA[Rio Grande do Sul]]></category>
-<guid isPermaLink="false"><![CDATA[rsagorars:eab159d16807f6c0927a59690dba5a97ec882737]]></guid>
-<media:thumbnail url="https://uploads.agorars.com/2025/05/2qpuvlqj-12-09-24-PESSOAS-NA-CHUVA-BANCO-DE-IMAGENS-FRANBECK-10-1.webp" />
-<enclosure url="https://uploads.agorars.com/2025/05/2qpuvlqj-12-09-24-PESSOAS-NA-CHUVA-BANCO-DE-IMAGENS-FRANBECK-10-1.webp" type="image/webp" />
-<description><![CDATA[Análises recentes apontam para o desenvolvimento de um episódio de El Niño durante 2026, com início acelerado e intensidade entre moderada e forte.]]></description>
-<content:encoded><![CDATA[
-<p>Análises recentes apontam para o desenvolvimento de um episódio de El Niño durante 2026, com início acelerado e intensidade entre moderada e forte. Desde a primavera de 2025, os principais centros de monitoramento climático global indicavam a possibilidade de um novo episódio de El Niño em 2026. Essa tendência tem se fortalecido nas análises mais recentes.</p>
-<p>O fenômeno La Niña, que teve fraca intensidade e se formou no oceano Pacífico Equatorial em meados da primavera de 2025, teve pouco impacto no início do verão de 2026 e deve enfraquecer até fevereiro.</p>
-<p>O El Niño de 2026 deve se desenvolver entre o final do outono e o início do inverno, com aquecimento começando já em março. A expectativa é de que seja um evento de intensidade moderada a forte, semelhante ao ocorrido em 2023, com início acelerado.</p>
-<p>Projeções oficiais indicam maior probabilidade de um El Niño moderado ou mais intenso do que um evento forte para os meses de agosto, setembro e outubro, sendo que o pico costuma ocorrer entre novembro e janeiro.</p>
-<p>O acompanhamento das condições climáticas é fundamental para entender os impactos do fenômeno ao longo do ano.</p>
+<p>Fluminense e Grêmio jogam nesta quarta-feira (28), às 19h30, no Maracanã, no Rio de Janeiro, pela estreia no Campeonato Brasileiro de 2026. O Grêmio chega para o confronto após derrota no Gre-Nal 449 por 4 a 2 e soma três vitórias e duas derrotas no Gauchão. A equipe ainda conta com desfalques importantes, já que Kannemann, Braithwaite, Villasanti e Pavon permanecem no departamento médico.</p>
+<p>O Fluminense vem motivado após vitória por 2 a 1 sobre o Flamengo no Campeonato Carioca, acumulando três triunfos consecutivos. No entanto, Hércules, Soteldo e Cano são dúvidas para a partida de estreia no Brasileirão.</p>
+<p>A partida entre Fluminense e Grêmio será transmitida pelos canais Premiere, CazéTV e Record, a partir das 19h30 desta quarta-feira no Maracanã.</p>
 ]]></content:encoded>
 </item>
 </channel></rss>
