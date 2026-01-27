@@ -2,31 +2,28 @@
 <rss version="2.0"
  xmlns:content="http://purl.org/rss/1.0/modules/content/"
  xmlns:dc="http://purl.org/dc/elements/1.1/"
- xmlns:atom="http://www.w3.org/2005/Atom"
- xmlns:media="http://search.yahoo.com/mrss/">
+ xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
-  <title>Evo Web News - RS (AgoraRS)</title>
-  <atom:link href="https://evwbr.github.io/rs/feed.xml" rel="self" type="application/rss+xml"/>
-  <link>https://evwbr.github.io/rs/</link>
-  <description>Notícias do Rio Grande do Sul (últimas 24h) reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Tue, 27 Jan 2026 20:45:06 GMT</lastBuildDate>
-  <language>pt-BR</language>
-  <item>
-    <title><![CDATA[Operação prende envolvidos em esquema de extorsão sexual no RS]]></title>
-    <link>https://agorars.com/plantao-rs/operacao-prende-envolvidos-em-esquema-de-extorsao-sexual-no-rs/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Tue, 27 Jan 2026 20:44:03 GMT</pubDate>
-    <category><![CDATA[Rio Grande do Sul]]></category>
-    <guid isPermaLink="false"><![CDATA[rsagorars:72128c82d7c2dc24e3cbae1fb26ed529b7597f13]]></guid>
-    <media:thumbnail url="https://uploads.agorars.com/2025/06/euScXszS-policia-civil-viatura.webp" />
-    <enclosure url="https://uploads.agorars.com/2025/06/euScXszS-policia-civil-viatura.webp" type="image/webp" />
-    <description><![CDATA[A Polícia Civil do Rio Grande do Sul deflagrou a Operação Consensuale, que visa combater um esquema de extorsão sexual por meio de aplicativos de mensagens. A ação ocorreu em Porto Alegre e Canoas, resultando na prisão de duas pessoas e na apreensão de diversos materiais para investigação.]]></description>
-    <content:encoded><![CDATA[
-<p>A Polícia Civil do Rio Grande do Sul deflagrou, na manhã desta terça-feira, a Operação Consensuale, voltada ao combate a um esquema de extorsão sexual praticado por meio de aplicativos de mensagens. A ação ocorreu em Porto Alegre e Canoas.</p>
-<p>Conforme a Polícia Civil, foram cumpridos três mandados de prisão preventiva e seis mandados de busca e apreensão, todos autorizados pelo Poder Judiciário. Até o momento, duas pessoas foram presas.</p>
-<p>Durante o cumprimento das ordens judiciais, os policiais apreenderam celulares, dispositivos eletrônicos, mídias de armazenamento e outros materiais que serão submetidos à perícia técnica. O objetivo é aprofundar a identificação de vítimas e dimensionar o alcance do esquema.</p>
-<p>A investigação, conduzida pela Delegacia de Polícia de Repressão aos Crimes Cibernéticos, aponta que o grupo atuava de forma estruturada, utilizando chantagem, ameaça e manipulação psicológica para obter dinheiro das vítimas.</p>
-<p>O crime tinha início após encontros presenciais, quando eram obtidas imagens íntimas da vítima. Posteriormente, esse material passava a ser usado como instrumento de coerção, com ameaças de divulgação a familiares, ex-companheiras e pessoas do convívio social, caso não houvesse pagamento.</p>
+<title>Evo Web News - RS (ABC+ Multi RSS)</title>
+<atom:link href="https://evwbr.github.io/rs/feed.xml" rel="self" type="application/rss+xml"/>
+<link>https://evwbr.github.io/rs/</link>
+<description>Notícias do Rio Grande do Sul (últimas 24h) reescritas com IA - Evo Web News</description>
+<lastBuildDate>Tue, 27 Jan 2026 21:57:31 GMT</lastBuildDate>
+<language>pt-BR</language>
+<item>
+<title><![CDATA[Pesquisa do Procon RS revela variação de 3.400% nos preços de material escolar]]></title>
+<link>https://www.abcmais.com/brasil/rio-grande-do-sul/variacao-de-3-400-no-material-escolar-pesquisa-do-procon-rs-aponta-grande-disparidade-nos-precos/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Tue, 27 Jan 2026 21:10:38 GMT</pubDate>
+<category><![CDATA[Rio Grande do Sul]]></category>
+<guid isPermaLink="false"><![CDATA[rsmulti:cfa7edb78432d34b2a14bf8b81ec433b5afe5ecb]]></guid>
+<description><![CDATA[Levantamento realizado em dez cidades do Rio Grande do Sul aponta grande disparidade nos valores de uma lista básica de materiais escolares para o início do ano letivo.]]></description>
+<content:encoded><![CDATA[
+<p>Levantamento realizado em dez cidades do Rio Grande do Sul aponta grande disparidade nos valores de uma lista básica de materiais escolares para o início do ano letivo. A pesquisa anual de preços de materiais escolares no Rio Grande do Sul foi realizada entre os dias 20 e 21 de janeiro de 2026 pelo Procon RS. O levantamento considerou 20 produtos que compõem uma lista básica, incluindo caderno, lápis de cor, borracha, tesoura, caneta esferográfica, estojo e papel sulfite.</p>
+<p>No comparativo geral entre as cidades pesquisadas, os itens mais baratos totalizaram R$ 36,78, enquanto os mais caros somaram R$ 1.304,28, representando uma diferença superior a 3.400%. As cidades analisadas foram Crissiumal, Dois Irmãos, Frederico Westphalen, Guaíba, Nova Candelária, Nova Petrópolis, Rio Pardo, Triunfo, Terra de Areia e XV de Novembro.</p>
+<p>O Procon RS destacou que materiais de uso coletivo ou comuns, como produtos de higiene, pacotes de folhas e canetas de lousa, não podem ser exigidos dos consumidores, pois devem estar incluídos no custo da instituição de ensino e na mensalidade. A pesquisa utilizou o aplicativo Menor Preço Nota Gaúcha para coleta dos dados.</p>
+<p>Além disso, a Lei do Superendividamento, incorporada ao Código de Defesa do Consumidor, determina que os produtos devem apresentar preço por unidade de medida, facilitando a comparação entre diferentes quantidades e possibilitando ao consumidor verificar o valor pago por unidade.</p>
+<p>O levantamento reforça a importância da pesquisa de preços para que famílias possam economizar na compra dos materiais escolares no início do ano letivo.</p>
 ]]></content:encoded>
-  </item>
+</item>
 </channel></rss>
