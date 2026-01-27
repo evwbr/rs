@@ -5,41 +5,10 @@
  xmlns:atom="http://www.w3.org/2005/Atom"
  xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
-<title>Evo Web News - RS (AgoraRS)</title>
+<title><![CDATA[Evo Web News - RS (AgoraRS)]]></title>
 <atom:link href="https://evwbr.github.io/rs/feed.xml" rel="self" type="application/rss+xml"/>
 <link>https://evwbr.github.io/rs/</link>
-<description>Notícias do Rio Grande do Sul (últimas 24h) reescritas com IA - Evo Web News</description>
-<lastBuildDate>Tue, 27 Jan 2026 12:56:33 GMT</lastBuildDate>
+<description><![CDATA[Notícias do Rio Grande do Sul (últimas 24h) reescritas com IA - Evo Web News]]></description>
+<lastBuildDate>Tue, 27 Jan 2026 13:21:33 GMT</lastBuildDate>
 <language>pt-BR</language>
-<item>
-<title><![CDATA[Ambulatório Trans de Porto Alegre terá melhorias e mudança de endereço]]></title>
-<link>https://agorars.com/rs/porto-alegre/ambulatorio-trans-porto-alegre-amplia-estrutura-2026/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Tue, 27 Jan 2026 12:39:00 GMT</pubDate>
-<category><![CDATA[Rio Grande do Sul]]></category>
-<guid isPermaLink="false"><![CDATA[rsagorars:086334a396da41a922053023f85104c13afa53f5]]></guid>
-<media:thumbnail url="https://agorars.com/wp-content/uploads/2023/08/230110_CristineRochol_AmbuTransCentroGrupo_SMS-3369-jpg.webp" />
-<enclosure url="https://agorars.com/wp-content/uploads/2023/08/230110_CristineRochol_AmbuTransCentroGrupo_SMS-3369-jpg.webp" type="image/webp" />
-<description><![CDATA[O Ambulatório Trans de Porto Alegre será ampliado em 2026 para melhorar o atendimento à população trans, com aumento do número de consultórios e estrutura física.]]></description>
-<content:encoded><![CDATA[
-<p>O Ambulatório Trans de Porto Alegre será ampliado em 2026 para melhorar o atendimento à população trans, com aumento do número de consultórios e estrutura física. Atualmente, o ambulatório funciona no primeiro andar do Centro de Saúde Santa Marta, localizado na rua Capitão Montanha, 27. A partir desta terça-feira (27), às 13h, passará a atender no quinto andar do mesmo prédio.</p>
-<p>A transferência de espaço ocorre devido à ampliação das atividades do Ambulatório Trans, que conta com a equipe da Secretaria Municipal de Saúde e mantém parceria com instituições de ensino. O crescimento dessas ações tornou o espaço anterior insuficiente para a demanda atual.</p>
-<p>As melhorias previstas visam qualificar ainda mais o atendimento prestado à população trans em Porto Alegre.</p>
-]]></content:encoded>
-</item>
-<item>
-<title><![CDATA[Rio Grande do Sul registra 10º feminicídio do ano em Santa Cruz do Sul]]></title>
-<link>https://agorars.com/rs/vales/rio-pardo/rs-decimo-feminicidio-2026-santa-cruz-do-sul/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Tue, 27 Jan 2026 12:22:04 GMT</pubDate>
-<category><![CDATA[Rio Grande do Sul]]></category>
-<guid isPermaLink="false"><![CDATA[rsagorars:c7b647bee437b78ff903ef48e74f6a7d684f1695]]></guid>
-<media:thumbnail url="https://uploads.agorars.com/2024/10/l5nWVAra-canal-whatsapp-agorars-120x120.webp" />
-<enclosure url="https://uploads.agorars.com/2024/10/l5nWVAra-canal-whatsapp-agorars-120x120.webp" type="image/webp" />
-<description><![CDATA[Uma mulher de 44 anos foi morta a facadas na noite de segunda-feira em Santa Cruz do Sul, no Vale do Rio Pardo.]]></description>
-<content:encoded><![CDATA[
-<p>Uma mulher de 44 anos foi morta a facadas na noite de segunda-feira em Santa Cruz do Sul, no Vale do Rio Pardo. A vítima, Paula Gomes Gonhi, foi assassinada na casa do casal, localizada no bairro Renascença. O principal suspeito é o companheiro dela, de 31 anos, que teve prisão em flagrante decretada.</p>
-<p>Na ocasião do crime, ele desconfiava de uma traição por parte da vítima, o que motivou o ataque com golpes de faca. Este é o 10º feminicídio registrado no Rio Grande do Sul neste ano.</p>
-]]></content:encoded>
-</item>
 </channel></rss>
