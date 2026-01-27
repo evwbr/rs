@@ -2,26 +2,142 @@
 <rss version="2.0"
  xmlns:content="http://purl.org/rss/1.0/modules/content/"
  xmlns:dc="http://purl.org/dc/elements/1.1/"
- xmlns:atom="http://www.w3.org/2005/Atom">
+ xmlns:atom="http://www.w3.org/2005/Atom"
+ xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
-<title>Evo Web News - RS (ABC+ Multi RSS)</title>
+<title>Evo Web News - RS (AgoraRS)</title>
 <atom:link href="https://evwbr.github.io/rs/feed.xml" rel="self" type="application/rss+xml"/>
 <link>https://evwbr.github.io/rs/</link>
 <description>Notícias do Rio Grande do Sul (últimas 24h) reescritas com IA - Evo Web News</description>
-<lastBuildDate>Mon, 26 Jan 2026 23:57:05 GMT</lastBuildDate>
+<lastBuildDate>Tue, 27 Jan 2026 12:18:45 GMT</lastBuildDate>
 <language>pt-BR</language>
 <item>
-<title><![CDATA[Fluminense e Grêmio se enfrentam no Maracanã pela primeira rodada do Brasileirão 2026]]></title>
-<link>https://www.abcmais.com/esportes/futebol/gremio/fluminense-x-gremio-onde-assistir-ao-jogo-pelo-brasileirao-nesta-quarta-feira-28-2/</link>
+<title><![CDATA[Tempo estável com calor e possibilidade de pancadas de chuva no Rio Grande do Sul]]></title>
+<link>https://agorars.com/agora-no-tempo/previsao-do-tempo/previsao-do-tempo-indica-calor-e-chance-de-chuva-em-parte-do-rs-nesta-terca/</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Mon, 26 Jan 2026 23:19:00 GMT</pubDate>
+<pubDate>Mon, 26 Jan 2026 22:32:31 GMT</pubDate>
 <category><![CDATA[Rio Grande do Sul]]></category>
-<guid isPermaLink="false"><![CDATA[rsmulti:432b0ef8421261db25396d6fa6f9c19d8cd28696]]></guid>
-<description><![CDATA[Fluminense e Grêmio jogam nesta quarta-feira (28), às 19h30, no Maracanã, no Rio de Janeiro, pela estreia no Campeonato Brasileiro de 2026.]]></description>
+<guid isPermaLink="false"><![CDATA[rsagorars:84214a2af9c4c49c8a949edfe8007b59c77af2f2]]></guid>
+<media:thumbnail url="https://uploads.agorars.com/2024/07/guDg1WpR-sol-entre-nuvens-porto-alegre-leonardo-severo-agorars-jpeg.webp" />
+<enclosure url="https://uploads.agorars.com/2024/07/guDg1WpR-sol-entre-nuvens-porto-alegre-leonardo-severo-agorars-jpeg.webp" type="image/webp" />
+<description><![CDATA[A terça-feira (27) terá tempo estável e calor em grande parte do Rio Grande do Sul, com possibilidade de pancadas de chuva especialmente à tarde e à noite.]]></description>
 <content:encoded><![CDATA[
-<p>Fluminense e Grêmio jogam nesta quarta-feira (28), às 19h30, no Maracanã, no Rio de Janeiro, pela estreia no Campeonato Brasileiro de 2026. O Grêmio chega para o confronto após derrota no Gre-Nal 449 por 4 a 2 e soma três vitórias e duas derrotas no Gauchão. A equipe ainda conta com desfalques importantes, já que Kannemann, Braithwaite, Villasanti e Pavon permanecem no departamento médico.</p>
-<p>O Fluminense vem motivado após vitória por 2 a 1 sobre o Flamengo no Campeonato Carioca, acumulando três triunfos consecutivos. No entanto, Hércules, Soteldo e Cano são dúvidas para a partida de estreia no Brasileirão.</p>
-<p>A partida entre Fluminense e Grêmio será transmitida pelos canais Premiere, CazéTV e Record, a partir das 19h30 desta quarta-feira no Maracanã.</p>
+<p>A terça-feira (27) terá tempo estável e calor em grande parte do Rio Grande do Sul, com possibilidade de pancadas de chuva especialmente à tarde e à noite. As temperaturas mínimas variam entre 12°C na Serra e 24°C no Oeste do estado. Já as máximas devem oscilar entre 24°C nos Campos de Cima da Serra e 37°C no Noroeste do Rio Grande do Sul.</p>
+<p>A umidade relativa do ar permanece baixa em grande parte do estado, com índices próximos de 30%. O sol aparece entre nuvens na Orla do Guaíba, em Porto Alegre, durante o dia.</p>
+]]></content:encoded>
+</item>
+<item>
+<title><![CDATA[Engavetamento com quatro veículos deixa quatro feridos na ERS-240 em São Leopoldo]]></title>
+<link>https://agorars.com/agora-no-transito/engavetamento-na-ers-240-deixa-quatro-feridos-em-sao-leopoldo/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Mon, 26 Jan 2026 22:11:35 GMT</pubDate>
+<category><![CDATA[Rio Grande do Sul]]></category>
+<guid isPermaLink="false"><![CDATA[rsagorars:40ed9cdd952e94abf06d893346d62395386fe5d5]]></guid>
+<media:thumbnail url="https://uploads.agorars.com/2025/12/4rJCkaSP-card-transito-2026-8.webp" />
+<enclosure url="https://uploads.agorars.com/2025/12/4rJCkaSP-card-transito-2026-8.webp" type="image/webp" />
+<description><![CDATA[Quatro pessoas ficaram feridas após um engavetamento envolvendo quatro veículos na ERS-240, em São Leopoldo, no Vale do Sinos.]]></description>
+<content:encoded><![CDATA[
+<p>Quatro pessoas ficaram feridas após um engavetamento envolvendo quatro veículos na ERS-240, em São Leopoldo, no Vale do Sinos. O acidente ocorreu por volta das 16h no quilômetro 1 da rodovia, no sentido São Leopoldo–Portão. Um Chevrolet Kadett apresentou falha mecânica no sistema de suspensão enquanto trafegava pela faixa da direita, o que fez o motorista perder o controle da direção e atravessar para a faixa da esquerda.</p>
+<p>Na sequência, o Kadett colidiu na traseira de um Peugeot 208 e de uma motoneta Honda Biz, que trafegava logo atrás. Com o impacto, o Peugeot foi projetado contra a traseira de um Fiat Uno que seguia à frente.</p>
+<p>Quatro pessoas ficaram feridas no engavetamento registrado na ERS-240.</p>
+]]></content:encoded>
+</item>
+<item>
+<title><![CDATA[Homem é preso após tentativa de feminicídio em Lagoa Vermelha]]></title>
+<link>https://agorars.com/plantao-rs/homem-e-preso-apos-atear-fogo-na-ex-companheira-em-lagoa-vermelha/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Mon, 26 Jan 2026 21:53:18 GMT</pubDate>
+<category><![CDATA[Rio Grande do Sul]]></category>
+<guid isPermaLink="false"><![CDATA[rsagorars:028e32f0a88fc3d1f4d9c089514003b528264724]]></guid>
+<media:thumbnail url="https://uploads.agorars.com/2025/12/KOX8O5Tp-card-policia-2026-8.webp" />
+<enclosure url="https://uploads.agorars.com/2025/12/KOX8O5Tp-card-policia-2026-8.webp" type="image/webp" />
+<description><![CDATA[Polícia Civil prendeu o suspeito que atacou ex-companheira com gasolina e fogo no centro de Lagoa Vermelha.]]></description>
+<content:encoded><![CDATA[
+<p>Polícia Civil prendeu o suspeito que atacou ex-companheira com gasolina e fogo no centro de Lagoa Vermelha. O crime ocorreu na madrugada de domingo, quando uma mulher de 38 anos foi gravemente ferida após o ex-companheiro jogar gasolina e atear fogo ao corpo dela por volta das 1h50. A vítima sofreu queimaduras de.</p>
+<p>A irmã também foi ameaçada, mas conseguiu se afastar. A mulher aguarda transferência para uma unidade especializada no atendimento a pacientes queimados. O caso é tratado como tentativa de feminicídio pela Polícia Civil.</p>
+<p>O suspeito foi preso na tarde desta segunda-feira pela Polícia Civil de Lagoa Vermelha.</p>
+]]></content:encoded>
+</item>
+<item>
+<title><![CDATA[Lula e Trump discutem cooperação bilateral em ligação telefônica]]></title>
+<link>https://agorars.com/brasil-e-mundo/lula-conversa-por-telefone-com-trump-sobre-economia-tarifas-e-venezuela/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Mon, 26 Jan 2026 19:01:22 GMT</pubDate>
+<category><![CDATA[Rio Grande do Sul]]></category>
+<guid isPermaLink="false"><![CDATA[rsagorars:c10fb7b2fac46ae16dca8ebc9481a42873a34147]]></guid>
+<media:thumbnail url="https://uploads.agorars.com/2025/10/G5Ic40bn-Lula-encontro-com-o-Presidente-dos-Estados-Unidos.webp" />
+<enclosure url="https://uploads.agorars.com/2025/10/G5Ic40bn-Lula-encontro-com-o-Presidente-dos-Estados-Unidos.webp" type="image/webp" />
+<description><![CDATA[Os presidentes Luiz Inácio Lula da Silva e Donald Trump conversaram por cerca de 50 minutos sobre a relação entre Brasil e Estados Unidos e temas internacionais.]]></description>
+<content:encoded><![CDATA[
+<p>Os presidentes Luiz Inácio Lula da Silva e Donald Trump conversaram por cerca de 50 minutos sobre a relação entre Brasil e Estados Unidos e temas internacionais. Durante a conversa, os líderes trocaram informações sobre indicadores econômicos dos dois países, destacando o impacto positivo do crescimento das economias para a região.</p>
+<p>Foi ressaltado o relacionamento recente que resultou na redução de tarifas sobre produtos brasileiros exportados aos Estados Unidos. Na área de segurança, Lula reiterou uma proposta enviada ao Departamento de Estado norte-americano para ampliar a cooperação no combate ao crime organizado, incluindo ações contra lavagem de dinheiro, tráfico de armas, congelamento de ativos e intercâmbio de dados financeiros.</p>
+<p>A proposta recebeu uma resposta positiva por parte de Trump. A ligação reforça o diálogo entre Brasil e Estados Unidos em questões econômicas e de segurança.</p>
+]]></content:encoded>
+</item>
+<item>
+<title><![CDATA[Quatro pessoas morrem em acidentes nas rodovias do Rio Grande do Sul entre domingo e segunda]]></title>
+<link>https://agorars.com/agora-no-transito/rs-registra-quatro-mortes-em-acidentes-de-transito-em-rodovias/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Mon, 26 Jan 2026 18:31:16 GMT</pubDate>
+<category><![CDATA[Rio Grande do Sul]]></category>
+<guid isPermaLink="false"><![CDATA[rsagorars:d8bf501abedccb65375c25c72bcf35678137777e]]></guid>
+<media:thumbnail url="https://uploads.agorars.com/2025/12/dlt8Hq0V-card-transito-2026-6.webp" />
+<enclosure url="https://uploads.agorars.com/2025/12/dlt8Hq0V-card-transito-2026-6.webp" type="image/webp" />
+<description><![CDATA[Quatro mortes foram registradas em acidentes de trânsito em rodovias federais e estaduais do Rio Grande do Sul entre a noite de domingo e a manhã desta segunda-feira.]]></description>
+<content:encoded><![CDATA[
+<p>Quatro mortes foram registradas em acidentes de trânsito em rodovias federais e estaduais do Rio Grande do Sul entre a noite de domingo e a manhã desta segunda-feira. O primeiro acidente ocorreu por volta das 23h30 de domingo no km 108 da BR-116, em São Marcos, na Serra gaúcha. Um motociclista de 23 anos colidiu contra uma vaca que estava na pista e morreu no local. A motocicleta era uma Shineray com placas de Barracão. A identificação preliminar foi feita por um familiar.</p>
+<p>Na madrugada desta segunda-feira, por volta de 0h30, uma mulher de 28 anos morreu após ser atropelada por um caminhão na BR-386, em Triunfo, na região metropolitana. A vítima caminhava pela faixa de rolamento em um trecho sem iluminação e em curva quando foi atingida por uma carreta Scania. O condutor parou no local, acionou socorro e passou pelo teste do etilômetro, que não indicou consumo de álcool. A identidade da vítima não foi divulgada oficialmente.</p>
+<p>As ocorrências envolvem atropelamentos e colisões e reforçam a necessidade de atenção nas rodovias do estado.</p>
+]]></content:encoded>
+</item>
+<item>
+<title><![CDATA[DMLU remove cerca de 20 toneladas de resíduos em operação no Sarandi]]></title>
+<link>https://agorars.com/rs/porto-alegre/dmlu-remove-20-toneladas-de-lixo-em-ponto-de-descarte-irregular-na-zona-norte/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Mon, 26 Jan 2026 18:07:25 GMT</pubDate>
+<category><![CDATA[Rio Grande do Sul]]></category>
+<guid isPermaLink="false"><![CDATA[rsagorars:129ce856ee92d75c42dfbc05f540f7e2cebdcc45]]></guid>
+<media:thumbnail url="https://uploads.agorars.com/2026/01/NPv1bGb0-DMLU1.jpg-1.webp" />
+<enclosure url="https://uploads.agorars.com/2026/01/NPv1bGb0-DMLU1.jpg-1.webp" type="image/webp" />
+<description><![CDATA[O Departamento Municipal de Limpeza Urbana realizou uma ação de limpeza na avenida Nossa Senhora Aparecida, no bairro Sarandi, zona norte de Porto Alegre, removendo cerca de 20 toneladas de resíduos.]]></description>
+<content:encoded><![CDATA[
+<p>O Departamento Municipal de Limpeza Urbana realizou uma ação de limpeza na avenida Nossa Senhora Aparecida, no bairro Sarandi, zona norte de Porto Alegre, removendo cerca de 20 toneladas de resíduos.</p>
+<p>A operação ocorreu no domingo e contou com uma equipe de quatro garis, além do apoio de oito caminhões e duas retroescavadeiras para a retirada do lixo acumulado em diferentes pontos da via.</p>
+<p>O local é conhecido pelo descarte irregular de lixo, e as ações aos domingos fazem parte de uma estratégia para atuar em áreas com reincidência, permitindo intervenções mais concentradas e com menor impacto no trânsito.</p>
+<p>O DMLU segue realizando operações para manter a limpeza urbana e combater o descarte irregular na cidade.</p>
+]]></content:encoded>
+</item>
+<item>
+<title><![CDATA[Petrobras reduz preço da gasolina A em 5,2% para distribuidoras]]></title>
+<link>https://agorars.com/agora-no-transito/petrobras-reduz-preco-da-gasolina-para-distribuidoras-a-partir-desta-terca-feira/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Mon, 26 Jan 2026 16:51:23 GMT</pubDate>
+<category><![CDATA[Rio Grande do Sul]]></category>
+<guid isPermaLink="false"><![CDATA[rsagorars:5c4f1c75939ba86069118cc79da902568f48b4e2]]></guid>
+<media:thumbnail url="https://uploads.agorars.com/2025/09/I9TB5fMg-combustiveis-gasolina-etanol.webp" />
+<enclosure url="https://uploads.agorars.com/2025/09/I9TB5fMg-combustiveis-gasolina-etanol.webp" type="image/webp" />
+<description><![CDATA[A Petrobras anunciou redução de 5,2% no preço da gasolina A para distribuidoras, com novo valor médio de R$ 2,57 por litro a partir desta terça-feira.]]></description>
+<content:encoded><![CDATA[
+<p>A Petrobras anunciou redução de 5,2% no preço da gasolina A para distribuidoras, com novo valor médio de R$ 2,57 por litro a partir desta terça-feira. A gasolina A é o combustível produzido nas refinarias, sem adição de etanol. Após a venda às distribuidoras, ocorre a mistura com etanol anidro, resultando na gasolina C, que é comercializada nos postos.</p>
+<p>Desde dezembro de 2022, o preço da gasolina para as distribuidoras já acumula uma redução total de R$ 0,50 por litro. Considerando a inflação do período, a queda real no preço é de 26,9%.</p>
+<p>A redução no preço da gasolina A para distribuidoras pode impactar os valores praticados nos postos de combustíveis.</p>
+]]></content:encoded>
+</item>
+<item>
+<title><![CDATA[Inscrições para o Prouni 2026 começam nesta segunda-feira]]></title>
+<link>https://agorars.com/cotidiano/inscricoes-prouni-2026-primeiro-semestre/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Mon, 26 Jan 2026 13:48:37 GMT</pubDate>
+<category><![CDATA[Rio Grande do Sul]]></category>
+<guid isPermaLink="false"><![CDATA[rsagorars:a620e3426b6d9645404fe80a260e74bd0f7e31f2]]></guid>
+<media:thumbnail url="https://uploads.agorars.com/2024/07/pD5oQtKD-prouni-2024.webp" />
+<enclosure url="https://uploads.agorars.com/2024/07/pD5oQtKD-prouni-2024.webp" type="image/webp" />
+<description><![CDATA[Estão abertas as inscrições para o processo seletivo do primeiro semestre de 2026 do Programa Universidade para Todos (Prouni), que devem ser feitas exclusivamente pela internet até quinta-feira.]]></description>
+<content:encoded><![CDATA[
+<p>Estão abertas as inscrições para o processo seletivo do primeiro semestre de 2026 do Programa Universidade para Todos (Prouni), que devem ser feitas exclusivamente pela internet até quinta-feira.</p>
+<p>O processo seletivo do Prouni é gratuito e pode ser realizado pelo Portal Único de Acesso ao Ensino Superior. Para se inscrever, o estudante precisa ter concluído o ensino médio, ter participado do Exame Nacional do Ensino Médio (Enem) de 2024 e/ou 2025, ter obtido no mínimo 450 pontos na média das cinco provas do exame e não ter zerado a prova de redação do Enem.</p>
+<p>O edital do programa impede a inscrição de candidatos que participaram do Enem na condição de treineiros ou para autoavaliação antes de concluir o ensino médio. Para classificação e pré-seleção, será considerada a edição do Enem em que o estudante obteve a melhor média.</p>
+<p>Os candidatos também devem atender a pelo menos uma das condições específicas estabelecidas pelo Ministério da Educação para participar do processo seletivo.</p>
 ]]></content:encoded>
 </item>
 </channel></rss>
