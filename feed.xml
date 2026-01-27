@@ -5,10 +5,210 @@
  xmlns:atom="http://www.w3.org/2005/Atom"
  xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
-<title><![CDATA[Evo Web News - RS (AgoraRS)]]></title>
-<atom:link href="https://evwbr.github.io/rs/feed.xml" rel="self" type="application/rss+xml"/>
-<link>https://evwbr.github.io/rs/</link>
-<description><![CDATA[Notícias do Rio Grande do Sul (últimas 24h) reescritas com IA - Evo Web News]]></description>
-<lastBuildDate>Tue, 27 Jan 2026 16:12:31 GMT</lastBuildDate>
-<language>pt-BR</language>
+  <title>Evo Web News - RS (AgoraRS)</title>
+  <atom:link href="https://evwbr.github.io/rs/feed.xml" rel="self" type="application/rss+xml"/>
+  <link>https://evwbr.github.io/rs/</link>
+  <description>Not?cias do Rio Grande do Sul (?ltimas 72h) reescritas com IA - Evo Web News</description>
+  <lastBuildDate>Tue, 27 Jan 2026 16:25:27 GMT</lastBuildDate>
+  <language>pt-BR</language>
+  <item>
+    <title><![CDATA[Defesa Civil alerta para temporais com granizo no RS nos pr?ximos dias | Agora RS]]></title>
+    <link>https://agorars.com/agora-no-tempo/defesa-civil-alerta-chuvas-temporais-rs/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Tue, 27 Jan 2026 14:55:59 GMT</pubDate>
+    <category><![CDATA[Rio Grande do Sul]]></category>
+    <guid isPermaLink="false"><![CDATA[rsagorars:d5af2caf7b8b769f38e4c4e51b5f5c31b561282f]]></guid>
+    <media:thumbnail url="https://uploads.agorars.com/2025/12/Tempo_quente_pancadas_chuva.jpg" />
+    <enclosure url="https://uploads.agorars.com/2025/12/Tempo_quente_pancadas_chuva.jpg" type="image/webp" />
+    <description><![CDATA[A Defesa Civil do Rio Grande do Sul emitiu um alerta para a possibilidade de temporais com granizo nos pr?ximos dias. O aviso ? v?lido at? quinta-feira, 29 de setembro.
+
+A previs?o indica que uma...]]></description>
+    <content:encoded><![CDATA[
+<p>A Defesa Civil do Rio Grande do Sul emitiu um alerta para a possibilidade de temporais com granizo nos pr?ximos dias. O aviso ? v?lido at? quinta-feira, 29 de setembro.</p>
+<p>A previs?o indica que uma ?rea de baixa press?o, combinada com ar quente e ?mido, pode resultar em chuvas intensas, especialmente durante a tarde e a noite. H? risco de precipita??es fortes e queda de granizo isolado, principalmente no extremo-sul do estado.</p>
+<p>O alerta abrange as regi?es Sul, Campanha, Oeste e Centro do Rio Grande do Sul. No Nordeste e na Serra, podem ocorrer pancadas isoladas de chuva acompanhadas de trovoadas. As condi??es clim?ticas no Norte do estado tamb?m indicam a possibilidade de chuvas fortes e granizo.</p>
+<p>Al?m disso, o Instituto Nacional de Meteorologia (Inmet) tamb?m emitiu um aviso para tempestades a partir desta ter?a-feira, 27, com vig?ncia at? a manh? de quarta-feira, 28. O dia ser? marcado por calor em todo o estado, com rajadas de vento no litoral.</p>
+<p>A previs?o aponta para um aumento da instabilidade a partir da metade da semana, com chances de pancadas de chuva e descargas el?tricas. No domingo, o tempo deve permanecer firme, com temperaturas alcan?ando at? 36 ?C e umidade do ar em n?veis baixos.</p>
+<p>A Defesa Civil alerta ainda para o risco de baixa umidade relativa do ar, que pode afetar a sa?de e as lavouras de soja e milho na regi?o.</p>
+]]></content:encoded>
+  </item>
+  <item>
+    <title><![CDATA[Fran?a d? 1? passo para proibir redes sociais para menores de 15 anos | Agora RS]]></title>
+    <link>https://agorars.com/brasil-e-mundo/franca-proibe-redes-sociais-menores-15-anos/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Tue, 27 Jan 2026 14:33:25 GMT</pubDate>
+    <category><![CDATA[Rio Grande do Sul]]></category>
+    <guid isPermaLink="false"><![CDATA[rsagorars:cdf529b29c87db39e5ac0bbac748feee82b8eb93]]></guid>
+    <media:thumbnail url="https://uploads.agorars.com/2026/01/pexels-ivan-s-6968834.jpg" />
+    <enclosure url="https://uploads.agorars.com/2026/01/pexels-ivan-s-6968834.jpg" type="image/webp" />
+    <description><![CDATA[A C?mara dos Deputados da Fran?a aprovou, na madrugada desta ter?a-feira (27), um projeto de lei que pro?be o acesso de crian?as e adolescentes menores de 15 anos ?s redes sociais. A medida visa...]]></description>
+    <content:encoded><![CDATA[
+<p>A C?mara dos Deputados da Fran?a aprovou, na madrugada desta ter?a-feira (27), um projeto de lei que pro?be o acesso de crian?as e adolescentes menores de 15 anos ?s redes sociais. A medida visa proteger a sa?de mental e o desenvolvimento dos jovens em face dos impactos do uso precoce e excessivo das plataformas digitais.</p>
+<p>A proposta, que conta com o apoio do governo, foi aprovada pela Assembleia Nacional com 130 votos a favor e 21 contra. Agora, o projeto seguir? para an?lise do Senado. A ministra de Assuntos Digitais da Fran?a, Anne Le H?naff, afirmou que a discuss?o sobre a proposta deve ocorrer nas pr?ximas semanas.</p>
+<p>Se aprovada em definitivo, a Fran?a se tornar? o primeiro pa?s europeu a estabelecer um limite legal de idade para o acesso ?s redes sociais. A iniciativa, proposta pela deputada Laure Miller, especifica que o acesso a servi?os de redes sociais fornecidos por plataformas online ? proibido para menores de 15 anos. No entanto, servi?os de mensagens privadas, como o WhatsApp, n?o ser?o afetados.</p>
+<p>Al?m disso, o projeto inclui a proibi??o de celulares em escolas de ensino m?dio, embora essa parte da proposta ainda precise passar por uma segunda vota??o.</p>
+<p>O presidente franc?s, Emmanuel Macron, comemorou a aprova??o e considerou a vota??o um &quot;passo importante&quot;. Ele destacou que a proibi??o do uso de redes sociais para menores de 15 anos ? uma recomenda??o de especialistas e um desejo da maioria da popula??o. Macron tamb?m anunciou a solicita??o de um procedimento legislativo acelerado para que a nova lei entre em vigor a partir de 1? de setembro.</p>
+<p>O presidente enfatizou que a iniciativa busca evitar a forma??o de uma &quot;gera??o ansiosa&quot; e refor?ar os valores republicanos, afirmando que as crian?as e adolescentes devem ser protegidos de influ?ncias externas.</p>
+]]></content:encoded>
+  </item>
+  <item>
+    <title><![CDATA[Calor dos pr?ximos dias pode afetar lavouras de soja e milho no RS, diz Climatempo | Agora RS]]></title>
+    <link>https://agorars.com/agora-no-tempo/calor-estresse-termico-hidrico-lavouras-rs/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Tue, 27 Jan 2026 14:17:53 GMT</pubDate>
+    <category><![CDATA[Rio Grande do Sul]]></category>
+    <guid isPermaLink="false"><![CDATA[rsagorars:b66fd401e54b0eaaa96e9e718443f435ab20459a]]></guid>
+    <media:thumbnail url="https://agorars.com/wp-content/uploads/2023/10/soja-solo-rico-bacterias-jpg.webp" />
+    <enclosure url="https://agorars.com/wp-content/uploads/2023/10/soja-solo-rico-bacterias-jpg.webp" type="image/webp" />
+    <description><![CDATA[O calor intenso previsto para os pr?ximos dias pode impactar negativamente as lavouras de soja e milho no Rio Grande do Sul. A Climatempo alerta para um aumento significativo das temperaturas, que...]]></description>
+    <content:encoded><![CDATA[
+<p>O calor intenso previsto para os pr?ximos dias pode impactar negativamente as lavouras de soja e milho no Rio Grande do Sul. A Climatempo alerta para um aumento significativo das temperaturas, que devem variar entre 35?C e 38?C, especialmente nas regi?es central, oeste e norte do estado. Esse cen?rio de estresse t?rmico e h?drico deve se prolongar do final de janeiro at? o in?cio de fevereiro.</p>
+<p>Apesar do alerta, a Secretaria da Agricultura, Pecu?ria, Produ??o Sustent?vel e Irriga??o (Seapi) informa que, de modo geral, as lavouras est?o se desenvolvendo bem, com estandes adequados e potencial produtivo satisfat?rio. No entanto, h? registros pontuais de mortalidade de pl?ntulas e estandes abaixo do ideal em ?reas de semeadura tardia. A pasta destaca que as principais dificuldades enfrentadas no manejo fitossanit?rio est?o relacionadas ao controle de plantas invasoras.</p>
+<p>As condi??es clim?ticas t?m favorecido o desenvolvimento das culturas, e n?o h? relatos generalizados de doen?as, apenas sintomas isolados de ferrugem-asi?tica, que est?o sendo monitorados. A presen?a de insetos-praga, como lagartas e percevejos, requer aten??o constante, especialmente nas lavouras que est?o entrando em fase reprodutiva.</p>
+<p>Para a cultura do milho, o clima est?vel at? o momento tem beneficiado a colheita em v?rias regi?es. A ?rea cultivada ? estimada em 785 mil hectares, com produtividade m?dia de 7.370 kg/ha. Mesmo em ?reas com umidade elevada dos gr?os, a colheita avan?a para liberar espa?o para o plantio da soja. Em diversas localidades, a produtividade ? considerada satisfat?ria, e o estado fitossanit?rio das lavouras ? bom.</p>
+<p>Atualmente, as temperaturas variam entre 23?C e 39?C, com a umidade relativa do ar em torno de 30% em grande parte do estado durante a tarde. Na quarta-feira (28), as m?nimas devem oscilar entre 14?C e 26?C, enquanto as m?ximas ficar?o entre 23?C e 37?C. Entre quinta (29) e sexta-feira (30), as temperaturas m?ximas devem variar entre 32?C e 33?C.</p>
+<p>Al?m disso, a Defesa Civil e o Inmet emitiram alertas sobre a possibilidade de tempestades e granizo em algumas regi?es do estado. A previs?o indica que o calor deve persistir, com chances de chuvas em partes do Rio Grande do Sul, especialmente a partir da metade da semana.</p>
+]]></content:encoded>
+  </item>
+  <item>
+    <title><![CDATA[Fiscaliza??o apreende 300 quilos de produtos impr?prios em S?o Louren?o do Sul | Agora RS]]></title>
+    <link>https://agorars.com/rs/sul-do-rs/forca-tarefa-apreende-alimentos-improprios-sao-lourenco-do-sul/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Tue, 27 Jan 2026 13:36:14 GMT</pubDate>
+    <category><![CDATA[Rio Grande do Sul]]></category>
+    <guid isPermaLink="false"><![CDATA[rsagorars:42e903638db3b8e058930d7f6c0a0f78028dd965]]></guid>
+    <media:thumbnail url="https://uploads.agorars.com/2026/01/mp-rs-sao-lourenco-do-sul.jpeg" />
+    <enclosure url="https://uploads.agorars.com/2026/01/mp-rs-sao-lourenco-do-sul.jpeg" type="image/webp" />
+    <description><![CDATA[A For?a-Tarefa do Programa Seguran?a dos Alimentos realizou uma opera??o de fiscaliza??o em quatro estabelecimentos de S?o Louren?o do Sul, no Litoral Sul do Rio Grande do Sul, nesta segunda-feira...]]></description>
+    <content:encoded><![CDATA[
+<p>A For?a-Tarefa do Programa Seguran?a dos Alimentos realizou uma opera??o de fiscaliza??o em quatro estabelecimentos de S?o Louren?o do Sul, no Litoral Sul do Rio Grande do Sul, nesta segunda-feira (26).</p>
+<p>Durante a a??o, foram apreendidos aproximadamente 300 quilos de produtos impr?prios para o consumo. Entre os itens recolhidos estavam carnes, pescados, fraldas descart?veis, banha, iogurtes e diversos produtos de padaria.</p>
+<p>As principais irregularidades encontradas inclu?ram armazenamento inadequado em rela??o ? temperatura e a presen?a de produtos vencidos, especialmente insumos utilizados na produ??o de itens de panifica??o. Al?m disso, foram identificados alimentos sem comprova??o de origem.</p>
+]]></content:encoded>
+  </item>
+  <item>
+    <title><![CDATA[Anvisa suspende venda de sal grosso e p? para decora??o | Agora RS]]></title>
+    <link>https://agorars.com/cotidiano/anvisa-suspende-po-decoracao-sal-grosso/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Tue, 27 Jan 2026 13:16:23 GMT</pubDate>
+    <category><![CDATA[Rio Grande do Sul]]></category>
+    <guid isPermaLink="false"><![CDATA[rsagorars:213dbaa1a8fd6e656ca0fa8acb93c095346f2982]]></guid>
+    <media:thumbnail url="https://uploads.agorars.com/2026/01/dSaotKAj-Ecommerce-Internet.webp" />
+    <enclosure url="https://uploads.agorars.com/2026/01/dSaotKAj-Ecommerce-Internet.webp" type="image/webp" />
+    <description><![CDATA[A Ag?ncia Nacional de Vigil?ncia Sanit?ria (Anvisa) suspendeu a venda, distribui??o, fabrica??o e uso do p? para decora??o da marca Sugar Art, produzido pela Madi Com?rcio e Ind?stria de Artigos para...]]></description>
+    <content:encoded><![CDATA[
+<p>A Ag?ncia Nacional de Vigil?ncia Sanit?ria (Anvisa) suspendeu a venda, distribui??o, fabrica??o e uso do p? para decora??o da marca Sugar Art, produzido pela Madi Com?rcio e Ind?stria de Artigos para Festas e Artesanatos Ltda. A medida inclui o recolhimento do produto, que foi considerado impr?prio para consumo devido ? presen?a de materiais pl?sticos.</p>
+<p>Al?m disso, a Anvisa tamb?m suspendeu a comercializa??o e o consumo do Sal Grosso Iodado (Ervas Finas) da marca Globo, fabricado pela Brasisal Alimentos Ltda. O recolhimento se aplica apenas ao lote 004/24 do sal grosso, com validade at? 30 de outubro de 2026. Esse lote foi reprovado em teste de determina??o de iodo, essencial para prevenir defici?ncias que podem causar problemas de sa?de, como o b?cio e complica??es durante a gesta??o.</p>
+<p>A Anvisa orienta os consumidores que j? adquiriram os produtos a entrarem em contato com a empresa pelo Servi?o de Atendimento ao Cliente (SAC) pelo telefone 0800 585 0303.</p>
+]]></content:encoded>
+  </item>
+  <item>
+    <title><![CDATA[Inmet alerta para tempestades no RS nesta ter?a-feira (27) | Agora RS]]></title>
+    <link>https://agorars.com/agora-no-tempo/inmet-alerta-tempestades-rs-terca-feira-2/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Tue, 27 Jan 2026 12:59:55 GMT</pubDate>
+    <category><![CDATA[Rio Grande do Sul]]></category>
+    <guid isPermaLink="false"><![CDATA[rsagorars:223e92dde50b13d6858e51245d8dff5941d7027d]]></guid>
+    <media:thumbnail url="https://uploads.agorars.com/2026/01/EyAEkcbi-Captura-de-tela-2026-01-27-094941-240x240.webp" />
+    <enclosure url="https://uploads.agorars.com/2026/01/EyAEkcbi-Captura-de-tela-2026-01-27-094941-240x240.webp" type="image/webp" />
+    <description><![CDATA[O Instituto Nacional de Meteorologia (Inmet) emitiu um alerta para tempestades em partes do Rio Grande do Sul nesta ter?a-feira, 27. O aviso come?a ?s 12h e permanece em vigor at? a manh? de...]]></description>
+    <content:encoded><![CDATA[
+<p>O Instituto Nacional de Meteorologia (Inmet) emitiu um alerta para tempestades em partes do Rio Grande do Sul nesta ter?a-feira, 27. O aviso come?a ?s 12h e permanece em vigor at? a manh? de quarta-feira, 28.</p>
+<p>A previs?o indica chuvas entre 20 e 30 mm/h, podendo chegar a 50 mm ao longo do dia. Tamb?m h? possibilidade de ventos fortes, com velocidades entre 40 e 60 km/h, e queda de granizo. O alerta n?o abrange todo o estado, sendo esperado que as chuvas atinjam a Fronteira Oeste, a Campanha, a Regi?o Central e a Regi?o Sul.</p>
+<p>O alerta ? classificado como amarelo, o que representa o menor n?vel de intensidade na escala do Inmet. Assim, o risco de interrup??es no fornecimento de energia el?trica, danos a planta??es, queda de galhos de ?rvores e alagamentos ? considerado baixo.</p>
+<p>Apesar da previs?o de temporais, a maior parte do estado deve apresentar um dia est?vel. As temperaturas m?nimas variam entre 12?C e 24?C, enquanto as m?ximas ficam entre 24?C e 37?C. A umidade relativa do ar deve girar em torno de 30% em diversas regi?es.</p>
+<p>O estado enfrenta um per?odo prolongado de estresse t?rmico e h?drico, o que pode impactar as lavouras de soja e milho. A previs?o do tempo para esta ter?a-feira indica calor em todo o estado, com possibilidade de rajadas de vento no litoral. A instabilidade deve aumentar a partir da metade da semana, com chances de pancadas de chuva e descargas el?tricas.</p>
+]]></content:encoded>
+  </item>
+  <item>
+    <title><![CDATA[Porto Alegre: Semana ter? forte calor e retorno da chuva | Agora RS]]></title>
+    <link>https://agorars.com/agora-no-tempo/previsao-tempo-porto-alegre-calor-chuva-semana/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Mon, 26 Jan 2026 12:33:47 GMT</pubDate>
+    <category><![CDATA[Rio Grande do Sul]]></category>
+    <guid isPermaLink="false"><![CDATA[rsagorars:0b48e9646003bfc8a27559430c2d7c5397ef9fe2]]></guid>
+    <media:thumbnail url="https://agorars.com/wp-content/uploads/2024/01/poa-jpg.webp" />
+    <enclosure url="https://agorars.com/wp-content/uploads/2024/01/poa-jpg.webp" type="image/webp" />
+    <description><![CDATA[A semana em Porto Alegre come?a com tempo firme e temperaturas elevadas. No entanto, a previs?o aponta para um aumento da instabilidade a partir da metade da semana, com possibilidade de chuvas e...]]></description>
+    <content:encoded><![CDATA[
+<p>A semana em Porto Alegre come?a com tempo firme e temperaturas elevadas. No entanto, a previs?o aponta para um aumento da instabilidade a partir da metade da semana, com possibilidade de chuvas e descargas el?tricas.</p>
+<p>Nesta segunda-feira, 26 de setembro, o sol predominar?, com algumas nuvens esparsas. Os ventos sopram de leste, com intensidade m?dia de 22 km/h e rajadas de at? 40 km/h no final da tarde e ? noite. A temperatura m?nima registrada foi de 21?C, enquanto a m?xima prevista ? de 34?C.</p>
+<p>Na ter?a-feira, 27 de setembro, o tempo continuar? firme, com sol entre poucas nuvens. Os ventos de leste/sudeste ter?o intensidade m?dia de 20 km/h e rajadas de at? 30 km/h, especialmente ? tarde e ? noite. As temperaturas devem variar entre 21?C e 35?C.</p>
+<p>A quarta-feira, 28 de setembro, marcar? o in?cio da mudan?a nas condi??es clim?ticas. O dia ser? nublado, com algumas aberturas de sol e possibilidade de pancadas de chuva e descargas el?tricas ? tarde, com acumulados em torno de 2 mm. Os ventos soprar?o de sul/sudeste, com intensidade m?dia de 20 km/h e rajadas de at? 40 km/h. As temperaturas devem variar entre 22?C e 32?C.</p>
+<p>Na quinta-feira, 29 de setembro, as instabilidades se intensificar?o. O dia ser? marcado por muita nebulosidade, com previs?o de chuvas, descargas el?tricas e eventual queda de granizo. Os acumulados previstos s?o de aproximadamente 5 mm. Os ventos soprar?o de sudeste, com intensidade m?dia de 20 km/h e rajadas de at? 45 km/h. As temperaturas devem variar entre 23?C e 31?C.</p>
+<p>A sexta-feira, 30 de setembro, seguir? com tempo inst?vel durante todo o dia, com previs?o de chuvas e descargas el?tricas, acumulando cerca de 5 mm. Os ventos continuar?o soprando de sudeste, com intensidade m?dia de 22 km/h e rajadas que podem alcan?ar 50 km/h. As temperaturas devem variar entre 22?C e 29?C.</p>
+<p>A previs?o de calor intenso pode impactar lavouras de soja e milho no estado, e a Defesa Civil emitiu alertas para tempestades e risco de baixa umidade relativa do ar nos pr?ximos dias.</p>
+]]></content:encoded>
+  </item>
+  <item>
+    <title><![CDATA[Justi?a mant?m pris?o de homem acusado de matar companheira em Novo Hamburgo | Agora RS]]></title>
+    <link>https://agorars.com/plantao-rs/justica-mantem-prisao-de-homem-acusado-de-matar-companheira-em-novo-hamburgo/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Mon, 26 Jan 2026 01:36:36 GMT</pubDate>
+    <category><![CDATA[Rio Grande do Sul]]></category>
+    <guid isPermaLink="false"><![CDATA[rsagorars:61d8cbe68dc486522104940393d2301709375003]]></guid>
+    <media:thumbnail url="https://uploads.agorars.com/2026/01/vitima-femincidio-nh.jpg" />
+    <enclosure url="https://uploads.agorars.com/2026/01/vitima-femincidio-nh.jpg" type="image/webp" />
+    <description><![CDATA[A Justi?a decidiu manter a pris?o preventiva de um homem de 31 anos, acusado de matar a companheira a facadas em Novo Hamburgo, no Vale do Sinos. A decis?o foi tomada ap?s uma audi?ncia de cust?dia...]]></description>
+    <content:encoded><![CDATA[
+<p>A Justi?a decidiu manter a pris?o preventiva de um homem de 31 anos, acusado de matar a companheira a facadas em Novo Hamburgo, no Vale do Sinos. A decis?o foi tomada ap?s uma audi?ncia de cust?dia realizada no N?cleo de Gest?o Estrat?gica do Sistema Prisional, conduzida pelo juiz Andr? Vorraber Costa.</p>
+<p>O crime ocorreu na madrugada de s?bado, 24 de setembro, na casa do casal, localizada no bairro Industrial. A v?tima, Karizele de Oliveira Sena, de 30 anos, foi atingida por m?ltiplos golpes de faca, principalmente no t?rax e no bra?o. Karizele deixa duas filhas, uma adolescente e um beb?, que estavam presentes no momento do crime.</p>
+<p>A pris?o do acusado foi decretada pela ju?za Andrea Hoch Cenne no mesmo dia do crime. Ele se apresentou espontaneamente na Delegacia de Pronto Atendimento de Novo Hamburgo, onde foi preso. A faca utilizada no crime foi encontrada dentro da resid?ncia.</p>
+<p>As investiga??es est?o sob responsabilidade da Pol?cia Civil, que continua a apurar os detalhes do caso. O homem permanece detido, aguardando transfer?ncia para o sistema prisional.</p>
+]]></content:encoded>
+  </item>
+  <item>
+    <title><![CDATA[Domingo ter? tempo firme e calor em todo o Rio Grande do Sul | Agora RS]]></title>
+    <link>https://agorars.com/agora-no-tempo/previsao-do-tempo/domingo-tera-tempo-firme-e-calor-em-todo-o-rio-grande-do-sul/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Sun, 25 Jan 2026 00:36:30 GMT</pubDate>
+    <category><![CDATA[Rio Grande do Sul]]></category>
+    <guid isPermaLink="false"><![CDATA[rsagorars:1a4d418513a392439c8cffb20104bba9f229fd30]]></guid>
+    <media:thumbnail url="https://agorars.com/wp-content/uploads/2024/02/12JAN2022_AlexRocha_Onda_Calor_-5-jpg.webp" />
+    <enclosure url="https://agorars.com/wp-content/uploads/2024/02/12JAN2022_AlexRocha_Onda_Calor_-5-jpg.webp" type="image/webp" />
+    <description><![CDATA[O tempo no Rio Grande do Sul neste domingo (25) ser? predominantemente ensolarado e quente. A previs?o aponta para temperaturas m?nimas variando de 12?C na Serra a 22?C em outras regi?es. As m?ximas...]]></description>
+    <content:encoded><![CDATA[
+<p>O tempo no Rio Grande do Sul neste domingo (25) ser? predominantemente ensolarado e quente. A previs?o aponta para temperaturas m?nimas variando de 12?C na Serra a 22?C em outras regi?es. As m?ximas devem oscilar entre 23?C nos Campos de Cima da Serra e 36?C, com os maiores ?ndices previstos para o Oeste, Noroeste, Centro e partes da regi?o metropolitana.</p>
+<p>A umidade relativa do ar deve ficar pr?xima de 30% em v?rias localidades, um n?vel considerado baixo, que requer aten??o para a hidrata??o e cuidados com a exposi??o ao sol, especialmente durante a tarde.</p>
+<p>No Litoral e na Serra Ga?cha, h? possibilidade de chuvas fracas a moderadas de forma isolada, com instabilidades tamb?m afetando ?reas do Leste do Estado, embora sem previs?o de grandes volumes de chuva. Mesmo nessas regi?es, o calor se manter? ao longo do dia, com sensa??o t?rmica elevada durante os per?odos de maior insola??o.</p>
+<p>A Defesa Civil j? emitiu alertas para temporais com granizo nos pr?ximos dias. Um aviso do Inmet, que entrar? em vigor ?s 12h de ter?a-feira (27) e se estender? at? a manh? de quarta-feira (28), indica a possibilidade de tempestades.</p>
+]]></content:encoded>
+  </item>
+  <item>
+    <title><![CDATA[Mulher e crian?a morrem afogadas em ?rea sem guarda-vidas em Tramanda? | Agora RS]]></title>
+    <link>https://agorars.com/plantao-rs/mulher-e-crianca-morrem-afogadas-em-area-sem-guarda-vidas-em-tramandai/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Sat, 24 Jan 2026 21:17:12 GMT</pubDate>
+    <category><![CDATA[Rio Grande do Sul]]></category>
+    <guid isPermaLink="false"><![CDATA[rsagorars:f9fc9bc38e0a0aa06a593b719a5324fd47f2a2b7]]></guid>
+    <media:thumbnail url="https://uploads.agorars.com/2024/12/eBd5Oqy9-viatura-corpo-bombeiros-militar.webp" />
+    <enclosure url="https://uploads.agorars.com/2024/12/eBd5Oqy9-viatura-corpo-bombeiros-militar.webp" type="image/webp" />
+    <description><![CDATA[Uma mulher e uma crian?a morreram afogadas na manh? deste s?bado (24) em Tramanda?, no Litoral Norte. O incidente ocorreu por volta das 11h em uma ?rea do mar sem a presen?a de guarda-vidas.
+
+O local...]]></description>
+    <content:encoded><![CDATA[
+<p>Uma mulher e uma crian?a morreram afogadas na manh? deste s?bado (24) em Tramanda?, no Litoral Norte. O incidente ocorreu por volta das 11h em uma ?rea do mar sem a presen?a de guarda-vidas.</p>
+<p>O local do afogamento ? conhecido como ?rea de pesca, pr?ximo ao Farol da Marinha. Segundo informa??es do Corpo de Bombeiros, m?e e filho foram retirados da ?gua j? desacordados, apresentando grau 6 de afogamento. Ambos foram levados ao Hospital de Tramanda?, mas n?o resistiram.</p>
+<p>As v?timas foram identificadas como Elisandra Vaz Fontoura, de 52 anos, e Davi Vaz Garcia da Rosa, de 10 anos, residentes em Teut?nia, no Vale do Taquari. Um jovem de 24 anos tamb?m estava envolvido na ocorr?ncia e foi resgatado consciente, recebendo atendimento do SAMU. Seu estado de sa?de ? est?vel, mas n?o h? informa??es sobre sua rela??o com as v?timas.</p>
+<p>Os bombeiros informaram que a guarita mais pr?xima estava a cerca de 700 metros do local do afogamento. Os guarda-vidas se deslocaram at? a ?rea com o aux?lio de quadriciclos e uma moto aqu?tica. O trecho onde ocorreu o afogamento ? caracterizado por ser uma ?rea de pesca, que apresenta riscos adicionais, como correntes de retorno.</p>
+<p>A corpora??o recomenda que banhistas evitem ?reas sem sinaliza??o e sem a presen?a de guarda-vidas, priorizando locais monitorados e respeitando as orienta??es de seguran?a.</p>
+]]></content:encoded>
+  </item>
+  <item>
+    <title><![CDATA[Tempo seco e calor intenso se intensificam nos pr?ximos dias no RS | Agora RS]]></title>
+    <link>https://agorars.com/verao-agora/tempo-seco-e-calor-intenso-se-intensificam-nos-proximos-dias-no-rs/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Sat, 24 Jan 2026 20:18:35 GMT</pubDate>
+    <category><![CDATA[Rio Grande do Sul]]></category>
+    <guid isPermaLink="false"><![CDATA[rsagorars:2d8c664f79f287378da320e17dd0534bbccbd323]]></guid>
+    <media:thumbnail url="https://agorars.com/wp-content/uploads/2023/01/13JAN2022_AlexRocha_Calor_intenso_-2-2-min-jpg.webp" />
+    <enclosure url="https://agorars.com/wp-content/uploads/2023/01/13JAN2022_AlexRocha_Calor_intenso_-2-2-min-jpg.webp" type="image/webp" />
+    <description><![CDATA[Os pr?ximos dias no Rio Grande do Sul ser?o marcados por tempo est?vel, calor intenso e baixa probabilidade de chuvas. Essa condi??o ? resultado da atua??o de um sistema de alta press?o, que impede a...]]></description>
+    <content:encoded><![CDATA[
+<p>Os pr?ximos dias no Rio Grande do Sul ser?o marcados por tempo est?vel, calor intenso e baixa probabilidade de chuvas. Essa condi??o ? resultado da atua??o de um sistema de alta press?o, que impede a forma??o de ?reas de instabilidade e mant?m o c?u com poucas nuvens.</p>
+<p>At? quarta-feira, 28 de fevereiro, n?o h? previs?o de chuvas significativas no estado. Os acumulados esperados devem ficar abaixo de 5 mil?metros na maioria das regi?es. Com a aus?ncia de precipita??o e a predomin?ncia do sol, as temperaturas devem continuar a subir gradualmente.</p>
+<p>Neste fim de semana, as m?ximas podem se aproximar de 35?C. No entanto, na ter?a-feira, 27, e na quarta-feira, 28, o calor deve se intensificar, com m?ximas pr?ximas dos 40?C em grande parte das regi?es. Em locais isolados, os term?metros podem ultrapassar essa marca.</p>
+<p>Durante as tardes, a umidade relativa do ar ficar? baixa, especialmente nas regi?es Oeste, Campanha e Noroeste. A Defesa Civil do Rio Grande do Sul recomenda aten??o ? hidrata??o e ? exposi??o prolongada ao sol.</p>
+]]></content:encoded>
+  </item>
 </channel></rss>
