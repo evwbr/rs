@@ -9,6 +9,37 @@
   <atom:link href="https://evwbr.github.io/rs/feed.xml" rel="self" type="application/rss+xml"/>
   <link>https://evwbr.github.io/rs/</link>
   <description>Notícias do Rio Grande do Sul (últimas 24h) reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Thu, 29 Jan 2026 12:07:43 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 29 Jan 2026 13:08:13 GMT</lastBuildDate>
   <language>pt-BR</language>
+  <item>
+    <title><![CDATA[INMET emite novos alertas de tempestade para o Rio Grande do Sul]]></title>
+    <link>https://agorars.com/agora-no-tempo/inmet-publica-novos-alertas-de-tempestade-para-todo-o-rs-nesta-quinta-feira/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Thu, 29 Jan 2026 12:56:22 GMT</pubDate>
+    <category><![CDATA[Rio Grande do Sul]]></category>
+    <guid isPermaLink="false"><![CDATA[rsagorars:cfaee93be84b9ecebf3bfc68864da39d7e066774]]></guid>
+    <media:thumbnail url="https://uploads.agorars.com/2025/12/6tnGnRfY-tempestade-com-raios-e-nuvens-densas-jpg.webp" />
+    <enclosure url="https://uploads.agorars.com/2025/12/6tnGnRfY-tempestade-com-raios-e-nuvens-densas-jpg.webp" type="image/webp" />
+    <description><![CDATA[O Instituto Nacional de Meteorologia divulgou alertas de tempestade para o estado, com previsão de chuva intensa, ventos fortes e possibilidade de granizo.]]></description>
+    <content:encoded><![CDATA[
+<p>O Instituto Nacional de Meteorologia publicou novos alertas de tempestade para o Rio Grande do Sul nesta quinta-feira. Os avisos indicam risco de chuva intensa, rajadas de vento e queda de granizo, com diferentes níveis de severidade ao longo do dia.</p>
+<p>O alerta de perigo potencial vale para todas as regiões do Estado entre 8h54 e 23h59. Nesse período, a previsão indica chuva entre 20 e 30 milímetros por hora, ou até 50 milímetros ao longo do dia, além de ventos entre 40 e 60 km/h e possibilidade de granizo. O risco é considerado baixo para cortes de energia, quedas de galhos, danos pontuais em lavouras e alagamentos isolados.</p>
+<p>Já os alertas de perigo atingem áreas específicas do território gaúcho, com previsão de fenômenos mais intensos. Entre 8h59 e 23h59, cidades das regiões Noroeste, Norte e Nordeste do RS, especialmente próximas à divisa com Santa Catarina, podem registrar chuva entre 30 e 60 milímetros por hora ou acumulados de até 100 milímetros no dia, além de ventos que podem chegar a 100 km/h e granizo.</p>
+]]></content:encoded>
+  </item>
+  <item>
+    <title><![CDATA[Fiscalização apreende 700 quilos de alimentos impróprios no Sul do RS]]></title>
+    <link>https://agorars.com/plantao-rs/fiscalizacao-apreende-700-quilos-de-alimentos-improprios-no-sul-do-rs/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Thu, 29 Jan 2026 12:23:39 GMT</pubDate>
+    <category><![CDATA[Rio Grande do Sul]]></category>
+    <guid isPermaLink="false"><![CDATA[rsagorars:1de14f7f59649478ae5073390739eed7bf21d708]]></guid>
+    <media:thumbnail url="https://uploads.agorars.com/2026/01/JIuMzPAZ-mp-rs.webp" />
+    <enclosure url="https://uploads.agorars.com/2026/01/JIuMzPAZ-mp-rs.webp" type="image/webp" />
+    <description><![CDATA[Uma operação da Força-Tarefa do Programa Segurança dos Alimentos resultou na apreensão de cerca de 700 quilos de produtos impróprios para consumo humano em Santa Vitória do Palmar.]]></description>
+    <content:encoded><![CDATA[
+<p>Uma operação da Força-Tarefa do Programa Segurança dos Alimentos apreendeu cerca de 700 quilos de produtos impróprios para consumo humano nesta quarta-feira, na Praia do Hermenegildo, em Santa Vitória do Palmar, no sul do Rio Grande do Sul.</p>
+<p>A fiscalização ocorreu em dois mercados da localidade. Em um deles, a padaria e os depósitos foram interditados em razão das condições precárias de higiene e da desorganização dos ambientes de armazenamento.</p>
+]]></content:encoded>
+  </item>
 </channel></rss>
