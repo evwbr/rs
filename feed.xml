@@ -2,28 +2,114 @@
 <rss version="2.0"
  xmlns:content="http://purl.org/rss/1.0/modules/content/"
  xmlns:dc="http://purl.org/dc/elements/1.1/"
- xmlns:atom="http://www.w3.org/2005/Atom">
+ xmlns:atom="http://www.w3.org/2005/Atom"
+ xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
-<title>Evo Web News - RS (ABC+ Multi RSS)</title>
-<atom:link href="https://evwbr.github.io/rs/feed.xml" rel="self" type="application/rss+xml"/>
-<link>https://evwbr.github.io/rs/</link>
-<description>Notícias do Rio Grande do Sul (últimas 24h) reescritas com IA - Evo Web News</description>
-<lastBuildDate>Wed, 28 Jan 2026 17:57:09 GMT</lastBuildDate>
-<language>pt-BR</language>
-<item>
-<title><![CDATA[Brigada Militar reforça segurança na Praia do Paquetá em Canoas]]></title>
-<link>https://www.abcmais.com/policia/brigada-militar-confirma-operacoes-visando-o-reforco-na-seguranca-em-torno-da-praia-do-paqueta/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Wed, 28 Jan 2026 17:11:00 GMT</pubDate>
-<category><![CDATA[Rio Grande do Sul]]></category>
-<guid isPermaLink="false"><![CDATA[rsmulti:6124c92bdea44cb4ed965e186f455d342a0e4a3a]]></guid>
-<description><![CDATA[O 15º Batalhão da Polícia Militar de Canoas intensificará operações para coibir o uso de drogas na Praia do Paquetá, visando garantir a segurança durante eventos e o lazer no local.]]></description>
-<content:encoded><![CDATA[
-<p>O 15º Batalhão da Polícia Militar de Canoas intensificará operações para coibir o uso de drogas na Praia do Paquetá, visando garantir a segurança durante eventos e o lazer no local.</p>
-<p>Uma jovem de 21 anos passou mal após ingerir um comprimido de ecstasy na Praia do Paquetá, em Canoas. Ela foi socorrida e encaminhada ao Hospital Nossa Senhora das Graças, mas se recuperou antes de dar entrada na emergência. O episódio chamou atenção para o consumo de drogas na área, incluindo maconha e cocaína.</p>
-<p>Diante das denúncias, a Brigada Militar confirmou o reforço no policiamento ostensivo no entorno da Praia do Paquetá, com o objetivo de coibir o uso de drogas e entorpecentes às margens do Rio dos Sinos. O comandante do 15º Batalhão destacou que a presença da polícia será visível e que qualquer ato ilícito será reprimido com prisões quando necessário.</p>
-<p>O reforço não visa atrapalhar o lazer de famílias e amigos que frequentam o local, mas sim proteger quem deseja se divertir, especialmente considerando a presença de muitas crianças na região. As operações terão início no próximo final de semana, com barreiras e abordagens já a partir de sábado, para garantir a segurança durante a tradicional festa de Nossa Senhora dos Navegantes, marcada para o dia 2 de fevereiro.</p>
-<p>A Brigada Militar reforça seu compromisso com a segurança pública na Praia do Paquetá, buscando proporcionar um ambiente seguro para moradores, visitantes e fiéis durante eventos e momentos de lazer.</p>
+  <title>Evo Web News - RS (AgoraRS)</title>
+  <atom:link href="https://evwbr.github.io/rs/feed.xml" rel="self" type="application/rss+xml"/>
+  <link>https://evwbr.github.io/rs/</link>
+  <description>Notícias do Rio Grande do Sul (últimas 24h) reescritas com IA - Evo Web News</description>
+  <lastBuildDate>Thu, 29 Jan 2026 09:47:26 GMT</lastBuildDate>
+  <language>pt-BR</language>
+  <item>
+    <title><![CDATA[RS ainda pode ter chuva com granizo na quinta-feira (29); Dias seguintes devem ter leve queda nas temperaturas]]></title>
+    <link>https://agorars.com/agora-no-tempo/temporais-rs-quinta-feira-defesa-civil/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Wed, 28 Jan 2026 21:55:47 GMT</pubDate>
+    <category><![CDATA[Rio Grande do Sul]]></category>
+    <guid isPermaLink="false"><![CDATA[rsagorars:d8cf4889831b667fc59ed5825d8b3003f3edb00f]]></guid>
+    <media:thumbnail url="https://uploads.agorars.com/2025/12/xQXnWzC2-Tempo_quente_pancadas_chuva.webp" />
+    <enclosure url="https://uploads.agorars.com/2025/12/xQXnWzC2-Tempo_quente_pancadas_chuva.webp" type="image/webp" />
+    <description><![CDATA[O Rio Grande do Sul deve enfrentar temporais na quinta-feira (29), com possibilidade de chuva forte e granizo em algumas áreas.]]></description>
+    <content:encoded><![CDATA[
+<p>O Rio Grande do Sul ainda deve ter temporais na quinta-feira (29). É o que aponta o boletim do CMDEC (Centro de Monitoramento Defesa Civil).</p>
+<p>Conforme o CMDEC, na quinta-feira (29), a área de baixa pressão segue favorecendo chuva pontualmente forte e temporais isolados. Devem acompanhar as precipitações raios, rajadas de vento e granizo de forma localizada.</p>
+<p>Essa previsão vale para Missões, Noroeste, Norte, Serra, Centro-Norte e Nordeste. Nas demais regiões, há condição para pancadas isoladas de chuva fraca a moderada com trovoadas.</p>
 ]]></content:encoded>
-</item>
+  </item>
+  <item>
+    <title><![CDATA[Porto Alegre registra primeiros casos de dengue do ano]]></title>
+    <link>https://agorars.com/rs/porto-alegre/porto-alegre-confirma-primeiros-casos-dengue-2026/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Wed, 28 Jan 2026 19:20:27 GMT</pubDate>
+    <category><![CDATA[Rio Grande do Sul]]></category>
+    <guid isPermaLink="false"><![CDATA[rsagorars:22970ad53741106ab1b1e5e385d13e129067adc8]]></guid>
+    <media:thumbnail url="https://uploads.agorars.com/2025/04/bGTwrCTb-220318_CristineRochol_CombateDengue_SMS-179.webp" />
+    <enclosure url="https://uploads.agorars.com/2025/04/bGTwrCTb-220318_CristineRochol_CombateDengue_SMS-179.webp" type="image/webp" />
+    <description><![CDATA[A Vigilância Epidemiológica da Secretaria Municipal de Saúde de Porto Alegre confirmou dois casos de dengue em 2026, os primeiros registros da doença na Capital neste ano.]]></description>
+    <content:encoded><![CDATA[
+<p>A Vigilância Epidemiológica da Secretaria Municipal de Saúde de Porto Alegre confirmou, nesta quarta-feira (28), dois casos de dengue contraídos em Porto Alegre em 2026. São os primeiros registros da doença na Capital neste ano.</p>
+<p>As infecções ocorreram na semana epidemiológica 2, entre 11 e 17 de janeiro, em pacientes residentes nos bairros Menino Deus e Jardim Sabaré. No mesmo período de 2025, houve a confirmação de 34 casos, distribuídos em 20 bairros.</p>
+<p>Os dados ainda são parciais e podem passar por revisão. Até esta quarta-feira, a Vigilância Epidemiológica recebeu 686 notificações de suspeita de dengue em 2026. No ano passado, no mesmo intervalo, foram registradas 496 notificações.</p>
+<p>“Febre, dor no corpo e dor de cabeça foram os principais sintomas relatados em 2024 e 2025 por pessoas com confirmação de dengue”, explica a responsável pela vigilância da dengue na Diretoria de Vigilância em Saúde, enfermeira Raquel Rosa.</p>
+]]></content:encoded>
+  </item>
+  <item>
+    <title><![CDATA[Obra pode causar falta de água em Alvorada e Viamão]]></title>
+    <link>https://agorars.com/rs/metropolitana/manutencao-eta-alvorada-oscilacao-abastecimento/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Wed, 28 Jan 2026 18:21:20 GMT</pubDate>
+    <category><![CDATA[Rio Grande do Sul]]></category>
+    <guid isPermaLink="false"><![CDATA[rsagorars:6ac1cc8145811a6b9a73ad81bfea064196785f06]]></guid>
+    <media:thumbnail url="https://uploads.agorars.com/2025/12/6I4DiaEw-agua_gustavo-garbino-2.webp" />
+    <enclosure url="https://uploads.agorars.com/2025/12/6I4DiaEw-agua_gustavo-garbino-2.webp" type="image/webp" />
+    <description><![CDATA[Uma obra de manutenção preventiva na ETA de Alvorada pode afetar o abastecimento de água em Alvorada e Viamão.]]></description>
+    <content:encoded><![CDATA[
+<p>Uma obra de manutenção preventiva realizada na ETA (Estação de Tratamento de Água) de Alvorada pode provocar oscilações pontuais na pressão do abastecimento do município e de Viamão.</p>
+<p>Os trabalhos começaram nesta quarta-feira e seguem até a madrugada de quinta-feira.</p>
+<p>Entre os serviços executados, de acordo com a Corsan, está a lavagem de um dos decantadores da estação. O procedimento é necessário para a manutenção da qualidade da água distribuída à população.</p>
+<p>Durante a execução do serviço, podem ocorrer variações temporárias no fornecimento. A previsão é de que o sistema seja retomado gradualmente após a conclusão dos trabalhos. A normalização do abastecimento deve ocorrer até o início da tarde de quinta-feira.</p>
+]]></content:encoded>
+  </item>
+  <item>
+    <title><![CDATA[Obras causam bloqueio em trechos da BR-285 e da BR-470]]></title>
+    <link>https://agorars.com/agora-no-transito/obras-causam-bloqueio-em-trechos-da-br-285-e-da-br-470/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Wed, 28 Jan 2026 15:44:49 GMT</pubDate>
+    <category><![CDATA[Rio Grande do Sul]]></category>
+    <guid isPermaLink="false"><![CDATA[rsagorars:52a62b330e173e3ae262680ddabeb6b4dfc1902d]]></guid>
+    <media:thumbnail url="https://uploads.agorars.com/2026/01/phpDEXpm-Na_Estrada_Ismael_BR_470_RZE5.webp" />
+    <enclosure url="https://uploads.agorars.com/2026/01/phpDEXpm-Na_Estrada_Ismael_BR_470_RZE5.webp" type="image/webp" />
+    <description><![CDATA[Trechos das rodovias BR-285 e BR-470 terão bloqueios devido à execução de obras, exigindo atenção redobrada dos motoristas.]]></description>
+    <content:encoded><![CDATA[
+<p>Trechos das rodovias BR-285 e BR-470 terão bloqueios devido à execução de obras, exigindo atenção redobrada dos motoristas.</p>
+<p>Na BR-470, na Serra das Antas, entre Bento Gonçalves e Veranópolis, haverá bloqueios totais nas noites de quinta-feira e sexta-feira. Na quinta, a interdição começa às 19h30 no sentido Veranópolis–Bento Gonçalves e às 20h30 no sentido contrário, para a desmontagem de um guindaste de grande porte utilizado na construção de um viaduto no km 193.</p>
+<p>Na sexta-feira, o bloqueio noturno ocorre para a remontagem do equipamento na extremidade leste do viaduto. A operação envolve guindastes auxiliares posicionados sobre a pista, o que exige a interrupção completa do tráfego por motivos de segurança.</p>
+<p>Durante o dia, o tráfego na Serra das Antas seguirá funcionando em sistema de comboio, conforme os horários habituais. A primeira liberação ocorre às 6h, no sentido Bento Gonçalves–Veranópolis, a partir da vinícola Cainelli.</p>
+]]></content:encoded>
+  </item>
+  <item>
+    <title><![CDATA[Rio Grande do Sul recebe alerta do INMET para temporais com risco de vento forte e granizo]]></title>
+    <link>https://agorars.com/agora-no-tempo/rs-tem-alerta-do-inmet-para-temporais-com-risco-de-vento-forte-e-granizo/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Wed, 28 Jan 2026 14:41:14 GMT</pubDate>
+    <category><![CDATA[Rio Grande do Sul]]></category>
+    <guid isPermaLink="false"><![CDATA[rsagorars:b1912bc662e352cdf53c8b3663c5af7cd183b81a]]></guid>
+    <media:thumbnail url="https://uploads.agorars.com/2024/11/iCRrMzcK-temporal.webp" />
+    <enclosure url="https://uploads.agorars.com/2024/11/iCRrMzcK-temporal.webp" type="image/webp" />
+    <description><![CDATA[O INMET emitiu alertas para a possibilidade de temporais no Rio Grande do Sul, com previsão de chuva intensa, rajadas de vento e granizo entre quarta e quinta-feira.]]></description>
+    <content:encoded><![CDATA[
+<p>O Rio Grande do Sul tem novos alertas do INMET (Instituto Nacional de Meteorologia) para a ocorrência de temporais entre esta quarta-feira e a quinta-feira. As instabilidades podem provocar chuva intensa, rajadas de vento e queda de granizo em diferentes regiões do Estado.</p>
+<p>Nas regiões Noroeste, Norte, Vales, Serra, Centro e parte da Costa Doce, o risco é considerado mais elevado. Nessas áreas, a previsão indica volumes de chuva entre 50 e 100 milímetros por dia, com rajadas de vento que podem variar entre 60 e 100 quilômetros por hora, além de granizo em pontos isolados.</p>
+<p>Há possibilidade de corte de energia elétrica, queda de árvores, alagamentos e prejuízos em lavouras, especialmente em áreas urbanas e rurais mais vulneráveis.</p>
+]]></content:encoded>
+  </item>
+  <item>
+    <title><![CDATA[Operação investiga esquema de sonegação e lavagem de dinheiro no RS e em SC]]></title>
+    <link>https://agorars.com/rs/operacao-sonegacao-lavagem-rs-sc-empresas-fachada/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Wed, 28 Jan 2026 13:41:25 GMT</pubDate>
+    <category><![CDATA[Rio Grande do Sul]]></category>
+    <guid isPermaLink="false"><![CDATA[rsagorars:c0a71df61a52ff51176b1a170852c269d902d049]]></guid>
+    <media:thumbnail url="https://uploads.agorars.com/2026/01/MhkiBujl-deic-gaeco.webp" />
+    <enclosure url="https://uploads.agorars.com/2026/01/MhkiBujl-deic-gaeco.webp" type="image/webp" />
+    <description><![CDATA[Uma operação conjunta do MP-RS, da Polícia Civil e da Receita Estadual foi deflagrada para desarticular um esquema de sonegação de impostos e lavagem de dinheiro.]]></description>
+    <content:encoded><![CDATA[
+<p>Uma operação conjunta do MP-RS, da Polícia Civil e da Receita Estadual foi deflagrada na manhã desta quarta-feira. Os crimes apurados incluem associação criminosa, falsidade ideológica e lavagem de dinheiro.</p>
+<p>Conforme os investigadores, a iniciativa visa desarticular um esquema de sonegação de impostos, lavagem de dinheiro e ocultação de bens. O alvo da ação é um núcleo empresarial usado para gerar créditos tributários fictícios, emitir notas fiscais falsas e movimentar recursos de origem ilícita. Ao menos 150 empresas teriam sido abertas apenas para este fim.</p>
+<p>As apurações começaram em abril de 2024, com base em relatório técnico da Receita Estadual. A força-tarefa reúne investigações do MP-RS e da Polícia Civil, que correram em paralelo e convergiram nesta fase.</p>
+<p>As ordens judiciais estão sendo cumpridas em Porto Alegre, Canoas, Dois Irmãos, Igrejinha, Sapiranga, Araricá, Tramandaí, Capão da Canoa, Campo Bom, Gravataí e Guaporé. Em Santa Catarina, a ação ocorre em Florianópolis, com apoio do GAECO do Ministério Público de Santa Catarina.</p>
+<p>Foram cumpridas 261 ordens judiciais, sendo 164 da Polícia Civil e 97 do Ministério Público. Dentre as ordens judiciais estão 31 mandados de busca e apreensão. A Polícia Civil também cumpriu um mandado de prisão contra o contador e a Justiça determinou que 11 investigados fiquem sob monitoramento com uso de tornozeleira eletrônica.</p>
+]]></content:encoded>
+  </item>
 </channel></rss>
