@@ -9,6 +9,22 @@
   <atom:link href="https://evwbr.github.io/rs/feed.xml" rel="self" type="application/rss+xml"/>
   <link>https://evwbr.github.io/rs/</link>
   <description>Notícias do Rio Grande do Sul (últimas 24h) reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Fri, 30 Jan 2026 13:07:58 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 30 Jan 2026 14:07:55 GMT</lastBuildDate>
   <language>pt-BR</language>
+  <item>
+    <title><![CDATA[Incêndio em prédio no Centro de Porto Alegre deixa mais de 30 pessoas atendidas]]></title>
+    <link>https://agorars.com/rs/porto-alegre/mais-de-30-pessoas-sao-atendidas-apos-incendio-em-predio-no-centro-de-porto-alegre/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Fri, 30 Jan 2026 13:39:02 GMT</pubDate>
+    <category><![CDATA[Rio Grande do Sul]]></category>
+    <guid isPermaLink="false"><![CDATA[rsagorars:e50a9ede716334e57825c5348fb15102463461a2]]></guid>
+    <media:thumbnail url="https://uploads.agorars.com/2026/01/SVeq6qaU-incendio-centro-portoalegre-salgado-filho.webp" />
+    <enclosure url="https://uploads.agorars.com/2026/01/SVeq6qaU-incendio-centro-portoalegre-salgado-filho.webp" type="image/webp" />
+    <description><![CDATA[Um incêndio em um prédio residencial de 22 andares no Centro Histórico de Porto Alegre mobilizou o Corpo de Bombeiros na madrugada desta sexta-feira. O fogo teve início em um apartamento do sétimo andar e resultou em atendimento a 38 pessoas.]]></description>
+    <content:encoded><![CDATA[
+<p>Um incêndio em um prédio residencial de 22 andares no Centro Histórico de Porto Alegre mobilizou o Corpo de Bombeiros na madrugada desta sexta-feira. O fogo teve início em um apartamento do sétimo andar, na avenida Senador Salgado Filho.</p>
+<p>No total, 38 pessoas receberam atendimento do Samu, principalmente por inalação de fumaça. Destas, 31 foram encaminhadas a hospitais da capital, sem registro de casos graves. Outras sete recusaram atendimento.</p>
+<p>O Corpo de Bombeiros foi acionado por volta das 4h. As chamas no apartamento foram controladas em cerca de 30 minutos, mas a grande quantidade de fumaça se espalhou pelos corredores e exigiu uma operação de resgate extensa. A habitação onde o incêndio teve início ficou completamente destruída.</p>
+]]></content:encoded>
+  </item>
 </channel></rss>
