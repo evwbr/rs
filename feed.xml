@@ -9,22 +9,25 @@
   <atom:link href="https://evwbr.github.io/rs/feed.xml" rel="self" type="application/rss+xml"/>
   <link>https://evwbr.github.io/rs/</link>
   <description>Notícias do Rio Grande do Sul (últimas 24h) reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Fri, 30 Jan 2026 14:07:55 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 30 Jan 2026 15:07:54 GMT</lastBuildDate>
   <language>pt-BR</language>
   <item>
-    <title><![CDATA[Incêndio em prédio no Centro de Porto Alegre deixa mais de 30 pessoas atendidas]]></title>
-    <link>https://agorars.com/rs/porto-alegre/mais-de-30-pessoas-sao-atendidas-apos-incendio-em-predio-no-centro-de-porto-alegre/</link>
+    <title><![CDATA[Há 10 anos, temporal deixou Porto Alegre sem luz, água e colapsou serviços públicos]]></title>
+    <link>https://agorars.com/rs/porto-alegre/ha-10-anos-temporal-deixou-porto-alegre-sem-luz-agua-e-colapsou-servicos-publicos/</link>
     <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Fri, 30 Jan 2026 13:39:02 GMT</pubDate>
+    <pubDate>Fri, 30 Jan 2026 14:21:02 GMT</pubDate>
     <category><![CDATA[Rio Grande do Sul]]></category>
-    <guid isPermaLink="false"><![CDATA[rsagorars:e50a9ede716334e57825c5348fb15102463461a2]]></guid>
-    <media:thumbnail url="https://uploads.agorars.com/2026/01/SVeq6qaU-incendio-centro-portoalegre-salgado-filho.webp" />
-    <enclosure url="https://uploads.agorars.com/2026/01/SVeq6qaU-incendio-centro-portoalegre-salgado-filho.webp" type="image/webp" />
-    <description><![CDATA[Um incêndio em um prédio residencial de 22 andares no Centro Histórico de Porto Alegre mobilizou o Corpo de Bombeiros na madrugada desta sexta-feira. O fogo teve início em um apartamento do sétimo andar e resultou em atendimento a 38 pessoas.]]></description>
+    <guid isPermaLink="false"><![CDATA[rsagorars:d5604e39bbe15a20a3b651382166dfb03575b72b]]></guid>
+    <media:thumbnail url="https://uploads.agorars.com/2026/01/ehOrKCZD-24612295502_7e044ac715_b.webp" />
+    <enclosure url="https://uploads.agorars.com/2026/01/ehOrKCZD-24612295502_7e044ac715_b.webp" type="image/webp" />
+    <description><![CDATA[Em 29 de janeiro de 2016, Porto Alegre enfrentou um forte temporal que causou sérios danos à infraestrutura da cidade, resultando em apagão, falta de água e feridos.]]></description>
     <content:encoded><![CDATA[
-<p>Um incêndio em um prédio residencial de 22 andares no Centro Histórico de Porto Alegre mobilizou o Corpo de Bombeiros na madrugada desta sexta-feira. O fogo teve início em um apartamento do sétimo andar, na avenida Senador Salgado Filho.</p>
-<p>No total, 38 pessoas receberam atendimento do Samu, principalmente por inalação de fumaça. Destas, 31 foram encaminhadas a hospitais da capital, sem registro de casos graves. Outras sete recusaram atendimento.</p>
-<p>O Corpo de Bombeiros foi acionado por volta das 4h. As chamas no apartamento foram controladas em cerca de 30 minutos, mas a grande quantidade de fumaça se espalhou pelos corredores e exigiu uma operação de resgate extensa. A habitação onde o incêndio teve início ficou completamente destruída.</p>
+<p>Há dez anos, Porto Alegre enfrentava um sábado de caos após a passagem de um potente temporal na noite anterior, 29 de janeiro de 2016. A tempestade deixou a Capital sem serviços públicos essenciais, causando apagão de energia elétrica, interrupção no abastecimento de água e dezenas de feridos.</p>
+<p>O vendaval provocou quedas de árvores, postes, placas de publicidade e destelhamentos em diferentes bairros. Ruas e avenidas ficaram bloqueadas, prejudicando o trânsito e o deslocamento de equipes de emergência. Também houve registro de granizo em áreas das zonas Norte, Leste, Sul e no Centro.</p>
+<p>Dados do INMET registraram rajada máxima de 119,5 km/h. A precipitação acumulada, no entanto, não passou de 40 milímetros.</p>
+<p>O Hospital de Pronto Socorro atendeu mais de 50 pessoas, a maioria com cortes causados por estilhaços de vidro e queda de forros. Hospitais como Mãe de Deus, de Clínicas e Ernesto Dornelles tiveram áreas alagadas e pacientes precisaram ser removidos internamente. Parte do teto do Praia de Belas Shopping cedeu devido à força do vento, deixando feridos.</p>
+<p>Na área central, a fachada de um edifício caiu sobre um ônibus. No Guaíba, o barco Cisne Branco naufragou devido ao vento intenso. Felizmente, não houve feridos nesses casos.</p>
+<p>Além de estragos causados pelo vento forte, também houve registro de precipitação de granizo em bairros das zonas Norte, Leste e Sul, além do Centro.</p>
 ]]></content:encoded>
   </item>
 </channel></rss>
