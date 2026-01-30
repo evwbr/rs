@@ -9,23 +9,23 @@
   <atom:link href="https://evwbr.github.io/rs/feed.xml" rel="self" type="application/rss+xml"/>
   <link>https://evwbr.github.io/rs/</link>
   <description>Notícias do Rio Grande do Sul (últimas 24h) reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Fri, 30 Jan 2026 20:07:54 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 30 Jan 2026 21:07:59 GMT</lastBuildDate>
   <language>pt-BR</language>
   <item>
-    <title><![CDATA[Fepam aponta todos pontos do Litoral Norte como próprios para banho]]></title>
-    <link>https://agorars.com/rs/litoral-norte/fepam-tres-pontos-improprios-banho-rs-litoral-norte-liberado/</link>
+    <title><![CDATA[Inmet emite alerta laranja para tempestades no Rio Grande do Sul]]></title>
+    <link>https://agorars.com/agora-no-tempo/inmet-alerta-laranja-tempestade-parte-rs/</link>
     <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Fri, 30 Jan 2026 19:12:56 GMT</pubDate>
+    <pubDate>Fri, 30 Jan 2026 20:46:54 GMT</pubDate>
     <category><![CDATA[Rio Grande do Sul]]></category>
-    <guid isPermaLink="false"><![CDATA[rsagorars:264833c00c1d028a6e7381b81e69d98e0c917473]]></guid>
-    <media:thumbnail url="https://agorars.com/wp-content/uploads/2019/01/mar-jpg-webp.webp" />
-    <enclosure url="https://agorars.com/wp-content/uploads/2019/01/mar-jpg-webp.webp" type="image/webp" />
-    <description><![CDATA[Nenhum dos pontos impróprios está localizado no Litoral.]]></description>
+    <guid isPermaLink="false"><![CDATA[rsagorars:4e53d2a5061e97b7e40672f7ad709a2c45880d6a]]></guid>
+    <media:thumbnail url="https://uploads.agorars.com/2026/01/aDQ5bqPP-IMG_9435.webp" />
+    <enclosure url="https://uploads.agorars.com/2026/01/aDQ5bqPP-IMG_9435.webp" type="image/webp" />
+    <description><![CDATA[Instituto Nacional de Meteorologia prevê chuvas intensas e ventos fortes para o estado.]]></description>
     <content:encoded><![CDATA[
-<p>A Fepam (Fundação Estadual de Proteção Ambiental) divulgou, nesta sexta-feira, o oitavo boletim do programa Balneabilidade temporada 2025/2026. Os resultados são referentes às coletas realizadas nos dias 26 e 27 de janeiro de 2026 nos 96 pontos monitorados em praias e balneários do Rio Grande do Sul.</p>
-<p>Novamente, todos os pontos do Litoral Norte do Estado estão aptos a receber os banhistas neste fim de semana de feriado, que promete movimentar as praias do Rio Grande do Sul.</p>
-<p>Conforme os resultados do Boletim 8, três locais estão impróprios para banho. Ao todo, são cinco a menos do que na semana passada. Confira quais são eles:</p>
-<p>Pontos impróprios para banho (Município — Balneário/Praia) 1 – Cristal — Balneário do Rio Camaquã 2 – Osório — Lagoa do Peixoto</p>
+<p>O Inmet (Instituto Nacional de Meteorologia) emitiu, nesta sexta-feira (30), um alerta para tempestade em parte do Rio Grande do Sul. O aviso terá início à meia-noite e se estenderá até o final do sábado (31).</p>
+<p>De acordo com o Instituto, a previsão é de chuvas entre 30 e 60 mm/h ou 50 e 100 mm/dia. Também são esperados ventos intensos, com velocidades entre 60 e 100 km/h, além da possibilidade de queda de granizo.</p>
+<p>O alerta não abrange todo o estado, sendo direcionado ao Sul, parte do Centro, Costa Doce, Vales, Região Metropolitana, Litoral, Serra e Nordeste.</p>
+<p>Classificado como alerta laranja, de média intensidade na escala do Instituto, o aviso é considerado de “Perigo”. Há riscos de interrupção no fornecimento de energia elétrica, danos a plantações, queda de árvores e alagamentos.</p>
 ]]></content:encoded>
   </item>
 </channel></rss>
