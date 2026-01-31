@@ -9,6 +9,22 @@
   <atom:link href="https://evwbr.github.io/rs/feed.xml" rel="self" type="application/rss+xml"/>
   <link>https://evwbr.github.io/rs/</link>
   <description>Notícias do Rio Grande do Sul (últimas 24h) reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Sat, 31 Jan 2026 16:07:50 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 31 Jan 2026 17:07:53 GMT</lastBuildDate>
   <language>pt-BR</language>
+  <item>
+    <title><![CDATA[Defesa Civil emite alerta para temporais na Região Metropolitana]]></title>
+    <link>https://agorars.com/agora-no-tempo/alerta-defesa-civil-temporais-regiao-metropolitana-rs/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Sat, 31 Jan 2026 16:53:59 GMT</pubDate>
+    <category><![CDATA[Rio Grande do Sul]]></category>
+    <guid isPermaLink="false"><![CDATA[rsagorars:8a3fd5968f979ca0e03ee5fd4e4ccb8c3bbbf810]]></guid>
+    <media:thumbnail url="https://uploads.agorars.com/2025/12/xQXnWzC2-Tempo_quente_pancadas_chuva.webp" />
+    <enclosure url="https://uploads.agorars.com/2025/12/xQXnWzC2-Tempo_quente_pancadas_chuva.webp" type="image/webp" />
+    <description><![CDATA[Alerta abrange instabilidades com possibilidade de chuva, raios e granizo, com risco elevado de destelhamento.]]></description>
+    <content:encoded><![CDATA[
+<p>A Defesa Civil estadual publicou, neste sábado, um alerta para instabilidades atuando na Região Metropolitana. O aviso é válido até 14h30.</p>
+<p>Segundo o órgão, há possibilidade de chuva, raios e granizo, com alto risco de destelhamento. A recomendação é evitar áreas de risco. Em caso de emergência, os números para contato são 190 e 193.</p>
+<p>A Defesa Civil também orienta que a população busque informações junto à Defesa Civil de sua cidade e conheça os Planos de Contingência municipais para saber quais os riscos e como agir em caso de desastre no município.</p>
+]]></content:encoded>
+  </item>
 </channel></rss>
