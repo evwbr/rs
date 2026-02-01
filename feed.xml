@@ -9,6 +9,39 @@
   <atom:link href="https://evwbr.github.io/rs/feed.xml" rel="self" type="application/rss+xml"/>
   <link>https://evwbr.github.io/rs/</link>
   <description>Notícias do Rio Grande do Sul (últimas 24h) reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Sun, 01 Feb 2026 20:07:45 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 01 Feb 2026 21:08:10 GMT</lastBuildDate>
   <language>pt-BR</language>
+  <item>
+    <title><![CDATA[Museu de Comunicação apresenta mostra fotográfica sobre festas populares]]></title>
+    <link>https://agorars.com/cultura/mostra-festa-musecom-porto-alegre/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Sun, 01 Feb 2026 20:47:41 GMT</pubDate>
+    <category><![CDATA[Rio Grande do Sul]]></category>
+    <guid isPermaLink="false"><![CDATA[rsagorars:ae6917c82189b46cfa970ef7f234812b4dbe590e]]></guid>
+    <media:thumbnail url="https://uploads.agorars.com/2026/02/NMsnlA2M-3.webp" />
+    <enclosure url="https://uploads.agorars.com/2026/02/NMsnlA2M-3.webp" type="image/webp" />
+    <description><![CDATA[A exposição reúne fotografias de festejos populares que ocorreram no Rio Grande do Sul desde o século 19.]]></description>
+    <content:encoded><![CDATA[
+<p>A mostra fotográfica "Festa" entra em cartaz nesta terça-feira (3) no MuseCom (Museu de Comunicação Social Hipólito José da Costa), instituição da Sedac (Secretaria da Cultura). A exposição reúne fotografias de festejos populares que ocorreram no Rio Grande do Sul desde o século 19.</p>
+<p>Estão em exibição dez itens do acervo fotográfico da instituição que ilustram eventos tradicionais de grande impacto no Estado e no Brasil. Entre eles, a festa de Nossa Senhora dos Navegantes, o Carnaval, o Dia do Trabalhador, festas juninas e cerimônias de posse de governantes.</p>
+<p>O diretor do MuseCom, Wellington Silva, explica que a mostra busca celebrar a vitalidade das tradições populares e valorizar a memória de diversas celebrações realizadas no Estado. "Além dos festejos abordados, estamos tratando, como pano de fundo, da força de mobilização das comunidades, do espírito coletivo que segue pulsando em nossa cultura e dos rituais que moldam nosso 'jeitinho' gaúcho e brasileiro de ser", afirma.</p>
+<p>A exposição segue até o dia 14 de março e conta com patrocínio e oferecimento do Banrisul. A entrada é gratuita.</p>
+]]></content:encoded>
+  </item>
+  <item>
+    <title><![CDATA[Tempo estável predomina no RS na segunda-feira (2)]]></title>
+    <link>https://agorars.com/agora-no-tempo/tempo-estavel-rs-segunda-chuva-terca/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Sun, 01 Feb 2026 20:28:38 GMT</pubDate>
+    <category><![CDATA[Rio Grande do Sul]]></category>
+    <guid isPermaLink="false"><![CDATA[rsagorars:31185ff7f3b0495593c73d6294a4068ac1a4304c]]></guid>
+    <media:thumbnail url="https://uploads.agorars.com/2025/12/bYxRVdrk-Tempo-firme-em-Porto-Alegre.webp" />
+    <enclosure url="https://uploads.agorars.com/2025/12/bYxRVdrk-Tempo-firme-em-Porto-Alegre.webp" type="image/webp" />
+    <description><![CDATA[A previsão do tempo indica que o tempo estável predomina no Rio Grande do Sul na segunda-feira (2).]]></description>
+    <content:encoded><![CDATA[
+<p>A previsão do tempo indica que o tempo estável predomina no Rio Grande do Sul na segunda-feira (2).</p>
+<p>Conforme o CMDEC, na segunda-feira (2), o tempo fica estável em grande parte do Estado. Em áreas do Sul, Costa Doce, Região Metropolitana, Litoral, Serra e Nordeste, os ventos úmidos do oceano mantêm a condição de maior nebulosidade.</p>
+<p>Além disso, algumas áreas devem ter dia quente. As temperaturas mínimas variam entre 8°C e 21°C, e as máximas oscilam entre 22°C e 35°C.</p>
+]]></content:encoded>
+  </item>
 </channel></rss>
