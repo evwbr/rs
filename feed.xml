@@ -9,6 +9,21 @@
   <atom:link href="https://evwbr.github.io/rs/feed.xml" rel="self" type="application/rss+xml"/>
   <link>https://evwbr.github.io/rs/</link>
   <description>Notícias do Rio Grande do Sul (últimas 24h) reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Mon, 02 Feb 2026 11:07:43 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 02 Feb 2026 12:07:59 GMT</lastBuildDate>
   <language>pt-BR</language>
+  <item>
+    <title><![CDATA[Trânsito intenso na volta das praias na Freeway e ERS-040]]></title>
+    <link>https://agorars.com/agora-no-transito/ao-vivo-transito-na-volta-das-praias-na-freeway-e-ers-040/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Mon, 02 Feb 2026 11:52:48 GMT</pubDate>
+    <category><![CDATA[Rio Grande do Sul]]></category>
+    <guid isPermaLink="false"><![CDATA[rsagorars:b8e2ea11bb64928ba507f51b730483c78c4396ed]]></guid>
+    <media:thumbnail url="https://uploads.agorars.com/2026/02/UXsQ2N8s-transito-crbm.webp" />
+    <enclosure url="https://uploads.agorars.com/2026/02/UXsQ2N8s-transito-crbm.webp" type="image/webp" />
+    <description><![CDATA[Movimentação elevada de veículos nas rodovias que conectam o Litoral Norte à região metropolitana de Porto Alegre, especialmente na Freeway e na ERS-040.]]></description>
+    <content:encoded><![CDATA[
+<p>A segunda-feira, feriado de Navegantes, provoca movimentação intensa de veículos nas rodovias que ligam o Litoral Norte à região metropolitana de Porto Alegre, especialmente na Freeway (BR-290) e na ERS-040.</p>
+<p>O fluxo começa a aumentar ao longo da tarde, com pico previsto entre 14h e 22h, período tradicional de retorno após o fim de semana prolongado.</p>
+]]></content:encoded>
+  </item>
 </channel></rss>
