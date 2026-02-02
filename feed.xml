@@ -9,40 +9,6 @@
   <atom:link href="https://evwbr.github.io/rs/feed.xml" rel="self" type="application/rss+xml"/>
   <link>https://evwbr.github.io/rs/</link>
   <description>Notícias do Rio Grande do Sul (últimas 24h) reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Mon, 02 Feb 2026 16:08:16 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 02 Feb 2026 17:07:48 GMT</lastBuildDate>
   <language>pt-BR</language>
-  <item>
-    <title><![CDATA[Porto Alegre terá semana de calor intenso, sol e pancadas isoladas de chuva]]></title>
-    <link>https://agorars.com/rs/porto-alegre/porto-alegre-tera-semana-de-calor-intenso-sol-e-pancadas-isoladas-de-chuva/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Mon, 02 Feb 2026 16:05:23 GMT</pubDate>
-    <category><![CDATA[Rio Grande do Sul]]></category>
-    <guid isPermaLink="false"><![CDATA[rsagorars:553f2e4c6a67b8c3ef62d182e7e1986a0f41432e]]></guid>
-    <media:thumbnail url="https://agorars.com/wp-content/uploads/2022/01/13JAN2022_AlexRocha_Calor_intenso_-3-jpg-webp.webp" />
-    <enclosure url="https://agorars.com/wp-content/uploads/2022/01/13JAN2022_AlexRocha_Calor_intenso_-3-jpg-webp.webp" type="image/webp" />
-    <description><![CDATA[A semana em Porto Alegre começa com instabilidade pontual, mas o cenário meteorológico aponta para predomínio de sol, elevação gradual das temperaturas e apenas pancadas isoladas de chuva nos próximos dias, sobretudo entre a tarde e a noite.]]></description>
-    <content:encoded><![CDATA[
-<p>A semana em Porto Alegre começa com instabilidade pontual, mas o cenário meteorológico aponta para predomínio de sol, elevação gradual das temperaturas e apenas pancadas isoladas de chuva nos próximos dias, sobretudo entre a tarde e a noite.</p>
-<p>Nesta segunda-feira, o dia iniciou nebulosidade. Ao longo da manhã, as nuvens diminuíram e o sol passou a predominar. Os ventos sopram do quadrante sul/sudeste, com rajadas de até 40 km/h. A mínima registrada foi de 20 °C, e a máxima deve chegar a 31 °C.</p>
-<p>Na terça-feira, o sol predomina pela manhã, com aumento de nuvens à tarde. Há possibilidade de chuva rápida e isolada, com baixos acumulados. As temperaturas variam entre 21 °C e 34 °C, com ventos de leste/sudeste.</p>
-<p>A quarta-feira mantém o padrão de sol durante a manhã e maior nebulosidade à tarde, novamente com chance de pancadas isoladas. Os volumes previstos seguem baixos. As temperaturas ficam entre 22 °C e 33 °C, com rajadas de vento que podem alcançar 40 km/h.</p>
-]]></content:encoded>
-  </item>
-  <item>
-    <title><![CDATA[Rio Grande do Sul entra em alerta vermelho para onda de calor até sábado]]></title>
-    <link>https://agorars.com/agora-no-tempo/rs-entra-em-alerta-vermelho-para-onda-de-calor-ate-o-sabado/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Mon, 02 Feb 2026 15:25:33 GMT</pubDate>
-    <category><![CDATA[Rio Grande do Sul]]></category>
-    <guid isPermaLink="false"><![CDATA[rsagorars:b6c388c0b308308964f89f07abaae1532068c4a8]]></guid>
-    <media:thumbnail url="https://uploads.agorars.com/2026/02/Bif79baj-alerta-vermelho-02-02-2026.webp" />
-    <enclosure url="https://uploads.agorars.com/2026/02/Bif79baj-alerta-vermelho-02-02-2026.webp" type="image/webp" />
-    <description><![CDATA[O estado enfrenta temperaturas acima da média, com risco à saúde da população.]]></description>
-    <content:encoded><![CDATA[
-<p>O Rio Grande do Sul entrou em alerta vermelho para onda de calor, conforme aviso emitido pelo INMET (Instituto Nacional de Meteorologia).</p>
-<p>O alerta, classificado como de grande perigo, tem início à 0h01 desta terça-feira e segue válido até as 23h59 de sábado.</p>
-<p>De acordo com o INMET, o evento é caracterizado por temperaturas pelo menos 5°C acima da média climatológica, mantidas por período superior a cinco dias, o que representa risco direto à saúde da população.</p>
-<p>As áreas mais afetadas pelo calor intenso são a Fronteira Oeste, região Noroeste, região Norte, região Central e a Campanha, além de parte do Vale do Rio Pardo e parte do Vale do Taquari.</p>
-]]></content:encoded>
-  </item>
 </channel></rss>
