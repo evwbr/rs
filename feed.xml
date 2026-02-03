@@ -9,6 +9,23 @@
   <atom:link href="https://evwbr.github.io/rs/feed.xml" rel="self" type="application/rss+xml"/>
   <link>https://evwbr.github.io/rs/</link>
   <description>Notícias do Rio Grande do Sul (últimas 24h) reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Tue, 03 Feb 2026 19:08:13 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 03 Feb 2026 20:08:26 GMT</lastBuildDate>
   <language>pt-BR</language>
+  <item>
+    <title><![CDATA[RS deixa de exigir baliza na prova prática para primeira habilitação]]></title>
+    <link>https://agorars.com/agora-no-transito/rs-prova-pratica-sem-baliza-detranrs/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Tue, 03 Feb 2026 19:19:35 GMT</pubDate>
+    <category><![CDATA[Rio Grande do Sul]]></category>
+    <guid isPermaLink="false"><![CDATA[rsagorars:7f472bdee2c7074e41dcd2e7a437b5dfcc3ff26c]]></guid>
+    <media:thumbnail url="https://uploads.agorars.com/2026/02/9UkOF9jB-Exames.webp" />
+    <enclosure url="https://uploads.agorars.com/2026/02/9UkOF9jB-Exames.webp" type="image/webp" />
+    <description><![CDATA[A partir de quarta-feira (4), o exame de baliza não será mais exigido para a primeira habilitação no Rio Grande do Sul, conforme decisão do DetranRS.]]></description>
+    <content:encoded><![CDATA[
+<p>O processo de primeira habilitação no Rio Grande do Sul deixa de exigir o exame de baliza a partir desta quarta-feira (4). A mudança foi definida pelo DetranRS após a publicação do Manual Brasileiro de Exames de Direção, divulgado pela Senatran.</p>
+<p>A decisão foi adotada pelo órgão estadual nesta terça-feira (3) e passa a valer imediatamente em todos os exames práticos realizados no Estado.</p>
+<p>Com a atualização, a avaliação prática passa a ser concentrada na etapa de circulação, realizada em via pública, reproduzindo situações reais de trânsito. O candidato segue sendo submetido a um trajeto previamente definido, nos mesmos moldes já utilizados pelo DetranRS.</p>
+<p>Ao final do percurso, o exame será encerrado com a manobra de estacionamento do veículo, que permanece obrigatória, mas sem exigência de baliza.</p>
+]]></content:encoded>
+  </item>
 </channel></rss>
