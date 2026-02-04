@@ -9,23 +9,25 @@
   <atom:link href="https://evwbr.github.io/rs/feed.xml" rel="self" type="application/rss+xml"/>
   <link>https://evwbr.github.io/rs/</link>
   <description>Notícias do Rio Grande do Sul (últimas 24h) reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Wed, 04 Feb 2026 18:09:33 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 04 Feb 2026 19:08:11 GMT</lastBuildDate>
   <language>pt-BR</language>
   <item>
-    <title><![CDATA[Fernando Pessoa e Cristiano Ronaldo: entre aceitar e transformar]]></title>
-    <link>https://agorars.com/cultura/felicidade-monotonia-pessoa-cristiano-produtividade/</link>
+    <title><![CDATA[Desigualdades estão associadas ao acesso ao saneamento no RS, aponta estudo]]></title>
+    <link>https://agorars.com/rs/desigualdade-saneamento-rs-renda-saude-ods6/</link>
     <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Wed, 04 Feb 2026 17:30:02 GMT</pubDate>
+    <pubDate>Wed, 04 Feb 2026 18:50:43 GMT</pubDate>
     <category><![CDATA[Rio Grande do Sul]]></category>
-    <guid isPermaLink="false"><![CDATA[rsagorars:cfb97eae7fc57c0f1d4d106a5487554fb89d24d2]]></guid>
-    <media:thumbnail url="https://uploads.agorars.com/2026/02/nLztHNnG-myshoun-robot-8727935_1280.webp" />
-    <enclosure url="https://uploads.agorars.com/2026/02/nLztHNnG-myshoun-robot-8727935_1280.webp" type="image/webp" />
-    <description><![CDATA[Reflexão sobre a busca por felicidade e realização nas vidas de Fernando Pessoa e Cristiano Ronaldo.]]></description>
+    <guid isPermaLink="false"><![CDATA[rsagorars:a5c92f29de79a018b096999adf17fcc78cfd5b56]]></guid>
+    <media:thumbnail url="https://uploads.agorars.com/2025/12/6I4DiaEw-agua_gustavo-garbino-2.webp" />
+    <enclosure url="https://uploads.agorars.com/2025/12/6I4DiaEw-agua_gustavo-garbino-2.webp" type="image/webp" />
+    <description><![CDATA[Estudo revela que desigualdades socioeconômicas impactam o acesso ao saneamento básico no Rio Grande do Sul, refletindo em rendimentos e escolaridade.]]></description>
     <content:encoded><![CDATA[
-<p>Recentemente, ao explorar o YouTube, me deparei com uma leitura de uma poesia chamada "Monotonia", atribuída a Fernando Pessoa. O poema aborda a relação entre felicidade e a capacidade de "monotonizar" a vida, destacando como indivíduos que aparentam ter rotinas simples podem encontrar momentos de grande prazer.</p>
-<p>Esse tema é relevante em um contexto atual, onde as ciências sociais e a psicanálise ganham destaque. A ideia de que a cura e a melhoria das condições de vida podem advir da desaceleração do cotidiano, aceitando uma certa precariedade, contrasta com a busca incessante por transformação, que liga a subjetividade ao pensamento progressista.</p>
-<p>Por outro lado, Cristiano Ronaldo, ao completar 40 anos, acumula números impressionantes de gols, títulos e riqueza. Recentemente, soube que sua família adquiriu imóveis no Litoral Norte do Rio Grande do Sul. Mesmo em uma fase em que muitos atletas já se aposentaram ou planejam fazê-lo, CR7 continua em busca de seu milésimo gol, simbolizando a cultura das metas e da produtividade.</p>
-<p>A impressão que se tem é que Cristiano não se sente satisfeito, buscando um constante autoaprimoramento que, até o momento, não parece ter um fim definido. Para ele, evoluir é um objetivo em si. Em contraste, Pessoa observa a beleza das pedras, que existem por si mesmas. Enquanto um busca a validação do que a sociedade considera desejável, transformando seu corpo em uma parte dessa engrenagem, o outro representa o habitante solitário da vida urbana, que caminha melancolicamente pelas ruas ou passa um domingo tranquilo e nostálgico em casa, cercado por seus livros.</p>
+<p>As desigualdades socioeconômicas aparecem de forma consistente nos dados do Caderno ODS 6 – Água potável e saneamento, divulgado pelo governo do Estado. O DEE (Departamento de Economia e Estatística), vinculado à SPGG (Secretaria de Planejamento, Governança e Gestão), elaborou o estudo, com autoria da pesquisadora Amanda Comassetto Iensse.</p>
+<p>Segundo o estudo, no Rio Grande do Sul, trabalhadores com acesso ao saneamento básico apresentaram rendimento médio de R$ 3.414,87. Já aqueles sem o serviço receberam, em média, R$ 2.605,77 — uma diferença de 31%. No Brasil, essa disparidade foi ainda maior, com rendimentos 54,5% superiores entre pessoas atendidas por saneamento.</p>
+<p>A escolaridade também acompanha o acesso. No Estado, moradores de domicílios com saneamento possuem, em média, 9,61 anos de estudo, contra 7,74 anos entre aqueles sem o serviço.</p>
+<p>Os impactos na saúde pública seguem concentrados em grupos específicos. Em 2023, o Rio Grande do Sul registrou 6.482 internações hospitalares associadas a doenças de veiculação hídrica, com as mulheres representando 51,6% dos casos. Crianças de zero a 14 anos somaram 2.063 internações, enquanto pessoas com 60 anos ou mais corresponderam a 32,1% do total, com 2.080 registros.</p>
+<p>O estudo indica que a irrigação, com destaque para a cultura do arroz, é a principal responsável pelos maiores volumes de retirada de água no RS. Em 2020, a retirada de água destinada à irrigação alcançou 384,7 m³ por segundo, volume mais de seis vezes superior à soma dos demais usos — urbano, rural, industrial e animal — que totalizaram 58,6 m³/s.</p>
+<p>Em escala nacional, a irrigação também lidera a demanda hídrica, respondendo por 52,9% da retirada total estimada em 2.813 m³/s em 2022. Projeções da Agência Nacional das Águas (ANA) indicam que os usos setoriais da água devem crescer cerca de 30% até 2040, intensificando a pressão sobre os mananciais. No Rio Grande do Sul, esse cenário é agravado pelas perdas elevadas na distribuição, que atingiram 40,1% em 2023.</p>
 ]]></content:encoded>
   </item>
 </channel></rss>
