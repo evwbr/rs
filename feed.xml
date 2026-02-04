@@ -9,22 +9,6 @@
   <atom:link href="https://evwbr.github.io/rs/feed.xml" rel="self" type="application/rss+xml"/>
   <link>https://evwbr.github.io/rs/</link>
   <description>Notícias do Rio Grande do Sul (últimas 24h) reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Wed, 04 Feb 2026 00:08:03 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 04 Feb 2026 01:07:58 GMT</lastBuildDate>
   <language>pt-BR</language>
-  <item>
-    <title><![CDATA[Quarta-feira terá calor intenso e chuva isolada no Rio Grande do Sul]]></title>
-    <link>https://agorars.com/agora-no-tempo/previsao-do-tempo/quarta-feira-tera-calor-intenso-e-chuva-isolada-no-rio-grande-do-sul/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Tue, 03 Feb 2026 23:23:26 GMT</pubDate>
-    <category><![CDATA[Rio Grande do Sul]]></category>
-    <guid isPermaLink="false"><![CDATA[rsagorars:2f8c9350d61c211eaea55aace33dd5e66df0777c]]></guid>
-    <media:thumbnail url="https://uploads.agorars.com/2025/12/4Kg5bK1S-ceu-nuvens-calor-.webp" />
-    <enclosure url="https://uploads.agorars.com/2025/12/4Kg5bK1S-ceu-nuvens-calor-.webp" type="image/webp" />
-    <description><![CDATA[O dia será marcado por tempo estável e temperaturas elevadas, com possibilidade de chuvas isoladas em algumas regiões.]]></description>
-    <content:encoded><![CDATA[
-<p>A quarta-feira será marcada por tempo estável na maior parte do Rio Grande do Sul, com predomínio de sol e elevação das temperaturas ao longo do dia.</p>
-<p>Em áreas do Norte, Nordeste, Sul e Litoral Norte, há condição para pancadas isoladas de chuva, que podem ocorrer de forma localizada. As instabilidades podem ser moderadas a fortes, acompanhadas de trovoadas, com volumes previstos entre 10 e 30 milímetros.</p>
-<p>Apesar da possibilidade de chuva, os episódios tendem a ser rápidos e não abrangem grandes áreas.</p>
-]]></content:encoded>
-  </item>
 </channel></rss>
