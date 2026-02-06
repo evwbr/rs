@@ -9,6 +9,21 @@
   <atom:link href="https://evwbr.github.io/rs/feed.xml" rel="self" type="application/rss+xml"/>
   <link>https://evwbr.github.io/rs/</link>
   <description>Notícias do Rio Grande do Sul (últimas 24h) reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Fri, 06 Feb 2026 20:07:45 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 06 Feb 2026 21:07:54 GMT</lastBuildDate>
   <language>pt-BR</language>
+  <item>
+    <title><![CDATA[Defesa Civil no RS emite alerta de temporais para a Região Metropolitana]]></title>
+    <link>https://agorars.com/agora-no-tempo/alerta-temporais-regiao-metropolitana-rs/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Fri, 06 Feb 2026 21:06:36 GMT</pubDate>
+    <category><![CDATA[Rio Grande do Sul]]></category>
+    <guid isPermaLink="false"><![CDATA[rsagorars:51d1c29d2c8d215f3c246bd6435e871ca31cb62a]]></guid>
+    <media:thumbnail url="https://uploads.agorars.com/2025/12/xQXnWzC2-Tempo_quente_pancadas_chuva.webp" />
+    <enclosure url="https://uploads.agorars.com/2025/12/xQXnWzC2-Tempo_quente_pancadas_chuva.webp" type="image/webp" />
+    <description><![CDATA[Alerta é válido até às 20h e indica risco de chuva, vento e granizo na região.]]></description>
+    <content:encoded><![CDATA[
+<p>A Defesa Civil estadual emitiu um novo alerta, no fim da tarde desta sexta-feira (6), para temporais em parte do RS. Aviso válido até às 20h.</p>
+<p>Conforme a Defesa Civil, há condição de alerta para instabilidades com chuva, vento e granizo atuando na Região Metropolitana. É alto o risco de destelhamento.</p>
+]]></content:encoded>
+  </item>
 </channel></rss>
