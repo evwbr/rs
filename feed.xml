@@ -9,6 +9,22 @@
   <atom:link href="https://evwbr.github.io/rs/feed.xml" rel="self" type="application/rss+xml"/>
   <link>https://evwbr.github.io/rs/</link>
   <description>Notícias do Rio Grande do Sul (últimas 24h) reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Fri, 06 Feb 2026 15:07:46 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 06 Feb 2026 16:08:22 GMT</lastBuildDate>
   <language>pt-BR</language>
+  <item>
+    <title><![CDATA[Defesa Civil alerta para temporais no RS entre sexta e sábado]]></title>
+    <link>https://agorars.com/agora-no-tempo/defesa-civil-alerta-para-temporais-no-rs-entre-sexta-e-sabado/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Fri, 06 Feb 2026 15:28:42 GMT</pubDate>
+    <category><![CDATA[Rio Grande do Sul]]></category>
+    <guid isPermaLink="false"><![CDATA[rsagorars:57be8c8723f034dcdfba22d2b8b06f753cbcc492]]></guid>
+    <media:thumbnail url="https://uploads.agorars.com/2024/11/iCRrMzcK-temporal.webp" />
+    <enclosure url="https://uploads.agorars.com/2024/11/iCRrMzcK-temporal.webp" type="image/webp" />
+    <description><![CDATA[A Defesa Civil do Rio Grande do Sul emitiu um alerta para a ocorrência de temporais entre esta sexta-feira e o sábado, com previsão de chuva forte, ventos, descargas elétricas e possibilidade de granizo.]]></description>
+    <content:encoded><![CDATA[
+<p>A Defesa Civil do Rio Grande do Sul emitiu um novo alerta para a ocorrência de temporais entre esta sexta-feira e o sábado. A previsão indica chuva pontualmente forte, rajadas de vento, descargas elétricas e possibilidade de granizo em diferentes regiões do Estado.</p>
+<p>Nesta sexta-feira, os temporais devem atuar principalmente entre a tarde e a noite, atingindo áreas da Campanha, Centro, Sul, Costa Doce, Vales e Região Metropolitana de Porto Alegre. A instabilidade ocorre de forma irregular, mas pode apresentar intensidade elevada em pontos isolados, com acumulados significativos de chuva em curto período de tempo e ventos fortes associados.</p>
+<p>No sábado, o tempo segue instável, com previsão de novos temporais ao longo do dia. As áreas com maior risco incluem os Vales, a Região Metropolitana de Porto Alegre, a Serra, o Litoral Norte, o Noroeste, o Nordeste e o Norte do Estado. A Defesa Civil alerta para a possibilidade de episódios localizados de chuva intensa, raios, rajadas de vento e eventual queda de granizo.</p>
+]]></content:encoded>
+  </item>
 </channel></rss>
