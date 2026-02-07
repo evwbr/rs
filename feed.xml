@@ -9,6 +9,23 @@
   <atom:link href="https://evwbr.github.io/rs/feed.xml" rel="self" type="application/rss+xml"/>
   <link>https://evwbr.github.io/rs/</link>
   <description>Notícias do Rio Grande do Sul (últimas 24h) reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Sat, 07 Feb 2026 17:07:53 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 07 Feb 2026 18:07:50 GMT</lastBuildDate>
   <language>pt-BR</language>
+  <item>
+    <title><![CDATA[Frente fria reduz temperaturas no RS após dias de calor extremo]]></title>
+    <link>https://agorars.com/agora-no-tempo/frente-fria-reduz-temperaturas-no-rs-apos-dias-de-calor-extremo/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Sat, 07 Feb 2026 17:56:47 GMT</pubDate>
+    <category><![CDATA[Rio Grande do Sul]]></category>
+    <guid isPermaLink="false"><![CDATA[rsagorars:10d498ed3a58280f3cc17987f19ce0bc49631b38]]></guid>
+    <media:thumbnail url="https://uploads.agorars.com/2025/11/OxU5UekK-07-NOV-2025_Alex-Rocha_Previsao-Tempo_-1.webp" />
+    <enclosure url="https://uploads.agorars.com/2025/11/OxU5UekK-07-NOV-2025_Alex-Rocha_Previsao-Tempo_-1.webp" type="image/webp" />
+    <description><![CDATA[A passagem de uma frente fria provocou queda nas temperaturas em grande parte do Rio Grande do Sul, encerrando um período de calor intenso associado a uma onda de calor que atuou sobre o Estado ao longo da semana.]]></description>
+    <content:encoded><![CDATA[
+<p>A passagem de uma frente fria provocou queda nas temperaturas em grande parte do Rio Grande do Sul, encerrando um período de calor intenso associado a uma onda de calor que atuou sobre o Estado ao longo da semana.</p>
+<p>Na sexta-feira, São Luiz Gonzaga, no Noroeste, havia registrado máxima de 39,6°C. Já neste sábado, conforme dados do INMET, a cidade voltou a marcar a maior temperatura do Estado até as 14h, com 32,2°C — a única acima dos 30°C entre as estações monitoradas.</p>
+<p>Ainda no Noroeste, Palmeira das Missões registrou máxima de 27,5°C e Frederico Westphalen, 26,4°C. No Norte gaúcho, Passo Fundo marcou 28,6°C e Erechim, 26,1°C no mesmo período. A queda de temperatura também foi observada na Campanha, no Centro e na parte Leste do Estado.</p>
+<p>Em Porto Alegre, a máxima registrada até as 14h foi de 22,6°C no bairro Lami, na zona sul da Capital.</p>
+]]></content:encoded>
+  </item>
 </channel></rss>
