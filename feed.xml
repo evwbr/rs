@@ -9,6 +9,22 @@
   <atom:link href="https://evwbr.github.io/rs/feed.xml" rel="self" type="application/rss+xml"/>
   <link>https://evwbr.github.io/rs/</link>
   <description>Notícias do Rio Grande do Sul (últimas 24h) reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Sun, 08 Feb 2026 15:07:49 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 08 Feb 2026 16:07:57 GMT</lastBuildDate>
   <language>pt-BR</language>
+  <item>
+    <title><![CDATA[BR-101 tem tráfego liberado em Torres após reparo emergencial]]></title>
+    <link>https://agorars.com/agora-no-transito/br-101-tem-pista-liberada-em-torres-apos-obra-emergencial-na-pista/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Sun, 08 Feb 2026 15:39:09 GMT</pubDate>
+    <category><![CDATA[Rio Grande do Sul]]></category>
+    <guid isPermaLink="false"><![CDATA[rsagorars:ac37b88c6e59b62f1a8fcec5b1c53a9a059c1035]]></guid>
+    <media:thumbnail url="https://uploads.agorars.com/2026/02/XA6oMveP-obra-br101-torres.webp" />
+    <enclosure url="https://uploads.agorars.com/2026/02/XA6oMveP-obra-br101-torres.webp" type="image/webp" />
+    <description><![CDATA[A BR-101 teve o tráfego totalmente liberado no km 12, em Torres, no Litoral Norte do Rio Grande do Sul, após a conclusão do reparo emergencial em um dano na pista.]]></description>
+    <content:encoded><![CDATA[
+<p>A BR-101 teve o tráfego totalmente liberado no km 12, em Torres, no Litoral Norte do Rio Grande do Sul, após a conclusão do reparo emergencial em um dano na pista.</p>
+<p>A liberação ocorreu por volta das 23h deste sábado, conforme a Polícia Rodoviária Federal.</p>
+<p>O trecho estava totalmente bloqueado no sentido norte desde a noite de sexta-feira, depois que foi identificado um comprometimento entre a faixa da direita e o acostamento. Durante o período de interdição, o fluxo de veículos foi desviado para a via marginal existente no local.</p>
+]]></content:encoded>
+  </item>
 </channel></rss>
