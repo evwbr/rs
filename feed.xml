@@ -9,6 +9,22 @@
   <atom:link href="https://evwbr.github.io/rs/feed.xml" rel="self" type="application/rss+xml"/>
   <link>https://evwbr.github.io/rs/</link>
   <description>Notícias do Rio Grande do Sul (últimas 24h) reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Mon, 09 Feb 2026 13:07:51 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 09 Feb 2026 14:07:53 GMT</lastBuildDate>
   <language>pt-BR</language>
+  <item>
+    <title><![CDATA[BR-470 tem estreitamento de pista e sistema pare e siga em Bento Gonçalves]]></title>
+    <link>https://agorars.com/agora-no-transito/br-470-tem-estreitamento-de-pista-e-sistema-pare-e-siga-em-bento-goncalves/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Mon, 09 Feb 2026 13:50:42 GMT</pubDate>
+    <category><![CDATA[Rio Grande do Sul]]></category>
+    <guid isPermaLink="false"><![CDATA[rsagorars:7afd5051e7c59a6d1ace3853fe97d8e8a2bc73a8]]></guid>
+    <media:thumbnail url="https://uploads.agorars.com/2026/01/phpDEXpm-Na_Estrada_Ismael_BR_470_RZE5.webp" />
+    <enclosure url="https://uploads.agorars.com/2026/01/phpDEXpm-Na_Estrada_Ismael_BR_470_RZE5.webp" type="image/webp" />
+    <description><![CDATA[O tráfego na BR-470 está operando em sistema Pare e Siga entre os quilômetros 216 e 220, em Bento Gonçalves, devido a obras programadas.]]></description>
+    <content:encoded><![CDATA[
+<p>A BR-470 tem estreitamento de pista entre os quilômetros 216 e 220, em Bento Gonçalves, na Serra gaúcha, devido a obras programadas no km 217.</p>
+<p>O tráfego opera em sistema Pare e Siga no trecho, conforme alerta do DNIT (Departamento Nacional de Infraestrutura de Transportes).</p>
+<p>Os serviços começaram às 8h desta segunda-feira e seguem até o dia 27 de março. As intervenções integram ações de gestão de risco com foco na segurança viária e na melhoria da infraestrutura da rodovia.</p>
+]]></content:encoded>
+  </item>
 </channel></rss>
