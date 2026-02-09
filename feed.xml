@@ -9,6 +9,43 @@
   <atom:link href="https://evwbr.github.io/rs/feed.xml" rel="self" type="application/rss+xml"/>
   <link>https://evwbr.github.io/rs/</link>
   <description>Notícias do Rio Grande do Sul (últimas 24h) reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Mon, 09 Feb 2026 18:07:54 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 09 Feb 2026 20:08:05 GMT</lastBuildDate>
   <language>pt-BR</language>
+  <item>
+    <title><![CDATA[Porto Alegre terá calor intenso e retorno de instabilidades a partir de quinta-feira]]></title>
+    <link>https://agorars.com/agora-no-tempo/previsao-tempo-porto-alegre-semana-calor-chuva/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Mon, 09 Feb 2026 18:41:32 GMT</pubDate>
+    <category><![CDATA[Rio Grande do Sul]]></category>
+    <guid isPermaLink="false"><![CDATA[rsagorars:37a32399f592e9330415c05e42d85ac9f3049580]]></guid>
+    <media:thumbnail url="https://uploads.agorars.com/2026/01/BVmty2FP-IMG_9534.webp" />
+    <enclosure url="https://uploads.agorars.com/2026/01/BVmty2FP-IMG_9534.webp" type="image/webp" />
+    <description><![CDATA[A semana em Porto Alegre será marcada por temperaturas elevadas, predomínio de sol e retorno das instabilidades entre quinta e sexta-feira, com previsão de pancadas de chuva e descargas elétricas.]]></description>
+    <content:encoded><![CDATA[
+<p>A semana em Porto Alegre será marcada por temperaturas elevadas, predomínio de sol em boa parte dos dias e retorno das instabilidades entre quinta e sexta-feira, com previsão de pancadas de chuva e descargas elétricas.</p>
+<p>Na segunda-feira, o dia iniciou com sol entre nuvens, condição que se mantém ao longo da manhã. Durante a tarde, há possibilidade de chuva isolada, com acumulados em torno de 2 mm. Os ventos sopram de leste, com intensidade média de 25 km/h e rajadas que podem chegar a 50 km/h entre a tarde e a noite. A temperatura mínima registrada foi de 19°C e a máxima prevista é de 32°C.</p>
+<p>Na terça-feira, o sol aparece entre muitas nuvens no início do dia, com diminuição gradual da nebulosidade ao longo da manhã. À tarde, o sol predomina entre algumas nuvens esparsas. Os ventos sopram predominantemente de norte, com intensidade média de 10 km/h e rajadas em torno de 35 km/h. As temperaturas variam entre 21°C e 35°C.</p>
+]]></content:encoded>
+  </item>
+  <item>
+    <title><![CDATA[Mercado reduz previsão da inflação para 3,97% este ano]]></title>
+    <link>https://agorars.com/economia/previsao-ipca-2026-focus-inflacao-selic/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Mon, 09 Feb 2026 18:24:30 GMT</pubDate>
+    <category><![CDATA[Rio Grande do Sul]]></category>
+    <guid isPermaLink="false"><![CDATA[rsagorars:3f2f83b4a56939e8e72674021c75445bb831e2fe]]></guid>
+    <media:thumbnail url="https://uploads.agorars.com/2025/07/7aOuR7eo-dinheiro-precatorios.webp" />
+    <enclosure url="https://uploads.agorars.com/2025/07/7aOuR7eo-dinheiro-precatorios.webp" type="image/webp" />
+    <description><![CDATA[A previsão do mercado financeiro para o Índice Nacional de Preços ao Consumidor Amplo (IPCA) passou de 3,99% para 3,97% em 2026.]]></description>
+    <content:encoded><![CDATA[
+<p>A previsão do mercado financeiro para o Índice Nacional de Preços ao Consumidor Amplo (IPCA) – referência oficial da inflação no país – passou de 3,99% para 3,97% em 2026.</p>
+<p>A estimativa está no boletim Focus desta segunda-feira, pesquisa divulgada semanalmente pelo Banco Central (BC) com a expectativa de instituições financeiras para os principais indicadores econômicos.</p>
+<p>Para 2027, a projeção da inflação se manteve em 3,8%. Para 2028 e 2029, as previsões são de 3,5% para os dois anos.</p>
+<p>Pela quinta semana seguida, a previsão para a inflação de 2026 foi reduzida e está dentro do intervalo da meta para a variação de preços que deve ser perseguida pelo BC. Definida pelo Conselho Monetário Nacional (CMN), a meta é de 3%, com intervalo de tolerância de 1,5 ponto percentual para cima ou para baixo. Ou seja, o limite inferior é 1,5%, e o superior, 4,5%.</p>
+<p>A primeira divulgação sobre o IPCA de 2026 será feita nesta terça-feira pelo Instituto Brasileiro de Geografia e Estatística (IBGE) com o índice de janeiro.</p>
+<p>Em dezembro, a alta no preço dos transportes por aplicativo e das passagens aéreas fez a inflação chegar a 0,33%, acima do aumento de 0,18% registrado em novembro. O resultado fez o IPCA acumular alta de 4,26% em 2025.</p>
+<p>Para alcançar a meta de inflação, o Banco Central usa como principal instrumento a taxa básica de juros (Taxa Selic), definida atualmente em 15% ao ano pelo Comitê de Política Monetária (Copom) do BC. Apesar do recuo da inflação e do dólar, o colegiado não mexeu nos juros pela quinta vez seguida.</p>
+<p>A taxa está no maior nível desde julho de 2006, quando estava em 15,25% ao ano. Em comunicado, o Copom confirmou que começará a reduzir os juros na reunião de março, caso a inflação se mantenha sob controle e não haja surpresas no cenário econômico.</p>
+]]></content:encoded>
+  </item>
 </channel></rss>
