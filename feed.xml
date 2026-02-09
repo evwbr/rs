@@ -9,22 +9,6 @@
   <atom:link href="https://evwbr.github.io/rs/feed.xml" rel="self" type="application/rss+xml"/>
   <link>https://evwbr.github.io/rs/</link>
   <description>Notícias do Rio Grande do Sul (últimas 24h) reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Mon, 09 Feb 2026 21:07:55 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 09 Feb 2026 22:07:45 GMT</lastBuildDate>
   <language>pt-BR</language>
-  <item>
-    <title><![CDATA[RS terá convívio de calor e chuva na terça; temporais se intensificam na quarta]]></title>
-    <link>https://agorars.com/agora-no-tempo/temporais-rs-chuva-granizo-defesa-civil/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Mon, 09 Feb 2026 20:16:42 GMT</pubDate>
-    <category><![CDATA[Rio Grande do Sul]]></category>
-    <guid isPermaLink="false"><![CDATA[rsagorars:beca1c129df133250c1010cdc012f12ab2babb10]]></guid>
-    <media:thumbnail url="https://uploads.agorars.com/2025/12/xQXnWzC2-Tempo_quente_pancadas_chuva.webp" />
-    <enclosure url="https://uploads.agorars.com/2025/12/xQXnWzC2-Tempo_quente_pancadas_chuva.webp" type="image/webp" />
-    <description><![CDATA[Previsão do tempo indica possibilidade de chuvas e temporais isolados no RS.]]></description>
-    <content:encoded><![CDATA[
-<p>A previsão do tempo indica que pode haver chuva em parte do RS na terça-feira. As informações são do Centro de Monitoramento da Defesa Civil.</p>
-<p>Conforme o Centro de Monitoramento, na terça-feira, há condição para temporais isolados com queda de granizo na faixa leste do Estado, Missões, Noroeste e parte do Centro. Os acumulados variam entre 10 e 30 mm/dia.</p>
-<p>As temperaturas mínimas variam entre 13°C e 24°C, enquanto as máximas oscilam entre 26°C e 39°C. A umidade relativa do ar fica próxima ou abaixo de 30% no Oeste e Campanha.</p>
-]]></content:encoded>
-  </item>
 </channel></rss>
