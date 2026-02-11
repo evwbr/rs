@@ -9,21 +9,6 @@
   <atom:link href="https://evwbr.github.io/rs/feed.xml" rel="self" type="application/rss+xml"/>
   <link>https://evwbr.github.io/rs/</link>
   <description>Notícias do Rio Grande do Sul (últimas 24h) reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Wed, 11 Feb 2026 19:07:52 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 11 Feb 2026 20:07:48 GMT</lastBuildDate>
   <language>pt-BR</language>
-  <item>
-    <title><![CDATA[Porto Alegre: Ônibus e táxi passam a operar com novas tarifas]]></title>
-    <link>https://agorars.com/rs/porto-alegre/reajuste-tarifa-onibus-porto-alegre-2026/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Wed, 11 Feb 2026 18:30:49 GMT</pubDate>
-    <category><![CDATA[Rio Grande do Sul]]></category>
-    <guid isPermaLink="false"><![CDATA[rsagorars:e5cae7d12bebecbe317d1993c3ea33567a8930da]]></guid>
-    <media:thumbnail url="https://agorars.com/wp-content/uploads/2022/10/17OUT2022_Alex-Rocha_Terminal-Uruguai_POA-jpg.webp" />
-    <enclosure url="https://agorars.com/wp-content/uploads/2022/10/17OUT2022_Alex-Rocha_Terminal-Uruguai_POA-jpg.webp" type="image/webp" />
-    <description><![CDATA[As novas tarifas do transporte coletivo e dos táxis de Porto Alegre entram em vigor em 19 de fevereiro, com a passagem de ônibus custando R$ 5,30.]]></description>
-    <content:encoded><![CDATA[
-<p>As novas tarifas do transporte coletivo e dos táxis de Porto Alegre entram em vigor em 19 de fevereiro, com a passagem de ônibus custando R$ 5,30.</p>
-<p>O reajuste é atribuído à reposição inflacionária e ao impacto da reoneração da folha de pagamento, conforme previsto em legislação federal, o que representa um aumento de R$ 8 milhões no custo do sistema de transporte público em relação a 2025, segundo a prefeitura.</p>
-]]></content:encoded>
-  </item>
 </channel></rss>
