@@ -9,6 +9,23 @@
   <atom:link href="https://evwbr.github.io/rs/feed.xml" rel="self" type="application/rss+xml"/>
   <link>https://evwbr.github.io/rs/</link>
   <description>Notícias do Rio Grande do Sul (últimas 24h) reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Wed, 11 Feb 2026 13:07:47 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 11 Feb 2026 14:07:58 GMT</lastBuildDate>
   <language>pt-BR</language>
+  <item>
+    <title><![CDATA[Fios energizados bloqueiam trecho da avenida Ipiranga em Porto Alegre]]></title>
+    <link>https://agorars.com/agora-no-transito/fios-energizados-bloqueiam-trecho-da-avenida-ipiranga-em-porto-alegre/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Wed, 11 Feb 2026 13:35:19 GMT</pubDate>
+    <category><![CDATA[Rio Grande do Sul]]></category>
+    <guid isPermaLink="false"><![CDATA[rsagorars:5764db167e39fc877a01a1b14bd5ddd62fe81c8e]]></guid>
+    <media:thumbnail url="https://uploads.agorars.com/2026/02/N5Q3QswE-desvios-ipiranga.webp" />
+    <enclosure url="https://uploads.agorars.com/2026/02/N5Q3QswE-desvios-ipiranga.webp" type="image/webp" />
+    <description><![CDATA[Bloqueio total na avenida Ipiranga, no sentido Centro-bairro, devido à presença de fios energizados.]]></description>
+    <content:encoded><![CDATA[
+<p>A presença de fios energizados provoca bloqueio total na avenida Ipiranga, no sentido Centro-bairro, em Porto Alegre, na manhã desta quarta-feira.</p>
+<p>Parte do solo, além de placas e postes da região, estariam energizados. A interdição começa no cruzamento com a rua Múcio Teixeira e segue até a altura da avenida Érico Verissimo. O trânsito está totalmente interrompido desde as 6h da manhã nesse trecho por questões de segurança.</p>
+<p>O local da fuga de energia ainda não foi identificado. Equipes da CEEE Equatorial e da CPFL Transmissão buscam identificar a causa da fuga de energia. Há risco de choque elétrico, uma vez que a avenida Ipiranga possui a passagem de cabos de média e alta tensão.</p>
+<p>Agentes da EPTC (Empresa Pública de Transporte e Circulação) orientam motoristas e pedestres no local e organizam o desvio.</p>
+]]></content:encoded>
+  </item>
 </channel></rss>
