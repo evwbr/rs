@@ -9,22 +9,6 @@
   <atom:link href="https://evwbr.github.io/rs/feed.xml" rel="self" type="application/rss+xml"/>
   <link>https://evwbr.github.io/rs/</link>
   <description>Notícias do Rio Grande do Sul (últimas 24h) reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Wed, 11 Feb 2026 12:07:54 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 11 Feb 2026 13:07:47 GMT</lastBuildDate>
   <language>pt-BR</language>
-  <item>
-    <title><![CDATA[Novos alertas de tempestade no Rio Grande do Sul entre quarta e quinta-feira]]></title>
-    <link>https://agorars.com/agora-no-tempo/rs-tem-novos-alertas-para-tempestade-entre-quarta-e-quinta-feira/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Wed, 11 Feb 2026 11:49:30 GMT</pubDate>
-    <category><![CDATA[Rio Grande do Sul]]></category>
-    <guid isPermaLink="false"><![CDATA[rsagorars:f1f50ef21a4b171704941cd93f7f8ed203d10bc2]]></guid>
-    <media:thumbnail url="https://uploads.agorars.com/2024/10/0biPAKHT-imagem179575.webp" />
-    <enclosure url="https://uploads.agorars.com/2024/10/0biPAKHT-imagem179575.webp" type="image/webp" />
-    <description><![CDATA[O INMET emitiu avisos de tempestade para o estado, com maior risco na Metade Sul devido ao avanço de uma frente fria.]]></description>
-    <content:encoded><![CDATA[
-<p>O INMET (Instituto Nacional de Meteorologia) publicou dois avisos de tempestade para o Rio Grande do Sul entre esta quarta-feira e quinta-feira. A Metade Sul é a área com maior risco de temporais intensos, provocados pelo avanço de uma frente fria sobre o Estado.</p>
-<p>O primeiro aviso é um alerta amarelo de tempestade, válido ao longo desta quarta e até as 23h59 de quinta-feira. A previsão indica chuva entre 20 e 30 milímetros por hora, com acumulados que podem chegar a 50 milímetros por dia. Também são esperados ventos entre 40 e 60 quilômetros por hora e possibilidade de granizo.</p>
-<p>Nesse nível, o risco é considerado baixo para corte de energia elétrica, queda de galhos, alagamentos e danos em plantações. O alerta abrange praticamente todo o território gaúcho, com exceção de municípios mais próximos de Santa Catarina nas regiões Noroeste, Norte, Nordeste, Serra gaúcha e Litoral Norte.</p>
-]]></content:encoded>
-  </item>
 </channel></rss>
