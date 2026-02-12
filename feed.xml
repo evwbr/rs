@@ -9,6 +9,22 @@
   <atom:link href="https://evwbr.github.io/rs/feed.xml" rel="self" type="application/rss+xml"/>
   <link>https://evwbr.github.io/rs/</link>
   <description>Notícias do Rio Grande do Sul (últimas 24h) reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Thu, 12 Feb 2026 11:07:51 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 12 Feb 2026 12:07:53 GMT</lastBuildDate>
   <language>pt-BR</language>
+  <item>
+    <title><![CDATA[Alertas de tempestade no Rio Grande do Sul]]></title>
+    <link>https://agorars.com/agora-no-tempo/ao-vivo-alertas-de-tempestade-no-rio-grande-do-sul/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Thu, 12 Feb 2026 11:47:58 GMT</pubDate>
+    <category><![CDATA[Rio Grande do Sul]]></category>
+    <guid isPermaLink="false"><![CDATA[rsagorars:0bd9970e6f6c07327d673ee407a1b2fdf235e957]]></guid>
+    <media:thumbnail url="https://agorars.com/wp-content/uploads/2023/12/nuvens-temporal-alegrete-jpg.webp" />
+    <enclosure url="https://agorars.com/wp-content/uploads/2023/12/nuvens-temporal-alegrete-jpg.webp" type="image/webp" />
+    <description><![CDATA[A Defesa Civil do Rio Grande do Sul emitiu novos alertas de tempestade nesta quinta-feira. A previsão do tempo indica que um sistema de baixa pressão favorece tempestades com chuva forte, queda de granizo e rajadas de vento.]]></description>
+    <content:encoded><![CDATA[
+<p>A Defesa Civil do Rio Grande do Sul emitiu novos alertas de tempestade nesta quinta-feira.</p>
+<p>A previsão do tempo indica que um sistema de baixa pressão favorece tempestades com chuva forte, queda de granizo e rajadas de vento. As tempestades têm registrado ventos acima dos 90 km/h em grande parte do Estado.</p>
+<p>Acompanhe abaixo as novas informações.</p>
+]]></content:encoded>
+  </item>
 </channel></rss>
