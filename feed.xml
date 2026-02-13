@@ -9,6 +9,22 @@
   <atom:link href="https://evwbr.github.io/rs/feed.xml" rel="self" type="application/rss+xml"/>
   <link>https://evwbr.github.io/rs/</link>
   <description>Notícias do Rio Grande do Sul (últimas 24h) reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Fri, 13 Feb 2026 22:08:35 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 13 Feb 2026 23:07:45 GMT</lastBuildDate>
   <language>pt-BR</language>
+  <item>
+    <title><![CDATA[Número de municípios com danos após temporais no RS chega a dezenove]]></title>
+    <link>https://agorars.com/agora-no-tempo/temporais-danos-municipios-rs/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Fri, 13 Feb 2026 22:14:52 GMT</pubDate>
+    <category><![CDATA[Rio Grande do Sul]]></category>
+    <guid isPermaLink="false"><![CDATA[rsagorars:80bd7bc99df90d4c6098d6548fee846cb3599f7c]]></guid>
+    <media:thumbnail url="https://uploads.agorars.com/2026/02/ZrBvWdch-prefeitura-estrela-temporal.webp" />
+    <enclosure url="https://uploads.agorars.com/2026/02/ZrBvWdch-prefeitura-estrela-temporal.webp" type="image/webp" />
+    <description><![CDATA[A Defesa Civil estadual atualizou a relação de danos reportados por municípios gaúchos após os temporais recentes. Os maiores acumulados de chuva ocorreram em Cambará do Sul, com 74,2mm em 24 horas.]]></description>
+    <content:encoded><![CDATA[
+<p>A Defesa Civil estadual atualizou, na tarde desta sexta-feira, a relação de danos reportados por municípios gaúchos após a passagem dos temporais recentes no RS. Os maiores acumulados ocorreram em Cambará do Sul, onde o volume de chuva chegou a 74,2mm em 24 horas.</p>
+<p>Em relação à última atualização, somam-se aos demais municípios, Coronel Barros, que reportou danos em galpão e queda de árvores; e Glorinha, que teve danos em residências e estradas bloqueadas dentro do município.</p>
+<p>Além dessas cidades, outras dezessete também reportaram danos de ontem para hoje. Conforme boletim da Defesa Civil anterior, os ventos chegaram a 37,8 km/h e a chuva acumulou até 71,2 milímetros em 24 horas.</p>
+]]></content:encoded>
+  </item>
 </channel></rss>
