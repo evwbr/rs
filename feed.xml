@@ -9,21 +9,6 @@
   <atom:link href="https://evwbr.github.io/rs/feed.xml" rel="self" type="application/rss+xml"/>
   <link>https://evwbr.github.io/rs/</link>
   <description>Notícias do Rio Grande do Sul (últimas 24h) reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Sat, 14 Feb 2026 21:07:53 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 14 Feb 2026 22:07:46 GMT</lastBuildDate>
   <language>pt-BR</language>
-  <item>
-    <title><![CDATA[Domingo (15) pode ter chuva de até 60mm no RS; Máximas na casa dos 30°C]]></title>
-    <link>https://agorars.com/agora-no-tempo/chuva-temporais-domingo-rs/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Sat, 14 Feb 2026 20:42:47 GMT</pubDate>
-    <category><![CDATA[Rio Grande do Sul]]></category>
-    <guid isPermaLink="false"><![CDATA[rsagorars:6adfd94e0ce297e10f5e24f46415738448588539]]></guid>
-    <media:thumbnail url="https://uploads.agorars.com/2024/04/temporal-fronteira.jpg" />
-    <enclosure url="https://uploads.agorars.com/2024/04/temporal-fronteira.jpg" type="image/webp" />
-    <description><![CDATA[Previsão do tempo indica chuvas no Rio Grande do Sul, com possibilidade de temporais isolados e rajadas de vento.]]></description>
-    <content:encoded><![CDATA[
-<p>A previsão do tempo indica chuvas no Rio Grande do Sul no domingo (15). As informações são do CMDEC (Centro de Monitoramento da Defesa Civil).</p>
-<p>Conforme o CMDEC, um sistema de baixa pressão favorecerá temporais isolados com chuva forte, eventual queda de granizo e rajadas de vento de até 80 km/h. Essas chuvas atingem especialmente áreas da metade Norte.</p>
-]]></content:encoded>
-  </item>
 </channel></rss>
