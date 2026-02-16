@@ -9,6 +9,23 @@
   <atom:link href="https://evwbr.github.io/rs/feed.xml" rel="self" type="application/rss+xml"/>
   <link>https://evwbr.github.io/rs/</link>
   <description>Notícias do Rio Grande do Sul (últimas 24h) reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Mon, 16 Feb 2026 15:07:41 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 16 Feb 2026 16:08:04 GMT</lastBuildDate>
   <language>pt-BR</language>
+  <item>
+    <title><![CDATA[INMET emite alerta de tempestade e chuva intensa para o Rio Grande do Sul]]></title>
+    <link>https://agorars.com/agora-no-tempo/alerta-tempestade-chuva-intensa-rs-inmet/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Mon, 16 Feb 2026 16:00:21 GMT</pubDate>
+    <category><![CDATA[Rio Grande do Sul]]></category>
+    <guid isPermaLink="false"><![CDATA[rsagorars:108994d2b5b46a1d3c81116b6eeeac2e8ce9949b]]></guid>
+    <media:thumbnail url="https://agorars.com/wp-content/uploads/2023/12/nuvens-temporal-alegrete-jpg.webp" />
+    <enclosure url="https://agorars.com/wp-content/uploads/2023/12/nuvens-temporal-alegrete-jpg.webp" type="image/webp" />
+    <description><![CDATA[O Instituto Nacional de Meteorologia divulgou avisos sobre risco de chuvas intensas e ventos fortes no estado.]]></description>
+    <content:encoded><![CDATA[
+<p>Nuvens carregadas durante aproximação de tempestade em Alegrete.</p>
+<p>O INMET (Instituto Nacional de Meteorologia) emitiu dois avisos meteorológicos para o Rio Grande do Sul entre domingo e segunda-feira. Os alertas indicam risco de chuva intensa, ventos fortes e possibilidade de granizo em parte do Estado.</p>
+<p>O aviso de chuva intensa, classificado como perigo potencial, começa às 9h de domingo e segue até as 23h59 de segunda-feira. A previsão é de chuva entre 20 e 30 milímetros por hora ou até 50 milímetros por dia, com ventos entre 40 e 60 km/h. O risco é considerado baixo para corte de energia elétrica, queda de galhos de árvores, alagamentos e descargas elétricas. O alerta abrange todas as regiões do RS.</p>
+<p>Já o aviso de tempestade, com grau de severidade classificado como perigo, inicia às 10h de domingo e vai até as 10h de segunda-feira. A previsão indica chuva entre 30 e 60 milímetros por hora ou acumulados entre 50 e 100 milímetros por dia, ventos de 60 a 100 km/h e possibilidade de queda de granizo.</p>
+]]></content:encoded>
+  </item>
 </channel></rss>
