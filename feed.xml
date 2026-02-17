@@ -9,21 +9,6 @@
   <atom:link href="https://evwbr.github.io/rs/feed.xml" rel="self" type="application/rss+xml"/>
   <link>https://evwbr.github.io/rs/</link>
   <description>Notícias do Rio Grande do Sul (últimas 24h) reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Tue, 17 Feb 2026 16:07:47 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 17 Feb 2026 17:07:47 GMT</lastBuildDate>
   <language>pt-BR</language>
-  <item>
-    <title><![CDATA[Rio Grande do Sul em alerta laranja de tempestade até quarta-feira]]></title>
-    <link>https://agorars.com/agora-no-tempo/rs-tem-novo-alerta-laranja-de-tempestade-valido-ate-quarta-feira/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Tue, 17 Feb 2026 15:17:51 GMT</pubDate>
-    <category><![CDATA[Rio Grande do Sul]]></category>
-    <guid isPermaLink="false"><![CDATA[rsagorars:79f51ab5bb9a55d14cfb16f0221843e782a3646c]]></guid>
-    <media:thumbnail url="https://uploads.agorars.com/2024/10/0biPAKHT-imagem179575.webp" />
-    <enclosure url="https://uploads.agorars.com/2024/10/0biPAKHT-imagem179575.webp" type="image/webp" />
-    <description><![CDATA[O estado está sob aviso de tempestade com previsão de chuvas intensas e ventos fortes.]]></description>
-    <content:encoded><![CDATA[
-<p>O Rio Grande do Sul está sob vigência de um novo alerta laranja de tempestade nesta terça-feira.</p>
-<p>O aviso, publicado às 11h30, é válido até as 10h de quarta-feira e abrange todas as regiões do Estado. Conforme o INMET (Instituto Nacional de Meteorologia), a previsão indica chuva entre 30 e 60 milímetros por hora ou acumulados entre 50 e 100 milímetros por dia. Também há possibilidade de ventos intensos, com rajadas entre 60 e 100 km/h, além de queda de granizo.</p>
-]]></content:encoded>
-  </item>
 </channel></rss>
