@@ -9,6 +9,22 @@
   <atom:link href="https://evwbr.github.io/rs/feed.xml" rel="self" type="application/rss+xml"/>
   <link>https://evwbr.github.io/rs/</link>
   <description>Notícias do Rio Grande do Sul (últimas 24h) reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Tue, 17 Feb 2026 17:07:47 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 17 Feb 2026 18:08:11 GMT</lastBuildDate>
   <language>pt-BR</language>
+  <item>
+    <title><![CDATA[Região metropolitana de Porto Alegre tem alerta vermelho de tempestade]]></title>
+    <link>https://agorars.com/agora-no-tempo/regiao-metropolitana-tem-alerta-vermelho-de-tempestade/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Tue, 17 Feb 2026 17:46:20 GMT</pubDate>
+    <category><![CDATA[Rio Grande do Sul]]></category>
+    <guid isPermaLink="false"><![CDATA[rsagorars:3172d43938efef6cb3ae222c52ebeecefc08c9e9]]></guid>
+    <media:thumbnail url="https://uploads.agorars.com/2026/02/vYCVC7uu-IMG_9879.JPG.webp" />
+    <enclosure url="https://uploads.agorars.com/2026/02/vYCVC7uu-IMG_9879.JPG.webp" type="image/webp" />
+    <description><![CDATA[A Defesa Civil do Rio Grande do Sul emitiu um alerta vermelho para tempestade, indicando a possibilidade de granizo e vendaval na área de Porto Alegre.]]></description>
+    <content:encoded><![CDATA[
+<p>A Defesa Civil do Rio Grande do Sul emitiu um alerta vermelho para tempestade na tarde desta terça-feira. O aviso indica a ocorrência de granizo e vendaval na próxima hora na área de Porto Alegre.</p>
+<p>A orientação é que a população busque abrigo imediatamente, longe de árvores, placas e postes de energia elétrica. O alerta, classificado como severo, aponta risco elevado de danos causados por vento forte e queda de objetos. Em caso de emergência, os contatos indicados são 190 e 193.</p>
+<p>A recomendação é evitar deslocamentos durante a tempestade e não permanecer em áreas abertas até que as condições climáticas se estabilizem.</p>
+]]></content:encoded>
+  </item>
 </channel></rss>
