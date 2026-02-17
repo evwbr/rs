@@ -9,6 +9,21 @@
   <atom:link href="https://evwbr.github.io/rs/feed.xml" rel="self" type="application/rss+xml"/>
   <link>https://evwbr.github.io/rs/</link>
   <description>Notícias do Rio Grande do Sul (últimas 24h) reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Tue, 17 Feb 2026 11:07:46 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 17 Feb 2026 12:07:46 GMT</lastBuildDate>
   <language>pt-BR</language>
+  <item>
+    <title><![CDATA[Acompanhe o trânsito nas estradas do RS nesta terça-feira]]></title>
+    <link>https://agorars.com/agora-no-transito/ao-vivo-acompanhe-o-transito-nas-estradas-do-rs-nesta-terca-feira/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Tue, 17 Feb 2026 12:00:31 GMT</pubDate>
+    <category><![CDATA[Rio Grande do Sul]]></category>
+    <guid isPermaLink="false"><![CDATA[rsagorars:f02d9bface2c0a9df323d52e80ddf75ba89c683c]]></guid>
+    <media:thumbnail url="https://uploads.agorars.com/2026/02/vBeyxwyM-ccr-freeway.webp" />
+    <enclosure url="https://uploads.agorars.com/2026/02/vBeyxwyM-ccr-freeway.webp" type="image/webp" />
+    <description><![CDATA[O retorno do Carnaval concentra o fluxo nas rodovias gaúchas nesta terça-feira. A Freeway, principal ligação entre o Litoral Norte e a Região Metropolitana de Porto Alegre, deve registrar o maior movimento do período.]]></description>
+    <content:encoded><![CDATA[
+<p>O retorno do Carnaval concentra o fluxo nas rodovias gaúchas nesta terça-feira. A Freeway, principal ligação entre o Litoral Norte e a Região Metropolitana de Porto Alegre, deve registrar o maior movimento do período.</p>
+<p>A previsão operacional indica quase 70 mil veículos passando pela praça de pedágio de Gravataí no sentido Litoral–Capital ao longo do dia. Em Santo Antônio da Patrulha, o volume também é elevado, com expectativa superior a 60 mil veículos no mesmo sentido.</p>
+]]></content:encoded>
+  </item>
 </channel></rss>
