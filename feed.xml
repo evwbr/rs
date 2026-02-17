@@ -9,24 +9,21 @@
   <atom:link href="https://evwbr.github.io/rs/feed.xml" rel="self" type="application/rss+xml"/>
   <link>https://evwbr.github.io/rs/</link>
   <description>Notícias do Rio Grande do Sul (últimas 24h) reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Tue, 17 Feb 2026 15:07:57 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 17 Feb 2026 16:07:47 GMT</lastBuildDate>
   <language>pt-BR</language>
   <item>
-    <title><![CDATA[Incêndio em residência resulta na morte de casal e bebê em Santa Maria]]></title>
-    <link>https://agorars.com/rs/central/incendio-em-residencia-mata-casal-e-bebe-em-santa-maria/</link>
+    <title><![CDATA[Rio Grande do Sul em alerta laranja de tempestade até quarta-feira]]></title>
+    <link>https://agorars.com/agora-no-tempo/rs-tem-novo-alerta-laranja-de-tempestade-valido-ate-quarta-feira/</link>
     <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Tue, 17 Feb 2026 14:34:56 GMT</pubDate>
+    <pubDate>Tue, 17 Feb 2026 15:17:51 GMT</pubDate>
     <category><![CDATA[Rio Grande do Sul]]></category>
-    <guid isPermaLink="false"><![CDATA[rsagorars:c97ccf9cbed00d16ffd00953daab28c7e33c85e1]]></guid>
-    <media:thumbnail url="https://uploads.agorars.com/2026/02/gIPyzNAh-tragedia-sm.webp" />
-    <enclosure url="https://uploads.agorars.com/2026/02/gIPyzNAh-tragedia-sm.webp" type="image/webp" />
-    <description><![CDATA[Um incêndio em uma casa de madeira em Santa Maria resultou na morte de um casal e seu filho de um ano e três meses. O fogo começou na madrugada e rapidamente consumiu a residência.]]></description>
+    <guid isPermaLink="false"><![CDATA[rsagorars:79f51ab5bb9a55d14cfb16f0221843e782a3646c]]></guid>
+    <media:thumbnail url="https://uploads.agorars.com/2024/10/0biPAKHT-imagem179575.webp" />
+    <enclosure url="https://uploads.agorars.com/2024/10/0biPAKHT-imagem179575.webp" type="image/webp" />
+    <description><![CDATA[O estado está sob aviso de tempestade com previsão de chuvas intensas e ventos fortes.]]></description>
     <content:encoded><![CDATA[
-<p>Um incêndio matou um casal e o filho de um ano e três meses na madrugada desta terça-feira, no bairro Juscelino Kubitscheck, em Santa Maria.</p>
-<p>O fogo atingiu uma casa de madeira na rua Dona Dalva, na área do Jockey Club, pouco antes das 5h. As vítimas foram identificadas como Jéssica da Silva Brazeiro, 32 anos, Gabriel Machado de Souza, 26, e o filho do casal, Ravi.</p>
-<p>A residência foi consumida rapidamente pelas chamas e ficou completamente destruída. Moradores relataram que o fogo começou por volta das 4h40 e se espalhou em poucos minutos, tomando toda a estrutura.</p>
-<p>Vizinhos tentaram conter o incêndio com baldes e mangueiras improvisadas e chegaram a forçar a porta para tentar socorrer a família, mas não conseguiram entrar devido à intensidade das chamas.</p>
-<p>O Corpo de Bombeiros foi acionado durante a madrugada e realizou o combate ao fogo. Quando as equipes chegaram, o imóvel já estava tomado pelo incêndio.</p>
+<p>O Rio Grande do Sul está sob vigência de um novo alerta laranja de tempestade nesta terça-feira.</p>
+<p>O aviso, publicado às 11h30, é válido até as 10h de quarta-feira e abrange todas as regiões do Estado. Conforme o INMET (Instituto Nacional de Meteorologia), a previsão indica chuva entre 30 e 60 milímetros por hora ou acumulados entre 50 e 100 milímetros por dia. Também há possibilidade de ventos intensos, com rajadas entre 60 e 100 km/h, além de queda de granizo.</p>
 ]]></content:encoded>
   </item>
 </channel></rss>
