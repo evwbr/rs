@@ -9,6 +9,22 @@
   <atom:link href="https://evwbr.github.io/rs/feed.xml" rel="self" type="application/rss+xml"/>
   <link>https://evwbr.github.io/rs/</link>
   <description>Notícias do Rio Grande do Sul (últimas 24h) reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Wed, 18 Feb 2026 10:07:48 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 18 Feb 2026 11:07:47 GMT</lastBuildDate>
   <language>pt-BR</language>
+  <item>
+    <title><![CDATA[AO VIVO: acompanhe as informações do trânsito nesta quarta-feira de Cinzas]]></title>
+    <link>https://agorars.com/agora-no-transito/ao-vivo-acompanhe-as-informacoes-do-transito-nesta-quarta-feira-de-cinzas/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Wed, 18 Feb 2026 10:53:22 GMT</pubDate>
+    <category><![CDATA[Rio Grande do Sul]]></category>
+    <guid isPermaLink="false"><![CDATA[rsagorars:db02e6b539f328c33a86e6fa1284b3b9be25aa96]]></guid>
+    <media:thumbnail url="https://uploads.agorars.com/2025/01/F5sQEEz6-Screenshot_83.webp" />
+    <enclosure url="https://uploads.agorars.com/2025/01/F5sQEEz6-Screenshot_83.webp" type="image/webp" />
+    <description><![CDATA[A quarta-feira de Cinzas tem movimento elevado na FreeWay, principal ligação entre o Litoral Norte e a Região Metropolitana de Porto Alegre.]]></description>
+    <content:encoded><![CDATA[
+<p>A quarta-feira de Cinzas tem movimento elevado na FreeWay, principal ligação entre o Litoral Norte e a Região Metropolitana de Porto Alegre.</p>
+<p>A previsão da concessionária indica que a praça de pedágio de Gravataí pode registrar cerca de 62,2 mil veículos no sentido Litoral–Capital ao longo do dia.</p>
+<p>Mesmo após o pico de terça-feira, o retorno do feriadão segue concentrado na BR-290, que permanece como a rodovia com maior volume de tráfego no período. Ontem, foram quase 70 mil veículos ao longo do dia.</p>
+]]></content:encoded>
+  </item>
 </channel></rss>
