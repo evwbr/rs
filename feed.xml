@@ -9,23 +9,38 @@
   <atom:link href="https://evwbr.github.io/rs/feed.xml" rel="self" type="application/rss+xml"/>
   <link>https://evwbr.github.io/rs/</link>
   <description>Notícias do Rio Grande do Sul (últimas 24h) reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Wed, 18 Feb 2026 13:07:48 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 18 Feb 2026 14:08:02 GMT</lastBuildDate>
   <language>pt-BR</language>
   <item>
-    <title><![CDATA[Furto de cabos deixa Túnel da Conceição sem luz nos dois sentidos]]></title>
-    <link>https://agorars.com/agora-no-transito/furto-de-cabos-deixa-tunel-da-conceicao-sem-luz-nos-dois-sentidos/</link>
+    <title><![CDATA[Tempestade causa danos em seis cidades da região metropolitana]]></title>
+    <link>https://agorars.com/agora-no-tempo/tempestade-causa-danos-em-seis-cidades-da-regiao-metropolitana/</link>
     <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Wed, 18 Feb 2026 12:26:30 GMT</pubDate>
+    <pubDate>Wed, 18 Feb 2026 13:45:39 GMT</pubDate>
     <category><![CDATA[Rio Grande do Sul]]></category>
-    <guid isPermaLink="false"><![CDATA[rsagorars:8df97075c66fa44d1645732fe243e41bca450f6e]]></guid>
-    <media:thumbnail url="https://uploads.agorars.com/2026/02/NYE16gTi-Screenshot_221.webp" />
-    <enclosure url="https://uploads.agorars.com/2026/02/NYE16gTi-Screenshot_221.webp" type="image/webp" />
-    <description><![CDATA[O Túnel da Conceição, no Centro Histórico de Porto Alegre, está sem energia elétrica nos dois sentidos após furto de cabos na madrugada desta quarta-feira. A via permanece às escuras.]]></description>
+    <guid isPermaLink="false"><![CDATA[rsagorars:da4c295457e4c8dd5f920b8e33ac93d211b139b0]]></guid>
+    <media:thumbnail url="https://uploads.agorars.com/2025/12/hbCB4zj7-tempo-03.webp" />
+    <enclosure url="https://uploads.agorars.com/2025/12/hbCB4zj7-tempo-03.webp" type="image/webp" />
+    <description><![CDATA[As tempestades que atingiram o Rio Grande do Sul provocaram danos em ao menos seis municípios da região metropolitana de Porto Alegre, incluindo queda de árvores, alagamentos e interrupções no fornecimento de energia elétrica.]]></description>
     <content:encoded><![CDATA[
-<p>O Túnel da Conceição, no Centro Histórico de Porto Alegre, está sem energia elétrica nos dois sentidos após furto de cabos na madrugada desta quarta-feira. A via permanece às escuras.</p>
-<p>A manutenção do sistema é de responsabilidade da concessionária IPSul, que foi acionada para restabelecer o fornecimento. Até o momento, não há prazo para normalização.</p>
-<p>O túnel liga, no sentido bairro Centro, à avenida Osvaldo Aranha, na região da UFRGS, ao entorno da Rodoviária, com acessos ao Centro Histórico e à zona Norte. No sentido inverso, quem deixa a área Central ou chega a Porto Alegre pela Castello Branco e vai em direção à Osvaldo e avenida Loureiro da Silva.</p>
-<p>O trecho registra fluxo intenso diariamente e integra um dos principais eixos de mobilidade da Capital.</p>
+<p>As tempestades que atingiram o Rio Grande do Sul provocaram danos em ao menos seis municípios da região metropolitana de Porto Alegre, incluindo queda de árvores, alagamentos e interrupções no fornecimento de energia elétrica.</p>
+<p>Em Araricá, houve queda de árvore, fios de energia no chão e ruas alagadas. Em Charqueadas, uma árvore caiu sobre uma residência e um carro, além de registros de fios rompidos e falta de energia em diversos pontos da cidade.</p>
+<p>Eldorado do Sul informou alagamentos na região do Parque Eldorado, com residências atingidas. Em Esteio, uma árvore caiu sobre o muro de uma casa e causou danos no telhado.</p>
+]]></content:encoded>
+  </item>
+  <item>
+    <title><![CDATA[Banco Central decreta liquidação extrajudicial do Banco Pleno]]></title>
+    <link>https://agorars.com/economia/banco-central-decreta-liquidacao-extrajudicial-do-banco-pleno/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Wed, 18 Feb 2026 13:07:33 GMT</pubDate>
+    <category><![CDATA[Rio Grande do Sul]]></category>
+    <guid isPermaLink="false"><![CDATA[rsagorars:ab261960977a3848b21ccdfb4ca1b2b671e8fa20]]></guid>
+    <media:thumbnail url="https://uploads.agorars.com/2026/02/g1lvjuWJ-banco-pleno.webp" />
+    <enclosure url="https://uploads.agorars.com/2026/02/g1lvjuWJ-banco-pleno.webp" type="image/webp" />
+    <description><![CDATA[O Banco Central anunciou a liquidação extrajudicial do Banco Pleno S.A., que era conhecido como Banco Voiter, e também da Pleno Distribuidora de Títulos e Valores Mobiliários S.A.]]></description>
+    <content:encoded><![CDATA[
+<p>O Banco Central decretou nesta terça-feira a liquidação extrajudicial do Banco Pleno S.A., antigo Banco Voiter. A medida também alcança a Pleno Distribuidora de Títulos e Valores Mobiliários S.A., que integra o mesmo conglomerado prudencial.</p>
+<p>O grupo é classificado como de pequeno porte e está enquadrado no segmento S4 da regulamentação prudencial. O Banco Pleno é a instituição líder do conglomerado e era controlada por Augusto Ferreira Lima, ex-sócio do Banco Master.</p>
+<p>Conforme o Banco Central, o grupo representa 0,04% do total de ativos e 0,05% das captações do Sistema Financeiro Nacional.</p>
 ]]></content:encoded>
   </item>
 </channel></rss>
