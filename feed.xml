@@ -9,6 +9,23 @@
   <atom:link href="https://evwbr.github.io/rs/feed.xml" rel="self" type="application/rss+xml"/>
   <link>https://evwbr.github.io/rs/</link>
   <description>Notícias do Rio Grande do Sul (últimas 24h) reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Wed, 18 Feb 2026 12:07:40 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 18 Feb 2026 13:07:48 GMT</lastBuildDate>
   <language>pt-BR</language>
+  <item>
+    <title><![CDATA[Furto de cabos deixa Túnel da Conceição sem luz nos dois sentidos]]></title>
+    <link>https://agorars.com/agora-no-transito/furto-de-cabos-deixa-tunel-da-conceicao-sem-luz-nos-dois-sentidos/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Wed, 18 Feb 2026 12:26:30 GMT</pubDate>
+    <category><![CDATA[Rio Grande do Sul]]></category>
+    <guid isPermaLink="false"><![CDATA[rsagorars:8df97075c66fa44d1645732fe243e41bca450f6e]]></guid>
+    <media:thumbnail url="https://uploads.agorars.com/2026/02/NYE16gTi-Screenshot_221.webp" />
+    <enclosure url="https://uploads.agorars.com/2026/02/NYE16gTi-Screenshot_221.webp" type="image/webp" />
+    <description><![CDATA[O Túnel da Conceição, no Centro Histórico de Porto Alegre, está sem energia elétrica nos dois sentidos após furto de cabos na madrugada desta quarta-feira. A via permanece às escuras.]]></description>
+    <content:encoded><![CDATA[
+<p>O Túnel da Conceição, no Centro Histórico de Porto Alegre, está sem energia elétrica nos dois sentidos após furto de cabos na madrugada desta quarta-feira. A via permanece às escuras.</p>
+<p>A manutenção do sistema é de responsabilidade da concessionária IPSul, que foi acionada para restabelecer o fornecimento. Até o momento, não há prazo para normalização.</p>
+<p>O túnel liga, no sentido bairro Centro, à avenida Osvaldo Aranha, na região da UFRGS, ao entorno da Rodoviária, com acessos ao Centro Histórico e à zona Norte. No sentido inverso, quem deixa a área Central ou chega a Porto Alegre pela Castello Branco e vai em direção à Osvaldo e avenida Loureiro da Silva.</p>
+<p>O trecho registra fluxo intenso diariamente e integra um dos principais eixos de mobilidade da Capital.</p>
+]]></content:encoded>
+  </item>
 </channel></rss>
