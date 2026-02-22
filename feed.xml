@@ -9,6 +9,40 @@
   <atom:link href="https://evwbr.github.io/rs/feed.xml" rel="self" type="application/rss+xml"/>
   <link>https://evwbr.github.io/rs/</link>
   <description>Notícias do Rio Grande do Sul (últimas 24h) reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Sat, 21 Feb 2026 23:07:45 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 22 Feb 2026 00:07:58 GMT</lastBuildDate>
   <language>pt-BR</language>
+  <item>
+    <title><![CDATA[Falha em sistema de bombeamento afeta abastecimento de água em Viamão]]></title>
+    <link>https://agorars.com/rs/metropolitana/falha-em-sistema-de-bombeamento-afeta-abastecimento-de-agua-em-viamao/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Sat, 21 Feb 2026 23:12:10 GMT</pubDate>
+    <category><![CDATA[Rio Grande do Sul]]></category>
+    <guid isPermaLink="false"><![CDATA[rsagorars:215a3bb5260a4b6afb7670b8c331174863295969]]></guid>
+    <media:thumbnail url="https://uploads.agorars.com/2025/12/6I4DiaEw-agua_gustavo-garbino-2.webp" />
+    <enclosure url="https://uploads.agorars.com/2025/12/6I4DiaEw-agua_gustavo-garbino-2.webp" type="image/webp" />
+    <description><![CDATA[Uma falha eletromecânica no sistema de bombeamento prejudicou o fornecimento de água em Viamão. A Corsan informou que equipes estão trabalhando para restabelecer o serviço.]]></description>
+    <content:encoded><![CDATA[
+<p>Uma falha eletromecânica no sistema de bombeamento prejudicou o abastecimento de água em Viamão neste sábado.</p>
+<p>De acordo com a Corsan, equipes estão atuando ao longo do dia para restabelecer o fornecimento.</p>
+<p>O problema afetou os bairros Universitário, Nova Esperança, Monte Castelo, Diamantina, Nossa Senhora Aparecida e Campus da Colina.</p>
+<p>Em razão da ocorrência, os reservatórios estão em processo de recuperação gradual. Pode haver baixa pressão ou instabilidade na distribuição, especialmente nas áreas mais altas da cidade.</p>
+]]></content:encoded>
+  </item>
+  <item>
+    <title><![CDATA[CPI dos Pedágios discute modelo do Bloco 2 em audiência pública em Lajeado]]></title>
+    <link>https://agorars.com/agora-no-transito/cpi-dos-pedagios-debate-modelo-do-bloco-2-em-audiencia-publica-em-lajeado/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Sat, 21 Feb 2026 23:07:47 GMT</pubDate>
+    <category><![CDATA[Rio Grande do Sul]]></category>
+    <guid isPermaLink="false"><![CDATA[rsagorars:039835ea1e9d9136e3360017ded8433b7696a8ab]]></guid>
+    <media:thumbnail url="https://uploads.agorars.com/2026/02/C7dOwJcY-cpi-pedagios.webp" />
+    <enclosure url="https://uploads.agorars.com/2026/02/C7dOwJcY-cpi-pedagios.webp" type="image/webp" />
+    <description><![CDATA[A CPI dos Pedágios da Assembleia Legislativa realizou uma audiência pública em Lajeado para discutir o modelo de concessão do Bloco 2 de rodovias estaduais.]]></description>
+    <content:encoded><![CDATA[
+<p>A CPI dos Pedágios da Assembleia Legislativa realizou, na noite de sexta-feira, uma audiência pública na Câmara Municipal de Lajeado. A reunião discutiu o modelo de concessão do Bloco 2 de rodovias estaduais.</p>
+<p>O leilão está previsto para 13 de março. O Bloco 2 prevê concessão por 30 anos de 408 quilômetros de estradas, com instalação de 24 pórticos de cobrança no sistema free flow, distribuídos em 32 municípios. A tarifa-teto estimada é de R$ 0,19 por quilômetro rodado.</p>
+<p>Durante a audiência, lideranças regionais, representantes de entidades, vereadores e prefeitos apresentaram questionamentos sobre o impacto econômico do modelo, especialmente no transporte de cargas e na mobilidade regional.</p>
+<p>O relator da CPI, deputado Miguel Rossetto, mencionou apontamentos do Tribunal de Contas do Estado sobre a estrutura financeira do contrato, incluindo observações sobre taxa de retorno projetada às concessionárias e equilíbrio econômico do modelo. A comissão já ouviu representantes do Tribunal de Contas do Estado, da Agência Estadual de Regulação dos Serviços Públicos Delegados do RS e do Banco Nacional de Desenvolvimento Econômico e Social. O governo do Estado deverá ser ouvido na próxima semana.</p>
+]]></content:encoded>
+  </item>
 </channel></rss>
