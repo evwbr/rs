@@ -9,23 +9,6 @@
   <atom:link href="https://evwbr.github.io/rs/feed.xml" rel="self" type="application/rss+xml"/>
   <link>https://evwbr.github.io/rs/</link>
   <description>Notícias do Rio Grande do Sul (últimas 24h) reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Mon, 23 Feb 2026 03:07:51 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 23 Feb 2026 04:07:42 GMT</lastBuildDate>
   <language>pt-BR</language>
-  <item>
-    <title><![CDATA[Previsão indica chance de chuva no Oeste do RS nesta segunda-feira]]></title>
-    <link>https://agorars.com/agora-no-tempo/previsao-do-tempo/previsao-do-tempo-rs-segunda-chuva-forte-oeste/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Mon, 23 Feb 2026 03:06:47 GMT</pubDate>
-    <category><![CDATA[Rio Grande do Sul]]></category>
-    <guid isPermaLink="false"><![CDATA[rsagorars:33206a7cce4fae754dd454ae161bc2323909aeca]]></guid>
-    <media:thumbnail url="https://uploads.agorars.com/2024/10/KI6jJt4p-centro-porto-alegre-parcialmente-nublado.webp" />
-    <enclosure url="https://uploads.agorars.com/2024/10/KI6jJt4p-centro-porto-alegre-parcialmente-nublado.webp" type="image/webp" />
-    <description><![CDATA[A previsão do tempo para esta segunda-feira indica tempo firme em grande parte do Rio Grande do Sul, com sol predominando entre o Centro e o Leste gaúcho. No entanto, há expectativa de chuva moderada a forte no Oeste do Estado.]]></description>
-    <content:encoded><![CDATA[
-<p>A previsão do tempo para esta segunda-feira indica tempo firme em grande parte do Rio Grande do Sul.</p>
-<p>O sol deve seguir predominando entre o Centro e o Leste gaúcho, embora com maior presença de nuvens.</p>
-<p>No Oeste do Estado, porém, há previsão de chuva moderada a forte, em razão da atuação de uma área de baixa pressão.</p>
-<p>Há condição para temporais isolados, com possibilidade de queda de granizo e ocorrência de raios.</p>
-]]></content:encoded>
-  </item>
 </channel></rss>
