@@ -9,22 +9,24 @@
   <atom:link href="https://evwbr.github.io/rs/feed.xml" rel="self" type="application/rss+xml"/>
   <link>https://evwbr.github.io/rs/</link>
   <description>Notícias do Rio Grande do Sul (últimas 24h) reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Mon, 23 Feb 2026 19:07:49 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 23 Feb 2026 20:07:55 GMT</lastBuildDate>
   <language>pt-BR</language>
   <item>
-    <title><![CDATA[Falta de água atinge 11 bairros de Gravataí após queda de energia]]></title>
-    <link>https://agorars.com/rs/metropolitana/falta-de-agua-atinge-11-bairros-de-gravatai-apos-queda-de-energia/</link>
+    <title><![CDATA[Porto Alegre tem previsão de chuva fraca entre terça e quarta]]></title>
+    <link>https://agorars.com/rs/porto-alegre/porto-alegre-tem-previsao-de-chuva-fraca-entre-terca-e-quarta/</link>
     <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Mon, 23 Feb 2026 18:55:06 GMT</pubDate>
+    <pubDate>Mon, 23 Feb 2026 19:29:52 GMT</pubDate>
     <category><![CDATA[Rio Grande do Sul]]></category>
-    <guid isPermaLink="false"><![CDATA[rsagorars:431aa9d35161d5a2901294b5a512ebd1570e53aa]]></guid>
-    <media:thumbnail url="https://uploads.agorars.com/2025/12/6I4DiaEw-agua_gustavo-garbino-2.webp" />
-    <enclosure url="https://uploads.agorars.com/2025/12/6I4DiaEw-agua_gustavo-garbino-2.webp" type="image/webp" />
-    <description><![CDATA[Equipes da Corsan trabalham para normalizar o abastecimento de água em 11 bairros de Gravataí, afetados por uma queda de energia na estação de tratamento.]]></description>
+    <guid isPermaLink="false"><![CDATA[rsagorars:d931c2483c95fd3b64bc3e9acbcde7e6c3c60b25]]></guid>
+    <media:thumbnail url="https://uploads.agorars.com/2026/02/ENPfrRBz-06-FEV-2026_Alex-Rocha_Previsao-Tempo_-4.webp" />
+    <enclosure url="https://uploads.agorars.com/2026/02/ENPfrRBz-06-FEV-2026_Alex-Rocha_Previsao-Tempo_-4.webp" type="image/webp" />
+    <description><![CDATA[A previsão indica retorno de pancadas de chuva entre terça e quarta-feira, com volumes baixos e possibilidade de descargas elétricas na Capital.]]></description>
     <content:encoded><![CDATA[
-<p>Equipes da Corsan (Companhia Riograndense de Saneamento) trabalham para normalizar o abastecimento de água em 11 bairros de Gravataí, na tarde desta segunda-feira.</p>
-<p>A interrupção ocorre após uma queda de energia elétrica atingir a estação de tratamento que atende a cidade. A previsão é de recuperação gradual do sistema a partir do final da tarde.</p>
-<p>Conforme a companhia, a interrupção de energia provocou oscilações na pressão e instabilidade na distribuição em diferentes pontos do município. O fornecimento deve ser restabelecido de forma progressiva, à medida que os reservatórios recuperarem os níveis adequados.</p>
+<p>Porto Alegre teve sol entre nuvens nesta segunda-feira, com aumento de nebulosidade ao longo do dia.</p>
+<p>A previsão indica retorno de pancadas de chuva entre terça e quarta-feira, com volumes baixos e possibilidade de descargas elétricas na Capital.</p>
+<p>Nesta segunda, o dia começou com sol e nuvens esparsas. Durante a tarde, o céu ficou mais encoberto. Os ventos sopraram de leste, com intensidade média de 24 km/h. As rajadas podem chegar aos 50 km/h no fim da tarde. A temperatura mínima registrada foi de 21°C e a máxima chegou a 32°C.</p>
+<p>Na terça-feira, o tempo fica mais instável, com muita nebulosidade e previsão de pancadas, sobretudo à tarde. Os acumulados podem chegar a 5 milímetros. Os ventos sopram de leste, com média de 10 km/h e rajadas de até 35 km/h. As temperaturas variam entre 21°C e 31°C.</p>
+<p>A quarta-feira mantém o cenário de instabilidade, com pancadas ao longo do dia e chance de descargas elétricas. Os acumulados permanecem em torno de 5 milímetros. Os ventos passam a soprar de sul, com média de 25 km/h e rajadas de até 50 km/h. As temperaturas ficam entre 22°C e 30°C.</p>
 ]]></content:encoded>
   </item>
 </channel></rss>
