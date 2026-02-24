@@ -9,23 +9,23 @@
   <atom:link href="https://evwbr.github.io/rs/feed.xml" rel="self" type="application/rss+xml"/>
   <link>https://evwbr.github.io/rs/</link>
   <description>Notícias do Rio Grande do Sul (últimas 24h) reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Tue, 24 Feb 2026 15:07:52 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 24 Feb 2026 16:08:34 GMT</lastBuildDate>
   <language>pt-BR</language>
   <item>
-    <title><![CDATA[Prefeitura de Juiz de Fora decreta calamidade após chuvas históricas]]></title>
-    <link>https://agorars.com/agora-no-tempo/juiz-de-fora-calamidade-584mm-chuva-14-mortes/</link>
+    <title><![CDATA[Inmet atualiza alerta de tempestade e projeta vendaval na quarta-feira]]></title>
+    <link>https://agorars.com/agora-no-tempo/inmet-alerta-tempestade-vendaval-rs/</link>
     <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Tue, 24 Feb 2026 14:24:19 GMT</pubDate>
+    <pubDate>Tue, 24 Feb 2026 15:11:59 GMT</pubDate>
     <category><![CDATA[Rio Grande do Sul]]></category>
-    <guid isPermaLink="false"><![CDATA[rsagorars:89e47575dfdef91273362951fb91285c86032611]]></guid>
-    <media:thumbnail url="https://uploads.agorars.com/2026/02/dwP2gFYI-chuva_em_uiz_fora01.webp" />
-    <enclosure url="https://uploads.agorars.com/2026/02/dwP2gFYI-chuva_em_uiz_fora01.webp" type="image/webp" />
-    <description><![CDATA[A prefeita de Juiz de Fora, Margarida Salomão, anunciou que a cidade registrou 584 milímetros de chuvas acumuladas, tornando fevereiro o mês mais chuvoso da história do município. O estado de calamidade pública foi decretado devido aos impactos das chuvas, que resultaram em 14 mortes e 440 pessoas desabrigadas.]]></description>
+    <guid isPermaLink="false"><![CDATA[rsagorars:3e5755f8036ab8ff0ef1031cbfbc77bd7ebeffe0]]></guid>
+    <media:thumbnail url="https://uploads.agorars.com/2024/11/iCRrMzcK-temporal.webp" />
+    <enclosure url="https://uploads.agorars.com/2024/11/iCRrMzcK-temporal.webp" type="image/webp" />
+    <description><![CDATA[O Instituto Nacional de Meteorologia emitiu novos alertas climáticos para o Rio Grande do Sul, com previsão de tempestades e vendaval. A chuva deve persistir até o final do dia, com rajadas de vento aumentando a partir da meia-noite.]]></description>
     <content:encoded><![CDATA[
-<p>A prefeita de Juiz de Fora, Margarida Salomão, anunciou que a cidade registrou 584 milímetros de chuvas acumuladas, tornando fevereiro o mês mais chuvoso da história do município, com volume superior ao dobro do esperado.</p>
-<p>A prefeitura decretou estado de calamidade pública e, até o momento, contabilizou 14 mortes em decorrência dos temporais. A Defesa Civil local estima que 440 pessoas estejam desabrigadas.</p>
-<p>"Isso nos trouxe toda a sorte de transtornos, desde coisas muito graves [como] situações de soterramento. Nesse momento, temos registrado 20 soterramentos, especialmente na região sudeste", afirmou a prefeita.</p>
-<p>"Estamos com o Corpo de Bombeiros e a Defesa Civil, com todos os nossos recursos, buscando salvar vidas. Bairros estão ilhados. O Rio Paraibuna saiu da calha, o que também é uma coisa histórica", completou Margarida.</p>
+<p>O Instituto Nacional de Meteorologia publicou, nesta terça-feira, novos alertas climáticos para o Rio Grande do Sul, com previsão de tempestades e vendaval. A chuva vai até o final do dia e as rajadas de vento devem se acentuar a partir da meia-noite.</p>
+<p>Conforme o Instituto, deve haver chuva entre 20 e 30 mm/h ou até 50 mm/dia. Também pode haver ventos intensos (40-60 km/h) e queda de granizo.</p>
+<p>Esse novo alerta abrange diversas áreas, incluindo a Região Metropolitana. O alerta é amarelo, de baixa intensidade, portanto não há maiores riscos de corte de energia elétrica, estragos em plantações, queda de galhos de árvores e alagamentos.</p>
+<p>A partir da virada do dia, regiões próximas à costa entram em alerta de vendaval. O alerta é laranja, de média intensidade, e, de acordo com o Inmet, há risco de queda de árvores, destelhamento de casas e danos gerais em edificações e plantações.</p>
 ]]></content:encoded>
   </item>
 </channel></rss>
