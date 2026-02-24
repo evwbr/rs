@@ -9,6 +9,21 @@
   <atom:link href="https://evwbr.github.io/rs/feed.xml" rel="self" type="application/rss+xml"/>
   <link>https://evwbr.github.io/rs/</link>
   <description>Notícias do Rio Grande do Sul (últimas 24h) reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Tue, 24 Feb 2026 12:07:44 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 24 Feb 2026 13:09:24 GMT</lastBuildDate>
   <language>pt-BR</language>
+  <item>
+    <title><![CDATA[Porto Alegre: HPS alerta para estoque crítico de sangue e reforça pedido de doações]]></title>
+    <link>https://agorars.com/rs/porto-alegre/hps-porto-alegre-estoque-critico-sangue-doacao/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Tue, 24 Feb 2026 12:34:13 GMT</pubDate>
+    <category><![CDATA[Rio Grande do Sul]]></category>
+    <guid isPermaLink="false"><![CDATA[rsagorars:7ed341216789784a51210898210b1f2eb9e8de66]]></guid>
+    <media:thumbnail url="https://uploads.agorars.com/2025/10/ZM5DIfuz-250103_CristineRochol_doacaoSangueHPS_SMS-3631.webp" />
+    <enclosure url="https://uploads.agorars.com/2025/10/ZM5DIfuz-250103_CristineRochol_doacaoSangueHPS_SMS-3631.webp" type="image/webp" />
+    <description><![CDATA[O Hospital de Pronto Socorro de Porto Alegre enfrenta uma situação crítica em seu estoque de sangue, com apenas cinco bolsas do tipo O+ e três do tipo O- disponíveis. A instituição solicita doações urgentes de todos os tipos sanguíneos.]]></description>
+    <content:encoded><![CDATA[
+<p>O Hospital de Pronto Socorro de Porto Alegre enfrenta uma situação crítica em seu estoque de sangue, considerada de extrema cautela e preocupação. Até a manhã desta segunda-feira, a unidade contava apenas com cinco bolsas do tipo O+ e três bolsas do tipo O-, quantitativo insuficiente para atender à demanda de um hospital referência em trauma.</p>
+<p>O Banco de Sangue do HPS tem capacidade para atender entre 16 e 20 doadores por dia, mas tem coletado em média cinco bolsas diariamente. Diante desse cenário, o hospital reforça o pedido urgente de doações de sangue de todos os tipos, fundamentais para garantir o atendimento seguro e contínuo a pacientes vítimas de acidentes e outras situações graves.</p>
+]]></content:encoded>
+  </item>
 </channel></rss>
