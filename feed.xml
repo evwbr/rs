@@ -9,6 +9,22 @@
   <atom:link href="https://evwbr.github.io/rs/feed.xml" rel="self" type="application/rss+xml"/>
   <link>https://evwbr.github.io/rs/</link>
   <description>Notícias do Rio Grande do Sul (últimas 24h) reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Wed, 25 Feb 2026 13:07:57 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 25 Feb 2026 14:07:56 GMT</lastBuildDate>
   <language>pt-BR</language>
+  <item>
+    <title><![CDATA[Manutenção elétrica afeta abastecimento de água em bairros de Porto Alegre]]></title>
+    <link>https://agorars.com/rs/porto-alegre/manutencao-eletrica-afeta-abastecimento-de-agua-em-bairros-de-porto-alegre/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Wed, 25 Feb 2026 13:23:21 GMT</pubDate>
+    <category><![CDATA[Rio Grande do Sul]]></category>
+    <guid isPermaLink="false"><![CDATA[rsagorars:a6d9f4a01bb2b619fc4d03074a28c40747e7a1ba]]></guid>
+    <media:thumbnail url="https://agorars.com/wp-content/uploads/2022/10/20200423183016_IMG_0049-agua-torneira-dmae-min-jpg.webp" />
+    <enclosure url="https://agorars.com/wp-content/uploads/2022/10/20200423183016_IMG_0049-agua-torneira-dmae-min-jpg.webp" type="image/webp" />
+    <description><![CDATA[O DMAE realizará desligamentos de bombeamento para manutenção na rede elétrica, afetando o abastecimento em áreas da cidade.]]></description>
+    <content:encoded><![CDATA[
+<p>O DMAE (Departamento Municipal de Água e Esgotos) desligará estações de bombeamento nos dias 25 e 27 de fevereiro para permitir serviços de manutenção na rede elétrica executados pela CEEE Equatorial em Porto Alegre. A medida provocará interrupção temporária no abastecimento em bairros das zonas Norte e Leste da Capital.</p>
+<p>O desligamento poderá ser cancelado caso as condições climáticas não permitam a execução segura dos trabalhos.</p>
+<p>Nesta quarta-feira (25), a Estação de Bombeamento de Água Tratada Baltazar de Bem, localizada na rua Seival, na Vila Jardim, será desligada a partir das 12h30. Com a suspensão de energia, ficará interrompido o abastecimento na Vila Jardim e no Jardim Itú-Sabar. A previsão é de que a energia seja restabelecida no final da tarde.</p>
+]]></content:encoded>
+  </item>
 </channel></rss>
