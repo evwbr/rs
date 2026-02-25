@@ -9,6 +9,22 @@
   <atom:link href="https://evwbr.github.io/rs/feed.xml" rel="self" type="application/rss+xml"/>
   <link>https://evwbr.github.io/rs/</link>
   <description>Notícias do Rio Grande do Sul (últimas 24h) reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Wed, 25 Feb 2026 00:08:00 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 25 Feb 2026 01:07:53 GMT</lastBuildDate>
   <language>pt-BR</language>
+  <item>
+    <title><![CDATA[Chuva moderada a forte atinge regiões do RS nesta quarta]]></title>
+    <link>https://agorars.com/agora-no-tempo/previsao-do-tempo/chuva-moderada-a-forte-atinge-regioes-do-rs-nesta-quarta/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Wed, 25 Feb 2026 00:19:31 GMT</pubDate>
+    <category><![CDATA[Rio Grande do Sul]]></category>
+    <guid isPermaLink="false"><![CDATA[rsagorars:061ad8a354ba55ea6f175917b4ff593b062e6224]]></guid>
+    <media:thumbnail url="https://agorars.com/wp-content/uploads/2020/09/temporal-porto-alegre-jpg-webp.webp" />
+    <enclosure url="https://agorars.com/wp-content/uploads/2020/09/temporal-porto-alegre-jpg-webp.webp" type="image/webp" />
+    <description><![CDATA[A quarta-feira mantém a condição para pancadas isoladas de chuva moderada a forte em diversas regiões do Rio Grande do Sul.]]></description>
+    <content:encoded><![CDATA[
+<p>A quarta-feira mantém a condição para pancadas isoladas de chuva moderada a forte em diversas regiões do Rio Grande do Sul.</p>
+<p>A instabilidade atinge áreas da Costa Doce, região metropolitana de Porto Alegre, Litoral Médio e Norte, Vales, Centro-Norte, Nordeste e Norte. Nessas localidades, a chuva pode vir acompanhada de trovoadas.</p>
+<p>Nas demais regiões do Estado, há previsão de chuviscos ou chuva fraca de forma pontual.</p>
+]]></content:encoded>
+  </item>
 </channel></rss>
