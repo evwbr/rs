@@ -9,38 +9,6 @@
   <atom:link href="https://evwbr.github.io/rs/feed.xml" rel="self" type="application/rss+xml"/>
   <link>https://evwbr.github.io/rs/</link>
   <description>Notícias do Rio Grande do Sul (últimas 24h) reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Sat, 28 Feb 2026 22:07:50 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 28 Feb 2026 23:07:40 GMT</lastBuildDate>
   <language>pt-BR</language>
-  <item>
-    <title><![CDATA[Porto Alegre: Arena do Grêmio terá pontos de coleta de doações para Minas Gerais]]></title>
-    <link>https://agorars.com/rs/porto-alegre/porto-alegre-envia-doacoes-minas-gerais-enchentes/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Sat, 28 Feb 2026 21:55:13 GMT</pubDate>
-    <category><![CDATA[Rio Grande do Sul]]></category>
-    <guid isPermaLink="false"><![CDATA[rsagorars:e3f7f4611c91295f1bbbe58a5543f506ce97b0d7]]></guid>
-    <media:thumbnail url="https://agorars.com/wp-content/uploads/2022/04/Arena-do-Gremio-1.webp" />
-    <enclosure url="https://agorars.com/wp-content/uploads/2022/04/Arena-do-Gremio-1.webp" type="image/webp" />
-    <description><![CDATA[A Defesa Civil de Porto Alegre enviou o primeiro caminhão com doações para Minas Gerais, reunindo cerca de oito toneladas de donativos. A campanha de arrecadação continua neste fim de semana.]]></description>
-    <content:encoded><![CDATA[
-<p>A Defesa Civil de Porto Alegre enviou na quinta-feira (26), no final da tarde, o primeiro caminhão com doações destinadas às cidades de Minas Gerais atingidas por enchentes e deslizamentos.</p>
-<p>O carregamento reuniu cerca de oito toneladas de donativos, entre alimentos, produtos de higiene, roupas de cama e banho, além de mais de 100 colchões e aproximadamente dois mil litros de água arrecadados junto à população.</p>
-<p>A campanha de arrecadação segue neste fim de semana, das 9h às 18h, na sede da Defesa Civil, localizada na rua La Plata, 693, e no posto móvel da Defesa Civil instalado no Parque Farroupilha (Redenção), durante o Brick da Redenção.</p>
-]]></content:encoded>
-  </item>
-  <item>
-    <title><![CDATA[Domingo será de tempo estável no Rio Grande do Sul]]></title>
-    <link>https://agorars.com/agora-no-tempo/previsao-tempo-rs-domingo-segunda-estavel/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Sat, 28 Feb 2026 21:22:39 GMT</pubDate>
-    <category><![CDATA[Rio Grande do Sul]]></category>
-    <guid isPermaLink="false"><![CDATA[rsagorars:f4ddf2b38c25b9f5213ba743b2a95f6fcb174268]]></guid>
-    <media:thumbnail url="https://uploads.agorars.com/2025/12/bYxRVdrk-Tempo-firme-em-Porto-Alegre.webp" />
-    <enclosure url="https://uploads.agorars.com/2025/12/bYxRVdrk-Tempo-firme-em-Porto-Alegre.webp" type="image/webp" />
-    <description><![CDATA[Previsão indica tempo firme com variação de nebulosidade e possibilidade de chuvas isoladas em algumas regiões.]]></description>
-    <content:encoded><![CDATA[
-<p>A previsão do tempo indica tempo estável no Rio Grande do Sul no domingo (1º). As informações são do CMDEC (Centro de Monitoramento da Defesa Civil).</p>
-<p>Conforme o CMDEC, no domingo (1º), o tempo segue estável sobre o Estado. Haverá variação de nebulosidade na faixa leste e pancadas isoladas de chuva fraca no Litoral Norte e Médio, Nordeste, Costa Doce, Serra e Norte.</p>
-<p>As temperaturas mínimas variam entre 11°C e 21°C, enquanto as máximas oscilam entre 18°C e 32°C.</p>
-]]></content:encoded>
-  </item>
 </channel></rss>
