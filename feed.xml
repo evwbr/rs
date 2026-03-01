@@ -9,6 +9,24 @@
   <atom:link href="https://evwbr.github.io/rs/feed.xml" rel="self" type="application/rss+xml"/>
   <link>https://evwbr.github.io/rs/</link>
   <description>Notícias do Rio Grande do Sul (últimas 24h) reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Sun, 01 Mar 2026 20:07:45 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 01 Mar 2026 21:08:18 GMT</lastBuildDate>
   <language>pt-BR</language>
+  <item>
+    <title><![CDATA[Alta pressão mantém tempo estável no RS na segunda-feira (2)]]></title>
+    <link>https://agorars.com/agora-no-tempo/previsao-tempo-rs-segunda-feira-estavel/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Sun, 01 Mar 2026 21:04:28 GMT</pubDate>
+    <category><![CDATA[Rio Grande do Sul]]></category>
+    <guid isPermaLink="false"><![CDATA[rsagorars:3ffb99f82406b83595aba9b1c9e7e8dc89f1331b]]></guid>
+    <media:thumbnail url="https://uploads.agorars.com/2025/01/pARmuqhr-vista-rio-com-ponte.webp" />
+    <enclosure url="https://uploads.agorars.com/2025/01/pARmuqhr-vista-rio-com-ponte.webp" type="image/webp" />
+    <description><![CDATA[A previsão do tempo indica que o Rio Grande do Sul terá um dia estável, com poucas nuvens e possibilidade de chuvas isoladas em algumas regiões.]]></description>
+    <content:encoded><![CDATA[
+<p>A previsão do tempo aponta tempo estável no Rio Grande do Sul na segunda-feira (2). As informações são do CMDEC (Centro de Monitoramento da Defesa Civil).</p>
+<p>Conforme o CMDEC, a tendência é que, na segunda-feira (02), o tempo se mantenha estável com poucas nuvens sobre o Rio Grande do Sul. Apenas no Norte, Nordeste e Serra, há possibilidade de pancadas isoladas de chuva fraca.</p>
+<p>As temperaturas mínimas variam entre 12°C e 20°C, enquanto as máximas oscilam entre 18°C e 33°C.</p>
+<p>O informativo conjuntural da Emater/RS-Ascar traz que o fenômeno se deve à atuação predominante de um sistema de alta pressão. Dessa forma, pelo menos até quarta-feira (4) as condições meteorológicas deverão permanecer predominantemente estáveis.</p>
+<p>“Sem a atuação de sistemas capazes de provocar instabilidade significativa. Ao longo desse período, não há previsão de chuva expressiva em nenhuma das regiões do Estado, e as temperaturas seguirão em elevação gradual ao longo dos dias”, diz o relatório.</p>
+]]></content:encoded>
+  </item>
 </channel></rss>
