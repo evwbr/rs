@@ -9,23 +9,23 @@
   <atom:link href="https://evwbr.github.io/rs/feed.xml" rel="self" type="application/rss+xml"/>
   <link>https://evwbr.github.io/rs/</link>
   <description>Notícias do Rio Grande do Sul (últimas 24h) reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Tue, 03 Mar 2026 15:07:58 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 03 Mar 2026 16:07:50 GMT</lastBuildDate>
   <language>pt-BR</language>
   <item>
-    <title><![CDATA[Pelotas reajusta passagem de ônibus para R$ 6,25 a partir desta terça]]></title>
-    <link>https://agorars.com/rs/sul-do-rs/pelotas-reajusta-passagem-de-onibus-para-r-625-a-partir-desta-terca/</link>
+    <title><![CDATA[INMET emite alerta de tempestade para a Fronteira Oeste]]></title>
+    <link>https://agorars.com/agora-no-tempo/alerta-tempestade-fronteira-oeste-rs-03-03-2026/</link>
     <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Tue, 03 Mar 2026 14:57:02 GMT</pubDate>
+    <pubDate>Tue, 03 Mar 2026 15:51:12 GMT</pubDate>
     <category><![CDATA[Rio Grande do Sul]]></category>
-    <guid isPermaLink="false"><![CDATA[rsagorars:7e7b6aae6c32ab1e58e0508a54c7c5cd0ffed16f]]></guid>
-    <media:thumbnail url="https://uploads.agorars.com/2026/03/dBz7aWKG-onibus-pelotas.webp" />
-    <enclosure url="https://uploads.agorars.com/2026/03/dBz7aWKG-onibus-pelotas.webp" type="image/webp" />
-    <description><![CDATA[A passagem de ônibus em Pelotas passou a custar R$ 6,25 a partir da 0h desta terça-feira (3). O novo valor é válido para as zonas urbana e rural e unifica a tarifa em todas as modalidades de pagamento.]]></description>
+    <guid isPermaLink="false"><![CDATA[rsagorars:b8ba632eab1b80edc35b7428c398066a6735b714]]></guid>
+    <media:thumbnail url="https://uploads.agorars.com/2025/03/ISb4Ly8W-chuva-uruguaiana.webp" />
+    <enclosure url="https://uploads.agorars.com/2025/03/ISb4Ly8W-chuva-uruguaiana.webp" type="image/webp" />
+    <description><![CDATA[O INMET publicou avisos de tempestade válidos para esta terça-feira no Rio Grande do Sul, com foco na Fronteira Oeste.]]></description>
     <content:encoded><![CDATA[
-<p>A passagem de ônibus em Pelotas passou a custar R$ 6,25 a partir da 0h desta terça-feira (3). O novo valor é válido para as zonas urbana e rural e unifica a tarifa em todas as modalidades de pagamento.</p>
-<p>O preço ficou quase R$ 1 acima da cobrada em Porto Alegre, onde a passagem custa R$ 5,30. Conforme a Prefeitura de Pelotas, o reajuste foi definido após negociação com o consórcio responsável pelo serviço. O valor anterior era de R$ 6,00. Estudantes que utilizam cartão específico pagam metade da tarifa, R$ 3,12.</p>
-<p>A administração municipal informou que o índice aplicado “ficou abaixo da inflação acumulada do período”, de 5,26%. As empresas do setor defendiam reajuste maior, para R$ 6,41.</p>
-<p>A Prefeitura manteve o subsídio para garantir tarifa igual nas áreas urbana e rural. Conforme a STT (Secretaria de Transporte e Trânsito), o valor técnico da passagem na zona rural poderia chegar a R$ 16,10 em 2026.</p>
+<p>O INMET (Instituto Nacional de Meteorologia) emitiu dois alertas de tempestade válidos para esta terça-feira no Rio Grande do Sul, com maior intensidade na Fronteira Oeste.</p>
+<p>Os avisos são válidos até às 23h59 desta terça-feira. O alerta laranja de tempestade abrange a região entre Barra do Quaraí, Quaraí, Uruguaiana e São Borja.</p>
+<p>Segundo o órgão, há previsão de chuvas entre 30 e 60 milímetros por hora ou acumulados entre 50 e 100 milímetros ao longo do dia, além de ventos que podem variar de 60 a 100 quilômetros por hora e a possibilidade de queda de granizo.</p>
+<p>Nessa área, existe risco de interrupção no fornecimento de energia elétrica, danos a plantações, queda de árvores e alagamentos.</p>
 ]]></content:encoded>
   </item>
 </channel></rss>
