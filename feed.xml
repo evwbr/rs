@@ -9,22 +9,6 @@
   <atom:link href="https://evwbr.github.io/rs/feed.xml" rel="self" type="application/rss+xml"/>
   <link>https://evwbr.github.io/rs/</link>
   <description>Notícias do Rio Grande do Sul (últimas 24h) reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Fri, 06 Mar 2026 00:08:21 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 06 Mar 2026 01:07:46 GMT</lastBuildDate>
   <language>pt-BR</language>
-  <item>
-    <title><![CDATA[Previsão indica risco de temporais isolados nesta sexta no RS]]></title>
-    <link>https://agorars.com/agora-no-tempo/previsao-do-tempo/previsao-indica-risco-de-temporais-isolados-nesta-sexta-rs/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Thu, 05 Mar 2026 23:49:42 GMT</pubDate>
-    <category><![CDATA[Rio Grande do Sul]]></category>
-    <guid isPermaLink="false"><![CDATA[rsagorars:bf41e857be5a44010b6fdccff861675c8a9ae956]]></guid>
-    <media:thumbnail url="https://uploads.agorars.com/2024/11/iCRrMzcK-temporal.webp" />
-    <enclosure url="https://uploads.agorars.com/2024/11/iCRrMzcK-temporal.webp" type="image/webp" />
-    <description><![CDATA[A previsão do tempo aponta instabilidade em praticamente todo o Rio Grande do Sul nesta sexta-feira. Há condições para temporais isolados, com chuva forte, queda de granizo e rajadas de vento.]]></description>
-    <content:encoded><![CDATA[
-<p>A previsão do tempo aponta instabilidade em praticamente todo o Rio Grande do Sul nesta sexta-feira. Há condições para temporais isolados, com chuva pontualmente forte, queda de granizo e rajadas de vento que podem chegar a 80 km/h em algumas regiões.</p>
-<p>As áreas com maior probabilidade de temporais incluem Oeste, Missões, Noroeste, Norte, Centro, Vales e Serra. Há também possibilidade de instabilidade em partes da região metropolitana de Porto Alegre e da Campanha.</p>
-<p>Os volumes de chuva podem variar entre 10 e 80 milímetros ao longo do dia, conforme a previsão meteorológica.</p>
-]]></content:encoded>
-  </item>
 </channel></rss>
