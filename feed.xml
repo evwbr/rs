@@ -9,23 +9,6 @@
   <atom:link href="https://evwbr.github.io/rs/feed.xml" rel="self" type="application/rss+xml"/>
   <link>https://evwbr.github.io/rs/</link>
   <description>Notícias do Rio Grande do Sul (últimas 24h) reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Sun, 08 Mar 2026 22:07:54 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 08 Mar 2026 23:07:54 GMT</lastBuildDate>
   <language>pt-BR</language>
-  <item>
-    <title><![CDATA[Bairros de Porto Alegre podem ter falta de água na terça-feira]]></title>
-    <link>https://agorars.com/rs/porto-alegre/bairros-de-porto-alegre-podem-ter-falta-de-agua-na-terca-feira/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Sun, 08 Mar 2026 21:12:58 GMT</pubDate>
-    <category><![CDATA[Rio Grande do Sul]]></category>
-    <guid isPermaLink="false"><![CDATA[rsagorars:96e8a78763f5d30a59c4298af8e89334daa63032]]></guid>
-    <media:thumbnail url="https://agorars.com/wp-content/uploads/2023/06/30ABR2023_Alex-Rocha_Torneira_Agua_Faltando_-4-min.jpg" />
-    <enclosure url="https://agorars.com/wp-content/uploads/2023/06/30ABR2023_Alex-Rocha_Torneira_Agua_Faltando_-4-min.jpg" type="image/webp" />
-    <description><![CDATA[Uma manutenção programada pode afetar o abastecimento de água em parte da Zona Sul de Porto Alegre nesta terça-feira.]]></description>
-    <content:encoded><![CDATA[
-<p>Uma manutenção programada pode afetar o abastecimento de água em parte da Zona Sul de Porto Alegre nesta terça-feira.</p>
-<p>Conforme o DMAE (Departamento Municipal de Água e Esgotos), equipes vão substituir uma bomba na EBAT (Estação de Bombeamento de Água Tratada) Santa Rita 2 a partir das 8h.</p>
-<p>A unidade atende o bairro Campo Novo e o condomínio Alphaville, na Vila Nova. A previsão é de que o serviço termine ao longo da tarde, com retomada gradual do abastecimento até a noite.</p>
-<p>O retorno da água pode demorar mais em pontos altos ou mais distantes da rede.</p>
-]]></content:encoded>
-  </item>
 </channel></rss>
