@@ -9,6 +9,21 @@
   <atom:link href="https://evwbr.github.io/rs/feed.xml" rel="self" type="application/rss+xml"/>
   <link>https://evwbr.github.io/rs/</link>
   <description>Notícias do Rio Grande do Sul (últimas 24h) reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Mon, 09 Mar 2026 00:07:50 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 09 Mar 2026 01:07:47 GMT</lastBuildDate>
   <language>pt-BR</language>
+  <item>
+    <title><![CDATA[Chuva atinge parte do RS nesta segunda com risco de temporais isolados]]></title>
+    <link>https://agorars.com/agora-no-tempo/previsao-do-tempo/chuva-atinge-parte-do-rs-nesta-segunda-com-risco-de-temporais-isolados/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Mon, 09 Mar 2026 00:36:00 GMT</pubDate>
+    <category><![CDATA[Rio Grande do Sul]]></category>
+    <guid isPermaLink="false"><![CDATA[rsagorars:4f0d0262d4b21249bcd544e7c98cf523aac4d1bf]]></guid>
+    <media:thumbnail url="https://agorars.com/wp-content/uploads/2023/10/1-Ilustrativa-para-chuva-Credito-Lucas-George-Wendt.webp" />
+    <enclosure url="https://agorars.com/wp-content/uploads/2023/10/1-Ilustrativa-para-chuva-Credito-Lucas-George-Wendt.webp" type="image/webp" />
+    <description><![CDATA[Previsão do tempo indica chuva em várias regiões do Rio Grande do Sul, com possibilidade de temporais isolados.]]></description>
+    <content:encoded><![CDATA[
+<p>A previsão do tempo indica chuva em parte do Rio Grande do Sul ao longo da madrugada e da manhã desta segunda-feira, com maior instabilidade nas regiões Oeste, Centro e em parte das Missões.</p>
+<p>Conforme a previsão, a chuva pode ser moderada a pontualmente forte, acompanhada de descargas elétricas. Durante a tarde, o tempo segue instável em áreas das Missões, Noroeste e Norte, onde há possibilidade de temporais isolados com chuva forte e eventual queda de granizo.</p>
+]]></content:encoded>
+  </item>
 </channel></rss>
