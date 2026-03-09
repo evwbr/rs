@@ -9,23 +9,22 @@
   <atom:link href="https://evwbr.github.io/rs/feed.xml" rel="self" type="application/rss+xml"/>
   <link>https://evwbr.github.io/rs/</link>
   <description>Notícias do Rio Grande do Sul (últimas 24h) reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Mon, 09 Mar 2026 21:08:00 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 09 Mar 2026 22:07:57 GMT</lastBuildDate>
   <language>pt-BR</language>
   <item>
-    <title><![CDATA[Brigada Militar cria gabinete de crise após incêndios de ônibus em Porto Alegre]]></title>
-    <link>https://agorars.com/rs/porto-alegre/brigada-militar-monta-gabinete-de-crise-apos-onibus-incendiados-em-porto-alegre/</link>
+    <title><![CDATA[Chuva atinge parte do RS nesta terça-feira]]></title>
+    <link>https://agorars.com/agora-no-tempo/previsao-do-tempo/chuva-atinge-parte-do-rs-nesta-terca-feira/</link>
     <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Mon, 09 Mar 2026 20:09:50 GMT</pubDate>
+    <pubDate>Mon, 09 Mar 2026 21:32:00 GMT</pubDate>
     <category><![CDATA[Rio Grande do Sul]]></category>
-    <guid isPermaLink="false"><![CDATA[rsagorars:1db9b629d815e05397017cd3cef26e739dff6788]]></guid>
-    <media:thumbnail url="https://uploads.agorars.com/2026/03/BGMmfIzo-incendio-onibus-porto-alegre-2.webp" />
-    <enclosure url="https://uploads.agorars.com/2026/03/BGMmfIzo-incendio-onibus-porto-alegre-2.webp" type="image/webp" />
-    <description><![CDATA[A Brigada Militar estabeleceu um gabinete de crise para monitorar os ataques em Porto Alegre, após o incêndio de dois ônibus no Morro Santana.]]></description>
+    <guid isPermaLink="false"><![CDATA[rsagorars:7da6da9d4b98044d729b814ec63d54eb5757e5db]]></guid>
+    <media:thumbnail url="https://uploads.agorars.com/2024/11/RQZJT3ax-chuva-vidro-molhado-garoa-porto-alegre-jpg.webp" />
+    <enclosure url="https://uploads.agorars.com/2024/11/RQZJT3ax-chuva-vidro-molhado-garoa-porto-alegre-jpg.webp" type="image/webp" />
+    <description><![CDATA[Previsão do tempo indica chuva moderada a pontualmente forte em várias regiões do Rio Grande do Sul, com maior intensidade entre a madrugada e a manhã.]]></description>
     <content:encoded><![CDATA[
-<p>Ônibus incendiado no terminal da linha Passo das Pedras. Crédito: Corpo de Bombeiros / Divulgação</p>
-<p>A Brigada Militar montou um gabinete de crise para acompanhar os ataques registrados em Porto Alegre nesta segunda-feira, após o incêndio de dois ônibus no Morro Santana, na zona norte da Capital.</p>
-<p>A estrutura foi instalada na sede do CPC (Comando de Policiamento da Capital) e terá a função de monitorar a situação em tempo real, além de definir medidas operacionais diante dos desdobramentos do caso.</p>
-<p>Conforme a corporação, o gabinete reúne setores estratégicos para análise das informações e para resposta rápida a novos fatos que possam afetar a segurança pública.</p>
+<p>A previsão do tempo indica chuva moderada a pontualmente forte em parte do Rio Grande do Sul nesta terça-feira, com maior intensidade entre a madrugada e a manhã.</p>
+<p>As áreas com previsão de instabilidade nesse período incluem Centro, Vales, região metropolitana de Porto Alegre, Costa Doce e Serra. Conforme a previsão meteorológica, a chuva pode vir acompanhada de descargas elétricas.</p>
+<p>Ao longo da tarde, a instabilidade avança para áreas do Noroeste, Norte, Nordeste e Litoral Norte.</p>
 ]]></content:encoded>
   </item>
 </channel></rss>
