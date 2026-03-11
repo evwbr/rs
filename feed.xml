@@ -9,6 +9,22 @@
   <atom:link href="https://evwbr.github.io/rs/feed.xml" rel="self" type="application/rss+xml"/>
   <link>https://evwbr.github.io/rs/</link>
   <description>Notícias do Rio Grande do Sul (últimas 24h) reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Wed, 11 Mar 2026 21:07:58 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 11 Mar 2026 22:08:05 GMT</lastBuildDate>
   <language>pt-BR</language>
+  <item>
+    <title><![CDATA[Temporais isolados persistem no RS na quinta-feira (12)]]></title>
+    <link>https://agorars.com/agora-no-tempo/temporais-rs-quinta-feira-previsao/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Wed, 11 Mar 2026 21:13:02 GMT</pubDate>
+    <category><![CDATA[Rio Grande do Sul]]></category>
+    <guid isPermaLink="false"><![CDATA[rsagorars:26c395a52188d8081bd1eac70601a06278024798]]></guid>
+    <media:thumbnail url="https://uploads.agorars.com/2026/01/BVmty2FP-IMG_9534.webp" />
+    <enclosure url="https://uploads.agorars.com/2026/01/BVmty2FP-IMG_9534.webp" type="image/webp" />
+    <description><![CDATA[Previsão do tempo indica chuva forte e possibilidade de granizo em diversas regiões do Rio Grande do Sul.]]></description>
+    <content:encoded><![CDATA[
+<p>A previsão do tempo indica chuva no Rio Grande do Sul na quinta-feira (12). As informações são do CMDEC (Centro de Monitoramento da Defesa Civil).</p>
+<p>Conforme o CMDEC, na quinta-feira (12), persiste a condição para temporais isolados com chuva forte, queda de granizo e rajadas de vento de até 80 km/h nas Missões, Noroeste, Norte, Nordeste, Vales, Serra, Região Metropolitana, Litoral Médio e Norte, em partes do Centro da Costa Doce.</p>
+<p>Os acumulados oscilam entre 10 e 40 mm/dia. Nas demais áreas, há variação de nebulosidade e chuviscos/chuva fraca isolada. As temperaturas mínimas variam entre 12°C e 20°C, enquanto as máximas oscilam entre 20°C e 32°C.</p>
+]]></content:encoded>
+  </item>
 </channel></rss>
