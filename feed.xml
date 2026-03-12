@@ -9,22 +9,23 @@
   <atom:link href="https://evwbr.github.io/rs/feed.xml" rel="self" type="application/rss+xml"/>
   <link>https://evwbr.github.io/rs/</link>
   <description>Notícias do Rio Grande do Sul (últimas 24h) reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Thu, 12 Mar 2026 20:08:02 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 12 Mar 2026 21:08:13 GMT</lastBuildDate>
   <language>pt-BR</language>
   <item>
-    <title><![CDATA[Temporal atinge região metropolitana com chuva, vento e granizo]]></title>
-    <link>https://agorars.com/agora-no-tempo/temporal-grande-porto-alegre-granizo-alagamentos-queda-arvores/</link>
+    <title><![CDATA[Casos de gripe aviária em aves silvestres sobem para 23 no Sul do RS]]></title>
+    <link>https://agorars.com/rs/sul-do-rs/casos-de-gripe-aviaria-em-aves-silvestres-sobem-para-23-no-sul-do-rs/</link>
     <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Thu, 12 Mar 2026 19:10:56 GMT</pubDate>
+    <pubDate>Thu, 12 Mar 2026 20:41:46 GMT</pubDate>
     <category><![CDATA[Rio Grande do Sul]]></category>
-    <guid isPermaLink="false"><![CDATA[rsagorars:8a4cb0fee410d88b863b12b776fe904f0bcfdf29]]></guid>
-    <media:thumbnail url="https://uploads.agorars.com/2026/03/jgQhIics-IMG_0020.JPG.webp" />
-    <enclosure url="https://uploads.agorars.com/2026/03/jgQhIics-IMG_0020.JPG.webp" type="image/webp" />
-    <description><![CDATA[Um rápido e forte temporal afetou parte da região metropolitana de Porto Alegre, resultando em quedas de árvores, alagamentos e granizo.]]></description>
+    <guid isPermaLink="false"><![CDATA[rsagorars:b8009643698545e5d5c4efb090585d4dbd260fa1]]></guid>
+    <media:thumbnail url="https://uploads.agorars.com/2026/03/IIeZnHRA-Servidores-do-Estado-e-da-Uniao-atuam-em-conjunto-na-Lagoa-da-Mangueira-em-Santa-Vitoria-do-Palmar-Foto-Fernando-Dias-.webp" />
+    <enclosure url="https://uploads.agorars.com/2026/03/IIeZnHRA-Servidores-do-Estado-e-da-Uniao-atuam-em-conjunto-na-Lagoa-da-Mangueira-em-Santa-Vitoria-do-Palmar-Foto-Fernando-Dias-.webp" type="image/webp" />
+    <description><![CDATA[O Rio Grande do Sul registrou mais dois casos de gripe aviária em aves silvestres na região Sul, totalizando 23 animais afetados pela Influenza H5N1.]]></description>
     <content:encoded><![CDATA[
-<p>Um rápido e forte temporal atingiu parte da região metropolitana de Porto Alegre na tarde desta quinta-feira.</p>
-<p>Há registro de queda de árvores, pontos de alagamento e queda de granizo.</p>
-<p>Em Porto Alegre, a EPTC (Empresa Pública de Transporte e Circulação) registrou quatro pontos de bloqueio devido à queda de árvores. Os locais afetados são: Rua Tobias da Silva, 515, bairro Moinhos de Vento; Rua Santa Cecília, 2175, bairro Santana; Avenida João Pessoa, 1843, bairro Farroupilha; e Rua Domingos Rubbo, 279, bairro Cristo Redentor.</p>
+<p>O Rio Grande do Sul registrou mais dois casos de gripe aviária em aves silvestres na região Sul. O foco de Influenza Aviária de Alta Patogenicidade foi detectado no fim de fevereiro na Reserva do Taim, em Santa Vitória do Palmar.</p>
+<p>Na atualização anterior, divulgada na segunda-feira, o total era de 21 aves com a doença. Agora, o número subiu para 23 animais recolhidos por causa da Influenza H5N1, entre cisnes-coscoroba e garça-moura.</p>
+<p>O foco foi confirmado em aves silvestres na Lagoa da Mangueira, área monitorada pelo Serviço Veterinário Oficial do Rio Grande do Sul em conjunto com equipes do ICMBio e do Ministério da Agricultura.</p>
+<p>Além do monitoramento de aves com barcos e drones, o Estado mantém varredura sanitária em propriedades com criação de aves num raio de até 10 quilômetros do foco. Ao todo, 93 propriedades com aves de subsistência no entorno da reserva devem ser inspecionadas.</p>
 ]]></content:encoded>
   </item>
 </channel></rss>
