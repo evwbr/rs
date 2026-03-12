@@ -9,6 +9,22 @@
   <atom:link href="https://evwbr.github.io/rs/feed.xml" rel="self" type="application/rss+xml"/>
   <link>https://evwbr.github.io/rs/</link>
   <description>Notícias do Rio Grande do Sul (últimas 24h) reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Thu, 12 Mar 2026 19:07:43 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 12 Mar 2026 20:08:02 GMT</lastBuildDate>
   <language>pt-BR</language>
+  <item>
+    <title><![CDATA[Temporal atinge região metropolitana com chuva, vento e granizo]]></title>
+    <link>https://agorars.com/agora-no-tempo/temporal-grande-porto-alegre-granizo-alagamentos-queda-arvores/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Thu, 12 Mar 2026 19:10:56 GMT</pubDate>
+    <category><![CDATA[Rio Grande do Sul]]></category>
+    <guid isPermaLink="false"><![CDATA[rsagorars:8a4cb0fee410d88b863b12b776fe904f0bcfdf29]]></guid>
+    <media:thumbnail url="https://uploads.agorars.com/2026/03/jgQhIics-IMG_0020.JPG.webp" />
+    <enclosure url="https://uploads.agorars.com/2026/03/jgQhIics-IMG_0020.JPG.webp" type="image/webp" />
+    <description><![CDATA[Um rápido e forte temporal afetou parte da região metropolitana de Porto Alegre, resultando em quedas de árvores, alagamentos e granizo.]]></description>
+    <content:encoded><![CDATA[
+<p>Um rápido e forte temporal atingiu parte da região metropolitana de Porto Alegre na tarde desta quinta-feira.</p>
+<p>Há registro de queda de árvores, pontos de alagamento e queda de granizo.</p>
+<p>Em Porto Alegre, a EPTC (Empresa Pública de Transporte e Circulação) registrou quatro pontos de bloqueio devido à queda de árvores. Os locais afetados são: Rua Tobias da Silva, 515, bairro Moinhos de Vento; Rua Santa Cecília, 2175, bairro Santana; Avenida João Pessoa, 1843, bairro Farroupilha; e Rua Domingos Rubbo, 279, bairro Cristo Redentor.</p>
+]]></content:encoded>
+  </item>
 </channel></rss>
