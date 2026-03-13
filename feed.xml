@@ -9,6 +9,38 @@
   <atom:link href="https://evwbr.github.io/rs/feed.xml" rel="self" type="application/rss+xml"/>
   <link>https://evwbr.github.io/rs/</link>
   <description>Notícias do Rio Grande do Sul (últimas 24h) reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Fri, 13 Mar 2026 12:07:55 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 13 Mar 2026 14:08:24 GMT</lastBuildDate>
   <language>pt-BR</language>
+  <item>
+    <title><![CDATA[Força-Tarefa apreende cerca de 900 quilos de produtos impróprios em dois supermercados de Lajeado]]></title>
+    <link>https://agorars.com/rs/vales/taquari/apreensao-alimentos-improprios-lajeado/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Fri, 13 Mar 2026 13:33:21 GMT</pubDate>
+    <category><![CDATA[Rio Grande do Sul]]></category>
+    <guid isPermaLink="false"><![CDATA[rsagorars:51f82feed0e3d2cc003e9b04bccf1e0010822f59]]></guid>
+    <media:thumbnail url="https://uploads.agorars.com/2026/03/IXUVdi3d-ft120301.webp" />
+    <enclosure url="https://uploads.agorars.com/2026/03/IXUVdi3d-ft120301.webp" type="image/webp" />
+    <description><![CDATA[A operação de fiscalização resultou na apreensão de produtos vencidos e armazenados de forma inadequada.]]></description>
+    <content:encoded><![CDATA[
+<p>A Força-Tarefa do Programa Segurança dos Alimentos realizou, nesta quinta-feira, uma operação de fiscalização em Lajeado, no Vale do Taquari. A ação resultou na apreensão de cerca de 900 quilos de produtos impróprios para o consumo.</p>
+<p>A fiscalização foi realizada em dois supermercados do município, ambos autuados pelas irregularidades constatadas. Durante a operação, as equipes identificaram produtos vencidos, itens fracionados de forma inadequada e mercadorias armazenadas fora da temperatura recomendada.</p>
+<p>Entre os alimentos apreendidos, chamou atenção a grande quantidade de pizzas e lasanhas congeladas que estavam fora da temperatura adequada, além de produtos como margarina, embutidos e queijos que também apresentavam irregularidades e risco à saúde do consumidor.</p>
+]]></content:encoded>
+  </item>
+  <item>
+    <title><![CDATA[Tempo estável e temperaturas em elevação no Rio Grande do Sul na próxima semana]]></title>
+    <link>https://agorars.com/agora-no-tempo/tempo-estavel-rs-proxima-semana/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Fri, 13 Mar 2026 13:07:05 GMT</pubDate>
+    <category><![CDATA[Rio Grande do Sul]]></category>
+    <guid isPermaLink="false"><![CDATA[rsagorars:729847053bc300256d11ed7fdf553633a0b2e52f]]></guid>
+    <media:thumbnail url="https://agorars.com/wp-content/uploads/2024/01/tempo-jpg.webp" />
+    <enclosure url="https://agorars.com/wp-content/uploads/2024/01/tempo-jpg.webp" type="image/webp" />
+    <description><![CDATA[Boletim aponta que a maior parte da próxima semana será marcada por condições climáticas estáveis no estado gaúcho, com aumento gradual das temperaturas.]]></description>
+    <content:encoded><![CDATA[
+<p>Na maior parte da próxima semana, o tempo deverá permanecer estável em todo o território gaúcho.</p>
+<p>Conforme o boletim, no dia 13 (sexta-feira), o sistema de baixa pressão deverá se afastar gradualmente, reduzindo sua influência sobre o Estado. Assim, há previsão de chuva fraca e passageira em pontos isolados da Serra e dos Campos de Cima da Serra.</p>
+<p>No dia 14 (sábado), o tempo voltará a ficar predominantemente estável. Não há previsão de chuva significativa em todo o território gaúcho.</p>
+]]></content:encoded>
+  </item>
 </channel></rss>
