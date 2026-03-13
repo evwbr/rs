@@ -9,22 +9,25 @@
   <atom:link href="https://evwbr.github.io/rs/feed.xml" rel="self" type="application/rss+xml"/>
   <link>https://evwbr.github.io/rs/</link>
   <description>Notícias do Rio Grande do Sul (últimas 24h) reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Thu, 12 Mar 2026 23:07:50 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 13 Mar 2026 00:08:01 GMT</lastBuildDate>
   <language>pt-BR</language>
   <item>
-    <title><![CDATA[Suspeita de bomba bloqueia trecho de avenida em Porto Alegre]]></title>
-    <link>https://agorars.com/plantao-rs/suspeita-de-bomba-bloqueia-trecho-de-avenida-em-porto-alegre/</link>
+    <title><![CDATA[Sexta-feira terá mais nuvens e chuva fraca em parte do RS]]></title>
+    <link>https://agorars.com/agora-no-tempo/previsao-do-tempo/sexta-feira-tera-mais-nuvens-e-chuva-fraca-em-parte-do-rs/</link>
     <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Thu, 12 Mar 2026 22:23:04 GMT</pubDate>
+    <pubDate>Thu, 12 Mar 2026 23:33:30 GMT</pubDate>
     <category><![CDATA[Rio Grande do Sul]]></category>
-    <guid isPermaLink="false"><![CDATA[rsagorars:d19ee4598559b5030e9931f0cba9c78bf71089e9]]></guid>
-    <media:thumbnail url="https://uploads.agorars.com/2026/03/rilRWaEy-bomba-joao-obino.webp" />
-    <enclosure url="https://uploads.agorars.com/2026/03/rilRWaEy-bomba-joao-obino.webp" type="image/webp" />
-    <description><![CDATA[Um trecho da avenida João Obino, no bairro Petrópolis, em Porto Alegre, foi bloqueado devido a uma suspeita de artefato explosivo.]]></description>
+    <guid isPermaLink="false"><![CDATA[rsagorars:7bf21a0ba8474014648429cdc70200a9dacb5cf7]]></guid>
+    <media:thumbnail url="https://uploads.agorars.com/2024/12/tKtNn4BG-centro-historico-porto-alegre.webp" />
+    <enclosure url="https://uploads.agorars.com/2024/12/tKtNn4BG-centro-historico-porto-alegre.webp" type="image/webp" />
+    <description><![CDATA[A previsão do tempo indica predominância de nebulosidade e possibilidade de chuvas isoladas no Rio Grande do Sul.]]></description>
     <content:encoded><![CDATA[
-<p>Uma suspeita de artefato explosivo bloqueou um trecho da avenida João Obino, no bairro Petrópolis, em Porto Alegre, nesta quinta-feira.</p>
-<p>A Brigada Militar foi acionada após denúncia anônima sobre um objeto preso a um poste, descrito como cilíndrico, com fitas enroladas e um fio aparente. O material estava próximo a uma escola.</p>
-<p>Policiais isolaram a área e adotaram medidas de segurança no entorno. A entrada da avenida pela rua Guaporé também foi bloqueada.</p>
+<p>A sexta-feira terá predominância de nebulosidade no Rio Grande do Sul.</p>
+<p>Conforme a previsão do tempo, há chance de pancadas isoladas de chuva fraca na metade leste, no Norte e no Sul do Estado.</p>
+<p>A circulação marítima mantém chuva desde cedo na faixa litorânea gaúcha e também favorece instabilidades na Serra e no nordeste do Estado durante a manhã.</p>
+<p>Ao longo do dia, as pancadas avançam pela metade norte e pelo litoral, com possibilidade de chuva moderada a forte e temporais isolados em pontos do Sul do país.</p>
+<p>Entretanto, os acumulados devem ficar em até 10 milímetros por dia.</p>
+<p>Na Campanha, a chuva tende a ser fraca, enquanto outras áreas devem ter variação de nuvens e períodos de tempo mais firme.</p>
 ]]></content:encoded>
   </item>
 </channel></rss>
