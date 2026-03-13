@@ -9,6 +9,24 @@
   <atom:link href="https://evwbr.github.io/rs/feed.xml" rel="self" type="application/rss+xml"/>
   <link>https://evwbr.github.io/rs/</link>
   <description>Notícias do Rio Grande do Sul (últimas 24h) reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Fri, 13 Mar 2026 18:08:40 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 13 Mar 2026 19:08:25 GMT</lastBuildDate>
   <language>pt-BR</language>
+  <item>
+    <title><![CDATA[Petrobras aumenta diesel em R$ 0,38 por litro para distribuidoras]]></title>
+    <link>https://agorars.com/economia/petrobras-aumenta-diesel-r-0-38-por-litro-nas-refinarias/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Fri, 13 Mar 2026 18:31:09 GMT</pubDate>
+    <category><![CDATA[Rio Grande do Sul]]></category>
+    <guid isPermaLink="false"><![CDATA[rsagorars:e08d714ced24c99db02908bb9e5dd171ffaf7035]]></guid>
+    <media:thumbnail url="https://uploads.agorars.com/2026/03/vmkxZNNu-reduc_3.webp" />
+    <enclosure url="https://uploads.agorars.com/2026/03/vmkxZNNu-reduc_3.webp" type="image/webp" />
+    <description><![CDATA[A Petrobras anunciou um aumento no preço do diesel vendido nas refinarias, que passa a valer R$ 3,65 por litro a partir de sábado.]]></description>
+    <content:encoded><![CDATA[
+<p>A Petrobras anunciou nesta sexta-feira (13) aumento de R$ 0,38 por litro no preço do diesel vendido nas refinarias. O novo valor passa a valer no sábado (14).</p>
+<p>Com o reajuste, o litro do diesel A da estatal sobe para R$ 3,65. Foi a primeira mudança no preço do combustível desde maio de 2025, quando a empresa havia reduzido o valor em R$ 0,16 por litro.</p>
+<p>A alta foi divulgada um dia após o governo federal anunciar um pacote para tentar conter os efeitos da guerra no Irã sobre o mercado de combustíveis. Entre as medidas, o governo zerou as alíquotas de PIS e Cofins sobre o diesel, com impacto estimado em R$ 0,32 por litro.</p>
+<p>Como o reajuste da Petrobras ficou acima desse valor, o efeito imediato da desoneração cai para R$ 0,06 por litro no repasse às distribuidoras.</p>
+<p>O valor ao consumidor final depende ainda de impostos, mistura obrigatória de biodiesel e margens de distribuição e revenda. Na semana passada, o preço médio do diesel nos postos era de R$ 6,15 por litro.</p>
+]]></content:encoded>
+  </item>
 </channel></rss>
