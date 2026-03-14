@@ -9,6 +9,23 @@
   <atom:link href="https://evwbr.github.io/rs/feed.xml" rel="self" type="application/rss+xml"/>
   <link>https://evwbr.github.io/rs/</link>
   <description>Notícias do Rio Grande do Sul (últimas 24h) reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Sat, 14 Mar 2026 01:08:12 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 14 Mar 2026 02:07:46 GMT</lastBuildDate>
   <language>pt-BR</language>
+  <item>
+    <title><![CDATA[Tempo firme predomina no RS neste sábado, com chuva fraca no litoral]]></title>
+    <link>https://agorars.com/agora-no-tempo/previsao-do-tempo/tempo-firme-predomina-no-rs-neste-sabado-com-chuva-fraca-no-litoral/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Sat, 14 Mar 2026 01:09:34 GMT</pubDate>
+    <category><![CDATA[Rio Grande do Sul]]></category>
+    <guid isPermaLink="false"><![CDATA[rsagorars:f5f5fa22cd64137adbc64f49e39454930d933944]]></guid>
+    <media:thumbnail url="https://uploads.agorars.com/2024/03/calor-sol-10101400_148145_GDO-jpg.webp" />
+    <enclosure url="https://uploads.agorars.com/2024/03/calor-sol-10101400_148145_GDO-jpg.webp" type="image/webp" />
+    <description><![CDATA[O sábado terá predomínio de tempo firme no Rio Grande do Sul, com exceção de chuvas fracas no litoral sul e sudeste gaúcho.]]></description>
+    <content:encoded><![CDATA[
+<p>O sábado terá predomínio de tempo firme no Rio Grande do Sul por causa da atuação de uma massa de ar seco.</p>
+<p>A maior parte do Estado deve ter sol entre nuvens e elevação da temperatura ao longo do dia.</p>
+<p>A previsão indica chuva fraca em pontos do litoral sul e sudeste gaúcho, sobretudo entre o fim da manhã e a tarde. Nas demais regiões, o tempo segue estável.</p>
+<p>As temperaturas mínimas no Estado variam entre 11°C e 20°C. À tarde, as máximas ficam entre 22°C e 33°C, com calor mais intenso em áreas do interior.</p>
+]]></content:encoded>
+  </item>
 </channel></rss>
