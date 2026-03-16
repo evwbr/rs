@@ -9,6 +9,22 @@
   <atom:link href="https://evwbr.github.io/rs/feed.xml" rel="self" type="application/rss+xml"/>
   <link>https://evwbr.github.io/rs/</link>
   <description>Notícias do Rio Grande do Sul (últimas 24h) reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Mon, 16 Mar 2026 17:07:47 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 16 Mar 2026 18:08:00 GMT</lastBuildDate>
   <language>pt-BR</language>
+  <item>
+    <title><![CDATA[Furto deixa Túnel da Conceição parcialmente às escuras em Porto Alegre]]></title>
+    <link>https://agorars.com/agora-no-transito/furto-deixa-tunel-da-conceicao-parcialmente-as-escuras-em-porto-alegre/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Mon, 16 Mar 2026 17:29:57 GMT</pubDate>
+    <category><![CDATA[Rio Grande do Sul]]></category>
+    <guid isPermaLink="false"><![CDATA[rsagorars:c88e61f29911c527fa8e45f244a589a2ba4a3032]]></guid>
+    <media:thumbnail url="https://uploads.agorars.com/2026/02/VsaEJh3D-19-FEV-2026_Alex-Rocha_Tunel-Conceicao_-1.webp" />
+    <enclosure url="https://uploads.agorars.com/2026/02/VsaEJh3D-19-FEV-2026_Alex-Rocha_Tunel-Conceicao_-1.webp" type="image/webp" />
+    <description><![CDATA[O Túnel da Conceição teve sua iluminação comprometida devido ao furto de cabos e refletores na madrugada desta segunda-feira em Porto Alegre.]]></description>
+    <content:encoded><![CDATA[
+<p>O Túnel da Conceição teve sua iluminação comprometida devido ao furto de cabos e refletores na madrugada desta segunda-feira em Porto Alegre.</p>
+<p>O problema deixou a estrutura parcialmente às escuras nos dois sentidos. Foram levados cabos do quadro de alimentação do circuito elétrico, que fica na parte interna do túnel, além de refletores.</p>
+<p>Equipes da IPSul atuam no local para avaliar os danos e iniciar os reparos. Até o momento, não há previsão para o restabelecimento completo da iluminação.</p>
+]]></content:encoded>
+  </item>
 </channel></rss>
