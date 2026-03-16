@@ -9,23 +9,6 @@
   <atom:link href="https://evwbr.github.io/rs/feed.xml" rel="self" type="application/rss+xml"/>
   <link>https://evwbr.github.io/rs/</link>
   <description>Notícias do Rio Grande do Sul (últimas 24h) reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Sun, 15 Mar 2026 23:07:55 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 16 Mar 2026 00:07:47 GMT</lastBuildDate>
   <language>pt-BR</language>
-  <item>
-    <title><![CDATA[RS terá aumento gradual de temperatura e chance de pancadas isoladas de chuva na segunda-feira]]></title>
-    <link>https://agorars.com/agora-no-tempo/previsao-do-tempo/previsao-tempo-rs-segunda-feira-aumento-temperaturas/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Sun, 15 Mar 2026 22:23:18 GMT</pubDate>
-    <category><![CDATA[Rio Grande do Sul]]></category>
-    <guid isPermaLink="false"><![CDATA[rsagorars:b0c33c256e182cdbc27f04f54e1f08677c896c8c]]></guid>
-    <media:thumbnail url="https://agorars.com/wp-content/uploads/2024/01/tempo-poa-1-jpg.webp" />
-    <enclosure url="https://agorars.com/wp-content/uploads/2024/01/tempo-poa-1-jpg.webp" type="image/webp" />
-    <description><![CDATA[A previsão do tempo indica aumento gradual das temperaturas no Rio Grande do Sul na segunda-feira. A tendência é que o predomínio de tempo firme ocorra em grande parte do estado, com possibilidade de pancadas isoladas de chuva à tarde.]]></description>
-    <content:encoded><![CDATA[
-<p>A previsão do tempo indica aumento gradual das temperaturas no Rio Grande do Sul na segunda-feira. As informações são do CMDEC (Centro de Monitoramento da Defesa Civil), da Emater/RS-Ascar e da Climatempo.</p>
-<p>Conforme o CMDEC, a tendência é que, na segunda-feira, siga o predomínio de tempo firme em grande parte do Rio Grande do Sul. No decorrer da tarde, há possibilidade de pancadas isoladas de chuva com trovoadas em áreas do Oeste, Missões, Noroeste, Centro e Norte.</p>
-<p>As temperaturas mínimas variam entre 13°C e 23°C, enquanto as máximas oscilam entre 25°C e 36°C. De acordo com a Emater/RS-Ascar, essas projeções indicam um aumento gradual nas temperaturas a partir da segunda-feira.</p>
-<p>Em seguida, nos dias 17 e 18, as condições de estabilidade deverão continuar predominando na maior parte do Estado. Entretanto, na Fronteira Oeste, poderá ocorrer chuva fraca a moderada, associada ao transporte de umidade.</p>
-]]></content:encoded>
-  </item>
 </channel></rss>
