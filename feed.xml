@@ -9,6 +9,23 @@
   <atom:link href="https://evwbr.github.io/rs/feed.xml" rel="self" type="application/rss+xml"/>
   <link>https://evwbr.github.io/rs/</link>
   <description>Notícias do Rio Grande do Sul (últimas 24h) reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Mon, 16 Mar 2026 00:07:47 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 16 Mar 2026 01:08:05 GMT</lastBuildDate>
   <language>pt-BR</language>
+  <item>
+    <title><![CDATA[Aumento nos preços de gasolina e diesel no RS]]></title>
+    <link>https://agorars.com/economia/diesel-sobe-rs-anp-preco-combustivel/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Mon, 16 Mar 2026 00:25:17 GMT</pubDate>
+    <category><![CDATA[Rio Grande do Sul]]></category>
+    <guid isPermaLink="false"><![CDATA[rsagorars:d94024d1c7d097bfee4cd8647f256a0af0f40484]]></guid>
+    <media:thumbnail url="https://uploads.agorars.com/2025/09/I9TB5fMg-combustiveis-gasolina-etanol.webp" />
+    <enclosure url="https://uploads.agorars.com/2025/09/I9TB5fMg-combustiveis-gasolina-etanol.webp" type="image/webp" />
+    <description><![CDATA[Relatório da ANP aponta elevações nos preços dos combustíveis no Rio Grande do Sul, com a gasolina e o diesel apresentando aumentos significativos.]]></description>
+    <content:encoded><![CDATA[
+<p>A ANP (Agência Nacional do Petróleo) divulgou um relatório apontando um aumento de 8,8% no preço do diesel no Rio Grande do Sul na última semana, com uma média de R$ 6,70 o litro. A gasolina teve um aumento de 1,9%, alcançando uma média de R$ 6,35. Ambos os aumentos estão abaixo da média nacional e ocorrem em meio à crise de combustíveis gerada pela guerra entre EUA-Israel e Irã.</p>
+<p>No sábado, o Sulpetro, entidade que representa os postos de combustíveis do estado, manifestou que o aumento se deve não apenas ao reajuste da Petrobras, mas também a uma “forte tensão” sobre os preços no mercado supridor que abastece os postos revendedores. O Sulpetro destacou que, nos leilões adicionais realizados pela Petrobras, foi registrada a prática de ágio, com valores entre R$ 1,80 e R$ 2,00 por litro, evidenciando um cenário de forte tensão na formação de preços.</p>
+<p>Além disso, o Sulpetro alegou que a Petrobras não supre integralmente a demanda nacional de combustíveis. Por conta disso, as distribuidoras precisam adquirir produtos de refinarias privadas ou recorrer à importação de combustíveis já refinados.</p>
+<p>Especialistas e entidades do setor de petróleo apontaram que os aumentos nos preços dos combustíveis pelas distribuidoras não se devem apenas à instabilidade no cenário internacional. A FUP (Federação Única dos Petroleiros) afirmou que o conflito no Oriente Médio, intensificado no final de fevereiro, tem servido de pretexto para que distribuidoras e revendedoras apliquem margens de lucro excessivas. O coordenador-geral da FUP, Deyvid Bacelar, estimou que os aumentos chegam a 40% no preço final ao consumidor. Desde o início da escalada dos preços, houve registro de gasolina a R$ 9 em São Paulo, por exemplo.</p>
+]]></content:encoded>
+  </item>
 </channel></rss>
