@@ -9,22 +9,6 @@
   <atom:link href="https://evwbr.github.io/rs/feed.xml" rel="self" type="application/rss+xml"/>
   <link>https://evwbr.github.io/rs/</link>
   <description>Notícias do Rio Grande do Sul (últimas 24h) reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Mon, 16 Mar 2026 23:07:56 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 17 Mar 2026 00:07:55 GMT</lastBuildDate>
   <language>pt-BR</language>
-  <item>
-    <title><![CDATA[Queda de avião agrícola causa uma morte em Cruz Alta]]></title>
-    <link>https://agorars.com/agora-no-transito/queda-de-aviao-agricola-causa-uma-morte-em-cruz-alta/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Mon, 16 Mar 2026 22:18:37 GMT</pubDate>
-    <category><![CDATA[Rio Grande do Sul]]></category>
-    <guid isPermaLink="false"><![CDATA[rsagorars:7e7d7cf746d31274d06d5547018ccca995cfeb59]]></guid>
-    <media:thumbnail url="https://uploads.agorars.com/2026/03/Kiq7OlEO-acidente-aviao-cruz-alta.webp" />
-    <enclosure url="https://uploads.agorars.com/2026/03/Kiq7OlEO-acidente-aviao-cruz-alta.webp" type="image/webp" />
-    <description><![CDATA[Um acidente com um avião agrícola resultou na morte do piloto em Cruz Alta, no noroeste do Rio Grande do Sul.]]></description>
-    <content:encoded><![CDATA[
-<p>A queda de um avião agrícola causou a morte do piloto na tarde desta segunda-feira.</p>
-<p>O caso ocorreu em Cruz Alta, no noroeste do Rio Grande do Sul. Conforme o Corpo de Bombeiros, o acidente aconteceu por volta das 15h na Fazenda Ponteio, às margens da RSC-377, entre Cruz Alta e Ibirubá, na altura do km 90.</p>
-<p>De acordo com a Polícia Civil, o piloto era o único ocupante da aeronave no momento da queda.</p>
-]]></content:encoded>
-  </item>
 </channel></rss>
