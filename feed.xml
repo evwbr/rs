@@ -9,22 +9,6 @@
   <atom:link href="https://evwbr.github.io/rs/feed.xml" rel="self" type="application/rss+xml"/>
   <link>https://evwbr.github.io/rs/</link>
   <description>Notícias do Rio Grande do Sul (últimas 24h) reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Wed, 18 Mar 2026 14:09:23 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 18 Mar 2026 15:07:48 GMT</lastBuildDate>
   <language>pt-BR</language>
-  <item>
-    <title><![CDATA[Inmet emite alerta amarelo de tempestades no RS]]></title>
-    <link>https://agorars.com/agora-no-tempo/alerta-tempestade-rs-quarta-feira-inmet/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Wed, 18 Mar 2026 13:38:34 GMT</pubDate>
-    <category><![CDATA[Rio Grande do Sul]]></category>
-    <guid isPermaLink="false"><![CDATA[rsagorars:0e5a80d5fcb6b22d0d5571e70bcea2492ea65b39]]></guid>
-    <media:thumbnail url="https://uploads.agorars.com/2025/12/xQXnWzC2-Tempo_quente_pancadas_chuva.webp" />
-    <enclosure url="https://uploads.agorars.com/2025/12/xQXnWzC2-Tempo_quente_pancadas_chuva.webp" type="image/webp" />
-    <description><![CDATA[Instituto Nacional de Meteorologia mantém aviso para o estado com possibilidade de chuvas intensas e ventos fortes.]]></description>
-    <content:encoded><![CDATA[
-<p>O Inmet (Instituto Nacional de Meteorologia) mantém um alerta ativo de tempestades para o Rio Grande do Sul nesta quarta-feira. O aviso é válido até o final do dia.</p>
-<p>Segundo o Instituto, há previsão de chuvas entre 20 e 30 mm/h, podendo chegar a 50 mm ao longo do dia. O alerta também menciona a possibilidade de ventos intensos, variando de 40 a 60 km/h, além da ocorrência de granizo.</p>
-<p>A precipitação deve se concentrar na porção norte do estado, afetando a Região Metropolitana, o Litoral Norte, a Serra, os Vales, o Centro, o Norte e o Noroeste.</p>
-]]></content:encoded>
-  </item>
 </channel></rss>
