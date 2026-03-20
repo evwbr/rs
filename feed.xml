@@ -9,6 +9,39 @@
   <atom:link href="https://evwbr.github.io/rs/feed.xml" rel="self" type="application/rss+xml"/>
   <link>https://evwbr.github.io/rs/</link>
   <description>Notícias do Rio Grande do Sul (últimas 24h) reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Fri, 20 Mar 2026 19:07:47 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 20 Mar 2026 20:07:51 GMT</lastBuildDate>
   <language>pt-BR</language>
+  <item>
+    <title><![CDATA[Estiagem afeta 42 municípios e 167,8 mil pessoas no RS]]></title>
+    <link>https://agorars.com/agora-no-tempo/estiagem-afeta-42-municipios-e-1678-mil-pessoas-no-rs/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Fri, 20 Mar 2026 19:35:08 GMT</pubDate>
+    <category><![CDATA[Rio Grande do Sul]]></category>
+    <guid isPermaLink="false"><![CDATA[rsagorars:3447f718dc0c2a1f99cf514253b19f483cba4690]]></guid>
+    <media:thumbnail url="https://uploads.agorars.com/2026/03/5FbuKxDo-3cvx4jj3p7awf8lf9k0z_Estiagem-3.webp" />
+    <enclosure url="https://uploads.agorars.com/2026/03/5FbuKxDo-3cvx4jj3p7awf8lf9k0z_Estiagem-3.webp" type="image/webp" />
+    <description><![CDATA[A estiagem já afeta 42 municípios e 167.894 pessoas no Rio Grande do Sul, conforme boletim divulgado pela Defesa Civil estadual.]]></description>
+    <content:encoded><![CDATA[
+<p>A estiagem já afeta 42 municípios e 167.894 pessoas no Rio Grande do Sul, conforme boletim divulgado pela Defesa Civil estadual nesta sexta-feira.</p>
+<p>O evento teve início em 8 de dezembro de 2025. De acordo com o boletim, 40 municípios já têm registro no S2ID (Sistema Integrado de Informações sobre Desastres). Outros dois ainda não têm registro no sistema, mas reportaram ações decorrentes da seca.</p>
+<p>Entre as cidades com registro no S2ID, 36 já têm decreto lançado no sistema. Outras quatro aparecem com registro, mas ainda sem decreto.</p>
+]]></content:encoded>
+  </item>
+  <item>
+    <title><![CDATA[Caminhoneiros adiam decisão sobre greve nacional por alta do diesel]]></title>
+    <link>https://agorars.com/agora-no-transito/caminhoneiros-adiam-decisao-sobre-greve-nacional-por-alta-do-diesel/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Fri, 20 Mar 2026 19:21:10 GMT</pubDate>
+    <category><![CDATA[Rio Grande do Sul]]></category>
+    <guid isPermaLink="false"><![CDATA[rsagorars:4321ae7e6ab0584ca67284385ba52cac4e721c67]]></guid>
+    <media:thumbnail url="https://agorars.com/wp-content/uploads/2022/05/diesel-caminhao-abastecimento-jpg-webp.webp" />
+    <enclosure url="https://agorars.com/wp-content/uploads/2022/05/diesel-caminhao-abastecimento-jpg-webp.webp" type="image/webp" />
+    <description><![CDATA[Lideranças da categoria decidiram não iniciar uma greve nacional devido à alta no preço do diesel, mas uma nova paralisação está sendo considerada.]]></description>
+    <content:encoded><![CDATA[
+<p>Lideranças dos caminhoneiros decidiram não iniciar uma greve nacional da categoria por causa da alta no preço do diesel. A definição ocorreu em assembleia realizada na noite desta quinta-feira.</p>
+<p>Entretanto, uma paralisação segue no radar. Os representantes marcaram nova reunião para 26 de março, quando devem decidir se haverá ou não greve em todo o país.</p>
+<p>O diesel acumulou alta superior a 20% nas últimas três semanas, conforme o relato das lideranças da categoria. O avanço do conflito no Oriente Médio e a disparada do petróleo pressionaram o combustível no período.</p>
+<p>Antes da nova assembleia, os caminhoneiros têm reunião marcada para 25 de março com Guilherme Boulos, ministro-chefe da Secretaria-Geral da Presidência da República, para discutir o tema.</p>
+]]></content:encoded>
+  </item>
 </channel></rss>
