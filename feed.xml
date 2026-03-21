@@ -9,6 +9,22 @@
   <atom:link href="https://evwbr.github.io/rs/feed.xml" rel="self" type="application/rss+xml"/>
   <link>https://evwbr.github.io/rs/</link>
   <description>Notícias do Rio Grande do Sul (últimas 24h) reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Sat, 21 Mar 2026 19:07:41 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 21 Mar 2026 21:07:45 GMT</lastBuildDate>
   <language>pt-BR</language>
+  <item>
+    <title><![CDATA[Porto Alegre em alerta para chuvas fortes, granizo e ventos intensos]]></title>
+    <link>https://agorars.com/agora-no-tempo/porto-alegre-entra-em-alerta-para-chuva-forte-granizo-e-ventania/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Sat, 21 Mar 2026 19:45:46 GMT</pubDate>
+    <category><![CDATA[Rio Grande do Sul]]></category>
+    <guid isPermaLink="false"><![CDATA[rsagorars:b82260f96c0883895bdf2e6be60a00d028519729]]></guid>
+    <media:thumbnail url="https://uploads.agorars.com/2025/03/0HQtkI5I-temporal-porto-alegre.webp" />
+    <enclosure url="https://uploads.agorars.com/2025/03/0HQtkI5I-temporal-porto-alegre.webp" type="image/webp" />
+    <description><![CDATA[A cidade de Porto Alegre está sob alerta para chuvas intensas, com possibilidade de granizo e ventos que podem ultrapassar 100 km/h.]]></description>
+    <content:encoded><![CDATA[
+<p>Porto Alegre está em alerta para chuvas intensas entre 16h e 23h deste sábado, com risco de granizo, descargas elétricas e rajadas de vento que podem ultrapassar 100 km/h.</p>
+<p>Segundo a Defesa Civil, a mudança no clima é provocada pela passagem de uma frente fria pela Capital. A previsão também aponta para uma queda significativa na temperatura, que deve cair de 33°C para cerca de 23°C.</p>
+<p>Os acumulados de chuva podem exceder 30 milímetros, com maior intensidade entre 16h e 20h.</p>
+]]></content:encoded>
+  </item>
 </channel></rss>
