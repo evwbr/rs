@@ -9,6 +9,24 @@
   <atom:link href="https://evwbr.github.io/rs/feed.xml" rel="self" type="application/rss+xml"/>
   <link>https://evwbr.github.io/rs/</link>
   <description>Notícias do Rio Grande do Sul (últimas 24h) reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Sat, 21 Mar 2026 17:07:51 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 21 Mar 2026 18:08:08 GMT</lastBuildDate>
   <language>pt-BR</language>
+  <item>
+    <title><![CDATA[Falta de diesel já atinge 142 prefeituras e afeta transporte coletivo no RS]]></title>
+    <link>https://agorars.com/rs/falta-de-diesel-ja-atinge-142-prefeituras-e-afeta-transporte-coletivo-no-rs/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Sat, 21 Mar 2026 17:53:11 GMT</pubDate>
+    <category><![CDATA[Rio Grande do Sul]]></category>
+    <guid isPermaLink="false"><![CDATA[rsagorars:897b4b67da27b2f05ac6da68946c0557c3aeae63]]></guid>
+    <media:thumbnail url="https://uploads.agorars.com/2026/03/41en0bh4-20220324_agb_diesel-2.webp" />
+    <enclosure url="https://uploads.agorars.com/2026/03/41en0bh4-20220324_agb_diesel-2.webp" type="image/webp" />
+    <description><![CDATA[A escassez de diesel impacta 142 prefeituras no Rio Grande do Sul, afetando serviços públicos e o transporte coletivo em diversas cidades.]]></description>
+    <content:encoded><![CDATA[
+<p>A falta de diesel já atinge 142 prefeituras do Rio Grande do Sul, conforme levantamento preliminar divulgado pela Famurs. O total equivale a 45% das 315 administrações municipais que responderam ao questionário da entidade.</p>
+<p>O cenário adverso começou a afetar serviços públicos e o transporte coletivo em cidades gaúchas. Prefeituras passaram a priorizar áreas como saúde e transporte de pacientes, enquanto obras e atividades que dependem de máquinas começaram a ser suspensas.</p>
+<p>A preocupação da entidade é que, se a restrição persistir, o problema avance sobre o transporte escolar e o deslocamento de pacientes para outros municípios.</p>
+<p>No transporte urbano, cidades já mudaram a operação para preservar estoques de combustível. Em Rio Grande, a empresa Transpessoal reduziu desde 10 de março horários de ônibus em períodos de menor movimento.</p>
+<p>Em São Leopoldo, o serviço chegou a ser interrompido no domingo e funcionou só em horários de pico no sábado, com normalização nesta semana.</p>
+]]></content:encoded>
+  </item>
 </channel></rss>
