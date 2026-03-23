@@ -9,22 +9,6 @@
   <atom:link href="https://evwbr.github.io/rs/feed.xml" rel="self" type="application/rss+xml"/>
   <link>https://evwbr.github.io/rs/</link>
   <description>Notícias do Rio Grande do Sul (últimas 24h) reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Mon, 23 Mar 2026 14:08:03 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 23 Mar 2026 15:07:57 GMT</lastBuildDate>
   <language>pt-BR</language>
-  <item>
-    <title><![CDATA[Inmet emite alerta vermelho de tempestade para todo o RS nesta segunda]]></title>
-    <link>https://agorars.com/agora-no-tempo/inmet-alerta-vermelho-tempestade-rs-vento-100kmh/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Mon, 23 Mar 2026 13:30:10 GMT</pubDate>
-    <category><![CDATA[Rio Grande do Sul]]></category>
-    <guid isPermaLink="false"><![CDATA[rsagorars:b96de9d4aa4a2b254481343c2d491451a04e5ea0]]></guid>
-    <media:thumbnail url="https://uploads.agorars.com/2026/01/G7SHp1zr-IMG_9434.webp" />
-    <enclosure url="https://uploads.agorars.com/2026/01/G7SHp1zr-IMG_9434.webp" type="image/webp" />
-    <description><![CDATA[Instituto Nacional de Meteorologia alerta para chuvas intensas e ventos fortes no estado.]]></description>
-    <content:encoded><![CDATA[
-<p>O Inmet (Instituto Nacional de Meteorologia) emitiu, na manhã desta segunda-feira, um alerta para tempestades em todo o Rio Grande do Sul. O aviso é válido até próximo do fim do dia.</p>
-<p>Segundo o Instituto, são esperadas chuvas superiores a 60 mm/h ou mais de 100 mm/dia. O alerta também menciona ventos que podem ultrapassar 100 km/h e a possibilidade de queda de granizo.</p>
-<p>Classificado como alerta vermelho, o mais grave na escala do Inmet, a situação é considerada de 'Grande Perigo'. O Instituto destaca que há um alto risco de danos em edificações, interrupções no fornecimento de energia elétrica, prejuízos em plantações, quedas de árvores, alagamentos e problemas no transporte rodoviário.</p>
-]]></content:encoded>
-  </item>
 </channel></rss>
