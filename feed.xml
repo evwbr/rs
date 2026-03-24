@@ -9,23 +9,6 @@
   <atom:link href="https://evwbr.github.io/rs/feed.xml" rel="self" type="application/rss+xml"/>
   <link>https://evwbr.github.io/rs/</link>
   <description>Notícias do Rio Grande do Sul (últimas 24h) reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Tue, 24 Mar 2026 00:08:02 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 24 Mar 2026 01:07:51 GMT</lastBuildDate>
   <language>pt-BR</language>
-  <item>
-    <title><![CDATA[Instabilidade persiste no RS nesta terça-feira, com melhora gradual]]></title>
-    <link>https://agorars.com/agora-no-tempo/previsao-do-tempo/instabilidade-segue-no-rs-nesta-terca-feira-com-melhora-gradual/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Mon, 23 Mar 2026 23:23:39 GMT</pubDate>
-    <category><![CDATA[Rio Grande do Sul]]></category>
-    <guid isPermaLink="false"><![CDATA[rsagorars:57d019780aa28b4a0e531f92a386a5158b21ccaf]]></guid>
-    <media:thumbnail url="https://uploads.agorars.com/2025/08/mROoy8wW-lavoura-chuva-sol-fernando-dias-seapi.webp" />
-    <enclosure url="https://uploads.agorars.com/2025/08/mROoy8wW-lavoura-chuva-sol-fernando-dias-seapi.webp" type="image/webp" />
-    <description><![CDATA[A previsão para a terça-feira indica chuva em várias regiões do Rio Grande do Sul, com tendência de estabilização ao longo do dia.]]></description>
-    <content:encoded><![CDATA[
-<p>A terça-feira ainda terá chuva em parte do Rio Grande do Sul, principalmente no Norte, Noroeste, Nordeste, Litoral Norte, Serra, Centro, Vales e região metropolitana de Porto Alegre.</p>
-<p>A previsão indica chuva fraca a moderada, com chance de trovoadas e acumulados entre 10 e 40 milímetros no dia.</p>
-<p>A tendência é de redução da instabilidade ao longo do dia, sobretudo na metade Sul, onde o tempo volta a ficar mais estável. Na metade Norte gaúcha, a chuva segue mais persistente.</p>
-<p>Em parte dessas áreas, a instabilidade pode ganhar força em alguns momentos. O mar fica agitado na costa gaúcha.</p>
-]]></content:encoded>
-  </item>
 </channel></rss>
