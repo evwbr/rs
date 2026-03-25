@@ -9,6 +9,22 @@
   <atom:link href="https://evwbr.github.io/rs/feed.xml" rel="self" type="application/rss+xml"/>
   <link>https://evwbr.github.io/rs/</link>
   <description>Notícias do Rio Grande do Sul (últimas 24h) reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Wed, 25 Mar 2026 18:07:42 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 25 Mar 2026 19:07:56 GMT</lastBuildDate>
   <language>pt-BR</language>
+  <item>
+    <title><![CDATA[Probabilidade de transição para El Niño é de 84,6% nos próximos meses, diz boletim]]></title>
+    <link>https://agorars.com/agora-no-tempo/transicao-la-nina-el-nino-rs-previsao-clima/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Wed, 25 Mar 2026 18:39:54 GMT</pubDate>
+    <category><![CDATA[Rio Grande do Sul]]></category>
+    <guid isPermaLink="false"><![CDATA[rsagorars:a279b996ca55766f59e99f41056a36c42abdb87a]]></guid>
+    <media:thumbnail url="https://uploads.agorars.com/2026/03/5i2IFF8O-el-nino.webp" />
+    <enclosure url="https://uploads.agorars.com/2026/03/5i2IFF8O-el-nino.webp" type="image/webp" />
+    <description><![CDATA[Boletim trimestral aponta para enfraquecimento do La Niña e previsão de chuvas irregulares no estado.]]></description>
+    <content:encoded><![CDATA[
+<p>A previsão do APCC (APEC Climate Center), centro de pesquisa sediado na Coreia do Sul, aponta para um enfraquecimento gradual do La Niña nos próximos meses. Além disso, há 84,6% de probabilidade de transição de condições de neutralidade para condições de El Niño durante o trimestre abril-maio-junho.</p>
+<p>É o que aponta o Boletim Trimestral do Copaaergs (Conselho Permanente de Agrometeorologia Aplicada do Estado do Rio Grande do Sul), coordenado pela Seapi (Secretaria da Agricultura, Pecuária, Produção Sustentável e Irrigação). As previsões apresentadas pelo boletim são baseadas no modelo estatístico do Inmet (Instituto Nacional de Meteorologia).</p>
+<p>O prognóstico indica chuvas irregulares para o mês de abril, ficando próximas a ligeiramente abaixo da média na maior parte do estado, pontualmente com chuvas acima da média em áreas restritas. Nos meses de maio e junho, há uma maior tendência de que as chuvas fiquem próximas a ligeiramente acima da média na maior parte do estado.</p>
+]]></content:encoded>
+  </item>
 </channel></rss>
