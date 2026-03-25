@@ -9,6 +9,41 @@
   <atom:link href="https://evwbr.github.io/rs/feed.xml" rel="self" type="application/rss+xml"/>
   <link>https://evwbr.github.io/rs/</link>
   <description>Notícias do Rio Grande do Sul (últimas 24h) reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Wed, 25 Mar 2026 10:07:52 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 25 Mar 2026 14:08:19 GMT</lastBuildDate>
   <language>pt-BR</language>
+  <item>
+    <title><![CDATA[INMET emite alerta amarelo para tempestade no Rio Grande do Sul]]></title>
+    <link>https://agorars.com/agora-no-tempo/inmet-coloca-parte-do-rs-em-alerta-amarelo-para-tempestade-nesta-quarta-feira/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Wed, 25 Mar 2026 13:56:47 GMT</pubDate>
+    <category><![CDATA[Rio Grande do Sul]]></category>
+    <guid isPermaLink="false"><![CDATA[rsagorars:b31f104d0a78cd4a55ede0a3453279f5f8be4641]]></guid>
+    <media:thumbnail url="https://uploads.agorars.com/2025/04/W0Ia73GS-vendaval-poa-2.webp" />
+    <enclosure url="https://uploads.agorars.com/2025/04/W0Ia73GS-vendaval-poa-2.webp" type="image/webp" />
+    <description><![CDATA[Parte do Rio Grande do Sul está sob alerta amarelo para tempestade, com previsão de chuvas e ventos fortes.]]></description>
+    <content:encoded><![CDATA[
+<p>Parte do Rio Grande do Sul entrou em alerta amarelo para tempestade nesta quarta-feira, conforme aviso do INMET (Instituto Nacional de Meteorologia) válido até às 23h59.</p>
+<p>O alerta amarelo é o nível de perigo potencial na escala do instituto. Esse patamar indica situação meteorológica potencialmente perigosa, com orientação para evitar exposição desnecessária a risco.</p>
+<p>A previsão aponta chuva entre 20 e 30 milímetros por hora, com acumulado de até 50 milímetros por dia, além de vento entre 40 e 60 km/h e possibilidade de queda de granizo.</p>
+]]></content:encoded>
+  </item>
+  <item>
+    <title><![CDATA[Briga na Cidade Baixa resulta em tiros, ferido e arma apreendida em Porto Alegre]]></title>
+    <link>https://agorars.com/plantao-rs/briga-na-cidade-baixa-tem-tiros-facada-e-arma-apreendida-em-porto-alegre/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Wed, 25 Mar 2026 12:45:53 GMT</pubDate>
+    <category><![CDATA[Rio Grande do Sul]]></category>
+    <guid isPermaLink="false"><![CDATA[rsagorars:7edb8778053bbd27f7d6bd2d495fb123f6bc3166]]></guid>
+    <media:thumbnail url="https://uploads.agorars.com/2026/03/dW17Kpe2-arma-apreendida-oa.webp" />
+    <enclosure url="https://uploads.agorars.com/2026/03/dW17Kpe2-arma-apreendida-oa.webp" type="image/webp" />
+    <description><![CDATA[Uma confusão na Cidade Baixa envolveu disparos, um homem ferido a faca e a apreensão de uma arma na madrugada desta quarta-feira em Porto Alegre.]]></description>
+    <content:encoded><![CDATA[
+<p>Uma briga na Cidade Baixa terminou com tiros, um homem ferido a faca e uma arma apreendida na madrugada desta quarta-feira em Porto Alegre.</p>
+<p>A confusão ocorreu pouco depois da meia-noite na rua José do Patrocínio, nas proximidades do largo Zumbi dos Palmares.</p>
+<p>Conforme a Brigada Militar, a ocorrência teve início após um desentendimento entre ocupantes de um carro e dois homens que estavam em uma motocicleta. Durante a briga, foram disparados tiros.</p>
+<p>Um dos envolvidos também teria sido ferido a faca. Até a manhã desta quarta-feira, a polícia ainda não havia confirmado se ele estava no carro ou na motocicleta.</p>
+<p>Após a confusão, os ocupantes do carro deixaram o local. O homem ferido foi visto por moradores e frequentadores de bares caminhando em direção à rua da República.</p>
+<p>No entanto, a polícia não tinha confirmação da entrada do homem ferido em hospitais de Porto Alegre até as 9h da manhã.</p>
+]]></content:encoded>
+  </item>
 </channel></rss>
