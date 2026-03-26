@@ -9,22 +9,37 @@
   <atom:link href="https://evwbr.github.io/rs/feed.xml" rel="self" type="application/rss+xml"/>
   <link>https://evwbr.github.io/rs/</link>
   <description>Notícias do Rio Grande do Sul (últimas 24h) reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Thu, 26 Mar 2026 21:08:06 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 26 Mar 2026 22:10:29 GMT</lastBuildDate>
   <language>pt-BR</language>
   <item>
-    <title><![CDATA[DNIT libera tráfego em ponte da BR-293 em Piratini]]></title>
-    <link>https://agorars.com/agora-no-transito/dnit-libera-trafego-sem-restricoes-em-ponte-da-br-293-em-piratini/</link>
+    <title><![CDATA[RS deve ter tempo firme até o início de abril, com pouca chuva na maior parte do Estado]]></title>
+    <link>https://agorars.com/agora-no-tempo/rs-deve-ter-tempo-firme-ate-o-inicio-de-abril-com-pouca-chuva-na-maior-parte-do-estado/</link>
     <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Thu, 26 Mar 2026 20:34:52 GMT</pubDate>
+    <pubDate>Thu, 26 Mar 2026 21:53:36 GMT</pubDate>
     <category><![CDATA[Rio Grande do Sul]]></category>
-    <guid isPermaLink="false"><![CDATA[rsagorars:e1d83a9ba39e85107adfd9f38452ef2bde01de4f]]></guid>
-    <media:thumbnail url="https://uploads.agorars.com/2026/03/TGZNgACO-BR293RSPontePiratinizinho1.webp" />
-    <enclosure url="https://uploads.agorars.com/2026/03/TGZNgACO-BR293RSPontePiratinizinho1.webp" type="image/webp" />
-    <description><![CDATA[O DNIT concluiu a recuperação emergencial da ponte sobre o rio Piratinizinho, permitindo a normalização do tráfego na BR-293.]]></description>
+    <guid isPermaLink="false"><![CDATA[rsagorars:994fee57303bdb37aa4465d7f8bb782a8feddc74]]></guid>
+    <media:thumbnail url="https://uploads.agorars.com/2026/02/oxtMNfhO-milho-ceuazul.webp" />
+    <enclosure url="https://uploads.agorars.com/2026/02/oxtMNfhO-milho-ceuazul.webp" type="image/webp" />
+    <description><![CDATA[O Rio Grande do Sul deve ter tempo firme na maior parte do território até a próxima quarta-feira, com pouca previsão de chuva.]]></description>
     <content:encoded><![CDATA[
-<p>O DNIT (Departamento Nacional de Infraestrutura de Transportes) concluiu a recuperação emergencial da ponte sobre o rio Piratinizinho, na BR-293, em Piratini, no Sul do Rio Grande do Sul.</p>
-<p>O trecho estava com problemas de tráfego desde fevereiro de 2025. Com o fim da obra, foram suspensas as restrições de tráfego que estavam em vigor, e a circulação de veículos voltou ao normal.</p>
-<p>A intervenção teve investimento aproximado de R$ 3 milhões. Os trabalhos incluíram escoramentos, construção de novos apoios com estaqueamento, blocos e pilares, além da recuperação e do reforço das vigas da ponte.</p>
+<p>O Rio Grande do Sul deve ter tempo firme na maior parte do território entre até a próxima quarta-feira. As informações constam no Boletim Integrado Agrometeorológico, elaborado pela Seapi em parceria com a Emater/RS-Ascar e o Irga.</p>
+<p>A tendência é que, entre sexta-feira e domingo, o tempo siga estável em grande parte do Estado, sem previsão de chuva significativa.</p>
+<p>Na segunda-feira, a estabilidade ainda predomina, embora possam ocorrer pancadas isoladas de fraca a moderada intensidade em algumas regiões por efeito de circulação. Na terça-feira e na quarta-feira, o cenário volta a ser de tempo estável, sem chuva significativa no território gaúcho.</p>
+]]></content:encoded>
+  </item>
+  <item>
+    <title><![CDATA[PF e Receita Federal investigam entrada irregular de celulares estrangeiros no RS]]></title>
+    <link>https://agorars.com/plantao-rs/pf-e-receita-federal-investigam-entrada-irregular-de-celulares-estrangeiros-no-rs/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Thu, 26 Mar 2026 21:28:48 GMT</pubDate>
+    <category><![CDATA[Rio Grande do Sul]]></category>
+    <guid isPermaLink="false"><![CDATA[rsagorars:139658c6eda96714532f4c84102a64bcda8de590]]></guid>
+    <media:thumbnail url="https://uploads.agorars.com/2026/03/MEj5zvdn-aparelhos-iphone.webp" />
+    <enclosure url="https://uploads.agorars.com/2026/03/MEj5zvdn-aparelhos-iphone.webp" type="image/webp" />
+    <description><![CDATA[A Polícia Federal realizou uma operação contra o descaminho de telefones celulares em Serafina Corrêa, na Serra gaúcha, apurando a entrada ou comercialização de mercadorias estrangeiras sem o pagamento dos tributos devidos.]]></description>
+    <content:encoded><![CDATA[
+<p>A Polícia Federal realizou nesta quinta-feira uma operação contra o descaminho de telefones celulares em Serafina Corrêa, na Serra gaúcha. O caso apura a entrada ou comercialização de mercadorias estrangeiras sem o pagamento dos tributos devidos.</p>
+<p>A ação contou com apoio da Receita Federal e teve o cumprimento de três mandados de busca e apreensão em endereço ligado à investigação.</p>
 ]]></content:encoded>
   </item>
 </channel></rss>
