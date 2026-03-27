@@ -9,23 +9,6 @@
   <atom:link href="https://evwbr.github.io/rs/feed.xml" rel="self" type="application/rss+xml"/>
   <link>https://evwbr.github.io/rs/</link>
   <description>Notícias do Rio Grande do Sul (últimas 24h) reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Fri, 27 Mar 2026 22:07:47 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 27 Mar 2026 23:07:44 GMT</lastBuildDate>
   <language>pt-BR</language>
-  <item>
-    <title><![CDATA[Rio Grande do Sul terá sábado de calor intenso e chuvas isoladas]]></title>
-    <link>https://agorars.com/agora-no-tempo/previsao-do-tempo/rio-grande-do-sul-tera-sabado-de-calor-intenso-e-chuvas-isoladas/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Fri, 27 Mar 2026 21:20:22 GMT</pubDate>
-    <category><![CDATA[Rio Grande do Sul]]></category>
-    <guid isPermaLink="false"><![CDATA[rsagorars:c87e70fe42dbff131cdaec1d11ee77b892a7ae62]]></guid>
-    <media:thumbnail url="https://uploads.agorars.com/2025/08/mROoy8wW-lavoura-chuva-sol-fernando-dias-seapi.webp" />
-    <enclosure url="https://uploads.agorars.com/2025/08/mROoy8wW-lavoura-chuva-sol-fernando-dias-seapi.webp" type="image/webp" />
-    <description><![CDATA[A previsão do tempo para sábado no Rio Grande do Sul indica calor forte e chuva isolada em parte do Estado.]]></description>
-    <content:encoded><![CDATA[
-<p>A previsão do tempo para sábado no Rio Grande do Sul indica calor forte e chuva isolada em parte do Estado.</p>
-<p>O cenário díspare marca o início da onda de calor prevista até 1º de abril.</p>
-<p>Há chance de chuva fraca desde o começo do dia no extremo sul gaúcho. Nas demais regiões, a manhã deve ter tempo firme, com sol entre nuvens e elevação gradual da temperatura.</p>
-<p>Entre a tarde e a noite, o calor e a umidade favorecem pancadas isoladas de intensidade moderada a forte no sul, no interior e no nordeste do Estado. Na Costa Doce e no sudeste gaúcho, a chuva tende a ser mais fraca.</p>
-]]></content:encoded>
-  </item>
 </channel></rss>
