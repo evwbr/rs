@@ -9,22 +9,6 @@
   <atom:link href="https://evwbr.github.io/rs/feed.xml" rel="self" type="application/rss+xml"/>
   <link>https://evwbr.github.io/rs/</link>
   <description>Notícias do Rio Grande do Sul (últimas 24h) reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Sat, 28 Mar 2026 23:07:48 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 29 Mar 2026 00:07:43 GMT</lastBuildDate>
   <language>pt-BR</language>
-  <item>
-    <title><![CDATA[Domingo será de calor com chuva isolada no RS]]></title>
-    <link>https://agorars.com/agora-no-tempo/previsao-tempo-rs-domingo-calor-temporais/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Sat, 28 Mar 2026 22:12:56 GMT</pubDate>
-    <category><![CDATA[Rio Grande do Sul]]></category>
-    <guid isPermaLink="false"><![CDATA[rsagorars:cc3f385b042b093a9fe5b0030fe25abb65425925]]></guid>
-    <media:thumbnail url="https://agorars.com/wp-content/uploads/2024/01/tempo-poa-1-jpg.webp" />
-    <enclosure url="https://agorars.com/wp-content/uploads/2024/01/tempo-poa-1-jpg.webp" type="image/webp" />
-    <description><![CDATA[A previsão do tempo indica um dia quente no Rio Grande do Sul, com possibilidade de chuvas isoladas em algumas regiões.]]></description>
-    <content:encoded><![CDATA[
-<p>A previsão do tempo aponta mais um dia quente no Rio Grande do Sul no domingo. As informações são do Centro de Monitoramento da Defesa Civil.</p>
-<p>Conforme o CMDEC, no domingo, pode haver pancadas isoladas de chuva moderada a forte, com eventuais raios atuando em áreas do Centro, Vales, Serra e Nordeste. No Sul, parte da Campanha e Costa Doce, há condição para temporais isolados, com chuva forte, eventual queda de granizo e rajadas de vento de até 80 km/h.</p>
-<p>Os acumulados variam entre 5 e 30 mm/dia, com pontuais de até 70 mm/dia no Sul e Costa Doce. Mas o destaque será novamente o calor. As temperaturas mínimas variam entre 16°C e 24°C, e as máximas oscilam entre 24°C e 38°C.</p>
-]]></content:encoded>
-  </item>
 </channel></rss>
