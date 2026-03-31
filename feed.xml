@@ -9,6 +9,22 @@
   <atom:link href="https://evwbr.github.io/rs/feed.xml" rel="self" type="application/rss+xml"/>
   <link>https://evwbr.github.io/rs/</link>
   <description>Notícias do Rio Grande do Sul (últimas 24h) reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Tue, 31 Mar 2026 19:08:13 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 31 Mar 2026 20:07:49 GMT</lastBuildDate>
   <language>pt-BR</language>
+  <item>
+    <title><![CDATA[PF realiza operação em Porto Alegre por suspeita de fraude em ação sobre canabidiol]]></title>
+    <link>https://agorars.com/plantao-rs/pf-operacao-espectro-fraude-canabidiol-porto-alegre/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Tue, 31 Mar 2026 20:06:00 GMT</pubDate>
+    <category><![CDATA[Rio Grande do Sul]]></category>
+    <guid isPermaLink="false"><![CDATA[rsagorars:66abe6b9e2a1b558e3508d17c1914d70006000d6]]></guid>
+    <media:thumbnail url="https://uploads.agorars.com/2026/03/NYmjFanE-viatura-pf.webp" />
+    <enclosure url="https://uploads.agorars.com/2026/03/NYmjFanE-viatura-pf.webp" type="image/webp" />
+    <description><![CDATA[A Polícia Federal deflagrou a Operação Espectro para investigar fraudes processuais relacionadas à compra de medicamento à base de canabidiol.]]></description>
+    <content:encoded><![CDATA[
+<p>A Polícia Federal deflagrou nesta terça-feira a Operação Espectro para apurar suspeitas de fraude processual e falsificação de documentos ligados à compra de medicamento à base de canabidiol em Porto Alegre.</p>
+<p>A operação cumpriu dois mandados de busca e apreensão e aplicou medidas cautelares em endereços residenciais na Capital ligados a um grupo suspeito de fraudar orçamentos apresentados em ações judiciais contra a Fazenda Pública.</p>
+<p>De acordo com a investigação, propostas comerciais com inconsistências foram anexadas a processos judiciais e usadas para justificar o bloqueio de mais de R$ 70 mil dos cofres públicos estaduais.</p>
+]]></content:encoded>
+  </item>
 </channel></rss>
