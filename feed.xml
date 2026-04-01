@@ -9,6 +9,22 @@
   <atom:link href="https://evwbr.github.io/rs/feed.xml" rel="self" type="application/rss+xml"/>
   <link>https://evwbr.github.io/rs/</link>
   <description>Notícias do Rio Grande do Sul (últimas 24h) reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Wed, 01 Apr 2026 15:08:04 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 01 Apr 2026 16:07:58 GMT</lastBuildDate>
   <language>pt-BR</language>
+  <item>
+    <title><![CDATA[Temperaturas amenas na Serra Gaúcha durante o feriado de Páscoa]]></title>
+    <link>https://agorars.com/agora-no-tempo/frente-fria-fraca-sul-pascoa-temperatura/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Wed, 01 Apr 2026 15:10:57 GMT</pubDate>
+    <category><![CDATA[Rio Grande do Sul]]></category>
+    <guid isPermaLink="false"><![CDATA[rsagorars:20c3e6b52fe664be8c20cd9fb02635722e80a6e5]]></guid>
+    <media:thumbnail url="https://uploads.agorars.com/2024/08/O6p543UJ-Capas-e-fotos-Agora-RS-2024-08-15T220707.478-jpg.webp" />
+    <enclosure url="https://uploads.agorars.com/2024/08/O6p543UJ-Capas-e-fotos-Agora-RS-2024-08-15T220707.478-jpg.webp" type="image/webp" />
+    <description><![CDATA[Uma frente fria se deslocará pelo litoral do Sul e do Sudeste do Brasil, mas não deverá causar quedas significativas nas temperaturas.]]></description>
+    <content:encoded><![CDATA[
+<p>Uma frente fria vai avançar pelo litoral do Sul e do Sudeste do Brasil durante o final de semana prolongado. Contudo, não terá força para fechar o tempo completamente e nem para causar queda de temperatura relevante nestas regiões.</p>
+<p>Conforme a Climatempo, não há expectativa de queda de temperatura acentuada em nenhuma região do país. A frente fria que avança pela costa do Sul e do Sudeste é fraca. Sua massa de ar polar não vai entrar no interior do Brasil e não terá força para causar queda da temperatura relevante.</p>
+<p>As regiões serranas no Sul e no Sudeste terão madrugadas amenas, pois naturalmente têm temperaturas menores por causa da altitude. Mesmo assim, as menores temperaturas durante o feriado prolongado da Páscoa não devem baixar de 12°C.</p>
+]]></content:encoded>
+  </item>
 </channel></rss>
