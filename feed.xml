@@ -9,6 +9,21 @@
   <atom:link href="https://evwbr.github.io/rs/feed.xml" rel="self" type="application/rss+xml"/>
   <link>https://evwbr.github.io/rs/</link>
   <description>Notícias do Rio Grande do Sul (últimas 24h) reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Sat, 04 Apr 2026 15:07:44 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 04 Apr 2026 16:07:50 GMT</lastBuildDate>
   <language>pt-BR</language>
+  <item>
+    <title><![CDATA[INMET emite alerta amarelo de chuvas intensas para parte do RS]]></title>
+    <link>https://agorars.com/agora-no-tempo/inmet-publica-alerta-amarelo-de-chuvas-intensas-para-parte-do-rs-neste-sabado/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Sat, 04 Apr 2026 15:58:58 GMT</pubDate>
+    <category><![CDATA[Rio Grande do Sul]]></category>
+    <guid isPermaLink="false"><![CDATA[rsagorars:366ada94e507d97931d9a1e1c5232ed8f6dd51e6]]></guid>
+    <media:thumbnail url="https://uploads.agorars.com/2025/12/xQXnWzC2-Tempo_quente_pancadas_chuva.webp" />
+    <enclosure url="https://uploads.agorars.com/2025/12/xQXnWzC2-Tempo_quente_pancadas_chuva.webp" type="image/webp" />
+    <description><![CDATA[Instituto Nacional de Meteorologia alerta para risco de chuvas intensas em nove regiões do Rio Grande do Sul neste sábado.]]></description>
+    <content:encoded><![CDATA[
+<p>O INMET (Instituto Nacional de Meteorologia) emitiu alerta de chuva intensa para nove regiões do Rio Grande do Sul neste sábado.</p>
+<p>O aviso começou às 11h35 e é válido até 23h59. As áreas sob risco incluem Fronteira Oeste, Campanha, região Sul, Costa Doce, região Central, Vale do Rio Pardo, Vale do Taquari, parte da região metropolitana de Porto Alegre e parte do Litoral Norte.</p>
+]]></content:encoded>
+  </item>
 </channel></rss>
