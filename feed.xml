@@ -9,6 +9,21 @@
   <atom:link href="https://evwbr.github.io/rs/feed.xml" rel="self" type="application/rss+xml"/>
   <link>https://evwbr.github.io/rs/</link>
   <description>Notícias do Rio Grande do Sul (últimas 24h) reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Mon, 06 Apr 2026 01:07:47 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 06 Apr 2026 02:07:49 GMT</lastBuildDate>
   <language>pt-BR</language>
+  <item>
+    <title><![CDATA[Calor, chuva e risco de temporais isolados no RS]]></title>
+    <link>https://agorars.com/agora-no-tempo/previsao-do-tempo/rs-tera-segunda-feira-de-calor-chuva-e-risco-de-temporais-isolados/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Mon, 06 Apr 2026 01:10:35 GMT</pubDate>
+    <category><![CDATA[Rio Grande do Sul]]></category>
+    <guid isPermaLink="false"><![CDATA[rsagorars:720fda74cf0e6c3d08ce7a255233bbe570a8b120]]></guid>
+    <media:thumbnail url="https://uploads.agorars.com/2025/05/dAmYm4rY-chuva-rs-seapi.webp" />
+    <enclosure url="https://uploads.agorars.com/2025/05/dAmYm4rY-chuva-rs-seapi.webp" type="image/webp" />
+    <description><![CDATA[A segunda-feira terá retorno do calor no Rio Grande do Sul, com possibilidade de chuvas em várias regiões do Estado e risco de temporais isolados, especialmente entre a tarde e a noite.]]></description>
+    <content:encoded><![CDATA[
+<p>A segunda-feira terá retorno do calor no Rio Grande do Sul, com chuva em vários pontos do Estado. Há risco de temporais isolados, sobretudo entre a tarde e a noite.</p>
+<p>A elevação da temperatura será favorecida pelo avanço de uma massa de ar quente sobre o Sul do Brasil. No Estado, a combinação desse ar mais quente com uma área de baixa pressão na Argentina deve estimular a formação de instabilidades ao longo do dia.</p>
+]]></content:encoded>
+  </item>
 </channel></rss>
