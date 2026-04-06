@@ -9,23 +9,22 @@
   <atom:link href="https://evwbr.github.io/rs/feed.xml" rel="self" type="application/rss+xml"/>
   <link>https://evwbr.github.io/rs/</link>
   <description>Notícias do Rio Grande do Sul (últimas 24h) reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Mon, 06 Apr 2026 22:08:15 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 06 Apr 2026 23:08:04 GMT</lastBuildDate>
   <language>pt-BR</language>
   <item>
-    <title><![CDATA[Porto Alegre amplia oferta de ônibus com 362 viagens a mais por dia útil]]></title>
-    <link>https://agorars.com/rs/porto-alegre/porto-alegre-amplia-oferta-de-onibus-com-362-viagens-a-mais-por-dia-util/</link>
+    <title><![CDATA[Previsão indica risco de temporais, vento forte e granizo no RS nesta terça-feira]]></title>
+    <link>https://agorars.com/agora-no-tempo/previsao-do-tempo/previsao-indica-risco-de-temporais-vento-forte-e-granizo-no-rs-nesta-terca-feira/</link>
     <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Mon, 06 Apr 2026 21:58:07 GMT</pubDate>
+    <pubDate>Mon, 06 Apr 2026 23:05:46 GMT</pubDate>
     <category><![CDATA[Rio Grande do Sul]]></category>
-    <guid isPermaLink="false"><![CDATA[rsagorars:5932645ebd75afcf0bfeb186da8cbc0aa3fdafd9]]></guid>
-    <media:thumbnail url="https://uploads.agorars.com/2026/04/fAYahUw1-19-FEV-2026_Alex-Rocha_Novas-Tarifas_Transporte-Publico_Poa_-11.webp" />
-    <enclosure url="https://uploads.agorars.com/2026/04/fAYahUw1-19-FEV-2026_Alex-Rocha_Novas-Tarifas_Transporte-Publico_Poa_-11.webp" type="image/webp" />
-    <description><![CDATA[A cidade de Porto Alegre aumentou a quantidade de viagens diárias no transporte coletivo por ônibus, com a adição de 362 novas viagens em dias úteis, visando melhorar a eficiência do sistema.]]></description>
+    <guid isPermaLink="false"><![CDATA[rsagorars:fbbfd743810ef37373454e838cae4cb9a9d5d24a]]></guid>
+    <media:thumbnail url="https://uploads.agorars.com/2023/12/nuvens-temporal-alegrete-jpg.webp" />
+    <enclosure url="https://uploads.agorars.com/2023/12/nuvens-temporal-alegrete-jpg.webp" type="image/webp" />
+    <description><![CDATA[A terça-feira será marcada por risco de temporais, vento forte e granizo em partes do Rio Grande do Sul devido à aproximação de uma frente fria e à formação de um ciclone extratropical.]]></description>
     <content:encoded><![CDATA[
-<p>Porto Alegre passou a contar com 362 viagens diárias a mais no transporte coletivo por ônibus em dias úteis. A ampliação entrou em vigor em 30 de março e atinge linhas das bacias operacionais Transversal, Sul, Leste/Sudeste e Norte/Nordeste.</p>
-<p>Conforme a SMMU (Secretaria Municipal de Mobilidade Urbana) e a EPTC (Empresa Pública de Transporte e Circulação), a mudança busca reduzir o tempo de espera, aumentar a capacidade de transporte e ajustar a operação aos horários de maior demanda. As alterações valem para linhas operadas pela Carris e pelos consórcios Viva Sul, Via Leste/Mais e Mob (Mobilidade em Transportes).</p>
-<p>O reforço alcança linhas radiais, transversais e alimentadoras. Entre os principais acréscimos estão 46 viagens na linha 520.3 – Triângulo / 24 de Outubro / Auxiliadora, 23 na 110 – Restinga Nova via Tristeza, 16 na 184 – Juca Batista, 16 na 631 – Parque dos Maias e 13 nas linhas T4 – BarraShopping / Triângulo e T7 – Nilo Peçanha / Praia de Belas.</p>
-<p>Na região Sul e no Extremo-Sul, houve reforço em linhas que atendem bairros como Restinga, Hípica, Belém Novo, Lami, Cruzeiro e Vila Nova. Também receberam incremento as linhas transversais T1 – Triângulo/PUC/Perimetral, T2 – Praia de Belas / Farrapos, T4 – BarraShopping / Triângulo, T5 – Aeroporto / Praia de Belas, T6 – Leopoldina / Azenha, T7 – Triângulo / Nilo Peçanha / Praia de Belas, T9 – Independência / PUC, T11 – 3ª Perimetral / Aeroporto e T12 – Restinga / Cairú, que ligam diferentes áreas da cidade sem passar pelo Centro.</p>
+<p>A terça-feira será marcada por risco de temporais, vento forte e granizo em partes do Rio Grande do Sul devido à aproximação de uma frente fria e à formação de um ciclone extratropical.</p>
+<p>As áreas com maior risco de tempestades são Noroeste, Norte, Nordeste, Serra, Vales, região metropolitana de Porto Alegre e Litoral Norte. Nas Missões e no Centro, a chuva atua ainda na madrugada e depois avança para a metade Norte e Leste do Estado ao longo do dia.</p>
+<p>Conforme a previsão, as rajadas de vento podem superar os 90 km/h, com chuva pontualmente intensa e queda de granizo. Os acumulados variam entre 10 e 60 milímetros por dia, com pontos de até 120 milímetros nas Missões, no Noroeste e no Centro.</p>
 ]]></content:encoded>
   </item>
 </channel></rss>
