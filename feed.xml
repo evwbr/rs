@@ -9,6 +9,24 @@
   <atom:link href="https://evwbr.github.io/rs/feed.xml" rel="self" type="application/rss+xml"/>
   <link>https://evwbr.github.io/rs/</link>
   <description>Notícias do Rio Grande do Sul (últimas 24h) reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Tue, 07 Apr 2026 10:07:47 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 07 Apr 2026 14:08:17 GMT</lastBuildDate>
   <language>pt-BR</language>
+  <item>
+    <title><![CDATA[Três municípios do RS têm destelhamentos após temporais]]></title>
+    <link>https://agorars.com/agora-no-tempo/tres-municipios-do-rs-tem-destelhamentos-apos-temporais/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Tue, 07 Apr 2026 12:14:22 GMT</pubDate>
+    <category><![CDATA[Rio Grande do Sul]]></category>
+    <guid isPermaLink="false"><![CDATA[rsagorars:8888067390ff142748c9992932974f3884ce9af1]]></guid>
+    <media:thumbnail url="https://uploads.agorars.com/2025/10/gp4ubkXs-defesa-civil-chuva-rs.webp" />
+    <enclosure url="https://uploads.agorars.com/2025/10/gp4ubkXs-defesa-civil-chuva-rs.webp" type="image/webp" />
+    <description><![CDATA[Três municípios do Rio Grande do Sul registraram destelhamentos em razão dos temporais, conforme boletim da Defesa Civil estadual.]]></description>
+    <content:encoded><![CDATA[
+<p>Três municípios do Rio Grande do Sul registraram destelhamentos em razão dos temporais, conforme boletim da Defesa Civil estadual.</p>
+<p>As instabilidades estão associadas a um ciclone extratropical que está perto da costa do Uruguai.</p>
+<p>Em Santa Maria, na região Central, houve dano no telhado do pavilhão da área administrativa da Penitenciária Estadual.</p>
+<p>Em Soledade, na região Norte, cinco residências tiveram estragos em telhados.</p>
+<p>Em Vista Gaúcha, no Noroeste, foram atingidos os telhados de quatro casas e de um salão comunitário.</p>
+]]></content:encoded>
+  </item>
 </channel></rss>
