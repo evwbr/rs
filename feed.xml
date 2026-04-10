@@ -9,41 +9,6 @@
   <atom:link href="https://evwbr.github.io/rs/feed.xml" rel="self" type="application/rss+xml"/>
   <link>https://evwbr.github.io/rs/</link>
   <description>Notícias do Rio Grande do Sul (últimas 24h) reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Fri, 10 Apr 2026 02:08:02 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 10 Apr 2026 03:07:37 GMT</lastBuildDate>
   <language>pt-BR</language>
-  <item>
-    <title><![CDATA[Sancionado reajuste retroativo de 5,4% do magistério no RS]]></title>
-    <link>https://agorars.com/rs/rs-sanciona-reajuste-54-magisterio-retroativo/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Fri, 10 Apr 2026 01:10:09 GMT</pubDate>
-    <category><![CDATA[Rio Grande do Sul]]></category>
-    <guid isPermaLink="false"><![CDATA[rsagorars:b59aaa24dee8519db61f199d746bae20854bf7cd]]></guid>
-    <media:thumbnail url="https://uploads.agorars.com/2026/04/8EvbufjS-pexels-pixabay-159844.webp" />
-    <enclosure url="https://uploads.agorars.com/2026/04/8EvbufjS-pexels-pixabay-159844.webp" type="image/webp" />
-    <description><![CDATA[O governador Eduardo Leite sancionou o reajuste de 5,4% do piso do magistério público estadual no Rio Grande do Sul, com pagamento retroativo a 1º de janeiro.]]></description>
-    <content:encoded><![CDATA[
-<p>O governador Eduardo Leite sancionou nesta quinta-feira (9) o reajuste de 5,4% do piso do magistério público estadual no Rio Grande do Sul.</p>
-<p>Os novos valores serão pagos de forma retroativa a 1º de janeiro em folha complementar marcada para 15 de abril.</p>
-<p>O aumento vale para a carreira do magistério estadual, para integrantes do Quadro Único do Magistério e para profissionais contratados em caráter temporário.</p>
-<p>Conforme o governo do Estado, a atualização segue o percentual definido pelo governo federal em janeiro para o piso nacional do magistério.</p>
-<p>A folha complementar foi organizada após a aprovação do projeto na Assembleia Legislativa e a sanção do texto pelo Palácio Piratini.</p>
-<p>De acordo com a Secretaria da Fazenda, o trabalho envolveu a consolidação de dados de cerca de 150 mil vínculos de servidores ativos e inativos do magistério.</p>
-]]></content:encoded>
-  </item>
-  <item>
-    <title><![CDATA[Boletim meteorológico indica volta da chuva ao RS entre domingo e quarta-feira]]></title>
-    <link>https://agorars.com/agora-no-tempo/boletim-meteorologico-indica-volta-da-chuva-ao-rs-entre-domingo-e-quarta-feira/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Fri, 10 Apr 2026 00:11:08 GMT</pubDate>
-    <category><![CDATA[Rio Grande do Sul]]></category>
-    <guid isPermaLink="false"><![CDATA[rsagorars:20b9174ded9f15491376afd260148435e516c3ac]]></guid>
-    <media:thumbnail url="https://uploads.agorars.com/2025/08/mROoy8wW-lavoura-chuva-sol-fernando-dias-seapi.webp" />
-    <enclosure url="https://uploads.agorars.com/2025/08/mROoy8wW-lavoura-chuva-sol-fernando-dias-seapi.webp" type="image/webp" />
-    <description><![CDATA[O Rio Grande do Sul deve ter dois dias de tempo firme antes da volta da chuva em parte do Estado. A mudança começa no domingo, com previsão de chuva fraca a moderada.]]></description>
-    <content:encoded><![CDATA[
-<p>O Rio Grande do Sul deve ter dois dias de tempo firme antes da volta da chuva em parte do Estado. Conforme o boletim meteorológico para os próximos dias, a sexta-feira e o sábado terão predomínio de estabilidade, sem previsão de chuva significativa.</p>
-<p>A mudança começa no domingo, quando o transporte de umidade deve favorecer chuva fraca a moderada, principalmente nas metades Oeste e Sul.</p>
-<p>Na segunda-feira, a tendência é de redução dessa umidade e retorno da estabilidade na maior parte das regiões. Ainda assim, pode chover fraco em pontos bem isolados.</p>
-]]></content:encoded>
-  </item>
 </channel></rss>
