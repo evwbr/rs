@@ -9,23 +9,23 @@
   <atom:link href="https://evwbr.github.io/rs/feed.xml" rel="self" type="application/rss+xml"/>
   <link>https://evwbr.github.io/rs/</link>
   <description>Notícias do Rio Grande do Sul (últimas 24h) reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Sat, 11 Apr 2026 18:07:38 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 11 Apr 2026 20:07:37 GMT</lastBuildDate>
   <language>pt-BR</language>
   <item>
-    <title><![CDATA[ANP registra primeira redução do diesel após início do conflito no Oriente Médio]]></title>
-    <link>https://agorars.com/economia/queda-preco-diesel-anp-conflito-eua-ira/</link>
+    <title><![CDATA[Inmet emite alerta laranja de tempestades para o RS no domingo]]></title>
+    <link>https://agorars.com/agora-no-tempo/alerta-tempestade-inmet-rs-domingo/</link>
     <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Sat, 11 Apr 2026 17:31:25 GMT</pubDate>
+    <pubDate>Sat, 11 Apr 2026 18:09:27 GMT</pubDate>
     <category><![CDATA[Rio Grande do Sul]]></category>
-    <guid isPermaLink="false"><![CDATA[rsagorars:c525d8042ac2fdb6acfb7af15711c8d6d2af94fa]]></guid>
-    <media:thumbnail url="https://uploads.agorars.com/2025/09/I9TB5fMg-combustiveis-gasolina-etanol.webp" />
-    <enclosure url="https://uploads.agorars.com/2025/09/I9TB5fMg-combustiveis-gasolina-etanol.webp" type="image/webp" />
-    <description><![CDATA[A Agência Nacional do Petróleo (ANP) anunciou a primeira queda no preço médio do diesel comum desde o início do conflito entre os Estados Unidos e o Irã.]]></description>
+    <guid isPermaLink="false"><![CDATA[rsagorars:26539c478ae83b6c039bb82187669ff21caee683]]></guid>
+    <media:thumbnail url="https://uploads.agorars.com/2025/12/xQXnWzC2-Tempo_quente_pancadas_chuva.webp" />
+    <enclosure url="https://uploads.agorars.com/2025/12/xQXnWzC2-Tempo_quente_pancadas_chuva.webp" type="image/webp" />
+    <description><![CDATA[Instituto Nacional de Meteorologia alerta para chuvas intensas e ventos fortes no estado.]]></description>
     <content:encoded><![CDATA[
-<p>A Agência Nacional do Petróleo (ANP) anunciou a primeira queda no preço médio do diesel comum desde o início do conflito entre os Estados Unidos e o Irã.</p>
-<p>De acordo com levantamento semanal realizado pela agência, entre domingo e este sábado, o preço médio cobrado pelos postos foi de R$ 7,43, uma redução de R$ 0,02 em relação à semana anterior, quando o litro do combustível foi vendido a R$ 7,45.</p>
-<p>No mesmo período, o litro da gasolina comum foi comercializado a R$ 6,77, enquanto na semana anterior o preço era de R$ 6,78.</p>
-<p>O etanol também apresentou uma redução de R$ 0,01, passando de R$ 4,70 para R$ 4,69 o litro.</p>
+<p>O Inmet (Instituto Nacional de Meteorologia) emitiu, neste sábado, um alerta de tempestade para o Rio Grande do Sul, válido durante todo o domingo.</p>
+<p>De acordo com o Instituto, são esperadas chuvas entre 30 e 60 mm/h ou 50 e 100 mm/dia. O aviso também menciona a possibilidade de ventos intensos, com velocidades entre 60 e 100 km/h, além da possibilidade de queda de granizo.</p>
+<p>O alerta abrange praticamente todo o território gaúcho, com exceção de áreas extremas do Nordeste, próximas à divisa com Santa Catarina, que também têm um alerta amarelo para tempestade no domingo.</p>
+<p>Classificado como alerta laranja, de média intensidade, o risco de cortes de energia elétrica, danos a plantações, queda de árvores e alagamentos é considerado baixo.</p>
 ]]></content:encoded>
   </item>
 </channel></rss>
