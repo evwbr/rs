@@ -9,6 +9,22 @@
   <atom:link href="https://evwbr.github.io/rs/feed.xml" rel="self" type="application/rss+xml"/>
   <link>https://evwbr.github.io/rs/</link>
   <description>Notícias do Rio Grande do Sul (últimas 24h) reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Sat, 11 Apr 2026 21:07:34 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 11 Apr 2026 22:07:58 GMT</lastBuildDate>
   <language>pt-BR</language>
+  <item>
+    <title><![CDATA[Domingo (12) será de chuva no RS com acumulados de até 80mm/dia]]></title>
+    <link>https://agorars.com/agora-no-tempo/previsao-tempo-rs-chuva-domingo-estabilidade-segunda/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Sat, 11 Apr 2026 21:31:24 GMT</pubDate>
+    <category><![CDATA[Rio Grande do Sul]]></category>
+    <guid isPermaLink="false"><![CDATA[rsagorars:959a889f11d3ac0a5f7b4fea6f59023ff43d6023]]></guid>
+    <media:thumbnail url="https://uploads.agorars.com/2025/09/wTF7rg9T-imagem170673.webp" />
+    <enclosure url="https://uploads.agorars.com/2025/09/wTF7rg9T-imagem170673.webp" type="image/webp" />
+    <description><![CDATA[A previsão do tempo indica chuvas no Rio Grande do Sul no domingo (12), com pancadas de chuva moderada a forte em várias regiões do estado.]]></description>
+    <content:encoded><![CDATA[
+<p>A previsão do tempo indica chuvas no Rio Grande do Sul no domingo (12), com pancadas de chuva moderada a forte em várias regiões do estado.</p>
+<p>Conforme informações do Centro de Monitoramento da Defesa Civil, as precipitações devem ocorrer acompanhadas de raios no Oeste, Missões, Noroeste, Norte, Nordeste, Centro, Campanha, Vales, Sul e Costa Doce.</p>
+<p>Os acumulados de chuva devem variar entre 5 e 50 mm/dia, com pontos que podem atingir até 80 mm/dia nas regiões de Missões, Noroeste e Norte. Nas demais áreas, a expectativa é de pancadas de chuva fraca a moderada.</p>
+]]></content:encoded>
+  </item>
 </channel></rss>
