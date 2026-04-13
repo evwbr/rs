@@ -9,23 +9,39 @@
   <atom:link href="https://evwbr.github.io/rs/feed.xml" rel="self" type="application/rss+xml"/>
   <link>https://evwbr.github.io/rs/</link>
   <description>Notícias do Rio Grande do Sul (últimas 24h) reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Mon, 13 Apr 2026 20:08:03 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 13 Apr 2026 21:08:00 GMT</lastBuildDate>
   <language>pt-BR</language>
   <item>
-    <title><![CDATA[Professor é preso em operação sobre violência sexual contra crianças no RS]]></title>
-    <link>https://agorars.com/plantao-rs/professor-e-preso-em-operacao-sobre-violencia-sexual-contra-criancas-no-rs/</link>
+    <title><![CDATA[Trensurb prevê retomada total da operação apenas nesta terça-feira]]></title>
+    <link>https://agorars.com/rs/trensurb-retoma-operacao-normal-terca-acidente-br-116/</link>
     <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Mon, 13 Apr 2026 19:33:56 GMT</pubDate>
+    <pubDate>Mon, 13 Apr 2026 20:33:14 GMT</pubDate>
     <category><![CDATA[Rio Grande do Sul]]></category>
-    <guid isPermaLink="false"><![CDATA[rsagorars:93e60fc21020c8048e16f7383cabdc0cbfa4e977]]></guid>
-    <media:thumbnail url="https://uploads.agorars.com/2026/04/F55HPjx2-policiacivil-triunfo.webp" />
-    <enclosure url="https://uploads.agorars.com/2026/04/F55HPjx2-policiacivil-triunfo.webp" type="image/webp" />
-    <description><![CDATA[Um professor do ensino fundamental foi detido temporariamente em uma operação da Polícia Civil que investiga casos de violência sexual contra crianças e adolescentes na região metropolitana.]]></description>
+    <guid isPermaLink="false"><![CDATA[rsagorars:f5fe82b98d110c411b524f709eac2c8497abf0d9]]></guid>
+    <media:thumbnail url="https://uploads.agorars.com/2026/04/4Bkj0ZrF-54766015484_e05cd3854d_k.webp" />
+    <enclosure url="https://uploads.agorars.com/2026/04/4Bkj0ZrF-54766015484_e05cd3854d_k.webp" type="image/webp" />
+    <description><![CDATA[A Trensurb planeja retomar a circulação normal dos trens em todas as estações a partir das 5h de terça-feira, após um acidente na BR-116.]]></description>
     <content:encoded><![CDATA[
-<p>Um professor do ensino fundamental foi preso temporariamente nesta segunda-feira na região metropolitana.</p>
-<p>A captura ocorreu durante a Operação Verdades Reveladas, deflagrada pela Polícia Civil para apurar violência sexual contra crianças e adolescentes em Triunfo, Montenegro e Esteio.</p>
-<p>Conforme a investigação, o professor é o principal alvo do caso. A apuração indica crimes contra crianças com idades entre 9 e 12 anos.</p>
-<p>Na primeira fase da operação, a polícia apreendeu o celular do investigado. De acordo com o delegado Alex Assmann, a análise preliminar do aparelho encontrou conversas que levaram ao avanço da investigação e ao pedido de novas prisões.</p>
+<p>A Trensurb planeja retomar a circulação normal dos trens em todas as estações a partir das 5h de terça-feira, após um acidente com um caminhão carregado com placas de concreto na BR-116, entre Canoas e Esteio, na região metropolitana.</p>
+<p>O tombamento ocorreu na noite de domingo. Parte da carga caiu sobre os trilhos e interrompeu o serviço em 12 estações.</p>
+<p>Nesta segunda-feira, os trens seguem operando nos trechos entre Mercado, em Porto Alegre, e Mathias Velho, em Canoas, e entre Unisinos, em São Leopoldo, e Novo Hamburgo. O trajeto entre Mathias Velho e Unisinos é atendido por ônibus até o fim da operação do dia.</p>
+]]></content:encoded>
+  </item>
+  <item>
+    <title><![CDATA[Ex-deputado Alexandre Ramagem é preso nos Estados Unidos]]></title>
+    <link>https://agorars.com/politica/ex-deputado-alexandre-ramagem-e-preso-nos-estados-unidos/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Mon, 13 Apr 2026 19:59:48 GMT</pubDate>
+    <category><![CDATA[Rio Grande do Sul]]></category>
+    <guid isPermaLink="false"><![CDATA[rsagorars:55a83f60f40e9c2efd9538ca68b36d70350677fb]]></guid>
+    <media:thumbnail url="https://uploads.agorars.com/2026/04/Y5K1MFXf-54580658053_23cd48a35b_k.webp" />
+    <enclosure url="https://uploads.agorars.com/2026/04/Y5K1MFXf-54580658053_23cd48a35b_k.webp" type="image/webp" />
+    <description><![CDATA[O ex-deputado federal Alexandre Ramagem foi detido em Orlando, na Flórida, e está sob custódia do ICE. A prisão foi confirmada pela Polícia Federal, que destacou a cooperação internacional entre Brasil e Estados Unidos.]]></description>
+    <content:encoded><![CDATA[
+<p>O ex-deputado federal Alexandre Ramagem foi preso nos Estados Unidos e aparece sob custódia do ICE (Serviço de Imigração e Alfândega dos Estados Unidos). A informação foi confirmada pela Polícia Federal, que atribuiu a detenção à cooperação policial internacional entre Brasil e Estados Unidos.</p>
+<p>Conforme a PF, Ramagem foi detido em Orlando, na Flórida. O local exato de custódia não foi divulgado.</p>
+<p>Ramagem fugiu do Brasil em setembro do ano passado, após condenação do Supremo Tribunal Federal a 16 anos, 1 mês e 15 dias de prisão por tentativa de golpe de Estado, organização criminosa e abolição do Estado Democrático de Direito.</p>
+<p>Proibido de deixar o país, ele saiu pela fronteira com a Guiana e embarcou para os Estados Unidos com passaporte diplomático, que não havia sido apreendido.</p>
 ]]></content:encoded>
   </item>
 </channel></rss>
