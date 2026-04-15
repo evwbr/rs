@@ -9,6 +9,23 @@
   <atom:link href="https://evwbr.github.io/rs/feed.xml" rel="self" type="application/rss+xml"/>
   <link>https://evwbr.github.io/rs/</link>
   <description>Notícias do Rio Grande do Sul (últimas 24h) reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Wed, 15 Apr 2026 17:07:34 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 15 Apr 2026 18:07:42 GMT</lastBuildDate>
   <language>pt-BR</language>
+  <item>
+    <title><![CDATA[Porto Alegre retoma aluguel de bicicletas elétricas após enchente]]></title>
+    <link>https://agorars.com/agora-no-transito/porto-alegre-volta-a-ter-bicicletas-eletricas-de-aluguel-quase-dois-anos-apos-enchente/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Wed, 15 Apr 2026 17:20:37 GMT</pubDate>
+    <category><![CDATA[Rio Grande do Sul]]></category>
+    <guid isPermaLink="false"><![CDATA[rsagorars:1529dbcbe22fe14e0418467fa66a24f26f7cc7c6]]></guid>
+    <media:thumbnail url="https://agorars.com/wp-content/uploads/2023/10/e-bike.webp" />
+    <enclosure url="https://agorars.com/wp-content/uploads/2023/10/e-bike.webp" type="image/webp" />
+    <description><![CDATA[A cidade volta a contar com e-bikes no sistema de aluguel, com mais de 300 unidades disponíveis.]]></description>
+    <content:encoded><![CDATA[
+<p>Porto Alegre voltou a ter bicicletas elétricas de aluguel quase dois anos após a enchente de 2024. A retomada da operação ocorreu nesta quarta-feira, com a volta das e-bikes ao sistema na Capital.</p>
+<p>Ao todo, mais de 300 bicicletas elétricas foram recolocadas em circulação. Com isso, a rede volta a operar com cerca de mil bicicletas, entre 700 modelos mecânicos e 300 elétricos, distribuídos em 90 estações fixas.</p>
+<p>As bikes elétricas haviam sido praticamente retiradas de operação após o impacto da enchente. Segundo a Prefeitura de Porto Alegre, a retomada também buscou aproximar o serviço do transporte público, com estações instaladas perto de grandes terminais.</p>
+<p>As bicicletas elétricas têm pedal assistido e motor que auxilia a pedalada, o que favorece trajetos mais longos e percursos com subida. A assistência funciona apenas quando o usuário pedala, e a velocidade é limitada a 25 km/h.</p>
+]]></content:encoded>
+  </item>
 </channel></rss>
