@@ -9,6 +9,23 @@
   <atom:link href="https://evwbr.github.io/rs/feed.xml" rel="self" type="application/rss+xml"/>
   <link>https://evwbr.github.io/rs/</link>
   <description>Notícias do Rio Grande do Sul (últimas 24h) reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Wed, 15 Apr 2026 19:07:45 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 15 Apr 2026 20:07:46 GMT</lastBuildDate>
   <language>pt-BR</language>
+  <item>
+    <title><![CDATA[Batalhão Ambiental investiga origem de cervo exótico resgatado em Porto Alegre]]></title>
+    <link>https://agorars.com/rs/porto-alegre/cervo-exotico-menino-deus-eutanasia-porto-alegre/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Wed, 15 Apr 2026 19:47:57 GMT</pubDate>
+    <category><![CDATA[Rio Grande do Sul]]></category>
+    <guid isPermaLink="false"><![CDATA[rsagorars:fee152185890e8bd623965f0e9202bc2596a2097]]></guid>
+    <media:thumbnail url="https://uploads.agorars.com/2026/04/WVpkLWBs-cervo-axis.webp" />
+    <enclosure url="https://uploads.agorars.com/2026/04/WVpkLWBs-cervo-axis.webp" type="image/webp" />
+    <description><![CDATA[Um cervo exótico encontrado ferido em Porto Alegre passou por eutanásia após avaliação clínica. O animal apresentava lesões e foi resgatado por equipes especializadas.]]></description>
+    <content:encoded><![CDATA[
+<p>Um cervo exótico encontrado ferido em uma rua do bairro Menino Deus, em Porto Alegre, passou por eutanásia no fim da manhã desta quarta-feira.</p>
+<p>O animal havia sido resgatado e levado ao Preservas, Núcleo de Conservação e Reabilitação de Animais Silvestres da UFRGS, para avaliação clínica.</p>
+<p>Os exames veterinários confirmaram o quadro debilitado e a necessidade da eutanásia. A fêmea da espécie axis apresentava lesões no queixo, no peito e nas patas.</p>
+<p>Imagens de câmeras de segurança registraram o momento em que o cervo estava em fuga durante a madrugada e foi atacado por cães. Em outro ponto, o animal ficou com a cabeça presa nas grades de um prédio.</p>
+]]></content:encoded>
+  </item>
 </channel></rss>
