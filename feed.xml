@@ -9,6 +9,23 @@
   <atom:link href="https://evwbr.github.io/rs/feed.xml" rel="self" type="application/rss+xml"/>
   <link>https://evwbr.github.io/rs/</link>
   <description>Notícias do Rio Grande do Sul (últimas 24h) reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Wed, 15 Apr 2026 13:07:33 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 15 Apr 2026 14:07:58 GMT</lastBuildDate>
   <language>pt-BR</language>
+  <item>
+    <title><![CDATA[Inmet atualiza alertas de tempestade para o RS]]></title>
+    <link>https://agorars.com/agora-no-tempo/inmet-reduz-alerta-tempestade-chuva-rs-abril-2026/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Wed, 15 Apr 2026 13:29:24 GMT</pubDate>
+    <category><![CDATA[Rio Grande do Sul]]></category>
+    <guid isPermaLink="false"><![CDATA[rsagorars:1bce6238c8c5d1a67061ed52af490d97ff849e6f]]></guid>
+    <media:thumbnail url="https://uploads.agorars.com/2025/09/wTF7rg9T-imagem170673.webp" />
+    <enclosure url="https://uploads.agorars.com/2025/09/wTF7rg9T-imagem170673.webp" type="image/webp" />
+    <description><![CDATA[O Inmet emitiu novos alertas de tempestades para o Rio Grande do Sul, com previsão de chuvas e ventos intensos nos próximos dias.]]></description>
+    <content:encoded><![CDATA[
+<p>O Inmet (Instituto Nacional de Meteorologia) publicou novos alertas de tempestades para o Rio Grande do Sul nos próximos dias. O alerta para esta quarta-feira (15) foi atualizado de laranja, de média intensidade, para amarelo, indicando uma previsão de intensidade menor. O primeiro aviso já está em vigor, e o último vale até a manhã de sexta-feira (17).</p>
+<p>Para esta quarta-feira (15), há um alerta amarelo, com previsão de chuva entre 20 e 30 mm/h ou até 50 mm/dia, além de ventos intensos (40-60 km/h) e possibilidade de queda de granizo. O risco de corte de energia elétrica, danos a plantações, queda de galhos de árvores e alagamentos é considerado baixo.</p>
+<p>A chuva deve atingir boa parte do território gaúcho até a manhã de quinta-feira (16), exceto em áreas mais ao Leste, como a Região Metropolitana, a Costa Doce, partes da Serra e do Norte, além dos litorais Médio e Norte. A partir de quinta-feira, a chuva deve alcançar essas áreas, enquanto as precipitações nas regiões mais próximas da Fronteira Oeste devem cessar.</p>
+<p>Além disso, há previsão de ventos mais intensos, com alerta amarelo, em toda a extensão do litoral. Esse alerta é válido entre a tarde de hoje e a de amanhã (16).</p>
+]]></content:encoded>
+  </item>
 </channel></rss>
