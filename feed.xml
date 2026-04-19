@@ -9,6 +9,38 @@
   <atom:link href="https://evwbr.github.io/rs/feed.xml" rel="self" type="application/rss+xml"/>
   <link>https://evwbr.github.io/rs/</link>
   <description>Notícias do Rio Grande do Sul (últimas 24h) reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Sun, 19 Apr 2026 20:07:34 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 19 Apr 2026 21:07:55 GMT</lastBuildDate>
   <language>pt-BR</language>
+  <item>
+    <title><![CDATA[PRF resgata veado-catingueiro ferido às margens da BR-285 em Vacaria]]></title>
+    <link>https://agorars.com/agora-no-transito/prf-resgata-veado-catingueiro-ferido-as-margens-da-br-285-em-vacaria/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Sun, 19 Apr 2026 21:01:39 GMT</pubDate>
+    <category><![CDATA[Rio Grande do Sul]]></category>
+    <guid isPermaLink="false"><![CDATA[rsagorars:eb242433b7aac84ebcd302a14c2e6bc7b0e243c6]]></guid>
+    <media:thumbnail url="https://uploads.agorars.com/2026/04/XfwML5Mb-cervideo-prf-vacaria.webp" />
+    <enclosure url="https://uploads.agorars.com/2026/04/XfwML5Mb-cervideo-prf-vacaria.webp" type="image/webp" />
+    <description><![CDATA[A Polícia Rodoviária Federal resgatou um veado-catingueiro ferido às margens da BR-285, em Vacaria, na região Norte do RS. O animal apresentava ferimentos compatíveis com atropelamento e recebeu apoio de um biólogo voluntário durante o resgate.]]></description>
+    <content:encoded><![CDATA[
+<p>A Polícia Rodoviária Federal resgatou um veado-catingueiro ferido às margens da BR-285, nas proximidades da Embrapa, em Vacaria, na região Norte do RS.</p>
+<p>O animal silvestre apresentava diversos ferimentos, compatíveis com atropelamento.</p>
+<p>Os policiais contaram com apoio do biólogo Herbert Hasse Júnior no resgate. Ele é voluntário que atua no acolhimento e no tratamento de animais silvestres.</p>
+]]></content:encoded>
+  </item>
+  <item>
+    <title><![CDATA[Noroeste e Norte do RS têm alerta vermelho para onda de calor]]></title>
+    <link>https://agorars.com/agora-no-tempo/noroeste-e-norte-do-rs-tem-alerta-vermelho-para-onda-de-calor/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Sun, 19 Apr 2026 20:24:52 GMT</pubDate>
+    <category><![CDATA[Rio Grande do Sul]]></category>
+    <guid isPermaLink="false"><![CDATA[rsagorars:d08245f31cccb744de32f765242056deb792cf9a]]></guid>
+    <media:thumbnail url="https://uploads.agorars.com/2026/04/G3cLkC7t-alerta-onda-de-calor-rs.webp" />
+    <enclosure url="https://uploads.agorars.com/2026/04/G3cLkC7t-alerta-onda-de-calor-rs.webp" type="image/webp" />
+    <description><![CDATA[O INMET emitiu um alerta de onda de calor para cidades do Norte e Noroeste do Rio Grande do Sul, com temperaturas acima da média por mais de cinco dias, representando risco à saúde.]]></description>
+    <content:encoded><![CDATA[
+<p>O INMET (Instituto Nacional de Meteorologia) publicou um alerta de onda de calor para cidades do Norte e Noroeste do Rio Grande do Sul. O aviso de grande perigo começou ao meio-dia deste domingo e segue até as 18h de sábado.</p>
+<p>Conforme a advertência, as temperaturas devem ficar 5°C acima da média por período maior do que cinco dias, o que representa risco à saúde.</p>
+<p>No Rio Grande do Sul, o alerta inclui municípios como Frederico Westphalen, Três Passos, Tenente Portela, Seberi, Iraí, Nonoai, Planalto, Alpestre, Erval Seco, Vicente Dutra, Vista Alegre e Ametista do Sul.</p>
+]]></content:encoded>
+  </item>
 </channel></rss>
