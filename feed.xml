@@ -9,6 +9,23 @@
   <atom:link href="https://evwbr.github.io/rs/feed.xml" rel="self" type="application/rss+xml"/>
   <link>https://evwbr.github.io/rs/</link>
   <description>Notícias do Rio Grande do Sul (últimas 24h) reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Tue, 21 Apr 2026 15:07:50 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 21 Apr 2026 16:08:13 GMT</lastBuildDate>
   <language>pt-BR</language>
+  <item>
+    <title><![CDATA[Rio Grande do Sul em alerta amarelo para chuva intensa]]></title>
+    <link>https://agorars.com/agora-no-tempo/rs-tem-alerta-amarelo-para-chuva-intensa-nesta-terca-feira/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Tue, 21 Apr 2026 15:24:51 GMT</pubDate>
+    <category><![CDATA[Rio Grande do Sul]]></category>
+    <guid isPermaLink="false"><![CDATA[rsagorars:8e00ca9c1154c02f6242cee9d155498fc589ff5b]]></guid>
+    <media:thumbnail url="https://uploads.agorars.com/2025/05/dAmYm4rY-chuva-rs-seapi.webp" />
+    <enclosure url="https://uploads.agorars.com/2025/05/dAmYm4rY-chuva-rs-seapi.webp" type="image/webp" />
+    <description><![CDATA[A maior parte do estado está sob aviso de perigo potencial para esta terça-feira, com previsão de chuvas significativas e rajadas de vento.]]></description>
+    <content:encoded><![CDATA[
+<p>A maior parte do Rio Grande do Sul está sob alerta amarelo para chuva intensa nesta terça-feira. O aviso de perigo potencial começou às 9h e segue até as 23h59.</p>
+<p>A previsão indica chuvas entre 20 e 30 milímetros por hora, com acumulados de até 50 milímetros por dia, além de rajadas de vento entre 40 e 60 km/h.</p>
+<p>De acordo com o alerta, há baixo risco de corte de energia elétrica, queda de galhos de árvores, alagamentos e descargas elétricas.</p>
+<p>A advertência abrange quase todo o estado, com exceção da Fronteira Oeste, da Campanha e de parte do Sul do Rio Grande do Sul.</p>
+]]></content:encoded>
+  </item>
 </channel></rss>
