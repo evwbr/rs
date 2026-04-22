@@ -9,38 +9,6 @@
   <atom:link href="https://evwbr.github.io/rs/feed.xml" rel="self" type="application/rss+xml"/>
   <link>https://evwbr.github.io/rs/</link>
   <description>Notícias do Rio Grande do Sul (últimas 24h) reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Wed, 22 Apr 2026 01:07:48 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 22 Apr 2026 02:07:30 GMT</lastBuildDate>
   <language>pt-BR</language>
-  <item>
-    <title><![CDATA[Quarta-feira terá chuva fraca na maior parte do RS]]></title>
-    <link>https://agorars.com/agora-no-tempo/previsao-do-tempo/quarta-feira-tera-chuva-fraca-na-maior-parte-do-rs/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Wed, 22 Apr 2026 01:00:18 GMT</pubDate>
-    <category><![CDATA[Rio Grande do Sul]]></category>
-    <guid isPermaLink="false"><![CDATA[rsagorars:4b50fffc0aa46d624ad5b0a3584d55cbd3b3bdb6]]></guid>
-    <media:thumbnail url="https://uploads.agorars.com/2024/11/wyovP8uF-tempo-nublado-porto-alegre.webp" />
-    <enclosure url="https://uploads.agorars.com/2024/11/wyovP8uF-tempo-nublado-porto-alegre.webp" type="image/webp" />
-    <description><![CDATA[A quarta-feira terá chuva fraca e chuviscos em grande parte do Rio Grande do Sul, com instabilidade predominando ao longo do dia.]]></description>
-    <content:encoded><![CDATA[
-<p>A quarta-feira terá chuva fraca e chuviscos em grande parte do Rio Grande do Sul.</p>
-<p>Ao longo do dia, a instabilidade predomina na maior parte do Estado, mas sem volumes elevados na maior parte das regiões.</p>
-<p>No Oeste e na Campanha, a chuva pode ganhar um pouco mais de força à noite, com pancadas isoladas de fraca a moderada intensidade.</p>
-]]></content:encoded>
-  </item>
-  <item>
-    <title><![CDATA[Hospital Fêmina fecha UTI neonatal para novas admissões após bactéria resistente]]></title>
-    <link>https://agorars.com/rs/porto-alegre/hospital-femina-bacteria-resistente-uti-neonatal/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Wed, 22 Apr 2026 00:14:05 GMT</pubDate>
-    <category><![CDATA[Rio Grande do Sul]]></category>
-    <guid isPermaLink="false"><![CDATA[rsagorars:8931db1bb85103e281e8c394086a060f5d232867]]></guid>
-    <media:thumbnail url="https://uploads.agorars.com/2026/04/cvH6xHiy-hospital-femina-arquivo.webp" />
-    <enclosure url="https://uploads.agorars.com/2026/04/cvH6xHiy-hospital-femina-arquivo.webp" type="image/webp" />
-    <description><![CDATA[O Hospital Fêmina suspendeu temporariamente novas admissões na UTI neonatal após a detecção de uma bactéria pan-resistente. A presença da bactéria foi identificada em 16 de abril, levando a unidade a operar com isolamento total e testagem de todos os pacientes internados.]]></description>
-    <content:encoded><![CDATA[
-<p>O Hospital Fêmina suspendeu temporariamente novas admissões na UTI neonatal após a detecção de uma bactéria pan-resistente. A presença da bactéria foi identificada em 16 de abril.</p>
-<p>De acordo com o hospital, a área passou a operar com isolamento total, bloqueio de movimentações e testagem de todos os pacientes internados no setor.</p>
-<p>Dos 34 bebês internados na UTI neonatal, quatro testaram positivo. Um dos pacientes positivos faleceu. Conforme o hospital, o bebê havia nascido em parto de risco e em condição de prematuridade extrema, com 26 semanas de gestação.</p>
-]]></content:encoded>
-  </item>
 </channel></rss>
