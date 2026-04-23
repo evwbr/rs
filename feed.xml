@@ -9,6 +9,23 @@
   <atom:link href="https://evwbr.github.io/rs/feed.xml" rel="self" type="application/rss+xml"/>
   <link>https://evwbr.github.io/rs/</link>
   <description>Notícias do Rio Grande do Sul (últimas 24h) reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Thu, 23 Apr 2026 16:07:32 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 23 Apr 2026 17:07:40 GMT</lastBuildDate>
   <language>pt-BR</language>
+  <item>
+    <title><![CDATA[Massa de ar frio deve provocar queda nas temperaturas no RS]]></title>
+    <link>https://agorars.com/agora-no-tempo/massa-ar-polar-frio-rs-previsao-abril-2026/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Thu, 23 Apr 2026 16:26:48 GMT</pubDate>
+    <category><![CDATA[Rio Grande do Sul]]></category>
+    <guid isPermaLink="false"><![CDATA[rsagorars:62eb55b947fdf9d274fa230018d7e9bd33b6c33f]]></guid>
+    <media:thumbnail url="https://agorars.com/wp-content/uploads/2023/07/frio-em-dom-pedrito-jpg-webp.webp" />
+    <enclosure url="https://agorars.com/wp-content/uploads/2023/07/frio-em-dom-pedrito-jpg-webp.webp" type="image/webp" />
+    <description><![CDATA[A Climatempo anunciou a chegada de uma massa de ar frio de origem polar ao Sul do Brasil, que deve resultar em temperaturas significativamente mais baixas nos próximos dias.]]></description>
+    <content:encoded><![CDATA[
+<p>A Climatempo publicou um boletim, nesta quinta-feira (23), apontando para a chegada de uma massa de ar frio de origem polar ao Sul do Brasil nos próximos dias. O fenômeno deve ser o mais intenso deste tipo em 2026 até o momento e deve provocar uma queda significativa nas temperaturas.</p>
+<p>O sistema começa a ingressar pelo Rio Grande do Sul na noite de domingo (26), mas os efeitos mais expressivos serão sentidos entre segunda (27) e terça-feira (28).</p>
+<p>A terça-feira deve ser o dia mais frio do ano até agora em diversas áreas do Rio Grande do Sul.</p>
+<p>Mesmo com a presença do sol ao longo do dia, o ar frio mantém as temperaturas baixas, especialmente durante as madrugadas e no início das manhãs.</p>
+]]></content:encoded>
+  </item>
 </channel></rss>
