@@ -9,25 +9,24 @@
   <atom:link href="https://evwbr.github.io/rs/feed.xml" rel="self" type="application/rss+xml"/>
   <link>https://evwbr.github.io/rs/</link>
   <description>Notícias do Rio Grande do Sul (últimas 24h) reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Fri, 24 Apr 2026 23:07:43 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 25 Apr 2026 00:07:39 GMT</lastBuildDate>
   <language>pt-BR</language>
   <item>
-    <title><![CDATA[El Niño: governo do RS afirma que não há previsão de evento semelhante ao de 2024]]></title>
-    <link>https://agorars.com/agora-no-tempo/el-nino-governo-do-rs-diz-que-nao-ha-indicativo-de-evento-como-o-de-2024/</link>
+    <title><![CDATA[Fim de semana terá chuva e risco de temporal no RS]]></title>
+    <link>https://agorars.com/agora-no-tempo/previsao-do-tempo/fim-de-semana-tera-chuva-e-risco-de-temporal-no-rs/</link>
     <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Fri, 24 Apr 2026 22:12:26 GMT</pubDate>
+    <pubDate>Fri, 24 Apr 2026 23:07:26 GMT</pubDate>
     <category><![CDATA[Rio Grande do Sul]]></category>
-    <guid isPermaLink="false"><![CDATA[rsagorars:7d385792d766f7895e0d2d63975bd07c97a738e1]]></guid>
-    <media:thumbnail url="https://uploads.agorars.com/2024/05/enchente-guaiba-caff-ponte-de-pedra.jpg" />
-    <enclosure url="https://uploads.agorars.com/2024/05/enchente-guaiba-caff-ponte-de-pedra.jpg" type="image/webp" />
-    <description><![CDATA[O governo do Rio Grande do Sul declarou que não há indícios de um evento como a enchente de 2024 para este ano, apesar da previsão de um novo El Niño em 2026.]]></description>
+    <guid isPermaLink="false"><![CDATA[rsagorars:ba7f69e62dd8d4f50a9b25636c2820e27cf99c8e]]></guid>
+    <media:thumbnail url="https://uploads.agorars.com/2025/05/sxQdKhJm-chuva-uruguaiana-pmu.webp" />
+    <enclosure url="https://uploads.agorars.com/2025/05/sxQdKhJm-chuva-uruguaiana-pmu.webp" type="image/webp" />
+    <description><![CDATA[Chuva em várias regiões do Rio Grande do Sul, com risco de temporal em áreas isoladas entre sábado e domingo.]]></description>
     <content:encoded><![CDATA[
-<p>O governo do Rio Grande do Sul afirmou que não há indicação concreta de um evento semelhante à enchente de 2024 para este ano, apesar da previsão de formação de um novo El Niño em 2026.</p>
-<p>A informação foi apresentada durante o balanço de dois anos das enchentes de 2024, que reúne dados do Plano Rio Grande, um programa de reconstrução e adaptação climática do Estado.</p>
-<p>De acordo com a apresentação, a formação do El Niño aumenta a probabilidade de chuvas acima da média no Sul do Brasil. No entanto, o governo sustenta que nenhum modelo indica, até o momento, grandes volumes de chuva para o Rio Grande do Sul.</p>
-<p>O risco apontado é de eventos localizados, como chuvas intensas, alagamentos, enxurradas e tempestades.</p>
-<p>A projeção também indica a atuação de um novo El Niño em 2026, especialmente na primavera e no verão. Até agora, não há indicação de El Niño forte ou de Super El Niño.</p>
-<p>O cenário de 2026 foi comparado com o período anterior à enchente histórica. Em 2023 e 2024, o Estado enfrentou um El Niño classificado como forte.</p>
+<p>O fim de semana terá chuva em várias regiões do Rio Grande do Sul, com risco de temporal em áreas isoladas entre sábado e domingo.</p>
+<p>No sábado, a chuva mais forte deve ocorrer de forma pontual no Noroeste, Norte e Nordeste. Também há previsão de chuva fraca a moderada no Sul, Costa Doce, região metropolitana de Porto Alegre, Vales, Serra e Litoral.</p>
+<p>No restante do Estado, a tendência é de chuviscos ou chuva fraca isolada.</p>
+<p>Os acumulados devem variar entre 10 e 25 milímetros por dia na faixa Leste e no Noroeste. Em pontos isolados do Norte e do Nordeste, os volumes podem chegar a 50 milímetros.</p>
+<p>As temperaturas mínimas ficam entre 15°C e 21°C no sábado. As máximas variam de 17°C a 25°C.</p>
 ]]></content:encoded>
   </item>
 </channel></rss>
