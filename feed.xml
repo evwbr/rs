@@ -9,6 +9,22 @@
   <atom:link href="https://evwbr.github.io/rs/feed.xml" rel="self" type="application/rss+xml"/>
   <link>https://evwbr.github.io/rs/</link>
   <description>Notícias do Rio Grande do Sul (últimas 24h) reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Sat, 25 Apr 2026 17:07:32 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 25 Apr 2026 18:07:38 GMT</lastBuildDate>
   <language>pt-BR</language>
+  <item>
+    <title><![CDATA[Porto Alegre: Manutenções afetam abastecimento na Zona Sul e Ilhas]]></title>
+    <link>https://agorars.com/rs/porto-alegre/dmae-manutencao-abastecimento-agua-zona-sul-ilhas-poa/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Sat, 25 Apr 2026 17:21:25 GMT</pubDate>
+    <category><![CDATA[Rio Grande do Sul]]></category>
+    <guid isPermaLink="false"><![CDATA[rsagorars:0e49cd16233a8d99e864eb6f6f41ea3cee9ac367]]></guid>
+    <media:thumbnail url="https://uploads.agorars.com/2025/12/6I4DiaEw-agua_gustavo-garbino-2.webp" />
+    <enclosure url="https://uploads.agorars.com/2025/12/6I4DiaEw-agua_gustavo-garbino-2.webp" type="image/webp" />
+    <description><![CDATA[O Dmae programou duas manutenções no sistema de abastecimento de água que podem impactar temporariamente o fornecimento em regiões da Zona Sul e das Ilhas.]]></description>
+    <content:encoded><![CDATA[
+<p>O Dmae (Departamento Municipal de Água e Esgotos) programou duas manutenções no sistema de abastecimento de água entre esta segunda-feira e terça. As intervenções podem impactar, temporariamente, o fornecimento em regiões da Zona Sul e das Ilhas.</p>
+<p>Na Zona Sul, quatro motores da Ebat (Estação de Bombeamento de Água Tratada) São Jorge passarão por serviços de nivelamento e fixação de quadros de comando na segunda, a partir das 7h30. A previsão é de conclusão no fim da tarde, com normalização gradual do abastecimento ao longo da noite.</p>
+<p>Nas Ilhas, na terça-feira, a partir das 8h, equipes farão a substituição de equipamentos na ETA (Estação de Tratamento de Água) Ilha da Pintada. O serviço inclui a troca de um conjunto motor-bomba e de um painel de acionamento. A conclusão está prevista para a noite, com retomada gradual do abastecimento durante a madrugada de quarta-feira.</p>
+]]></content:encoded>
+  </item>
 </channel></rss>
