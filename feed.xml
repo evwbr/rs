@@ -9,6 +9,23 @@
   <atom:link href="https://evwbr.github.io/rs/feed.xml" rel="self" type="application/rss+xml"/>
   <link>https://evwbr.github.io/rs/</link>
   <description>Notícias do Rio Grande do Sul (últimas 24h) reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Sun, 26 Apr 2026 13:07:32 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 26 Apr 2026 14:07:39 GMT</lastBuildDate>
   <language>pt-BR</language>
+  <item>
+    <title><![CDATA[Inmet alerta para queda nas temperaturas e vendaval no RS]]></title>
+    <link>https://agorars.com/agora-no-tempo/alerta-inmet-vendaval-frio-rs-abril-2026/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Sun, 26 Apr 2026 13:29:29 GMT</pubDate>
+    <category><![CDATA[Rio Grande do Sul]]></category>
+    <guid isPermaLink="false"><![CDATA[rsagorars:12edf9e95264fefe704bfa5992825835c7a7f853]]></guid>
+    <media:thumbnail url="https://uploads.agorars.com/2025/07/9KI9QUl8-frio-morrinhos-do-sul.webp" />
+    <enclosure url="https://uploads.agorars.com/2025/07/9KI9QUl8-frio-morrinhos-do-sul.webp" type="image/webp" />
+    <description><![CDATA[O Inmet emitiu alertas amarelos para queda nas temperaturas e vendaval no Rio Grande do Sul, com ventos que podem atingir até 60 km/h.]]></description>
+    <content:encoded><![CDATA[
+<p>O Inmet (Instituto Nacional de Meteorologia) publicou alertas amarelos para queda nas temperaturas e vendaval no Rio Grande do Sul. As rajadas de vento mais intensas começam na tarde de hoje, e o frio inicia na madrugada de segunda-feira.</p>
+<p>Conforme o Instituto, o vendaval atinge inicialmente áreas mais ao Sul, Campanha e Costa Doce. Os ventos variam entre 40 km/h e 60 km/h e o alerta dura até o fim do dia.</p>
+<p>Na segunda-feira, essa ventania se estende para parte do Centro, para o restante da Costa Doce, todo o Litoral, Vales, Serra e Região Metropolitana. O aviso permanece durante todo o dia.</p>
+<p>Além disso, há um alerta amarelo, de baixo risco, para declínio de temperatura, válido para praticamente todo o estado. A exceção são áreas mais próximas dos litorais Médio e Norte.</p>
+]]></content:encoded>
+  </item>
 </channel></rss>
