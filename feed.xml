@@ -9,6 +9,22 @@
   <atom:link href="https://evwbr.github.io/rs/feed.xml" rel="self" type="application/rss+xml"/>
   <link>https://evwbr.github.io/rs/</link>
   <description>Notícias do Rio Grande do Sul (últimas 24h) reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Mon, 27 Apr 2026 12:07:38 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 27 Apr 2026 13:07:45 GMT</lastBuildDate>
   <language>pt-BR</language>
+  <item>
+    <title><![CDATA[RS amanhece com temperaturas baixas nesta segunda-feira (27); confira mínimas]]></title>
+    <link>https://agorars.com/agora-no-tempo/frio-rs-minima-49c-temperaturas-baixas-abril-2026/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Mon, 27 Apr 2026 12:16:50 GMT</pubDate>
+    <category><![CDATA[Rio Grande do Sul]]></category>
+    <guid isPermaLink="false"><![CDATA[rsagorars:3af19dd4ad4a15375f80b8de79f5a227d5dfc271]]></guid>
+    <media:thumbnail url="https://uploads.agorars.com/2025/07/9KI9QUl8-frio-morrinhos-do-sul.webp" />
+    <enclosure url="https://uploads.agorars.com/2025/07/9KI9QUl8-frio-morrinhos-do-sul.webp" type="image/webp" />
+    <description><![CDATA[O Rio Grande do Sul registrou temperaturas abaixo dos 10°C em diversos municípios nesta segunda-feira. A mínima foi de 4,9°C em Quaraí, na Fronteira Oeste.]]></description>
+    <content:encoded><![CDATA[
+<p>O Rio Grande do Sul registrou temperaturas abaixo dos 10°C em diversos municípios nesta segunda-feira. A mínima foi de 4,9°C em Quaraí, na Fronteira Oeste.</p>
+<p>Outros municípios apresentaram temperaturas em torno dos 5°C, como Canguçu (5°C), Herval (5.1°C), Alegrete (5.5°C), Santana da Boa Vista (5.6°C) e Bagé (5.7°C). Porto Alegre registrou 13°C.</p>
+<p>Diferentes institutos já previam esse cenário nos últimos dias. Uma massa de ar frio de origem polar, a mais intensa de 2026 até o momento, começou a avançar sobre o Sul do Brasil já no domingo.</p>
+]]></content:encoded>
+  </item>
 </channel></rss>
