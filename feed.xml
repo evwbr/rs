@@ -9,23 +9,22 @@
   <atom:link href="https://evwbr.github.io/rs/feed.xml" rel="self" type="application/rss+xml"/>
   <link>https://evwbr.github.io/rs/</link>
   <description>Notícias do Rio Grande do Sul (últimas 24h) reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Mon, 27 Apr 2026 23:07:44 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 28 Apr 2026 00:07:43 GMT</lastBuildDate>
   <language>pt-BR</language>
   <item>
-    <title><![CDATA[Porto Alegre terá frio no começo da semana e chuva no feriado]]></title>
-    <link>https://agorars.com/rs/porto-alegre/porto-alegre-tera-frio-no-comeco-da-semana-e-chuva-no-feriado/</link>
+    <title><![CDATA[Terça-feira terá tempo firme, frio e chance de geada em várias regiões do RS]]></title>
+    <link>https://agorars.com/agora-no-tempo/previsao-do-tempo/terca-feira-tera-tempo-firme-frio-e-chance-de-geada-em-varias-regioes-do-rs/</link>
     <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Mon, 27 Apr 2026 19:55:17 GMT</pubDate>
+    <pubDate>Mon, 27 Apr 2026 23:27:55 GMT</pubDate>
     <category><![CDATA[Rio Grande do Sul]]></category>
-    <guid isPermaLink="false"><![CDATA[rsagorars:0f04db8138a74744450043548564b4208ad283e6]]></guid>
-    <media:thumbnail url="https://agorars.com/wp-content/uploads/2018/10/tempo-sol-jpg-webp.webp" />
-    <enclosure url="https://agorars.com/wp-content/uploads/2018/10/tempo-sol-jpg-webp.webp" type="image/webp" />
-    <description><![CDATA[A capital gaúcha terá temperaturas mais baixas e tempo firme no início da semana, com previsão de chuva no feriado do Dia do Trabalhador.]]></description>
+    <guid isPermaLink="false"><![CDATA[rsagorars:e56af94adbe72b495313194e5fe58a8f0b9ae99d]]></guid>
+    <media:thumbnail url="https://uploads.agorars.com/2025/08/cuDDPsZk-frio-geada-salto-do-jacui.webp" />
+    <enclosure url="https://uploads.agorars.com/2025/08/cuDDPsZk-frio-geada-salto-do-jacui.webp" type="image/webp" />
+    <description><![CDATA[Na terça-feira, o Rio Grande do Sul terá tempo firme, com temperaturas frias e possibilidade de geada em diversas áreas.]]></description>
     <content:encoded><![CDATA[
-<p>Porto Alegre terá tempo firme e temperaturas mais baixas no começo da semana, mas a chuva deve voltar na sexta-feira, feriado do Dia do Trabalhador.</p>
-<p>Nesta segunda-feira, o sol predominou durante todo o dia. A temperatura máxima do dia foi registrada durante a madrugada, com 20°C. A mínima prevista é de 12°C à noite.</p>
-<p>Na terça-feira, o tempo segue firme, com sol ao longo do dia. Não há previsão de chuva. As temperaturas variam entre 9°C e 19°C.</p>
-<p>A quarta-feira começa com sol, mas a nebulosidade aumenta no decorrer do dia. O tempo deve ficar encoberto, com temperaturas entre 10°C e 23°C.</p>
+<p>A terça-feira terá tempo firme na maior parte do Rio Grande do Sul, com frio e condição para geada em várias regiões.</p>
+<p>As mínimas ficam entre 1°C e 13°C. A formação de geada pode ocorrer na Campanha, no Sul, no Centro, no Norte, na Serra, nos Vales e na porção oeste da região metropolitana de Porto Alegre.</p>
+<p>Durante a tarde, as temperaturas seguem amenas. As máximas variam entre 15°C e 22°C no Estado.</p>
 ]]></content:encoded>
   </item>
 </channel></rss>
