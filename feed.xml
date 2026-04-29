@@ -9,6 +9,24 @@
   <atom:link href="https://evwbr.github.io/rs/feed.xml" rel="self" type="application/rss+xml"/>
   <link>https://evwbr.github.io/rs/</link>
   <description>Notícias do Rio Grande do Sul (últimas 24h) reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Wed, 29 Apr 2026 17:07:38 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 29 Apr 2026 18:07:56 GMT</lastBuildDate>
   <language>pt-BR</language>
+  <item>
+    <title><![CDATA[Incêndio destrói três casas no bairro Morro Santana, em Porto Alegre]]></title>
+    <link>https://agorars.com/rs/porto-alegre/incendio-destroi-tres-casas-morro-santana-porto-alegre/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Wed, 29 Apr 2026 18:00:34 GMT</pubDate>
+    <category><![CDATA[Rio Grande do Sul]]></category>
+    <guid isPermaLink="false"><![CDATA[rsagorars:31dbe95eae78e806471ff5d23a05ceca141b5090]]></guid>
+    <media:thumbnail url="https://uploads.agorars.com/2026/04/3Xr9tFSq-incendio-morro-santana.webp" />
+    <enclosure url="https://uploads.agorars.com/2026/04/3Xr9tFSq-incendio-morro-santana.webp" type="image/webp" />
+    <description><![CDATA[Um incêndio na madrugada desta quarta-feira destruiu três casas no bairro Morro Santana. As famílias conseguiram evacuar a tempo e não houve feridos.]]></description>
+    <content:encoded><![CDATA[
+<p>Um incêndio destruiu três casas na madrugada desta quarta-feira no bairro Morro Santana, em Porto Alegre.</p>
+<p>O fogo começou por volta das 2h20, na Alameda da Fábrica, perto da esquina com a rua Ney da Gama Ahrends.</p>
+<p>As famílias conseguiram sair dos imóveis a tempo. Não houve registro de feridos.</p>
+<p>Uma moradora precisou de atendimento hospitalar após passar mal em razão do nervosismo.</p>
+<p>As chamas atingiram primeiro uma residência e se espalharam para duas casas vizinhas. As três estruturas foram totalmente destruídas.</p>
+]]></content:encoded>
+  </item>
 </channel></rss>
