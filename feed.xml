@@ -9,6 +9,41 @@
   <atom:link href="https://evwbr.github.io/rs/feed.xml" rel="self" type="application/rss+xml"/>
   <link>https://evwbr.github.io/rs/</link>
   <description>Notícias do Rio Grande do Sul (últimas 24h) reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Tue, 28 Apr 2026 23:07:33 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 29 Apr 2026 00:07:52 GMT</lastBuildDate>
   <language>pt-BR</language>
+  <item>
+    <title><![CDATA[Quarta-feira terá tempo firme, frio e chance de geada no RS]]></title>
+    <link>https://agorars.com/agora-no-tempo/previsao-do-tempo/quarta-feira-tera-tempo-firme-frio-e-chance-de-geada-no-rs/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Wed, 29 Apr 2026 00:06:07 GMT</pubDate>
+    <category><![CDATA[Rio Grande do Sul]]></category>
+    <guid isPermaLink="false"><![CDATA[rsagorars:1d47590ec3e7bb85930aa561a980ce5882e6b7cf]]></guid>
+    <media:thumbnail url="https://agorars.com/wp-content/uploads/2023/02/29JUN2021_AR_INVERNO2021_COTIDIANO_-1-min-jpg.webp" />
+    <enclosure url="https://agorars.com/wp-content/uploads/2023/02/29JUN2021_AR_INVERNO2021_COTIDIANO_-1-min-jpg.webp" type="image/webp" />
+    <description><![CDATA[A quarta-feira terá tempo firme em grande parte do Rio Grande do Sul, com frio no amanhecer e chance de geada em algumas áreas.]]></description>
+    <content:encoded><![CDATA[
+<p>A quarta-feira terá tempo firme em grande parte do Rio Grande do Sul, com frio no amanhecer e chance de geada em algumas áreas.</p>
+<p>A condição de atenção para baixas temperaturas persiste na maior parte do Estado. As mínimas variam entre 3°C e 13°C.</p>
+<p>A geada pode ocorrer em pontos altos do Sul gaúcho e na Campanha durante a manhã.</p>
+]]></content:encoded>
+  </item>
+  <item>
+    <title><![CDATA[Suspensão de multas do free flow pode atingir 1,2 milhão de autuações no RS]]></title>
+    <link>https://agorars.com/agora-no-transito/suspensao-de-multas-do-free-flow-pode-atingir-12-milhao-de-autuacoes-no-rs/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Tue, 28 Apr 2026 23:33:00 GMT</pubDate>
+    <category><![CDATA[Rio Grande do Sul]]></category>
+    <guid isPermaLink="false"><![CDATA[rsagorars:68fbc26715866a73fb9236c22da0bc4a42a37028]]></guid>
+    <media:thumbnail url="https://uploads.agorars.com/2024/10/osEQCEnA-Free-flow-Capela-de-Santana-_-Credito-Gus-Wanderlei-2-jpg.webp" />
+    <enclosure url="https://uploads.agorars.com/2024/10/osEQCEnA-Free-flow-Capela-de-Santana-_-Credito-Gus-Wanderlei-2-jpg.webp" type="image/webp" />
+    <description><![CDATA[A suspensão temporária das multas do pedágio eletrônico free flow pode impactar cerca de 1,2 milhão de autuações no Rio Grande do Sul, representando aproximadamente 30% das infrações não pagas no País.]]></description>
+    <content:encoded><![CDATA[
+<p>A suspensão temporária das multas do pedágio eletrônico free flow pode impactar cerca de 1,2 milhão de autuações no Rio Grande do Sul, representando aproximadamente 30% das infrações não pagas no País.</p>
+<p>A medida nacional do CONTRAN (Conselho Nacional de Trânsito) estabelece um prazo até 16 de novembro de 2026 para que motoristas regularizem débitos de pedágio sem a cobrança de multa e pontos na CNH.</p>
+<p>O pagamento das tarifas continua sendo obrigatório. A suspensão não implica perdão automático das cobranças. Caso o motorista não quite os pedágios dentro do prazo, as multas e os pontos poderão ser retomados.</p>
+<p>No Rio Grande do Sul, o sistema free flow é utilizado apenas nas rodovias administradas pela CSG (Caminhos da Serra Gaúcha), localizadas no Vale do Caí e na Serra. Os pórticos estão situados em São Sebastião do Caí, Capela de Santana, Farroupilha, Carlos Barbosa, Antônio Prado e Ipê.</p>
+<p>Desde o início da operação do free flow no Estado, em 15 de dezembro de 2023, foram registradas 1.281.773 passagens não pagas no prazo legal. No mesmo período, 35.742.778 passagens foram pagas dentro do prazo.</p>
+<p>A consulta e o pagamento podem ser realizados pelo site da CSG, pelo aplicativo CSG FreeFlow, por tag eletrônica ou nos totens de autoatendimento das bases da concessionária.</p>
+]]></content:encoded>
+  </item>
 </channel></rss>
