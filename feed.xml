@@ -9,39 +9,6 @@
   <atom:link href="https://evwbr.github.io/rs/feed.xml" rel="self" type="application/rss+xml"/>
   <link>https://evwbr.github.io/rs/</link>
   <description>Notícias do Rio Grande do Sul (últimas 24h) reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Thu, 30 Apr 2026 15:08:07 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 30 Apr 2026 16:07:38 GMT</lastBuildDate>
   <language>pt-BR</language>
-  <item>
-    <title><![CDATA[Porto Alegre: Defesa Civil emite alerta laranja para chuva intensa entre esta sexta e sábado]]></title>
-    <link>https://agorars.com/agora-no-tempo/alerta-laranja-chuva-porto-alegre-defesa-civil/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Thu, 30 Apr 2026 14:26:48 GMT</pubDate>
-    <category><![CDATA[Rio Grande do Sul]]></category>
-    <guid isPermaLink="false"><![CDATA[rsagorars:6a59aa26e08586d76f015b29634a3cfb57551db6]]></guid>
-    <media:thumbnail url="https://uploads.agorars.com/2026/04/NybjHI7o-ENPfrRBz-06-FEV-2026_Alex-Rocha_Previsao-Tempo_-4.webp" />
-    <enclosure url="https://uploads.agorars.com/2026/04/NybjHI7o-ENPfrRBz-06-FEV-2026_Alex-Rocha_Previsao-Tempo_-4.webp" type="image/webp" />
-    <description><![CDATA[A Defesa Civil de Porto Alegre emitiu alerta laranja para chuva intensa, com vigência das 10h desta sexta-feira até as 12h de sábado, devido à passagem de uma frente fria que provoca o retorno das instabilidades na Capital.]]></description>
-    <content:encoded><![CDATA[
-<p>A Defesa Civil de Porto Alegre emitiu alerta laranja para chuva intensa, com vigência das 10h desta sexta-feira até as 12h de sábado, devido à passagem de uma frente fria que provoca o retorno das instabilidades na Capital.</p>
-<p>De acordo com o monitoramento meteorológico, são esperados acumulados de chuva em torno de 80 milímetros ao longo do período, com maior concentração entre a tarde e a noite de sexta-feira, quando podem ocorrer cerca de 60 mm. Para a madrugada e manhã de sábado, a previsão indica volumes adicionais próximos de 20 mm. As precipitações podem vir acompanhadas de descargas elétricas, queda eventual de granizo e rajadas de vento que, pontualmente, podem superar 60 km/h.</p>
-<p>A Copae (Comissão Permanente de Atuação em Emergências) acompanha o cenário e mantém equipes mobilizadas para atuação imediata, caso necessário. O monitoramento segue contínuo, com atualização das informações conforme a evolução das condições meteorológicas.</p>
-]]></content:encoded>
-  </item>
-  <item>
-    <title><![CDATA[Alerta laranja: Inmet avisa sobre tempestades no RS a partir de sexta-feira (1º)]]></title>
-    <link>https://agorars.com/agora-no-tempo/alerta-tempestade-rs-inmet-granizo-vento-2/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Thu, 30 Apr 2026 13:44:43 GMT</pubDate>
-    <category><![CDATA[Rio Grande do Sul]]></category>
-    <guid isPermaLink="false"><![CDATA[rsagorars:baac9e56dcf6f44d9b9219c908711a76e266a7ed]]></guid>
-    <media:thumbnail url="https://uploads.agorars.com/2026/01/aDQ5bqPP-IMG_9435.webp" />
-    <enclosure url="https://uploads.agorars.com/2026/01/aDQ5bqPP-IMG_9435.webp" type="image/webp" />
-    <description><![CDATA[O Inmet emitiu alertas de tempestades para o Rio Grande do Sul, com um aviso laranja de média intensidade válido de sexta-feira até o meio-dia de sábado.]]></description>
-    <content:encoded><![CDATA[
-<p>O Inmet (Instituto Nacional de Meteorologia) publicou, nesta quinta-feira (30), dois alertas de tempestades para o Rio Grande do Sul. O aviso mais intenso é laranja, de média intensidade, e vale entre sexta (1º) e o meio-dia de sábado (2).</p>
-<p>Conforme o Inmet, deve haver chuva entre 30 e 60 mm/h ou 50 e 100 mm/dia. O Inmet também prevê ventos intensos (60-100 km/h) e queda de granizo. Há risco de corte de energia elétrica, estragos em plantações, queda de árvores e alagamentos.</p>
-<p>O aviso é válido para boa parte do território gaúcho, com exceção de áreas do Sul, Campanha e Fronteira Oeste.</p>
-<p>De qualquer forma, nesse período, todo o Rio Grande do Sul estará em alerta amarelo, de baixo risco, para tempestades. O Inmet prevê chuva entre 20 e 30 mm/h ou até 50 mm/dia, ventos intensos (40-60 km/h) e queda de granizo.</p>
-]]></content:encoded>
-  </item>
 </channel></rss>
