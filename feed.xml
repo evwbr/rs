@@ -9,6 +9,23 @@
   <atom:link href="https://evwbr.github.io/rs/feed.xml" rel="self" type="application/rss+xml"/>
   <link>https://evwbr.github.io/rs/</link>
   <description>Notícias do Rio Grande do Sul (últimas 24h) reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Fri, 01 May 2026 14:08:34 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 01 May 2026 15:08:09 GMT</lastBuildDate>
   <language>pt-BR</language>
+  <item>
+    <title><![CDATA[INMET emite alerta para tempestade severa no Rio Grande do Sul]]></title>
+    <link>https://agorars.com/agora-no-tempo/inmet-coloca-quase-todo-o-rs-em-alerta-para-tempestade-severa/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Fri, 01 May 2026 14:29:19 GMT</pubDate>
+    <category><![CDATA[Rio Grande do Sul]]></category>
+    <guid isPermaLink="false"><![CDATA[rsagorars:beb2a796c6ac3b0efd03d4af5f442a831de23812]]></guid>
+    <media:thumbnail url="https://agorars.com/wp-content/uploads/2023/12/nuvens-temporal-alegrete-jpg.webp" />
+    <enclosure url="https://agorars.com/wp-content/uploads/2023/12/nuvens-temporal-alegrete-jpg.webp" type="image/webp" />
+    <description><![CDATA[Instituto Nacional de Meteorologia alerta para riscos de chuvas intensas e ventos fortes em quase todo o estado.]]></description>
+    <content:encoded><![CDATA[
+<p>O INMET (Instituto Nacional de Meteorologia) colocou quase todo o Rio Grande do Sul em alerta de grande perigo para tempestade nesta sexta-feira. O aviso começou às 10h35 e segue até 12h de sábado.</p>
+<p>A área de maior risco abrange quase todo o território gaúcho, com exceção do Litoral Norte, Norte, Campos de Cima da Serra e Nordeste.</p>
+<p>O alerta prevê chuva superior a 60 milímetros por hora ou acima de 100 milímetros por dia. Também há risco de ventos acima de 100 km/h e queda de granizo.</p>
+<p>O aviso indica grande risco de danos em edificações, corte de energia elétrica, estragos em plantações, queda de árvores, alagamentos e transtornos no transporte rodoviário.</p>
+]]></content:encoded>
+  </item>
 </channel></rss>
