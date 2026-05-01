@@ -9,6 +9,25 @@
   <atom:link href="https://evwbr.github.io/rs/feed.xml" rel="self" type="application/rss+xml"/>
   <link>https://evwbr.github.io/rs/</link>
   <description>Notícias do Rio Grande do Sul (últimas 24h) reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Fri, 01 May 2026 22:07:31 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 01 May 2026 23:07:49 GMT</lastBuildDate>
   <language>pt-BR</language>
+  <item>
+    <title><![CDATA[Chuva acumulada ultrapassa 190 mm e provoca alagamentos em cidades do RS]]></title>
+    <link>https://agorars.com/agora-no-tempo/chuva-passa-de-190-mm-e-causa-alagamentos-em-cidades-do-rs/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Fri, 01 May 2026 22:35:26 GMT</pubDate>
+    <category><![CDATA[Rio Grande do Sul]]></category>
+    <guid isPermaLink="false"><![CDATA[rsagorars:7cd74f461c59b1ce55a064e13868c47ce07b13ac]]></guid>
+    <media:thumbnail url="https://uploads.agorars.com/2026/05/wINvMGrD-alagamentos-rosario-do-sul.webp" />
+    <enclosure url="https://uploads.agorars.com/2026/05/wINvMGrD-alagamentos-rosario-do-sul.webp" type="image/webp" />
+    <description><![CDATA[A chuva em Rosário do Sul atingiu 193,4 milímetros em 12 horas, o maior volume registrado no estado, causando alagamentos em várias localidades.]]></description>
+    <content:encoded><![CDATA[
+<p>A chuva acumulada em 12 horas ultrapassou 190 milímetros em Rosário do Sul nesta sexta-feira, conforme dados da Defesa Civil do Rio Grande do Sul.</p>
+<p>O município registrou 193,4 milímetros até 17h45, sendo o maior volume entre as medições do Centro de Monitoramento da Defesa Civil. A média de chuva em Rosário do Sul em maio é de 115 milímetros.</p>
+<p>Alegrete ficou em segundo lugar, com 156,6 milímetros em 12 horas, seguido por São Gabriel com 139,2 milímetros. Caçapava do Sul e Vila Nova do Sul registraram 129 milímetros.</p>
+<p>Na medição de seis horas, Rosário do Sul também liderou, com 156,2 milímetros. São Gabriel teve 135,8 milímetros, e Vila Nova do Sul registrou 128,2 milímetros.</p>
+<p>A Defesa Civil recebeu relatos de danos em quatro municípios até o fim da tarde.</p>
+<p>Caçapava do Sul registrou alagamentos pontuais, e a Defesa Civil municipal prestou apoio a moradores, com a participação de secretarias municipais.</p>
+]]></content:encoded>
+  </item>
 </channel></rss>
