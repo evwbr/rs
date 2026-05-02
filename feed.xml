@@ -9,24 +9,23 @@
   <atom:link href="https://evwbr.github.io/rs/feed.xml" rel="self" type="application/rss+xml"/>
   <link>https://evwbr.github.io/rs/</link>
   <description>Notícias do Rio Grande do Sul (últimas 24h) reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Sat, 02 May 2026 00:08:03 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 02 May 2026 01:08:08 GMT</lastBuildDate>
   <language>pt-BR</language>
   <item>
-    <title><![CDATA[Saúde e enchentes lideram preocupações dos eleitores gaúchos, aponta Quaest]]></title>
-    <link>https://agorars.com/politica/saude-e-enchentes-lideram-preocupacoes-dos-eleitores-gauchos-aponta-quaest/</link>
+    <title><![CDATA[Chuva ultrapassa 70 mm em Porto Alegre]]></title>
+    <link>https://agorars.com/rs/porto-alegre/chuva-passa-de-70-mm-em-porto-alegre-nesta-sexta-feira/</link>
     <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Fri, 01 May 2026 23:23:38 GMT</pubDate>
+    <pubDate>Sat, 02 May 2026 00:47:04 GMT</pubDate>
     <category><![CDATA[Rio Grande do Sul]]></category>
-    <guid isPermaLink="false"><![CDATA[rsagorars:eb6577119bf47a459b86704a464ec8d3974676d9]]></guid>
-    <media:thumbnail url="https://uploads.agorars.com/2026/05/RojA31mv-20250501_PP_EnchenteEsteio_Abre1714588522634_foto.webp" />
-    <enclosure url="https://uploads.agorars.com/2026/05/RojA31mv-20250501_PP_EnchenteEsteio_Abre1714588522634_foto.webp" type="image/webp" />
-    <description><![CDATA[A pesquisa Quaest revela que a saúde é a principal preocupação dos eleitores no Rio Grande do Sul, seguida pelas enchentes.]]></description>
+    <guid isPermaLink="false"><![CDATA[rsagorars:3f685d1b43f418a5f4785556e5f2e724c0c0d019]]></guid>
+    <media:thumbnail url="https://uploads.agorars.com/2024/12/OQNjbYCI-pessoas-atravessando-rua-em-dia-chuvoso.webp" />
+    <enclosure url="https://uploads.agorars.com/2024/12/OQNjbYCI-pessoas-atravessando-rua-em-dia-chuvoso.webp" type="image/webp" />
+    <description><![CDATA[Na última sexta-feira, Porto Alegre registrou chuvas que ultrapassaram 70 milímetros, segundo dados do Cemadec.]]></description>
     <content:encoded><![CDATA[
-<p>A saúde aparece como o maior problema do Rio Grande do Sul para os eleitores gaúchos, de acordo com a pesquisa Quaest divulgada na quinta-feira. O tema foi citado por 22% dos entrevistados. As enchentes aparecem em segundo lugar, com 16%.</p>
-<p>Na sequência, vêm economia, com 10%, educação, com 8%, e violência, também com 8%.</p>
-<p>Infraestrutura foi citada por 7%. Desemprego aparece com 4%. Corrupção e pobreza ou desigualdade registram 3% cada.</p>
-<p>Outros temas somam 11%. O índice de não sabe ou não respondeu ficou em 8%.</p>
-<p>Entre eleitores lulistas, saúde e enchentes aparecem praticamente empatadas. Saúde foi citada por 24%, e enchentes, por 25%.</p>
+<p>A chuva passou de 70 milímetros em Porto Alegre nesta sexta-feira, conforme dados do Cemadec.</p>
+<p>O maior acumulado foi registrado no Guarujá, com 74,8 milímetros até 21h. No Lami, o volume chegou a 65,6 milímetros.</p>
+<p>Além disso, foram registrados 43,5 milímetros na rua da Represa, 40,8 milímetros no Sarandi/Nova Brasília e 40,4 milímetros na Lomba do Sabão.</p>
+<p>Na Ilha da Pintada, o volume foi de 30,7 milímetros. Na Ilha dos Marinheiros, chegou a 38,6 milímetros. No Passo das Pedras, foram 35,8 milímetros.</p>
 ]]></content:encoded>
   </item>
 </channel></rss>
