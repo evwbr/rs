@@ -9,24 +9,22 @@
   <atom:link href="https://evwbr.github.io/rs/feed.xml" rel="self" type="application/rss+xml"/>
   <link>https://evwbr.github.io/rs/</link>
   <description>Notícias do Rio Grande do Sul (últimas 24h) reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Sun, 03 May 2026 01:07:58 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 03 May 2026 02:08:05 GMT</lastBuildDate>
   <language>pt-BR</language>
   <item>
-    <title><![CDATA[Chuva no RS deixa 524 fora de casa; Rosário do Sul decreta emergência]]></title>
-    <link>https://agorars.com/agora-no-tempo/chuva-no-rs-deixa-524-fora-de-casa-rosario-do-sul-decreta-emergencia/</link>
+    <title><![CDATA[Domingo será frio e com tempo firme no Rio Grande do Sul]]></title>
+    <link>https://agorars.com/agora-no-tempo/previsao-do-tempo/domingo-sera-frio-e-com-tempo-firme-no-rio-grande-do-sul/</link>
     <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Sun, 03 May 2026 00:24:46 GMT</pubDate>
+    <pubDate>Sun, 03 May 2026 01:37:56 GMT</pubDate>
     <category><![CDATA[Rio Grande do Sul]]></category>
-    <guid isPermaLink="false"><![CDATA[rsagorars:457259922d839d5b67ea67db0eacf700eee707b0]]></guid>
-    <media:thumbnail url="https://uploads.agorars.com/2026/05/z9lFPqoU-alagamentos-rosario-do-sul3.webp" />
-    <enclosure url="https://uploads.agorars.com/2026/05/z9lFPqoU-alagamentos-rosario-do-sul3.webp" type="image/webp" />
-    <description><![CDATA[A chuva no Rio Grande do Sul resultou em 524 pessoas fora de casa, com 4 desabrigados e 520 desalojados. Rosário do Sul é a cidade mais afetada, com 512 desalojados.]]></description>
+    <guid isPermaLink="false"><![CDATA[rsagorars:bae012334cc8d553667699c8118564bfbd9c2456]]></guid>
+    <media:thumbnail url="https://uploads.agorars.com/2026/01/bSwqvuvr-11JAN2022_Alex_Rocha_foto_aerea_Poa_-3_0.webp" />
+    <enclosure url="https://uploads.agorars.com/2026/01/bSwqvuvr-11JAN2022_Alex_Rocha_foto_aerea_Poa_-3_0.webp" type="image/webp" />
+    <description><![CDATA[O domingo será de tempo firme e frio no RS, com predomínio de sol e temperaturas mais baixas pela manhã.]]></description>
     <content:encoded><![CDATA[
-<p>A chuva no Rio Grande do Sul deixou 524 pessoas fora de casa até a tarde deste sábado. O boletim da Defesa Civil Estadual aponta quatro desabrigados e 520 desalojados.</p>
-<p>Rosário do Sul concentra o maior impacto, com 512 desalojados. Ernestina tem oito desalojados, enquanto Agudo registra quatro desabrigados. O levantamento não aponta óbitos, feridos ou desaparecidos.</p>
-<p>No entanto, duas mortes estão sendo investigadas, podendo ou não estar relacionadas às chuvas. O primeiro caso é de um homem de 24 anos, morador de Canguçu, que sofreu uma descarga elétrica enquanto carregava um celular. O segundo caso envolve uma mulher de 25 anos, que foi atingida por um eucalipto em Bom Retiro do Sul.</p>
-<p>O município de Rosário do Sul decretou situação de emergência nível II após registrar inundações, alagamentos e danos em áreas urbanas e rurais. O decreto menciona prejuízos materiais em residências e vias públicas.</p>
-<p>A medida autoriza a mobilização de órgãos municipais sob coordenação da Defesa Civil para ações de resposta, reabilitação e reconstrução. A prefeitura também poderá convocar voluntários e realizar campanhas de arrecadação para atender moradores afetados.</p>
+<p>O domingo será de tempo firme e frio no RS, com predomínio de sol na maior parte do Estado e temperaturas mais baixas pela manhã.</p>
+<p>Há chance de geada em áreas do Rio Grande do Sul nas primeiras horas do dia, o que exige atenção em pontos mais frios, especialmente em regiões de maior altitude e baixadas.</p>
+<p>Em Porto Alegre, o domingo terá tempo firme e máxima de 18°C, com temperaturas baixas no início do dia e uma leve elevação durante a tarde.</p>
 ]]></content:encoded>
   </item>
 </channel></rss>
