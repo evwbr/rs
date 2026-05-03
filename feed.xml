@@ -9,6 +9,23 @@
   <atom:link href="https://evwbr.github.io/rs/feed.xml" rel="self" type="application/rss+xml"/>
   <link>https://evwbr.github.io/rs/</link>
   <description>Notícias do Rio Grande do Sul (últimas 24h) reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Sun, 03 May 2026 15:07:54 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 03 May 2026 16:07:52 GMT</lastBuildDate>
   <language>pt-BR</language>
+  <item>
+    <title><![CDATA[Sobe para 24 o número de cidades com danos pela chuva no RS]]></title>
+    <link>https://agorars.com/agora-no-tempo/sobe-para-24-o-numero-de-cidades-com-danos-pela-chuva-no-rs/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Sun, 03 May 2026 16:00:47 GMT</pubDate>
+    <category><![CDATA[Rio Grande do Sul]]></category>
+    <guid isPermaLink="false"><![CDATA[rsagorars:a6d18b73116fcf1c52c8369deb5d277ffbb2fdc1]]></guid>
+    <media:thumbnail url="https://uploads.agorars.com/2026/05/wINvMGrD-alagamentos-rosario-do-sul.webp" />
+    <enclosure url="https://uploads.agorars.com/2026/05/wINvMGrD-alagamentos-rosario-do-sul.webp" type="image/webp" />
+    <description><![CDATA[A chuva que atingiu o Rio Grande do Sul causou danos em 24 municípios, conforme boletim da Defesa Civil RS.]]></description>
+    <content:encoded><![CDATA[
+<p>A chuva que atingiu o Rio Grande do Sul entre sexta e sábado causou danos em 24 municípios, conforme boletim da Defesa Civil RS atualizado na manhã deste domingo.</p>
+<p>A lista inclui alagamentos, danos em telhados, estradas afetadas e residências atingidas pela água.</p>
+<p>Cachoeira do Sul e Cruz Alta entraram na atualização mais recente, registrando alagamentos pontuais e danos em telhados.</p>
+<p>Rosário do Sul teve o maior acumulado de chuva em um dia, com 251 mm. Vila Nova do Sul registrou 221,8 mm, Caçapava do Sul chegou a 205,4 mm, São Gabriel marcou 201,4 mm e Alegrete teve 190,2 mm.</p>
+]]></content:encoded>
+  </item>
 </channel></rss>
