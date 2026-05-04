@@ -9,38 +9,21 @@
   <atom:link href="https://evwbr.github.io/rs/feed.xml" rel="self" type="application/rss+xml"/>
   <link>https://evwbr.github.io/rs/</link>
   <description>Notícias do Rio Grande do Sul (últimas 24h) reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Mon, 04 May 2026 02:07:50 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 04 May 2026 03:07:41 GMT</lastBuildDate>
   <language>pt-BR</language>
   <item>
-    <title><![CDATA[Sine de Porto Alegre abre a semana com 1.279 vagas de emprego]]></title>
-    <link>https://agorars.com/empregos/sine-de-porto-alegre-abre-a-semana-com-1-279-vagas-de-emprego/</link>
+    <title><![CDATA[Segunda-feira será fria e com tempo firme no RS]]></title>
+    <link>https://agorars.com/agora-no-tempo/previsao-do-tempo/segunda-feira-sera-fria-e-com-tempo-firme-no-rs/</link>
     <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Mon, 04 May 2026 01:38:15 GMT</pubDate>
+    <pubDate>Mon, 04 May 2026 02:41:51 GMT</pubDate>
     <category><![CDATA[Rio Grande do Sul]]></category>
-    <guid isPermaLink="false"><![CDATA[rsagorars:51b9bc06500c85cfcd4ef7e361aff47ded121f1f]]></guid>
-    <media:thumbnail url="https://uploads.agorars.com/2026/01/CcKkDVkU-191122_CTPS_TRABALHO_DP22775.webp" />
-    <enclosure url="https://uploads.agorars.com/2026/01/CcKkDVkU-191122_CTPS_TRABALHO_DP22775.webp" type="image/webp" />
-    <description><![CDATA[O Sine de Porto Alegre inicia a semana com 1.279 oportunidades de trabalho em diversas áreas, com atendimento presencial a partir desta segunda-feira.]]></description>
+    <guid isPermaLink="false"><![CDATA[rsagorars:bf42c899c1718333d8423873a3244f93bdd5382f]]></guid>
+    <media:thumbnail url="https://agorars.com/wp-content/uploads/2021/07/29JUN2021_AR_INVERNO2021_COTIDIANO_-1_0-jpg-webp.webp" />
+    <enclosure url="https://agorars.com/wp-content/uploads/2021/07/29JUN2021_AR_INVERNO2021_COTIDIANO_-1_0-jpg-webp.webp" type="image/webp" />
+    <description><![CDATA[A segunda-feira (4) será de tempo firme e frio na maior parte do RS, devido à atuação de uma massa de ar seco e frio.]]></description>
     <content:encoded><![CDATA[
-<p>O Sine de Porto Alegre inicia a semana com 1.279 vagas de emprego em diferentes áreas.</p>
-<p>Do total, 154 vagas são destinadas a pessoas com deficiência. Para buscar atendimento, é necessário comparecer presencialmente a uma das unidades com documento oficial com foto.</p>
-<p>A sede do Sine Municipal fica na Rua Uruguai, 83, no Centro Histórico. O atendimento ocorre das 8h às 17h, sem fechar ao meio-dia.</p>
-]]></content:encoded>
-  </item>
-  <item>
-    <title><![CDATA[Rio Ibirapuitã chega a 10 metros e passa da cota de inundação em Alegrete]]></title>
-    <link>https://agorars.com/agora-no-tempo/rio-ibirapuita-chega-a-10-metros-e-passa-da-cota-de-inundacao-em-alegrete/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Mon, 04 May 2026 01:31:13 GMT</pubDate>
-    <category><![CDATA[Rio Grande do Sul]]></category>
-    <guid isPermaLink="false"><![CDATA[rsagorars:2e1d25a03b5559748885e8e96a582b8cdb8332dc]]></guid>
-    <media:thumbnail url="https://uploads.agorars.com/2026/05/WT7HY2bt-cheia-ibirapuita.webp" />
-    <enclosure url="https://uploads.agorars.com/2026/05/WT7HY2bt-cheia-ibirapuita.webp" type="image/webp" />
-    <description><![CDATA[O rio Ibirapuitã atingiu 10 metros em Alegrete, superando a cota de inundação de 9,70 metros. Duas famílias estão desalojadas, mas não há registro de desabrigados.]]></description>
-    <content:encoded><![CDATA[
-<p>O rio Ibirapuitã atingiu 10 metros em Alegrete, na Fronteira Oeste do Rio Grande do Sul. O dado mais recente disponível no sistema Hidro, da ANA (Agência Nacional de Águas e Saneamento Básico) é das 21h15 deste domingo.</p>
-<p>Às 18h, a Defesa Civil de Alegrete havia registrado o rio em 9,86 metros. Naquele horário, duas famílias estavam desalojadas, totalizando quatro pessoas. Não havia registro de desabrigados.</p>
-<p>A cidade mantém abrigos preparados para acolhimento no Ginásio da Escola Euripedes Brasil Milano, Ginásio da Escola Honório Lemes, Igreja Exército de Salvação, Igreja Quadrangular, Berçário Industrial e Escola de Samba Ritmista.</p>
+<p>A segunda-feira (4) será de tempo firme e frio na maior parte do RS. A atuação de uma massa de ar seco e frio deve manter a estabilidade em grande parte do território gaúcho.</p>
+<p>A madrugada e o amanhecer ainda terão temperaturas baixas no Sul do Brasil. Em Porto Alegre, a temperatura deve ficar um pouco abaixo da registrada no domingo (3), mas sem expectativa de novo recorde de frio em 2026.</p>
 ]]></content:encoded>
   </item>
 </channel></rss>
