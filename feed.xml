@@ -9,21 +9,6 @@
   <atom:link href="https://evwbr.github.io/rs/feed.xml" rel="self" type="application/rss+xml"/>
   <link>https://evwbr.github.io/rs/</link>
   <description>Notícias do Rio Grande do Sul (últimas 24h) reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Mon, 04 May 2026 03:07:41 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 04 May 2026 04:07:32 GMT</lastBuildDate>
   <language>pt-BR</language>
-  <item>
-    <title><![CDATA[Segunda-feira será fria e com tempo firme no RS]]></title>
-    <link>https://agorars.com/agora-no-tempo/previsao-do-tempo/segunda-feira-sera-fria-e-com-tempo-firme-no-rs/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Mon, 04 May 2026 02:41:51 GMT</pubDate>
-    <category><![CDATA[Rio Grande do Sul]]></category>
-    <guid isPermaLink="false"><![CDATA[rsagorars:bf42c899c1718333d8423873a3244f93bdd5382f]]></guid>
-    <media:thumbnail url="https://agorars.com/wp-content/uploads/2021/07/29JUN2021_AR_INVERNO2021_COTIDIANO_-1_0-jpg-webp.webp" />
-    <enclosure url="https://agorars.com/wp-content/uploads/2021/07/29JUN2021_AR_INVERNO2021_COTIDIANO_-1_0-jpg-webp.webp" type="image/webp" />
-    <description><![CDATA[A segunda-feira (4) será de tempo firme e frio na maior parte do RS, devido à atuação de uma massa de ar seco e frio.]]></description>
-    <content:encoded><![CDATA[
-<p>A segunda-feira (4) será de tempo firme e frio na maior parte do RS. A atuação de uma massa de ar seco e frio deve manter a estabilidade em grande parte do território gaúcho.</p>
-<p>A madrugada e o amanhecer ainda terão temperaturas baixas no Sul do Brasil. Em Porto Alegre, a temperatura deve ficar um pouco abaixo da registrada no domingo (3), mas sem expectativa de novo recorde de frio em 2026.</p>
-]]></content:encoded>
-  </item>
 </channel></rss>
