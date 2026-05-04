@@ -9,23 +9,38 @@
   <atom:link href="https://evwbr.github.io/rs/feed.xml" rel="self" type="application/rss+xml"/>
   <link>https://evwbr.github.io/rs/</link>
   <description>Notícias do Rio Grande do Sul (últimas 24h) reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Mon, 04 May 2026 01:07:38 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 04 May 2026 02:07:50 GMT</lastBuildDate>
   <language>pt-BR</language>
   <item>
-    <title><![CDATA[Fim da escala 6x1 pode atingir 37 milhões de trabalhadores no Brasil]]></title>
-    <link>https://agorars.com/empregos/fim-da-escala-6x1-pode-atingir-37-milhoes-de-trabalhadores-no-brasil/</link>
+    <title><![CDATA[Sine de Porto Alegre abre a semana com 1.279 vagas de emprego]]></title>
+    <link>https://agorars.com/empregos/sine-de-porto-alegre-abre-a-semana-com-1-279-vagas-de-emprego/</link>
     <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Mon, 04 May 2026 00:25:27 GMT</pubDate>
+    <pubDate>Mon, 04 May 2026 01:38:15 GMT</pubDate>
     <category><![CDATA[Rio Grande do Sul]]></category>
-    <guid isPermaLink="false"><![CDATA[rsagorars:a6e10d10d1b1b867c4e452c8f266f8549bf1bd60]]></guid>
-    <media:thumbnail url="https://uploads.agorars.com/2025/04/3LJTo4Pp-rua-dos-andradas-porto-alegre.webp" />
-    <enclosure url="https://uploads.agorars.com/2025/04/3LJTo4Pp-rua-dos-andradas-porto-alegre.webp" type="image/webp" />
-    <description><![CDATA[A estimativa é parte de uma campanha nacional do governo federal sobre a redução desse tipo de jornada de trabalho.]]></description>
+    <guid isPermaLink="false"><![CDATA[rsagorars:51b9bc06500c85cfcd4ef7e361aff47ded121f1f]]></guid>
+    <media:thumbnail url="https://uploads.agorars.com/2026/01/CcKkDVkU-191122_CTPS_TRABALHO_DP22775.webp" />
+    <enclosure url="https://uploads.agorars.com/2026/01/CcKkDVkU-191122_CTPS_TRABALHO_DP22775.webp" type="image/webp" />
+    <description><![CDATA[O Sine de Porto Alegre inicia a semana com 1.279 oportunidades de trabalho em diversas áreas, com atendimento presencial a partir desta segunda-feira.]]></description>
     <content:encoded><![CDATA[
-<p>O fim da escala 6×1 pode atingir ao menos 37 milhões de trabalhadores no Brasil. A estimativa integra a campanha nacional lançada pelo governo federal sobre a redução desse tipo de jornada.</p>
-<p>A escala 6×1 prevê seis dias de trabalho para uma folga semanal. O modelo é comum em setores como comércio, serviços, alimentação, limpeza, segurança privada, saúde e atividades com funcionamento contínuo.</p>
-<p>A campanha associa o fim da escala à melhoria das condições de vida dos trabalhadores. O tema ganhou força nos últimos anos nas redes sociais, em sindicatos e no Congresso, mas ainda depende de avanço legislativo para produzir mudança obrigatória nas relações de trabalho.</p>
-<p>Na escala 6×1, o trabalhador cumpre seis dias consecutivos ou distribuídos de serviço e tem um dia de descanso. A folga semanal pode cair em dias diferentes, conforme a organização da empresa e as regras da categoria.</p>
+<p>O Sine de Porto Alegre inicia a semana com 1.279 vagas de emprego em diferentes áreas.</p>
+<p>Do total, 154 vagas são destinadas a pessoas com deficiência. Para buscar atendimento, é necessário comparecer presencialmente a uma das unidades com documento oficial com foto.</p>
+<p>A sede do Sine Municipal fica na Rua Uruguai, 83, no Centro Histórico. O atendimento ocorre das 8h às 17h, sem fechar ao meio-dia.</p>
+]]></content:encoded>
+  </item>
+  <item>
+    <title><![CDATA[Rio Ibirapuitã chega a 10 metros e passa da cota de inundação em Alegrete]]></title>
+    <link>https://agorars.com/agora-no-tempo/rio-ibirapuita-chega-a-10-metros-e-passa-da-cota-de-inundacao-em-alegrete/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Mon, 04 May 2026 01:31:13 GMT</pubDate>
+    <category><![CDATA[Rio Grande do Sul]]></category>
+    <guid isPermaLink="false"><![CDATA[rsagorars:2e1d25a03b5559748885e8e96a582b8cdb8332dc]]></guid>
+    <media:thumbnail url="https://uploads.agorars.com/2026/05/WT7HY2bt-cheia-ibirapuita.webp" />
+    <enclosure url="https://uploads.agorars.com/2026/05/WT7HY2bt-cheia-ibirapuita.webp" type="image/webp" />
+    <description><![CDATA[O rio Ibirapuitã atingiu 10 metros em Alegrete, superando a cota de inundação de 9,70 metros. Duas famílias estão desalojadas, mas não há registro de desabrigados.]]></description>
+    <content:encoded><![CDATA[
+<p>O rio Ibirapuitã atingiu 10 metros em Alegrete, na Fronteira Oeste do Rio Grande do Sul. O dado mais recente disponível no sistema Hidro, da ANA (Agência Nacional de Águas e Saneamento Básico) é das 21h15 deste domingo.</p>
+<p>Às 18h, a Defesa Civil de Alegrete havia registrado o rio em 9,86 metros. Naquele horário, duas famílias estavam desalojadas, totalizando quatro pessoas. Não havia registro de desabrigados.</p>
+<p>A cidade mantém abrigos preparados para acolhimento no Ginásio da Escola Euripedes Brasil Milano, Ginásio da Escola Honório Lemes, Igreja Exército de Salvação, Igreja Quadrangular, Berçário Industrial e Escola de Samba Ritmista.</p>
 ]]></content:encoded>
   </item>
 </channel></rss>
