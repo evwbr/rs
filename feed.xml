@@ -9,26 +9,23 @@
   <atom:link href="https://evwbr.github.io/rs/feed.xml" rel="self" type="application/rss+xml"/>
   <link>https://evwbr.github.io/rs/</link>
   <description>Notícias do Rio Grande do Sul (últimas 24h) reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Mon, 04 May 2026 13:08:06 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 04 May 2026 14:07:43 GMT</lastBuildDate>
   <language>pt-BR</language>
   <item>
-    <title><![CDATA[Governo do RS realizará exercício simulado de ação e resgate em movimento de massa]]></title>
-    <link>https://agorars.com/rs/serra/simulado-defesa-civil-deslizamento-bento-goncalves/</link>
+    <title><![CDATA[Alerta amarelo: Inmet prevê tempestades no RS entre segunda (4) e terça-feira (5)]]></title>
+    <link>https://agorars.com/agora-no-tempo/alerta-tempestade-rs-inmet-amarelo/</link>
     <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Mon, 04 May 2026 13:01:40 GMT</pubDate>
+    <pubDate>Mon, 04 May 2026 13:32:23 GMT</pubDate>
     <category><![CDATA[Rio Grande do Sul]]></category>
-    <guid isPermaLink="false"><![CDATA[rsagorars:514ca100c1d6fdd1cc226ece85e39f7129719a65]]></guid>
-    <media:thumbnail url="https://uploads.agorars.com/2025/04/mSNqwV0y-defesa-civil-rs-radar.webp" />
-    <enclosure url="https://uploads.agorars.com/2025/04/mSNqwV0y-defesa-civil-rs-radar.webp" type="image/webp" />
-    <description><![CDATA[O exercício visa avaliar a articulação interinstitucional e a resposta a deslizamentos de terra em Bento Gonçalves.]]></description>
+    <guid isPermaLink="false"><![CDATA[rsagorars:863e14a4896e04f9e8f54b3f2c917d8188992f8a]]></guid>
+    <media:thumbnail url="https://uploads.agorars.com/2026/04/gxM3Atev-iT4emoQ9-24-FEV-2026_Alex-Rocha_Previsao-Tempo_-1.webp" />
+    <enclosure url="https://uploads.agorars.com/2026/04/gxM3Atev-iT4emoQ9-24-FEV-2026_Alex-Rocha_Previsao-Tempo_-1.webp" type="image/webp" />
+    <description><![CDATA[O Inmet emitiu um alerta para tempestades em partes do Rio Grande do Sul, com previsão de chuvas intensas e possibilidade de ventos fortes e granizo.]]></description>
     <content:encoded><![CDATA[
-<p>Na quarta-feira (6), o governo do Estado, por meio da Defesa Civil, mobilizará comunidade e estruturas estaduais, municipais e federais para a realização de um exercício simulado de ação e resgate em movimento de massa. O local escolhido é Bento Gonçalves, a quarta cidade com maior risco geológico no Rio Grande do Sul.</p>
-<p>É a primeira vez na história que o Estado promove uma ação deste porte. "E, diferentemente de uma demonstração, o que vai ocorrer é um teste prático, em tempo real, de todos os protocolos consolidados após os eventos extremos de 2024", diz a nota.</p>
-<p>O principal objetivo é avaliar a articulação interinstitucional e a preparação e resposta integradas a partir do emprego do SCI (Sistema de Comando de Incidentes), ferramenta de gestão padronizada que organiza resposta a situações de emergência.</p>
-<p>A mobilização ocorrerá entre 10h e 16h e colocará à prova todo o fluxo de resposta a um deslizamento de terra, indo do monitoramento do risco e dos alertas à comunidade até o encerramento da ocorrência no bairro Zatt. O local é uma encosta urbana suscetível a deslizamentos de solo e queda de blocos, especialmente em casos de chuva constante. A área incluída no exercício abriga aproximadamente 140 pessoas e 36 edificações potencialmente expostas. Uma ocorrência real no local poderia afetar cerca de 800 pessoas.</p>
-<p>Haverá, no exercício, manequins soterrados, pessoas reais da comunidade dadas como desaparecidas e resgate de feridos com helicópteros e encaminhamento para hospitais. Um abrigo terá de ser montado emergencialmente e irá receber cerca de 80 pessoas entre moradores e figurantes, enquanto corredores para fluxo das ambulâncias serão delimitados nas vias públicas. Psicólogos irão simular atendimento às famílias dos desaparecidos dentro do abrigo. Helicópteros, viaturas, ambulâncias e outros equipamentos serão acionados em tempo real à ocorrência do evento adverso.</p>
-<p>Entre as ações programadas, estão, ainda, emissão de aviso meteorológico e alertas cell broadcast, a instalação de um Gabinete Integrado de Gestão de Desastres, a interrupção dos serviços de energia elétrica, água e telefonia e a evacuação da área.</p>
-<p>"Com a simulação, será possível exercitar a tomada de decisão; testar fluxos de comunicação, comando e controle; avaliar o emprego dos elementos de preparação e resposta em eventos críticos; e validar o fluxo de alertas, a triagem de vítimas, o emprego de recursos de acolhimento e outros aspectos logísticos", diz a Defesa Civil.</p>
+<p>O Inmet (Instituto Nacional de Meteorologia) publicou um alerta para tempestades em parte do Rio Grande do Sul. O aviso vigora das 15h de hoje (4) e vale até as primeiras horas da manhã de terça-feira (5).</p>
+<p>Conforme o Instituto, deve haver chuva entre 20 e 30 mm/h ou até 50 mm/dia. O alerta também traz a possibilidade de ventos intensos (40-60 km/h) e queda de granizo.</p>
+<p>O alerta não abrange todo o território gaúcho. Deve chover em áreas da Região Metropolitana, Nordeste, Serra, Vales, Norte e Noroeste.</p>
+<p>O alerta é amarelo, o de menor intensidade na escala do Inmet. Portanto, é baixo o risco de corte de energia elétrica, estragos em plantações, queda de galhos de árvores e alagamentos.</p>
 ]]></content:encoded>
   </item>
 </channel></rss>
