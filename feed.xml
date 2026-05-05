@@ -9,23 +9,22 @@
   <atom:link href="https://evwbr.github.io/rs/feed.xml" rel="self" type="application/rss+xml"/>
   <link>https://evwbr.github.io/rs/</link>
   <description>Notícias do Rio Grande do Sul (últimas 24h) reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Tue, 05 May 2026 14:08:12 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 05 May 2026 15:07:50 GMT</lastBuildDate>
   <language>pt-BR</language>
   <item>
-    <title><![CDATA[Alerta amarelo: Inmet prevê novas tempestades no RS entre terça (5) e quarta-feira (6)]]></title>
-    <link>https://agorars.com/agora-no-tempo/alerta-tempestade-rs-inmet-quarta-feira/</link>
+    <title><![CDATA[TJ anula júri que absolveu médica em Planalto e determina novo julgamento]]></title>
+    <link>https://agorars.com/rs/norte/justica-anula-juri-medica-morte-bebe-rs/</link>
     <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Tue, 05 May 2026 13:18:54 GMT</pubDate>
+    <pubDate>Tue, 05 May 2026 14:08:26 GMT</pubDate>
     <category><![CDATA[Rio Grande do Sul]]></category>
-    <guid isPermaLink="false"><![CDATA[rsagorars:27368576e591573190e039c690f4e3554b7d9690]]></guid>
-    <media:thumbnail url="https://uploads.agorars.com/2025/12/xQXnWzC2-Tempo_quente_pancadas_chuva.webp" />
-    <enclosure url="https://uploads.agorars.com/2025/12/xQXnWzC2-Tempo_quente_pancadas_chuva.webp" type="image/webp" />
-    <description><![CDATA[O Inmet emitiu um alerta para tempestades no Rio Grande do Sul, válido até a manhã de quarta-feira (6).]]></description>
+    <guid isPermaLink="false"><![CDATA[rsagorars:6fe6a53faa22587e012a063e6ca86423a5161659]]></guid>
+    <media:thumbnail url="https://uploads.agorars.com/2025/11/7DbeWNbu-judge-3665164_1280.webp" />
+    <enclosure url="https://uploads.agorars.com/2025/11/7DbeWNbu-judge-3665164_1280.webp" type="image/webp" />
+    <description><![CDATA[A Justiça anulou o julgamento do Tribunal do Júri que havia absolvido uma médica acusada pela morte de um bebê durante o trabalho de parto, ocorrido em 2019, no município de Planalto. A decisão também determinou a realização de um novo júri na Comarca de Frederico Westphalen.]]></description>
     <content:encoded><![CDATA[
-<p>O Inmet (Instituto Nacional de Meteorologia) publicou um alerta para tempestades no Rio Grande do Sul. O aviso já está em vigor e vai até a manhã de quarta-feira (6).</p>
-<p>Conforme o Instituto, deve haver chuva entre 20 e 30 mm/h ou até 50 mm/dia. Também há previsão de ventos intensos (40-60 km/h) e queda de granizo.</p>
-<p>O alerta não abrange todo o território gaúcho. O aviso é válido para áreas mais ao Sul, Campanha, Costa Doce, Centro e Fronteira Oeste.</p>
-<p>O alerta é amarelo, de menor intensidade na escala. Assim, é baixo o risco de corte de energia elétrica, estragos em plantações, queda de galhos de árvores e de alagamentos.</p>
+<p>A Justiça anulou o julgamento do Tribunal do Júri que havia absolvido uma médica acusada pela morte de um bebê durante o trabalho de parto, ocorrido em 2019, no município de Planalto. A decisão também determinou a realização de um novo júri na Comarca de Frederico Westphalen.</p>
+<p>A decisão ocorreu em 26 de março pela 2ª Câmara Criminal do Tribunal de Justiça. O colegiado aceitou o recurso interposto pela assistência de acusação, acolhendo os fundamentos apresentados no parecer elaborado pela procuradora de Justiça Sônia Eleni Corrêa da Procuradoria de Justiça Criminal.</p>
+<p>No parecer, a procuradora demonstrou a existência de nulidades graves no julgamento, requerendo a anulação da sessão do júri e o desaforamento do processo para outra comarca. Foram apontadas irregularidades como quebra de imparcialidade no Conselho de Sentença, cerceamento da acusação, afronta ao contraditório e julgamento contrário às provas dos autos.</p>
 ]]></content:encoded>
   </item>
 </channel></rss>
