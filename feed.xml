@@ -9,6 +9,39 @@
   <atom:link href="https://evwbr.github.io/rs/feed.xml" rel="self" type="application/rss+xml"/>
   <link>https://evwbr.github.io/rs/</link>
   <description>Notícias do Rio Grande do Sul (últimas 24h) reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Wed, 06 May 2026 00:07:45 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 06 May 2026 01:07:54 GMT</lastBuildDate>
   <language>pt-BR</language>
+  <item>
+    <title><![CDATA[Quarta-feira terá risco de temporais em parte do RS]]></title>
+    <link>https://agorars.com/agora-no-tempo/previsao-do-tempo/quarta-feira-tera-risco-de-temporais-em-parte-do-rs/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Wed, 06 May 2026 00:20:39 GMT</pubDate>
+    <category><![CDATA[Rio Grande do Sul]]></category>
+    <guid isPermaLink="false"><![CDATA[rsagorars:175ce8eeff2f393f6ff3c67024376ccd36c3f1e2]]></guid>
+    <media:thumbnail url="https://agorars.com/wp-content/uploads/2023/07/tempo-chuva-fernando-dias-seapi-jpeg-webp.webp" />
+    <enclosure url="https://agorars.com/wp-content/uploads/2023/07/tempo-chuva-fernando-dias-seapi-jpeg-webp.webp" type="image/webp" />
+    <description><![CDATA[A quarta-feira terá risco de temporais isolados em parte do Rio Grande do Sul, com possibilidade de chuva forte, granizo e rajadas de vento.]]></description>
+    <content:encoded><![CDATA[
+<p>A quarta-feira terá risco de temporais isolados em parte do Rio Grande do Sul, com possibilidade de chuva forte, granizo e rajadas de vento.</p>
+<p>Na madrugada, a instabilidade pode atingir áreas da Campanha, Costa Doce, região metropolitana de Porto Alegre, Litoral Médio, Litoral Norte e Sul do Estado.</p>
+<p>Há possibilidade de chuva pontualmente forte e queda de granizo grande nessas regiões.</p>
+<p>Entre a tarde e a noite, uma nova rodada de temporais deve avançar pelo Extremo Sul. O risco inclui chuva forte, raios, granizo e rajadas de vento de até 90 km/h.</p>
+]]></content:encoded>
+  </item>
+  <item>
+    <title><![CDATA[Mulher acusada de matar cachorro a golpes de picareta deixa prisão em Porto Alegre]]></title>
+    <link>https://agorars.com/plantao-rs/mulher-acusada-de-matar-cachorro-a-golpes-de-picareta-deixa-prisao-em-porto-alegre/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Wed, 06 May 2026 00:09:11 GMT</pubDate>
+    <category><![CDATA[Rio Grande do Sul]]></category>
+    <guid isPermaLink="false"><![CDATA[rsagorars:6dd7a6c6e5bbd1c42e4e397a389de7609d6ad5d9]]></guid>
+    <media:thumbnail url="https://uploads.agorars.com/2026/05/iuhurksD-ataque-animal-porto-alegre.webp" />
+    <enclosure url="https://uploads.agorars.com/2026/05/iuhurksD-ataque-animal-porto-alegre.webp" type="image/webp" />
+    <description><![CDATA[A mulher de 32 anos, acusada de matar um cachorro a golpes de picareta, foi liberada após audiência de custódia. Ela é investigada por maus-tratos e pela morte de um animal identificado como 'Branquinho'.]]></description>
+    <content:encoded><![CDATA[
+<p>A mulher acusada de matar um cachorro a golpes de picareta em Porto Alegre deixou a prisão nesta terça-feira. A investigada, de 32 anos, teve a prisão em flagrante homologada, mas recebeu liberdade provisória após audiência de custódia no NUGESP.</p>
+<p>Ela havia sido presa por maus-tratos a animais e também é investigada pela morte de um cachorro identificado como 'Branquinho'. Um vídeo anexado à investigação mostra agressões com uma ferramenta semelhante a uma picareta. A morte do animal teria ocorrido em novembro de 2025, na zona leste da Capital.</p>
+<p>A Justiça proibiu a mulher de manter qualquer tipo de animal sob sua guarda.</p>
+]]></content:encoded>
+  </item>
 </channel></rss>
