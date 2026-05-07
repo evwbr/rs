@@ -9,6 +9,22 @@
   <atom:link href="https://evwbr.github.io/rs/feed.xml" rel="self" type="application/rss+xml"/>
   <link>https://evwbr.github.io/rs/</link>
   <description>Notícias do Rio Grande do Sul (últimas 24h) reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Thu, 07 May 2026 14:07:38 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 07 May 2026 15:07:38 GMT</lastBuildDate>
   <language>pt-BR</language>
+  <item>
+    <title><![CDATA[Porto Alegre em alerta para vendaval com rajadas acima de 80 km/h]]></title>
+    <link>https://agorars.com/agora-no-tempo/porto-alegre-tem-alerta-para-vendaval-com-rajadas-acima-de-80-km-h/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Thu, 07 May 2026 14:41:09 GMT</pubDate>
+    <category><![CDATA[Rio Grande do Sul]]></category>
+    <guid isPermaLink="false"><![CDATA[rsagorars:d9addcd83b6eddda0d2f3a18410f4541a82743fa]]></guid>
+    <media:thumbnail url="https://agorars.com/wp-content/uploads/2023/06/16JUN2023_RODGER-TIMM-EPTC-Temporal-em-POA-76.jpeg" />
+    <enclosure url="https://agorars.com/wp-content/uploads/2023/06/16JUN2023_RODGER-TIMM-EPTC-Temporal-em-POA-76.jpeg" type="image/webp" />
+    <description><![CDATA[A Defesa Civil emitiu um alerta para risco de vendaval em Porto Alegre, com rajadas de vento que podem ultrapassar 80 km/h entre a noite de quinta-feira e o meio-dia de sexta-feira.]]></description>
+    <content:encoded><![CDATA[
+<p>Porto Alegre está em alerta para risco de vendaval entre a noite desta quinta-feira e o meio-dia de sexta-feira. Conforme a Defesa Civil, a atuação de um ciclone extratropical no oceano deve influenciar as condições do tempo na Capital.</p>
+<p>O aviso da Defesa Civil municipal vale das 22h desta quinta até as 12h de sexta. A previsão indica rajadas acima de 80 km/h, com possibilidade de vento mais forte em pontos isolados, principalmente durante a madrugada.</p>
+<p>Também há previsão de pancadas de chuva com descargas elétricas. Os acumulados devem ficar em torno de 20 milímetros.</p>
+]]></content:encoded>
+  </item>
 </channel></rss>
