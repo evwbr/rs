@@ -9,43 +9,6 @@
   <atom:link href="https://evwbr.github.io/rs/feed.xml" rel="self" type="application/rss+xml"/>
   <link>https://evwbr.github.io/rs/</link>
   <description>Notícias do Rio Grande do Sul (últimas 24h) reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Fri, 08 May 2026 19:07:54 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 08 May 2026 20:07:34 GMT</lastBuildDate>
   <language>pt-BR</language>
-  <item>
-    <title><![CDATA[Rio Grande do Sul conta com 98 estações automáticas do INMET]]></title>
-    <link>https://agorars.com/agora-no-tempo/rs-passa-a-ter-98-estacoes-automaticas-do-inmet/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Fri, 08 May 2026 18:34:24 GMT</pubDate>
-    <category><![CDATA[Rio Grande do Sul]]></category>
-    <guid isPermaLink="false"><![CDATA[rsagorars:5cfbeca3ffb29521470fc2a26c44b6849176133b]]></guid>
-    <media:thumbnail url="https://uploads.agorars.com/2026/05/mBxwu2L6-estacao-automatica-porto-alegre.webp" />
-    <enclosure url="https://uploads.agorars.com/2026/05/mBxwu2L6-estacao-automatica-porto-alegre.webp" type="image/webp" />
-    <description><![CDATA[O estado agora possui uma rede de estações meteorológicas que operam de forma automatizada, proporcionando dados em tempo quase real.]]></description>
-    <content:encoded><![CDATA[
-<p>O Rio Grande do Sul passou a contar com 98 estações meteorológicas automáticas do INMET (Instituto Nacional de Meteorologia). A nova rede foi inaugurada em Porto Alegre pelo ministro da Agricultura e Pecuária, André de Paula.</p>
-<p>A expansão integra ações do governo federal após as enchentes que atingiram o estado.</p>
-<p>O investimento foi de R$ 12,8 milhões. Das 98 estações, 44 substituíram equipamentos antigos e 54 foram instaladas em locais que não tinham monitoramento.</p>
-<p>As estações operam de forma automatizada e transmitem dados em tempo quase real.</p>
-<p>Os equipamentos monitoram temperatura do ar, umidade relativa, chuva, vento, radiação solar, pressão atmosférica e condições do solo.</p>
-]]></content:encoded>
-  </item>
-  <item>
-    <title><![CDATA[El Niño deve ter impacto na população do RS, aponta comitê]]></title>
-    <link>https://agorars.com/rs/el-nino-deve-ter-impacto-na-populacao-do-rs-aponta-comite/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Fri, 08 May 2026 18:08:43 GMT</pubDate>
-    <category><![CDATA[Rio Grande do Sul]]></category>
-    <guid isPermaLink="false"><![CDATA[rsagorars:750fa2811e25257dbf11ff3975269d099e5ca7a0]]></guid>
-    <media:thumbnail url="https://uploads.agorars.com/2026/05/Mxh1Pcca-nuvens-carregadas-temporal-porto-alegre.webp" />
-    <enclosure url="https://uploads.agorars.com/2026/05/Mxh1Pcca-nuvens-carregadas-temporal-porto-alegre.webp" type="image/webp" />
-    <description><![CDATA[Um novo episódio de El Niño pode se formar em 2026 e aumentar a chuva no Rio Grande do Sul na primavera, segundo o Comitê Científico de Adaptação e Resiliência Climática do Estado.]]></description>
-    <content:encoded><![CDATA[
-<p>Um novo episódio de El Niño pode se formar em 2026 e aumentar a chuva no Rio Grande do Sul na primavera, segundo o Comitê Científico de Adaptação e Resiliência Climática do Estado.</p>
-<p>A avaliação aponta que ainda não há evidências de que o fenômeno atinja forte intensidade ou se configure como muito forte em 2026 e 2027.</p>
-<p>As previsões analisadas indicam possibilidade de chuva acima do normal na primavera de 2026. Dependendo da intensidade do El Niño, também são esperadas temperaturas acima do normal no inverno.</p>
-<p>O comitê ressalta que ainda é cedo para afirmar como serão as chuvas no verão e no outono de 2027. Também não há indicação concreta de eventos extremos de chuva como os registrados em 2023 e 2024.</p>
-<p>Durante episódios de El Niño, o Sul do Brasil costuma ter aumento de chuva, tempestades severas, granizo e eventos extremos de precipitação, especialmente na primavera.</p>
-<p>A nota técnica aponta que os impactos típicos incluem inundações, enxurradas, movimentos de massa, perdas agrícolas, alagamentos, danos urbanos, danos na infraestrutura e aumento de doenças associadas à água.</p>
-]]></content:encoded>
-  </item>
 </channel></rss>
