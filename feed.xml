@@ -9,22 +9,25 @@
   <atom:link href="https://evwbr.github.io/rs/feed.xml" rel="self" type="application/rss+xml"/>
   <link>https://evwbr.github.io/rs/</link>
   <description>Notícias do Rio Grande do Sul (últimas 24h) reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Fri, 08 May 2026 21:07:58 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 08 May 2026 22:07:40 GMT</lastBuildDate>
   <language>pt-BR</language>
   <item>
-    <title><![CDATA[Frio avança e próxima semana pode ter geada no RS]]></title>
-    <link>https://agorars.com/agora-no-tempo/frio-avanca-e-proxima-semana-pode-ter-geada-no-rs/</link>
+    <title><![CDATA[Justiça cobra melhorias no transporte coletivo de Uruguaiana]]></title>
+    <link>https://agorars.com/agora-no-transito/justica-cobra-melhorias-no-transporte-coletivo-de-uruguaiana/</link>
     <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Fri, 08 May 2026 20:27:41 GMT</pubDate>
+    <pubDate>Fri, 08 May 2026 21:48:29 GMT</pubDate>
     <category><![CDATA[Rio Grande do Sul]]></category>
-    <guid isPermaLink="false"><![CDATA[rsagorars:84f671621ebdd8191a4583d5ebc70ceaa1c4accc]]></guid>
-    <media:thumbnail url="https://uploads.agorars.com/2025/08/ykFiBt4w-geada-sao-jose-ausentes-sergio-baun.webp" />
-    <enclosure url="https://uploads.agorars.com/2025/08/ykFiBt4w-geada-sao-jose-ausentes-sergio-baun.webp" type="image/webp" />
-    <description><![CDATA[O Rio Grande do Sul deve ter queda nas temperaturas e possibilidade de geada a partir deste fim de semana, conforme o Boletim Integrado Agrometeorológico nº 19/2026.]]></description>
+    <guid isPermaLink="false"><![CDATA[rsagorars:1859eefb13b0623e7800db53354bbc051afadbf7]]></guid>
+    <media:thumbnail url="https://uploads.agorars.com/2026/05/KlQHFoGe-transporte-publico-uruguaiana2.webp" />
+    <enclosure url="https://uploads.agorars.com/2026/05/KlQHFoGe-transporte-publico-uruguaiana2.webp" type="image/webp" />
+    <description><![CDATA[A Justiça determinou que o município de Uruguaiana adote medidas para corrigir falhas no transporte coletivo urbano. A decisão liminar foi proferida pela 3ª Vara Cível da Comarca, em ação civil pública do MP-RS.]]></description>
     <content:encoded><![CDATA[
-<p>O Rio Grande do Sul deve ter queda nas temperaturas e possibilidade de geada a partir deste fim de semana. É o que aponta o Boletim Integrado Agrometeorológico nº 19/2026, elaborado pela Seapi, em parceria com a Emater/RS-Ascar e o IRGA.</p>
-<p>A frente fria que avançou pelo Estado entre quinta-feira e esta sexta-feira provocou instabilidade em diferentes regiões.</p>
-<p>A partir de sábado, uma massa de ar polar deve derrubar as temperaturas em todo o Rio Grande do Sul.</p>
+<p>A Justiça determinou que o município de Uruguaiana adote medidas para corrigir falhas no transporte coletivo urbano. A decisão liminar foi proferida pela 3ª Vara Cível da Comarca, em ação civil pública do MP-RS.</p>
+<p>O município terá 15 dias para apresentar informações detalhadas sobre a frota em operação. A lista deve incluir ano de fabricação, idade média dos ônibus e documentação dos veículos.</p>
+<p>A prefeitura também deverá manter a divulgação oficial e atualizada de horários e itinerários no portal institucional.</p>
+<p>A Justiça ainda determinou que o município comprove o andamento da licitação para concessão do serviço.</p>
+<p>A empresa permissionária deverá comprovar o vínculo jurídico dos veículos usados na operação.</p>
+<p>Além disso, terá 30 dias para criar um canal oficial de ouvidoria, com registro e acompanhamento das demandas dos usuários.</p>
 ]]></content:encoded>
   </item>
 </channel></rss>
