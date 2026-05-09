@@ -9,6 +9,23 @@
   <atom:link href="https://evwbr.github.io/rs/feed.xml" rel="self" type="application/rss+xml"/>
   <link>https://evwbr.github.io/rs/</link>
   <description>Notícias do Rio Grande do Sul (últimas 24h) reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Fri, 08 May 2026 23:07:33 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 09 May 2026 00:07:38 GMT</lastBuildDate>
   <language>pt-BR</language>
+  <item>
+    <title><![CDATA[Temporais causam 36 afetados e danos em 68 cidades do RS]]></title>
+    <link>https://agorars.com/agora-no-tempo/temporais-causam-deixam-36-afetados-e-danos-em-68-cidades-do-rs/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Fri, 08 May 2026 23:10:41 GMT</pubDate>
+    <category><![CDATA[Rio Grande do Sul]]></category>
+    <guid isPermaLink="false"><![CDATA[rsagorars:ed91fa188f52b9d746480c14ffb85eff80706754]]></guid>
+    <media:thumbnail url="https://uploads.agorars.com/2026/05/rCVLmD3b-queda-arvore-porto-alegre.webp" />
+    <enclosure url="https://uploads.agorars.com/2026/05/rCVLmD3b-queda-arvore-porto-alegre.webp" type="image/webp" />
+    <description><![CDATA[Os temporais que atingiram o Rio Grande do Sul entre a noite de quinta-feira e a madrugada de hoje causaram danos em 68 cidades do estado, conforme boletim da Defesa Civil Estadual. O balanço aponta 36 pessoas diretamente afetadas, com 33 desalojadas, uma desabrigada e duas feridas.]]></description>
+    <content:encoded><![CDATA[
+<p>Os temporais que atingiram o Rio Grande do Sul entre a noite de quinta-feira e a madrugada de hoje causaram danos em 68 cidades do estado, conforme boletim da Defesa Civil Estadual.</p>
+<p>O balanço aponta 36 pessoas diretamente afetadas, com 33 desalojadas, uma desabrigada e duas feridas.</p>
+<p>Santana do Livramento apresenta o maior número de residências atingidas, com danos em telhados de 200 casas, queda de árvores e galhos, falta de energia em vários pontos e queda de turbina de aerogerador no Parque Eólico Cerro Chato.</p>
+<p>Em Santa Maria, a Defesa Civil registrou danos em telhados de 13 residências e de uma escola, além de queda de galhos em uma Unidade Básica de Saúde. Um idoso ficou ferido após ser atingido por um galho, mas estava estável, com escoriações.</p>
+]]></content:encoded>
+  </item>
 </channel></rss>
