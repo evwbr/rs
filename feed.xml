@@ -9,22 +9,22 @@
   <atom:link href="https://evwbr.github.io/rs/feed.xml" rel="self" type="application/rss+xml"/>
   <link>https://evwbr.github.io/rs/</link>
   <description>Notícias do Rio Grande do Sul (últimas 24h) reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Sat, 09 May 2026 21:07:38 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 09 May 2026 22:07:37 GMT</lastBuildDate>
   <language>pt-BR</language>
   <item>
-    <title><![CDATA[Frio permanece no RS no domingo (10); Pode haver mínimas negativas]]></title>
-    <link>https://agorars.com/agora-no-tempo/frio-geada-rio-grande-do-sul-domingo/</link>
+    <title><![CDATA[Porto Alegre: Manutenções afetam abastecimento de água das zonas Sul e Leste]]></title>
+    <link>https://agorars.com/rs/porto-alegre/dmae-manutencoes-abastecimento-porto-alegre/</link>
     <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Sat, 09 May 2026 20:52:56 GMT</pubDate>
+    <pubDate>Sat, 09 May 2026 21:47:07 GMT</pubDate>
     <category><![CDATA[Rio Grande do Sul]]></category>
-    <guid isPermaLink="false"><![CDATA[rsagorars:a1acc7dc9795bfc8eec3c53a4eb9d87a093b8cbd]]></guid>
-    <media:thumbnail url="https://uploads.agorars.com/2024/06/57U6at8h-frio-geada-1-jpg.webp" />
-    <enclosure url="https://uploads.agorars.com/2024/06/57U6at8h-frio-geada-1-jpg.webp" type="image/webp" />
-    <description><![CDATA[A previsão do tempo indica continuidade do tempo firme e frio no Rio Grande do Sul no domingo (10), com mínimas variando entre -1°C e 12°C.]]></description>
+    <guid isPermaLink="false"><![CDATA[rsagorars:3a98897836f3754fc3de6e904ebba00eb7051c4e]]></guid>
+    <media:thumbnail url="https://uploads.agorars.com/2025/11/2i47JrKs-water-crane-4811466_1280.webp" />
+    <enclosure url="https://uploads.agorars.com/2025/11/2i47JrKs-water-crane-4811466_1280.webp" type="image/webp" />
+    <description><![CDATA[O Dmae programou duas manutenções no sistema de abastecimento de água de Porto Alegre, que ocorrerão entre os dias 12 e 13 de maio. As intervenções podem impactar temporariamente o fornecimento nas zonas Sul e Leste.]]></description>
     <content:encoded><![CDATA[
-<p>A previsão do tempo indica continuidade do tempo firme e frio no Rio Grande do Sul no domingo (10).</p>
-<p>Conforme informações do CMDEC, o tempo firme predomina, com maior nebulosidade. A projeção destaca a ocorrência de baixas temperaturas na maioria das regiões, com mínimas variando entre -1°C e 12°C.</p>
-<p>O quadro favorece a formação de geada em áreas do Oeste, Campanha e Sul. As máximas oscilam entre 6°C e 17°C. O mar segue agitado e com ressaca.</p>
+<p>O Dmae programou duas manutenções no sistema de abastecimento de água de Porto Alegre, que ocorrerão entre os dias 12 e 13 de maio. As intervenções podem impactar temporariamente o fornecimento nas zonas Sul e Leste.</p>
+<p>Na terça-feira, dia 12, a Ebat Vila Boa Vista passará por manutenção a partir das 8h, afetando o abastecimento do bairro Jardim Carvalho. A normalização está prevista para ocorrer ao longo da noite.</p>
+<p>Na quarta-feira, dia 13, as equipes iniciarão a substituição do disjuntor da Ebat Oscar Pereira a partir das 22h. Essa unidade atende os bairros Belém Velho, Nonoai, Vila Nova, Cel. Aparício Borges, Cascata, Teresópolis e Glória, com previsão de normalização do abastecimento na madrugada do dia 14.</p>
 ]]></content:encoded>
   </item>
 </channel></rss>
