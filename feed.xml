@@ -9,6 +9,22 @@
   <atom:link href="https://evwbr.github.io/rs/feed.xml" rel="self" type="application/rss+xml"/>
   <link>https://evwbr.github.io/rs/</link>
   <description>Notícias do Rio Grande do Sul (últimas 24h) reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Sat, 09 May 2026 20:07:34 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 09 May 2026 21:07:38 GMT</lastBuildDate>
   <language>pt-BR</language>
+  <item>
+    <title><![CDATA[Frio permanece no RS no domingo (10); Pode haver mínimas negativas]]></title>
+    <link>https://agorars.com/agora-no-tempo/frio-geada-rio-grande-do-sul-domingo/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Sat, 09 May 2026 20:52:56 GMT</pubDate>
+    <category><![CDATA[Rio Grande do Sul]]></category>
+    <guid isPermaLink="false"><![CDATA[rsagorars:a1acc7dc9795bfc8eec3c53a4eb9d87a093b8cbd]]></guid>
+    <media:thumbnail url="https://uploads.agorars.com/2024/06/57U6at8h-frio-geada-1-jpg.webp" />
+    <enclosure url="https://uploads.agorars.com/2024/06/57U6at8h-frio-geada-1-jpg.webp" type="image/webp" />
+    <description><![CDATA[A previsão do tempo indica continuidade do tempo firme e frio no Rio Grande do Sul no domingo (10), com mínimas variando entre -1°C e 12°C.]]></description>
+    <content:encoded><![CDATA[
+<p>A previsão do tempo indica continuidade do tempo firme e frio no Rio Grande do Sul no domingo (10).</p>
+<p>Conforme informações do CMDEC, o tempo firme predomina, com maior nebulosidade. A projeção destaca a ocorrência de baixas temperaturas na maioria das regiões, com mínimas variando entre -1°C e 12°C.</p>
+<p>O quadro favorece a formação de geada em áreas do Oeste, Campanha e Sul. As máximas oscilam entre 6°C e 17°C. O mar segue agitado e com ressaca.</p>
+]]></content:encoded>
+  </item>
 </channel></rss>
