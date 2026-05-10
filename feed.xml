@@ -9,6 +9,21 @@
   <atom:link href="https://evwbr.github.io/rs/feed.xml" rel="self" type="application/rss+xml"/>
   <link>https://evwbr.github.io/rs/</link>
   <description>Notícias do Rio Grande do Sul (últimas 24h) reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Sun, 10 May 2026 20:07:43 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 10 May 2026 21:07:53 GMT</lastBuildDate>
   <language>pt-BR</language>
+  <item>
+    <title><![CDATA[RS pode ter temperaturas ainda mais baixas na segunda-feira (11)]]></title>
+    <link>https://agorars.com/agora-no-tempo/frio-geada-rio-grande-do-sul-segunda-feira/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Sun, 10 May 2026 20:56:30 GMT</pubDate>
+    <category><![CDATA[Rio Grande do Sul]]></category>
+    <guid isPermaLink="false"><![CDATA[rsagorars:72304e99d592ffac79bd3934c83adaf98d83deb4]]></guid>
+    <media:thumbnail url="https://uploads.agorars.com/2025/06/EBKm8qPQ-Fernando-Dias-Seapi.webp" />
+    <enclosure url="https://uploads.agorars.com/2025/06/EBKm8qPQ-Fernando-Dias-Seapi.webp" type="image/webp" />
+    <description><![CDATA[A previsão do tempo indica a continuidade do frio no Rio Grande do Sul na próxima segunda-feira, com mínimas que podem variar entre -2°C e 12°C.]]></description>
+    <content:encoded><![CDATA[
+<p>A previsão do tempo aponta permanência do frio no Rio Grande do Sul na segunda-feira (11).</p>
+<p>Conforme o CMDEC, na segunda-feira (11), o tempo estável segue predominando no Rio Grande do Sul. As temperaturas devem ser ainda mais baixas que a dos dias anteriores, com mínimas variando entre -2°C e 12°C.</p>
+]]></content:encoded>
+  </item>
 </channel></rss>
