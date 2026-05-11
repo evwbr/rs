@@ -9,6 +9,23 @@
   <atom:link href="https://evwbr.github.io/rs/feed.xml" rel="self" type="application/rss+xml"/>
   <link>https://evwbr.github.io/rs/</link>
   <description>Notícias do Rio Grande do Sul (últimas 24h) reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Mon, 11 May 2026 11:07:42 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 11 May 2026 12:07:42 GMT</lastBuildDate>
   <language>pt-BR</language>
+  <item>
+    <title><![CDATA[RS registra temperatura negativa no começo da segunda-feira]]></title>
+    <link>https://agorars.com/agora-no-tempo/rs-registra-temperatura-negativa-no-comeco-da-segunda-feira/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Mon, 11 May 2026 11:45:20 GMT</pubDate>
+    <category><![CDATA[Rio Grande do Sul]]></category>
+    <guid isPermaLink="false"><![CDATA[rsagorars:368514f13a040c793490360677eb3c649547136d]]></guid>
+    <media:thumbnail url="https://agorars.com/wp-content/uploads/2023/02/29JUN2021_AR_INVERNO2021_COTIDIANO_-1-min-jpg.webp" />
+    <enclosure url="https://agorars.com/wp-content/uploads/2023/02/29JUN2021_AR_INVERNO2021_COTIDIANO_-1-min-jpg.webp" type="image/webp" />
+    <description><![CDATA[O Rio Grande do Sul registrou temperatura negativa no início desta segunda-feira. Nonoai marcou -0,1°C, sendo a única temperatura negativa no Estado.]]></description>
+    <content:encoded><![CDATA[
+<p>O Rio Grande do Sul registrou temperatura negativa no início desta segunda-feira.</p>
+<p>De acordo com dados das estações automáticas do INMET (Instituto Nacional de Meteorologia), Nonoai marcou -0,1°C. Foi a única temperatura negativa registrada no Estado.</p>
+<p>Outras três cidades tiveram mínimas abaixo de 1°C. Sobradinho registrou 0,9°C, Quaraí marcou 0,8°C, e Lagoa Vermelha teve 0,4°C.</p>
+<p>As mínimas ficaram abaixo de 10°C em todas as regiões gaúchas.</p>
+]]></content:encoded>
+  </item>
 </channel></rss>
