@@ -9,21 +9,6 @@
   <atom:link href="https://evwbr.github.io/rs/feed.xml" rel="self" type="application/rss+xml"/>
   <link>https://evwbr.github.io/rs/</link>
   <description>Notícias do Rio Grande do Sul (últimas 24h) reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Mon, 11 May 2026 22:08:02 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 11 May 2026 23:07:44 GMT</lastBuildDate>
   <language>pt-BR</language>
-  <item>
-    <title><![CDATA[Frio permanece no RS na terça-feira (12) com chance de geada]]></title>
-    <link>https://agorars.com/agora-no-tempo/frio-geada-rio-grande-do-sul-terca-feira/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Mon, 11 May 2026 21:09:50 GMT</pubDate>
-    <category><![CDATA[Rio Grande do Sul]]></category>
-    <guid isPermaLink="false"><![CDATA[rsagorars:d983519cda1dfcf5d5470638143b7c557eb41918]]></guid>
-    <media:thumbnail url="https://agorars.com/wp-content/uploads/2022/10/190626_Alex-Rocha_PMPA-01-min-jpg.webp" />
-    <enclosure url="https://agorars.com/wp-content/uploads/2022/10/190626_Alex-Rocha_PMPA-01-min-jpg.webp" type="image/webp" />
-    <description><![CDATA[A previsão do tempo indica mais um dia frio no Rio Grande do Sul, com mínimas variando entre -1°C e 13°C.]]></description>
-    <content:encoded><![CDATA[
-<p>A previsão do tempo aponta mais um dia frio no Rio Grande do Sul nesta terça-feira (12). As informações são do CMDEC (Centro de Monitoramento da Defesa Civil).</p>
-<p>Conforme o CMDEC, na terça-feira (12), o tempo segue firme sobre o Rio Grande do Sul. As temperaturas permanecem baixas na maioria das regiões, com mínimas variando entre -1°C e 13°C.</p>
-]]></content:encoded>
-  </item>
 </channel></rss>
