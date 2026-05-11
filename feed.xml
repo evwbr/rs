@@ -9,6 +9,40 @@
   <atom:link href="https://evwbr.github.io/rs/feed.xml" rel="self" type="application/rss+xml"/>
   <link>https://evwbr.github.io/rs/</link>
   <description>Notícias do Rio Grande do Sul (últimas 24h) reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Mon, 11 May 2026 14:07:40 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 11 May 2026 15:07:57 GMT</lastBuildDate>
   <language>pt-BR</language>
+  <item>
+    <title><![CDATA[Homem é preso após morte da enteada em Garruchos]]></title>
+    <link>https://agorars.com/plantao-rs/homem-e-preso-apos-morte-da-enteada-em-garruchos/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Mon, 11 May 2026 14:55:55 GMT</pubDate>
+    <category><![CDATA[Rio Grande do Sul]]></category>
+    <guid isPermaLink="false"><![CDATA[rsagorars:54728ea9635449a575b763b6872238a25f05cfa1]]></guid>
+    <media:thumbnail url="https://uploads.agorars.com/2026/05/sxMChCoa-prisao-morte-garruchos.webp" />
+    <enclosure url="https://uploads.agorars.com/2026/05/sxMChCoa-prisao-morte-garruchos.webp" type="image/webp" />
+    <description><![CDATA[Um homem foi detido na noite de domingo após a morte da enteada em Garruchos, na Fronteira Oeste do Rio Grande do Sul. A prisão ocorreu em um posto de combustíveis em São Borja.]]></description>
+    <content:encoded><![CDATA[
+<p>Um homem foi detido na noite de domingo após a morte da enteada em Garruchos, na Fronteira Oeste do Rio Grande do Sul.</p>
+<p>A prisão ocorreu em um posto de combustíveis na BR-285, em São Borja.</p>
+<p>De acordo com a Polícia Rodoviária Federal, o homem é apontado como autor do homicídio que aconteceu na manhã de domingo.</p>
+<p>A corporação recebeu informações da inteligência da Polícia Civil e da Brigada Militar de que ele poderia ter fugido para São Borja em um veículo furtado da prefeitura de Garruchos.</p>
+]]></content:encoded>
+  </item>
+  <item>
+    <title><![CDATA[Porto Alegre terá frio nas madrugadas e semana sem chuva]]></title>
+    <link>https://agorars.com/agora-no-tempo/porto-alegre-tera-frio-nas-madrugadas-e-semana-sem-chuva/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Mon, 11 May 2026 14:33:10 GMT</pubDate>
+    <category><![CDATA[Rio Grande do Sul]]></category>
+    <guid isPermaLink="false"><![CDATA[rsagorars:bdb1918e015184ef7d7a2d81542d8f61a9540494]]></guid>
+    <media:thumbnail url="https://uploads.agorars.com/2026/05/nogW9foM-sol-frio-porto-alegre.webp" />
+    <enclosure url="https://uploads.agorars.com/2026/05/nogW9foM-sol-frio-porto-alegre.webp" type="image/webp" />
+    <description><![CDATA[A previsão indica tempo firme na Capital, com madrugadas frias e temperaturas variando entre 7°C e 21°C ao longo da semana.]]></description>
+    <content:encoded><![CDATA[
+<p>Porto Alegre terá uma semana de tempo firme, sem previsão de chuva significativa e com madrugadas frias. A previsão é do CEMADEC, com dados da Catavento Meteorologia.</p>
+<p>A previsão indica predomínio de sol na Capital entre esta segunda-feira e sexta-feira. As temperaturas ficam entre 7°C e 21°C ao longo do período.</p>
+<p>Nesta segunda, o dia começou com céu claro. A mínima foi de 7°C, e a máxima prevista é de 17°C. As rajadas de vento podem chegar a 45 km/h.</p>
+<p>Na terça-feira, o tempo segue firme e ensolarado. As temperaturas variam entre 7°C e 20°C, com rajadas perto de 35 km/h.</p>
+]]></content:encoded>
+  </item>
 </channel></rss>
