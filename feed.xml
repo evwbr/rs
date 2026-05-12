@@ -9,6 +9,40 @@
   <atom:link href="https://evwbr.github.io/rs/feed.xml" rel="self" type="application/rss+xml"/>
   <link>https://evwbr.github.io/rs/</link>
   <description>Notícias do Rio Grande do Sul (últimas 24h) reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Tue, 12 May 2026 12:07:38 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 12 May 2026 13:07:45 GMT</lastBuildDate>
   <language>pt-BR</language>
+  <item>
+    <title><![CDATA[Nunes Marques toma posse na presidência do TSE e vai comandar eleições]]></title>
+    <link>https://agorars.com/politica/eleicoes/nunes-marques-presidente-tse/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Tue, 12 May 2026 12:59:07 GMT</pubDate>
+    <category><![CDATA[Rio Grande do Sul]]></category>
+    <guid isPermaLink="false"><![CDATA[rsagorars:817076ab127b2d2ec8d25d3adee96dd0b8267cb4]]></guid>
+    <media:thumbnail url="https://uploads.agorars.com/2026/05/GFkqmhPW-Luiz-Roberto-TSE.webp" />
+    <enclosure url="https://uploads.agorars.com/2026/05/GFkqmhPW-Luiz-Roberto-TSE.webp" type="image/webp" />
+    <description><![CDATA[O ministro Nunes Marques assume o cargo de presidente do Tribunal Superior Eleitoral (TSE), responsável pela organização das eleições presidenciais de outubro.]]></description>
+    <content:encoded><![CDATA[
+<p>O ministro Nunes Marques assume nesta terça-feira (12) o cargo de presidente do Tribunal Superior Eleitoral (TSE), órgão responsável pela organização das eleições presidenciais de outubro.</p>
+<p>A cerimônia de posse está marcada para as 19h. Diversas autoridades foram convidadas, entre elas o presidente Luiz Inácio Lula da Silva e os presidentes do Senado, Davi Alcolumbre, e da Câmara dos Deputados, Hugo Motta.</p>
+<p>Marques ocupará a vaga da ministra Cármen Lúcia, que completa mandato de dois anos à frente do tribunal.</p>
+<p>A escolha do presidente do TSE ocorre por antiguidade entre os ministros que também compõem o Supremo Tribunal Federal (STF). O vice-presidente será o ministro André Mendonça.</p>
+<p>Após a posse, será realizado um coquetel restrito a convidados. O evento ocorrerá em uma casa de festas de Brasília e será custeado por uma associação de juízes federais. O ingresso foi vendido por R$ 800.</p>
+]]></content:encoded>
+  </item>
+  <item>
+    <title><![CDATA[Temperaturas negativas são registradas no Rio Grande do Sul]]></title>
+    <link>https://agorars.com/agora-no-tempo/temperaturas-negativas-rio-grande-do-sul-terca/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Tue, 12 May 2026 12:34:00 GMT</pubDate>
+    <category><![CDATA[Rio Grande do Sul]]></category>
+    <guid isPermaLink="false"><![CDATA[rsagorars:aeceee064a929360e1023f28261b5bb36197eef6]]></guid>
+    <media:thumbnail url="https://agorars.com/wp-content/uploads/2023/07/frio-em-dom-pedrito-jpg-webp.webp" />
+    <enclosure url="https://agorars.com/wp-content/uploads/2023/07/frio-em-dom-pedrito-jpg-webp.webp" type="image/webp" />
+    <description><![CDATA[Na manhã desta terça-feira, algumas regiões do estado apresentaram temperaturas abaixo de zero, com destaque para Bom Jesus.]]></description>
+    <content:encoded><![CDATA[
+<p>O Rio Grande do Sul amanheceu com temperaturas negativas em algumas regiões na manhã desta terça-feira.</p>
+<p>O frio mais intenso ocorreu em Bom Jesus, que registrou -1,7°C. Outros municípios com temperaturas abaixo de zero foram São José dos Ausentes e Vacaria, com -1,2°C, e Soledade, com -0,7°C.</p>
+<p>Porto Alegre amanheceu com 7°C no Jardim Botânico e 7,1°C no Belém Novo. Situação semelhante foi observada em Viamão e Sapucaia do Sul. Cachoeirinha registrou 3,7°C e Campo Bom 4,4°C.</p>
+]]></content:encoded>
+  </item>
 </channel></rss>
